@@ -1,0 +1,1684 @@
+{
+  "XOM": {
+    "ticker": "XOM",
+    "name": "Exxonmobil Holdings Corp",
+    "price": 165.56,
+    "market_cap": 650632.36,
+    "pe_ratio": 20.0535,
+    "dividend_yield_pct": 2.6246,
+    "payout_ratio_pct": 52.63,
+    "debt_to_equity": 0.1633,
+    "current_ratio": 1.1347,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 165.56
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 2.03
+    },
+    "last_updated": "2026-08-19T13:14:53.092747"
+  },
+  "MCD": {
+    "ticker": "MCD",
+    "name": "McDonald's Corp",
+    "price": 266.99,
+    "market_cap": 188933.1977413104,
+    "pe_ratio": 22.3141,
+    "dividend_yield_pct": 2.6651,
+    "payout_ratio_pct": 59.47,
+    "debt_to_equity": 40.6406,
+    "current_ratio": 1.0814,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 266.99
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -79.56
+    },
+    "last_updated": "2026-08-19T13:14:55.571493"
+  },
+  "CVX": {
+    "ticker": "CVX",
+    "name": "Chevron Corp",
+    "price": 205.74,
+    "market_cap": 406495.16884588485,
+    "pe_ratio": 18.9191,
+    "dividend_yield_pct": 3.5586,
+    "payout_ratio_pct": 67.33,
+    "debt_to_equity": 0.1953,
+    "current_ratio": 1.2522,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 205.74
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 1.44
+    },
+    "last_updated": "2026-08-19T13:14:56.805984"
+  },
+  "BDX": {
+    "ticker": "BDX",
+    "name": "Becton Dickinson and Co",
+    "price": 180.77,
+    "market_cap": 49239.36270862799,
+    "pe_ratio": 53.2137,
+    "dividend_yield_pct": 2.338,
+    "payout_ratio_pct": 70.39,
+    "debt_to_equity": 0.6884,
+    "current_ratio": 0.8655,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Gesundheit",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 180.77
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -1.08
+    },
+    "last_updated": "2026-08-19T13:14:58.013966"
+  },
+  "JNJ": {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "price": 271.11,
+    "market_cap": 653347.5532317751,
+    "pe_ratio": 29.9333,
+    "dividend_yield_pct": 2.0043,
+    "payout_ratio_pct": 59.99,
+    "debt_to_equity": 0.5771,
+    "current_ratio": 1.0889,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Gesundheit",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 271.11
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.15
+    },
+    "last_updated": "2026-08-19T13:14:59.204430"
+  },
+  "ED": {
+    "ticker": "ED",
+    "name": "Consolidated Edison Inc",
+    "price": 109.16,
+    "market_cap": 40228.70389687311,
+    "pe_ratio": 17.9511,
+    "dividend_yield_pct": 3.0504,
+    "payout_ratio_pct": 54.76,
+    "debt_to_equity": 1.0815,
+    "current_ratio": 1.2682,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 109.16
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.41
+    },
+    "last_updated": "2026-08-19T13:15:02.425724"
+  },
+  "MMM": {
+    "ticker": "MMM",
+    "name": "3M Co",
+    "price": 180.94,
+    "market_cap": 93314.81672386691,
+    "pe_ratio": 31.1722,
+    "dividend_yield_pct": 1.7009,
+    "payout_ratio_pct": 53.02,
+    "debt_to_equity": 4.2517,
+    "current_ratio": 1.2402,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 180.94
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -7.1
+    },
+    "last_updated": "2026-08-19T13:15:06.207898"
+  },
+  "GWW": {
+    "ticker": "GWW",
+    "name": "WW Grainger Inc",
+    "price": 1314.12,
+    "market_cap": 61896.29072125798,
+    "pe_ratio": 32.8684,
+    "dividend_yield_pct": 0.8054,
+    "payout_ratio_pct": 26.47,
+    "debt_to_equity": 0.5829,
+    "current_ratio": 2.8054,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 1314.12
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.36
+    },
+    "last_updated": "2026-08-19T13:15:07.874008"
+  },
+  "WMT": {
+    "ticker": "WMT",
+    "name": "Walmart Inc",
+    "price": 115.2,
+    "market_cap": 884142.59,
+    "pe_ratio": 40.6059,
+    "dividend_yield_pct": 0.8231,
+    "payout_ratio_pct": 33.42,
+    "debt_to_equity": 0.6162,
+    "current_ratio": 0.7714,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Einzelhandel",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 115.2
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.41
+    },
+    "last_updated": "2026-08-19T13:15:09.913505"
+  },
+  "CTAS": {
+    "ticker": "CTAS",
+    "name": "Cintas Corp",
+    "price": 199.45,
+    "market_cap": 79813.8208318795,
+    "pe_ratio": 40.4028,
+    "dividend_yield_pct": 0.8681,
+    "payout_ratio_pct": 35.07,
+    "debt_to_equity": 0.4724,
+    "current_ratio": 1.434,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Dienstleistung",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 199.45
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.08
+    },
+    "last_updated": "2026-08-19T13:15:12.704172"
+  },
+  "AFL": {
+    "ticker": "AFL",
+    "name": "Aflac Inc",
+    "price": 121.73,
+    "market_cap": 61028.52437250042,
+    "pe_ratio": 13.0483,
+    "dividend_yield_pct": 1.9771,
+    "payout_ratio_pct": 25.8,
+    "debt_to_equity": 0.2614,
+    "current_ratio": 0.1096,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 121.73
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 1.45
+    },
+    "last_updated": "2026-08-19T13:15:16.225330"
+  },
+  "PFE": {
+    "ticker": "PFE",
+    "name": "Pfizer Inc",
+    "price": 27.25,
+    "market_cap": 155316.10336178823,
+    "pe_ratio": 35.1938,
+    "dividend_yield_pct": 6.4166,
+    "payout_ratio_pct": 80.25,
+    "debt_to_equity": 0.7418,
+    "current_ratio": 1.2669,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Gesundheit",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 27.25
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": true,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": true,
+      "score": 1.91
+    },
+    "last_updated": "2026-08-19T13:15:17.883326"
+  },
+  "PPG": {
+    "ticker": "PPG",
+    "name": "PPG Industries Inc",
+    "price": 112.81,
+    "market_cap": 25077.663884062855,
+    "pe_ratio": 16.2553,
+    "dividend_yield_pct": 2.4928,
+    "payout_ratio_pct": 40.52,
+    "debt_to_equity": 0.8156,
+    "current_ratio": 1.5798,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 112.81
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.86
+    },
+    "last_updated": "2026-08-19T13:15:20.184437"
+  },
+  "FRT": {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "price": 117.48,
+    "market_cap": 10269.577070016268,
+    "pe_ratio": 23.8262,
+    "dividend_yield_pct": 3.7903,
+    "payout_ratio_pct": 90.31,
+    "debt_to_equity": 1.421,
+    "current_ratio": 1.6574,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 117.48
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -3.08
+    },
+    "last_updated": "2026-08-19T13:15:23.155164"
+  },
+  "NUE": {
+    "ticker": "NUE",
+    "name": "Nucor Corp",
+    "price": 264.19,
+    "market_cap": 59938.2820136654,
+    "pe_ratio": 26.5678,
+    "dividend_yield_pct": 0.8267,
+    "payout_ratio_pct": 21.96,
+    "debt_to_equity": 0.3321,
+    "current_ratio": 2.9009,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Grundstoffe",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 264.19
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.16
+    },
+    "last_updated": "2026-08-19T13:15:26.202479"
+  },
+  "CLX": {
+    "ticker": "CLX",
+    "name": "Clorox Co",
+    "price": 105.55,
+    "market_cap": 12764.268124031527,
+    "pe_ratio": 21.8132,
+    "dividend_yield_pct": 4.7015,
+    "payout_ratio_pct": 79.63,
+    "debt_to_equity": 56.3111,
+    "current_ratio": 0.6578,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 105.55
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -110.88
+    },
+    "last_updated": "2026-08-19T13:15:30.123095"
+  },
+  "ABT": {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "price": 112.68,
+    "market_cap": 194979.59518427835,
+    "pe_ratio": 35.5183,
+    "dividend_yield_pct": 2.2114,
+    "payout_ratio_pct": 78.54,
+    "debt_to_equity": 0.638,
+    "current_ratio": 1.3763,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Gesundheit",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 112.68
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -1.92
+    },
+    "last_updated": "2026-08-19T13:15:31.923968"
+  },
+  "GPC": {
+    "ticker": "GPC",
+    "name": "Genuine Parts Co",
+    "price": 131.89,
+    "market_cap": 18182.325879013126,
+    "pe_ratio": 563.0768,
+    "dividend_yield_pct": 3.1139,
+    "payout_ratio_pct": 67.14,
+    "debt_to_equity": 1.1001,
+    "current_ratio": 1.1589,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Einzelhandel",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 131.89
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.8
+    },
+    "last_updated": "2026-08-19T13:15:33.835495"
+  },
+  "ATO": {
+    "ticker": "ATO",
+    "name": "Atmos Energy Corp",
+    "price": 170.51,
+    "market_cap": 28814.23503109329,
+    "pe_ratio": 20.471,
+    "dividend_yield_pct": 2.2019,
+    "payout_ratio_pct": 45.07,
+    "debt_to_equity": 0.6766,
+    "current_ratio": 0.8137,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 170.51
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.85
+    },
+    "last_updated": "2026-08-19T13:15:35.145641"
+  },
+  "DOC": {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties Inc",
+    "price": 20.44,
+    "market_cap": 14441.416357333335,
+    "pe_ratio": 60.4316,
+    "dividend_yield_pct": 5.7539,
+    "payout_ratio_pct": 175.94,
+    "debt_to_equity": 1.2788,
+    "current_ratio": 2.2959,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 20.44
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": true,
+      "debt_ok": true,
+      "trap_warning": true,
+      "qualifies": false,
+      "score": -9.4
+    },
+    "last_updated": "2026-08-19T13:15:36.566028"
+  },
+  "MDT": {
+    "ticker": "MDT",
+    "name": "Medtronic PLC",
+    "price": 92.09,
+    "market_cap": 117879.36859411954,
+    "pe_ratio": 24.2494,
+    "dividend_yield_pct": 3.1251,
+    "payout_ratio_pct": 75.78,
+    "debt_to_equity": 0.5653,
+    "current_ratio": 2.1262,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Gesundheit",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 92.09
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.58
+    },
+    "last_updated": "2026-08-19T13:15:38.206190"
+  },
+  "TROW": {
+    "ticker": "TROW",
+    "name": "T Rowe Price Group Inc",
+    "price": 110.32,
+    "market_cap": 23533.003458413183,
+    "pe_ratio": 10.5832,
+    "dividend_yield_pct": 4.8448,
+    "payout_ratio_pct": 51.27,
+    "debt_to_equity": 0.0019,
+    "current_ratio": 2.8536,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 110.32
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 4.71
+    },
+    "last_updated": "2026-08-19T13:15:41.492150"
+  },
+  "PEP": {
+    "ticker": "PEP",
+    "name": "PepsiCo Inc",
+    "price": 140.13,
+    "market_cap": 191262.25062175194,
+    "pe_ratio": 18.2277,
+    "dividend_yield_pct": 4.0993,
+    "payout_ratio_pct": 74.72,
+    "debt_to_equity": 2.4081,
+    "current_ratio": 0.9336,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 140.13
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -3.19
+    },
+    "last_updated": "2026-08-19T13:15:42.825666"
+  },
+  "PG": {
+    "ticker": "PG",
+    "name": "Procter & Gamble Co",
+    "price": 143.45,
+    "market_cap": 333439.917603635,
+    "pe_ratio": 20.8828,
+    "dividend_yield_pct": 3.0539,
+    "payout_ratio_pct": 63.77,
+    "debt_to_equity": 0.6286,
+    "current_ratio": 0.6773,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 143.45
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.42
+    },
+    "last_updated": "2026-08-19T13:15:45.090877"
+  },
+  "ESS": {
+    "ticker": "ESS",
+    "name": "Essex Property Trust Inc",
+    "price": 283.71,
+    "market_cap": 18233.5990247993,
+    "pe_ratio": 44.7985,
+    "dividend_yield_pct": 3.5781,
+    "payout_ratio_pct": 160.29,
+    "debt_to_equity": 1.2584,
+    "current_ratio": 0.6787,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 283.71
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": true,
+      "qualifies": false,
+      "score": -9.97
+    },
+    "last_updated": "2026-08-19T13:15:48.443212"
+  },
+  "GD": {
+    "ticker": "GD",
+    "name": "General Dynamics Corp",
+    "price": 393.48,
+    "market_cap": 106458.8470851735,
+    "pe_ratio": 23.8002,
+    "dividend_yield_pct": 1.5376,
+    "payout_ratio_pct": 36.59,
+    "debt_to_equity": 0.2802,
+    "current_ratio": 1.4409,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 393.48
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.98
+    },
+    "last_updated": "2026-08-19T13:15:51.710044"
+  },
+  "SO": {
+    "ticker": "SO",
+    "name": "Southern Co",
+    "price": 92.07,
+    "market_cap": 105913.92587732538,
+    "pe_ratio": 22.8714,
+    "dividend_yield_pct": 2.9105,
+    "payout_ratio_pct": 66.57,
+    "debt_to_equity": 1.9101,
+    "current_ratio": 0.7867,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 92.07
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -2.57
+    },
+    "last_updated": "2026-08-19T13:15:53.120163"
+  },
+  "SPGI": {
+    "ticker": "SPGI",
+    "name": "S&P Global Inc",
+    "price": 418.04,
+    "market_cap": 123238.18653074604,
+    "pe_ratio": 24.949,
+    "dividend_yield_pct": 0.9414,
+    "payout_ratio_pct": 23.49,
+    "debt_to_equity": 0.4798,
+    "current_ratio": 0.9544,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 418.04
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.02
+    },
+    "last_updated": "2026-08-19T13:15:54.555246"
+  },
+  "PM": {
+    "ticker": "PM",
+    "name": "Philip Morris International Inc",
+    "price": 187.62,
+    "market_cap": 292427.0764045831,
+    "pe_ratio": 27.007,
+    "dividend_yield_pct": 3.0667,
+    "payout_ratio_pct": 82.82,
+    "debt_to_equity": 186.0804,
+    "current_ratio": 0.9798,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Tabak",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 187.62
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -372.38
+    },
+    "last_updated": "2026-08-19T13:15:55.901865"
+  },
+  "O": {
+    "ticker": "O",
+    "name": "Realty Income Corp",
+    "price": 62.21,
+    "market_cap": 58864.22810966811,
+    "pe_ratio": 47.1475,
+    "dividend_yield_pct": 5.0138,
+    "payout_ratio_pct": 236.39,
+    "debt_to_equity": 0.7779,
+    "current_ratio": 0.6222,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 62.21
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": true,
+      "debt_ok": true,
+      "trap_warning": true,
+      "qualifies": false,
+      "score": -15.18
+    },
+    "last_updated": "2026-08-19T13:15:57.297457"
+  },
+  "LOW": {
+    "ticker": "LOW",
+    "name": "Lowe's Companies Inc",
+    "price": 215.64,
+    "market_cap": 120910.87601238996,
+    "pe_ratio": 18.2487,
+    "dividend_yield_pct": 2.1987,
+    "payout_ratio_pct": 40.12,
+    "debt_to_equity": 52.2337,
+    "current_ratio": 1.0931,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Einzelhandel",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 215.64
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -102.27
+    },
+    "last_updated": "2026-08-19T13:15:59.873510"
+  },
+  "CHD": {
+    "ticker": "CHD",
+    "name": "Church & Dwight Co Inc",
+    "price": 99.13,
+    "market_cap": 23514.023730028166,
+    "pe_ratio": 32.2557,
+    "dividend_yield_pct": 1.1988,
+    "payout_ratio_pct": 38.67,
+    "debt_to_equity": 0.5189,
+    "current_ratio": 1.1465,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 99.13
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.16
+    },
+    "last_updated": "2026-08-19T13:16:02.515758"
+  },
+  "ITW": {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works Inc",
+    "price": 284.66,
+    "market_cap": 81071.16418114859,
+    "pe_ratio": 25.7809,
+    "dividend_yield_pct": 2.226,
+    "payout_ratio_pct": 57.39,
+    "debt_to_equity": 3.3497,
+    "current_ratio": 1.1087,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 284.66
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -5.21
+    },
+    "last_updated": "2026-08-19T13:16:04.295376"
+  },
+  "SJM": {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Co",
+    "price": 118.5,
+    "market_cap": 12665.361239327847,
+    "pe_ratio": null,
+    "dividend_yield_pct": 3.6212,
+    "payout_ratio_pct": 37.11,
+    "debt_to_equity": 1.258,
+    "current_ratio": 0.7774,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 118.5
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 1.11
+    },
+    "last_updated": "2026-08-19T13:16:05.825433"
+  },
+  "CINF": {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial Corp",
+    "price": 171.35,
+    "market_cap": 26298.46222471969,
+    "pe_ratio": 7.9392,
+    "dividend_yield_pct": 2.0558,
+    "payout_ratio_pct": 16.32,
+    "debt_to_equity": 0.0485,
+    "current_ratio": 1.8654,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 171.35
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 1.96
+    },
+    "last_updated": "2026-08-19T13:16:10.139578"
+  },
+  "DOV": {
+    "ticker": "DOV",
+    "name": "Dover Corp",
+    "price": 203.06,
+    "market_cap": 27348.165950779967,
+    "pe_ratio": 24.5736,
+    "dividend_yield_pct": 1.0093,
+    "payout_ratio_pct": 24.8,
+    "debt_to_equity": 0.4232,
+    "current_ratio": 1.9787,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 203.06
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.16
+    },
+    "last_updated": "2026-08-19T13:16:12.992136"
+  },
+  "ADP": {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing Inc",
+    "price": 269.31,
+    "market_cap": 106986.83193028279,
+    "pe_ratio": 24.2882,
+    "dividend_yield_pct": 2.4501,
+    "payout_ratio_pct": 59.51,
+    "debt_to_equity": 0.8231,
+    "current_ratio": 1.0507,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Dienstleistung",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 269.31
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.15
+    },
+    "last_updated": "2026-08-19T13:16:14.321488"
+  },
+  "SHW": {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams Co",
+    "price": 345.27,
+    "market_cap": 83817.11138779094,
+    "pe_ratio": 32.4412,
+    "dividend_yield_pct": 0.9014,
+    "payout_ratio_pct": 29.24,
+    "debt_to_equity": 3.1318,
+    "current_ratio": 0.727,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 345.27
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -5.36
+    },
+    "last_updated": "2026-08-19T13:16:18.950120"
+  },
+  "KMB": {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark Corp",
+    "price": 107.72,
+    "market_cap": 35825.415461155775,
+    "pe_ratio": 18.6721,
+    "dividend_yield_pct": 4.5995,
+    "payout_ratio_pct": 85.88,
+    "debt_to_equity": 3.7366,
+    "current_ratio": 0.9093,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 107.72
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -6.46
+    },
+    "last_updated": "2026-08-19T13:16:20.360753"
+  },
+  "KO": {
+    "ticker": "KO",
+    "name": "Coca-Cola Co",
+    "price": 88.82,
+    "market_cap": 382152.4016632959,
+    "pe_ratio": 26.2553,
+    "dividend_yield_pct": 2.942,
+    "payout_ratio_pct": 77.24,
+    "debt_to_equity": 1.2045,
+    "current_ratio": 1.3046,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 88.82
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -2.19
+    },
+    "last_updated": "2026-08-19T13:16:21.741493"
+  },
+  "EMR": {
+    "ticker": "EMR",
+    "name": "Emerson Electric Co",
+    "price": 157.78,
+    "market_cap": 88009.68373127257,
+    "pe_ratio": 35.0043,
+    "dividend_yield_pct": 1.3663,
+    "payout_ratio_pct": 47.83,
+    "debt_to_equity": 0.6435,
+    "current_ratio": 0.8963,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 157.78
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.08
+    },
+    "last_updated": "2026-08-19T13:16:25.679506"
+  },
+  "ECL": {
+    "ticker": "ECL",
+    "name": "Ecolab Inc",
+    "price": 280,
+    "market_cap": 78492.00213181553,
+    "pe_ratio": 36.7557,
+    "dividend_yield_pct": 1.0255,
+    "payout_ratio_pct": 37.69,
+    "debt_to_equity": 1.3103,
+    "current_ratio": 1.8407,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 280
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -1.6
+    },
+    "last_updated": "2026-08-19T13:16:26.997590"
+  },
+  "VZ": {
+    "ticker": "VZ",
+    "name": "Verizon Communications Inc",
+    "price": 48.54,
+    "market_cap": 191587.05,
+    "pe_ratio": 12.0697,
+    "dividend_yield_pct": 5.9598,
+    "payout_ratio_pct": 71.93,
+    "debt_to_equity": 1.59,
+    "current_ratio": 0.6039,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Telekom",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 48.54
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": true,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": true,
+      "score": 0.59
+    },
+    "last_updated": "2026-08-19T13:16:29.629975"
+  },
+  "LIN": {
+    "ticker": "LIN",
+    "name": "Linde PLC",
+    "price": 478.705,
+    "market_cap": 220673.50295654204,
+    "pe_ratio": 30.4308,
+    "dividend_yield_pct": 1.3056,
+    "payout_ratio_pct": 39.73,
+    "debt_to_equity": 0.7168,
+    "current_ratio": 0.879,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 478.705
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.13
+    },
+    "last_updated": "2026-08-19T13:16:30.926391"
+  },
+  "MKC": {
+    "ticker": "MKC",
+    "name": "McCormick & Company Inc",
+    "price": 55.28,
+    "market_cap": 14867.573039030032,
+    "pe_ratio": 8.9232,
+    "dividend_yield_pct": 3.4581,
+    "payout_ratio_pct": 30.86,
+    "debt_to_equity": 0.7052,
+    "current_ratio": 0.7808,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 55.28
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 2.05
+    },
+    "last_updated": "2026-08-19T13:16:32.171463"
+  },
+  "T": {
+    "ticker": "T",
+    "name": "AT&T Inc",
+    "price": 24.9,
+    "market_cap": 170624.40708991894,
+    "pe_ratio": 7.7478,
+    "dividend_yield_pct": 4.8004,
+    "payout_ratio_pct": 37.19,
+    "debt_to_equity": 1.3034,
+    "current_ratio": 0.971,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Telekom",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 24.9
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 2.19
+    },
+    "last_updated": "2026-08-19T13:16:33.853950"
+  },
+  "HRL": {
+    "ticker": "HRL",
+    "name": "Hormel Foods Corp",
+    "price": 24.34,
+    "market_cap": 13394.665928599501,
+    "pe_ratio": 28.9902,
+    "dividend_yield_pct": 4.7241,
+    "payout_ratio_pct": 91.76,
+    "debt_to_equity": 0.3593,
+    "current_ratio": 1.9379,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 24.34
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.17
+    },
+    "last_updated": "2026-08-19T13:16:35.285374"
+  },
+  "CAT": {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc",
+    "price": 840.87,
+    "market_cap": 386526.815043737,
+    "pe_ratio": 36.3041,
+    "dividend_yield_pct": 0.7143,
+    "payout_ratio_pct": 25.93,
+    "debt_to_equity": 2.3277,
+    "current_ratio": 1.3684,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 840.87
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -3.94
+    },
+    "last_updated": "2026-08-19T13:16:36.571782"
+  },
+  "TGT": {
+    "ticker": "TGT",
+    "name": "Target Corp",
+    "price": 152.48,
+    "market_cap": 69255.06122615561,
+    "pe_ratio": 20.3425,
+    "dividend_yield_pct": 2.9338,
+    "payout_ratio_pct": 59.68,
+    "debt_to_equity": 0.9402,
+    "current_ratio": 0.932,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Einzelhandel",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 152.48
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.09
+    },
+    "last_updated": "2026-08-19T13:16:37.733384"
+  },
+  "ADM": {
+    "ticker": "ADM",
+    "name": "Archer-Daniels-Midland Co",
+    "price": 82.45,
+    "market_cap": 39737.56903318551,
+    "pe_ratio": 21.9006,
+    "dividend_yield_pct": 2.5849,
+    "payout_ratio_pct": 56.61,
+    "debt_to_equity": 0.3398,
+    "current_ratio": 1.3891,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 82.45
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 1.24
+    },
+    "last_updated": "2026-08-19T13:16:38.889047"
+  },
+  "WPC": {
+    "ticker": "WPC",
+    "name": "W.p. Carey Inc",
+    "price": 71.04,
+    "market_cap": 16876.67,
+    "pe_ratio": 24.7377,
+    "dividend_yield_pct": 5.0469,
+    "payout_ratio_pct": 124.85,
+    "debt_to_equity": 1.0207,
+    "current_ratio": 0.1955,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 71.04
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": true,
+      "debt_ok": true,
+      "trap_warning": true,
+      "qualifies": false,
+      "score": -4.48
+    },
+    "last_updated": "2026-08-19T13:16:40.188630"
+  },
+  "MO": {
+    "ticker": "MO",
+    "name": "Altria Group Inc",
+    "price": 65.19,
+    "market_cap": 108850.60305326922,
+    "pe_ratio": 13.7487,
+    "dividend_yield_pct": 6.4423,
+    "payout_ratio_pct": 88.57,
+    "debt_to_equity": 8.6709,
+    "current_ratio": 0.5176,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Tabak",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 65.19
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": true,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -14.76
+    },
+    "last_updated": "2026-08-19T13:16:41.311719"
+  },
+  "ROP": {
+    "ticker": "ROP",
+    "name": "Roper Technologies Inc",
+    "price": 394.17,
+    "market_cap": 38983.755576220785,
+    "pe_ratio": 15.331,
+    "dividend_yield_pct": 0.9616,
+    "payout_ratio_pct": 14.74,
+    "debt_to_equity": 0.6053,
+    "current_ratio": 0.5528,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 394.17
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -0.25
+    },
+    "last_updated": "2026-08-19T13:16:42.536256"
+  },
+  "SYY": {
+    "ticker": "SYY",
+    "name": "Sysco Corp",
+    "price": 81.96,
+    "market_cap": 39191.84407255272,
+    "pe_ratio": 22.9833,
+    "dividend_yield_pct": 2.5695,
+    "payout_ratio_pct": 59.05,
+    "debt_to_equity": 5.0698,
+    "current_ratio": 1.2769,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 81.96
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": false,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -8.48
+    },
+    "last_updated": "2026-08-19T13:16:43.672658"
+  },
+  "DUK": {
+    "ticker": "DUK",
+    "name": "Duke Energy Corp",
+    "price": 123.99,
+    "market_cap": 96675.27838461935,
+    "pe_ratio": 18.465,
+    "dividend_yield_pct": 3.4917,
+    "payout_ratio_pct": 64.47,
+    "debt_to_equity": 1.6664,
+    "current_ratio": 0.6612,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 123.99
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": -1.29
+    },
+    "last_updated": "2026-08-19T13:16:46.044131"
+  },
+  "CB": {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "price": 345.29,
+    "market_cap": 133212.81937351503,
+    "pe_ratio": 11.8429,
+    "dividend_yield_pct": 1.1573,
+    "payout_ratio_pct": 13.71,
+    "debt_to_equity": 0.2425,
+    "current_ratio": 0.162,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 345.29
+      }
+    ],
+    "evaluation": {
+      "payout_ok": true,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.67
+    },
+    "last_updated": "2026-08-19T13:16:47.309481"
+  },
+  "ABBV": {
+    "ticker": "ABBV",
+    "name": null,
+    "price": 258.92,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 0,
+    "payout_ratio_pct": 0,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Gesundheit",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 258.92
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.0
+    },
+    "last_updated": "2026-08-19T13:16:48.604112"
+  },
+  "CL": {
+    "ticker": "CL",
+    "name": null,
+    "price": 91.46,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 0,
+    "payout_ratio_pct": 0,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-19",
+        "price": 91.46
+      }
+    ],
+    "evaluation": {
+      "payout_ok": false,
+      "yield_reasonable": false,
+      "debt_ok": true,
+      "trap_warning": false,
+      "qualifies": false,
+      "score": 0.0
+    },
+    "last_updated": "2026-08-19T13:16:49.864050"
+  }
+}
