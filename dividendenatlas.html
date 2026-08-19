@@ -42,6 +42,8 @@ tr.gelb td{background:var(--yellowSoft);}
 .reasons{font-size:11px;color:var(--muted);margin-top:3px;}
 .hint{color:var(--muted);font-size:12px;font-style:italic;margin-bottom:14px;}
 #scanner-tbody tr{cursor:pointer;}
+.risk-filter-btn{border:1px solid var(--line);background:var(--surface);border-radius:20px;padding:6px 14px;font-size:12px;cursor:pointer;margin-right:8px;color:var(--muted);}
+.risk-filter-btn.active{border-color:var(--blue);color:var(--blue);background:var(--blueSoft);}
 .badge.niedrig{border-color:var(--green);color:var(--green);background:var(--greenSoft);}
 .badge.mittel{border-color:var(--orange);color:var(--orange);background:var(--orangeSoft);}
 .badge.hoch{border-color:var(--red);color:var(--red);background:var(--redSoft);}
@@ -88,8 +90,14 @@ tr.gelb td{background:var(--yellowSoft);}
   <tbody id="depot-tbody"></tbody>
 </table>
 
-<h2>Watchlist (nach Risiko sortiert, 6 Kandidaten mit ≥5% Rendite)</h2>
-<div class="hint">Nur Inspiration, komplett getrennt vom Dividendendepot. Zeigt ausschliesslich Aktien mit Rendite ≥ 5%, sortiert nach Risiko (niedrig zuerst). Klick auf eine Zeile fuer das vollstaendige Profil.</div>
+<h2>Watchlist (<span id="scanner-count">9</span> Kandidaten mit ≥6% Rendite)</h2>
+<div class="hint">Nur Inspiration, komplett getrennt vom Dividendendepot. Zeigt ausschliesslich Aktien mit Rendite ≥ 6%. Klick auf eine Zeile fuer das vollstaendige Profil.</div>
+<div class="controls" style="margin-bottom:14px;">
+  <button class="risk-filter-btn active" data-risk="alle" onclick="setRiskFilter('alle')">Alle</button>
+  <button class="risk-filter-btn" data-risk="niedrig" onclick="setRiskFilter('niedrig')">Nur niedriges Risiko</button>
+  <button class="risk-filter-btn" data-risk="mittel" onclick="setRiskFilter('mittel')">Nur mittleres Risiko</button>
+  <button class="risk-filter-btn" data-risk="hoch" onclick="setRiskFilter('hoch')">Nur hohes Risiko</button>
+</div>
 <table id="scanner-tbl">
   <thead><tr>
     <th data-key="rank" title="Rang innerhalb der Risikostufe, sortiert nach Rendite">Rang</th>
@@ -119,7 +127,7 @@ tr.gelb td{background:var(--yellowSoft);}
 
 <script>
 const PYTHON_DEPOT = [];
-const SCANNER = [{"ticker": "PFE", "name": "Pfizer Inc", "price": 28.24, "market_cap": 155316.10336178823, "pe_ratio": 35.1938, "dividend_yield_pct": 6.4166, "payout_ratio_pct": 80.25, "debt_to_equity": 0.7418, "current_ratio": 1.2669, "data_source": "finnhub", "land": "USA", "sektor": "Gesundheit", "price_history": [{"date": "2026-08-19", "price": 27.25}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-19T14:08:06.483034", "perf_1m": null, "perf_3m": null, "perf_1y": null, "rank": 1}, {"ticker": "VZ", "name": "Verizon Communications Inc", "price": 49.42, "market_cap": 191587.05, "pe_ratio": 12.0697, "dividend_yield_pct": 5.9598, "payout_ratio_pct": 71.93, "debt_to_equity": 1.59, "current_ratio": 0.6039, "data_source": "finnhub", "land": "USA", "sektor": "Telekom", "price_history": [{"date": "2026-08-19", "price": 48.54}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-19T14:07:26.463784", "perf_1m": null, "perf_3m": null, "perf_1y": null, "rank": 2}, {"ticker": "MO", "name": "Altria Group Inc", "price": 65.37, "market_cap": 108850.60305326922, "pe_ratio": 13.7487, "dividend_yield_pct": 6.4423, "payout_ratio_pct": 88.57, "debt_to_equity": 8.6709, "current_ratio": 0.5176, "data_source": "finnhub", "land": "USA", "sektor": "Tabak", "price_history": [{"date": "2026-08-19", "price": 65.19}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T14:06:39.955178", "perf_1m": null, "perf_3m": null, "perf_1y": null, "rank": 3}, {"ticker": "DOC", "name": "Healthpeak Properties Inc", "price": 20.72, "market_cap": 14441.416357333335, "pe_ratio": 60.4316, "dividend_yield_pct": 5.7539, "payout_ratio_pct": 175.94, "debt_to_equity": 1.2788, "current_ratio": 2.2959, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 20.44}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T14:06:25.335008", "perf_1m": null, "perf_3m": null, "perf_1y": null, "rank": 4}, {"ticker": "WPC", "name": "W.p. Carey Inc", "price": 71.71, "market_cap": 16876.67, "pe_ratio": 24.7377, "dividend_yield_pct": 5.0469, "payout_ratio_pct": 124.85, "debt_to_equity": 1.0207, "current_ratio": 0.1955, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 71.04}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T14:06:57.787603", "perf_1m": null, "perf_3m": null, "perf_1y": null, "rank": 5}, {"ticker": "O", "name": "Realty Income Corp", "price": 63.03, "market_cap": 58864.22810966811, "pe_ratio": 47.1475, "dividend_yield_pct": 5.0138, "payout_ratio_pct": 236.39, "debt_to_equity": 0.7779, "current_ratio": 0.6222, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 62.21}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T14:06:36.693215", "perf_1m": null, "perf_3m": null, "perf_1y": null, "rank": 6}];
+const SCANNER = [{"ticker": "PFE", "name": "Pfizer Inc", "price": 28.09, "market_cap": 155316.10336178823, "pe_ratio": 35.1938, "dividend_yield_pct": 6.4166, "payout_ratio_pct": 80.25, "debt_to_equity": 0.7418, "current_ratio": 1.2669, "data_source": "finnhub", "land": "USA", "sektor": "Gesundheit", "price_history": [{"date": "2026-08-19", "price": 27.25}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-19T15:56:56.940575", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 1}, {"ticker": "PFLT", "name": "PennantPark Floating Rate Capital Ltd", "price": 7.4, "market_cap": 726.2750179173555, "pe_ratio": 14.9669, "dividend_yield_pct": 16.2268, "payout_ratio_pct": 170.04, "debt_to_equity": 1.5472, "current_ratio": 3.092, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-19", "price": 7.4}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T15:47:50.015960", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 2}, {"ticker": "AGNC", "name": "AGNC Investment Corp", "price": 11.03, "market_cap": 12945.457157260274, "pe_ratio": 5.7244, "dividend_yield_pct": 13.5143, "payout_ratio_pct": 53.94, "debt_to_equity": 8.607, "current_ratio": 0.0079, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 11.03}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T15:58:00.203464", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 3}, {"ticker": "DX", "name": "Dynex Capital Inc", "price": 13.35, "market_cap": 3270.8398751109407, "pe_ratio": 7.4164, "dividend_yield_pct": 11.2632, "payout_ratio_pct": 50.68, "debt_to_equity": 7.1369, "current_ratio": 0.033, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 13.35}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T16:01:02.622480", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 4}, {"ticker": "ARCC", "name": "Ares Capital Corp", "price": 19.9, "market_cap": 14123.509771976578, "pe_ratio": 15.1009, "dividend_yield_pct": 9.1675, "payout_ratio_pct": 138.44, "debt_to_equity": 1.1355, "current_ratio": 1.0991, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-19", "price": 19.9}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T15:53:55.305900", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 5}, {"ticker": "BIP", "name": "Brookfield Infrastructure Partners LP", "price": 39.21, "market_cap": 17535.6152, "pe_ratio": 26.9364, "dividend_yield_pct": 8.2917, "payout_ratio_pct": 166.05, "debt_to_equity": 12.2348, "current_ratio": 0.8886, "data_source": "finnhub", "land": "Kanada", "sektor": "Infrastruktur", "price_history": [{"date": "2026-08-19", "price": 39.21}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T15:56:52.936887", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 6}, {"ticker": "UVV", "name": "Universal Corp", "price": 44.96, "market_cap": 1261.3964303855325, "pe_ratio": 58.6546, "dividend_yield_pct": 7.2849, "payout_ratio_pct": 94.87, "debt_to_equity": 0.8524, "current_ratio": 2.5719, "data_source": "finnhub", "land": "USA", "sektor": "Tabak", "price_history": [{"date": "2026-08-19", "price": 44.96}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T15:48:50.106965", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 7}, {"ticker": "MO", "name": "Altria Group Inc", "price": 65.36, "market_cap": 108850.60305326922, "pe_ratio": 13.7487, "dividend_yield_pct": 6.4423, "payout_ratio_pct": 88.57, "debt_to_equity": 8.6709, "current_ratio": 0.5176, "data_source": "finnhub", "land": "USA", "sektor": "Tabak", "price_history": [{"date": "2026-08-19", "price": 65.19}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T15:54:59.184303", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 8}, {"ticker": "EPR", "name": "EPR Properties", "price": 60.16, "market_cap": 4624.880793768265, "pe_ratio": 18.0853, "dividend_yield_pct": 6.2424, "payout_ratio_pct": 112.9, "debt_to_equity": 1.4259, "current_ratio": 0.4999, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 60.16}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-19T15:49:49.361219", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 9}];
 const DEPOT_KEY = 'dividendenatlas_depot';
 const YELLOW_PRICE_DROP_PCT = 5.0;
 const DECLINE_TREND_DAYS = 5;
@@ -362,6 +370,7 @@ function showDetail(ticker) {
     <span class="close-btn" onclick="closeDetail()">×</span>
     <h3>${r.name || r.ticker} (${r.ticker})</h3>
     <table>
+      <tr><td>ISIN</td><td style="font-family:monospace;">${r.isin || 'nicht verfuegbar'}</td></tr>
       <tr><td>Land</td><td>${r.land}</td></tr>
       <tr><td>Sektor</td><td>${r.sektor}</td></tr>
       <tr><td>Kurs</td><td>${fmt(r.price, ' $')}</td></tr>
@@ -393,16 +402,28 @@ function closeDetail() {
   document.getElementById('detail-overlay').style.display = 'none';
 }
 
+let riskFilter = 'alle';
+
+function setRiskFilter(risk) {
+  riskFilter = risk;
+  document.querySelectorAll('.risk-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.risk === risk);
+  });
+  renderScanner();
+}
+
 function renderScanner() {
   const tbody = document.getElementById('scanner-tbody');
   tbody.innerHTML = '';
-  SCANNER.forEach(r => {
+  const filtered = riskFilter === 'alle' ? SCANNER : SCANNER.filter(r => r.evaluation.risk === riskFilter);
+  document.getElementById('scanner-count').textContent = filtered.length;
+  filtered.forEach(r => {
     const ev = r.evaluation;
     const tr = document.createElement('tr');
     tr.onclick = (e) => { if (e.target.tagName !== 'BUTTON') showDetail(r.ticker); };
     tr.innerHTML = `
       <td>${r.rank}</td>
-      <td><strong>${r.ticker}</strong></td>
+      <td><strong>${r.ticker}</strong>${r.isin ? `<br><span style="color:var(--muted);font-size:10px;font-family:monospace;">${r.isin}</span>` : ''}</td>
       <td>${r.name || ''}</td>
       <td>${r.land}</td>
       <td>${r.sektor} <span style="color:var(--muted);font-size:10px;">(${r.data_source === 'twelvedata' ? 'TD' : r.data_source === 'finnhub' ? 'FH' : 'FMP'})</span></td>
