@@ -2,7 +2,7 @@
   "XOM": {
     "ticker": "XOM",
     "name": "Exxonmobil Holdings Corp",
-    "price": 165.56,
+    "price": 167.44,
     "market_cap": 650632.36,
     "pe_ratio": 20.0535,
     "dividend_yield_pct": 2.6246,
@@ -19,19 +19,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 2.03
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:14:53.092747"
+    "last_updated": "2026-08-19T14:07:42.105262",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "MCD": {
     "ticker": "MCD",
     "name": "McDonald's Corp",
-    "price": 266.99,
+    "price": 270.27,
     "market_cap": 188933.1977413104,
     "pe_ratio": 22.3141,
     "dividend_yield_pct": 2.6651,
@@ -48,19 +48,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -79.56
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:14:55.571493"
+    "last_updated": "2026-08-19T14:07:37.263010",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CVX": {
     "ticker": "CVX",
     "name": "Chevron Corp",
-    "price": 205.74,
+    "price": 207.31,
     "market_cap": 406495.16884588485,
     "pe_ratio": 18.9191,
     "dividend_yield_pct": 3.5586,
@@ -77,19 +77,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 1.44
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:14:56.805984"
+    "last_updated": "2026-08-19T14:07:10.670094",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "BDX": {
     "ticker": "BDX",
     "name": "Becton Dickinson and Co",
-    "price": 180.77,
+    "price": 185.97,
     "market_cap": 49239.36270862799,
     "pe_ratio": 53.2137,
     "dividend_yield_pct": 2.338,
@@ -106,19 +106,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -1.08
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:14:58.013966"
+    "last_updated": "2026-08-19T14:06:17.839990",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "JNJ": {
     "ticker": "JNJ",
     "name": "Johnson & Johnson",
-    "price": 271.11,
+    "price": 275.18,
     "market_cap": 653347.5532317751,
     "pe_ratio": 29.9333,
     "dividend_yield_pct": 2.0043,
@@ -135,19 +135,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.15
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:14:59.204430"
+    "last_updated": "2026-08-19T14:07:15.139613",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ED": {
     "ticker": "ED",
     "name": "Consolidated Edison Inc",
-    "price": 109.16,
+    "price": 109.23,
     "market_cap": 40228.70389687311,
     "pe_ratio": 17.9511,
     "dividend_yield_pct": 3.0504,
@@ -164,19 +164,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.41
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:02.425724"
+    "last_updated": "2026-08-19T14:07:43.468871",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "MMM": {
     "ticker": "MMM",
     "name": "3M Co",
-    "price": 180.94,
+    "price": 182.93,
     "market_cap": 93314.81672386691,
     "pe_ratio": 31.1722,
     "dividend_yield_pct": 1.7009,
@@ -193,19 +193,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -7.1
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:06.207898"
+    "last_updated": "2026-08-19T14:06:54.983775",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "GWW": {
     "ticker": "GWW",
     "name": "WW Grainger Inc",
-    "price": 1314.12,
+    "price": 1324.46,
     "market_cap": 61896.29072125798,
     "pe_ratio": 32.8684,
     "dividend_yield_pct": 0.8054,
@@ -222,19 +222,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.36
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:07.874008"
+    "last_updated": "2026-08-19T14:06:33.727358",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "WMT": {
     "ticker": "WMT",
     "name": "Walmart Inc",
-    "price": 115.2,
+    "price": 116.21,
     "market_cap": 884142.59,
     "pe_ratio": 40.6059,
     "dividend_yield_pct": 0.8231,
@@ -251,19 +251,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.41
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:09.913505"
+    "last_updated": "2026-08-19T14:06:32.133053",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CTAS": {
     "ticker": "CTAS",
     "name": "Cintas Corp",
-    "price": 199.45,
+    "price": 204.31,
     "market_cap": 79813.8208318795,
     "pe_ratio": 40.4028,
     "dividend_yield_pct": 0.8681,
@@ -280,19 +280,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.08
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:12.704172"
+    "last_updated": "2026-08-19T14:06:19.654168",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "AFL": {
     "ticker": "AFL",
     "name": "Aflac Inc",
-    "price": 121.73,
+    "price": 119.52,
     "market_cap": 61028.52437250042,
     "pe_ratio": 13.0483,
     "dividend_yield_pct": 1.9771,
@@ -309,19 +309,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 1.45
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:16.225330"
+    "last_updated": "2026-08-19T14:07:35.948574",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "PFE": {
     "ticker": "PFE",
     "name": "Pfizer Inc",
-    "price": 27.25,
+    "price": 28.24,
     "market_cap": 155316.10336178823,
     "pe_ratio": 35.1938,
     "dividend_yield_pct": 6.4166,
@@ -338,19 +338,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": true,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": true,
-      "score": 1.91
+      "risk": "mittel",
+      "meets_min_yield": true
     },
-    "last_updated": "2026-08-19T13:15:17.883326"
+    "last_updated": "2026-08-19T14:08:06.483034",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "PPG": {
     "ticker": "PPG",
     "name": "PPG Industries Inc",
-    "price": 112.81,
+    "price": 114.74,
     "market_cap": 25077.663884062855,
     "pe_ratio": 16.2553,
     "dividend_yield_pct": 2.4928,
@@ -367,19 +367,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.86
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:20.184437"
+    "last_updated": "2026-08-19T14:07:22.785753",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "FRT": {
     "ticker": "FRT",
     "name": "Federal Realty Investment Trust",
-    "price": 117.48,
+    "price": 118.05,
     "market_cap": 10269.577070016268,
     "pe_ratio": 23.8262,
     "dividend_yield_pct": 3.7903,
@@ -396,19 +396,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -3.08
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:23.155164"
+    "last_updated": "2026-08-19T14:07:59.178265",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "NUE": {
     "ticker": "NUE",
     "name": "Nucor Corp",
-    "price": 264.19,
+    "price": 265.33,
     "market_cap": 59938.2820136654,
     "pe_ratio": 26.5678,
     "dividend_yield_pct": 0.8267,
@@ -425,19 +425,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.16
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:26.202479"
+    "last_updated": "2026-08-19T14:07:34.701497",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CLX": {
     "ticker": "CLX",
     "name": "Clorox Co",
-    "price": 105.55,
+    "price": 107.44,
     "market_cap": 12764.268124031527,
     "pe_ratio": 21.8132,
     "dividend_yield_pct": 4.7015,
@@ -454,19 +454,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -110.88
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:30.123095"
+    "last_updated": "2026-08-19T14:07:49.604188",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ABT": {
     "ticker": "ABT",
     "name": "Abbott Laboratories",
-    "price": 112.68,
+    "price": 114.74,
     "market_cap": 194979.59518427835,
     "pe_ratio": 35.5183,
     "dividend_yield_pct": 2.2114,
@@ -483,19 +483,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -1.92
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:31.923968"
+    "last_updated": "2026-08-19T14:06:15.873656",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "GPC": {
     "ticker": "GPC",
     "name": "Genuine Parts Co",
-    "price": 131.89,
+    "price": 134.64,
     "market_cap": 18182.325879013126,
     "pe_ratio": 563.0768,
     "dividend_yield_pct": 3.1139,
@@ -512,19 +512,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.8
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:33.835495"
+    "last_updated": "2026-08-19T14:07:07.096172",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ATO": {
     "ticker": "ATO",
     "name": "Atmos Energy Corp",
-    "price": 170.51,
+    "price": 171.19,
     "market_cap": 28814.23503109329,
     "pe_ratio": 20.471,
     "dividend_yield_pct": 2.2019,
@@ -541,19 +541,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.85
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:35.145641"
+    "last_updated": "2026-08-19T14:07:56.835576",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "DOC": {
     "ticker": "DOC",
     "name": "Healthpeak Properties Inc",
-    "price": 20.44,
+    "price": 20.72,
     "market_cap": 14441.416357333335,
     "pe_ratio": 60.4316,
     "dividend_yield_pct": 5.7539,
@@ -570,19 +570,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": true,
-      "debt_ok": true,
       "trap_warning": true,
-      "qualifies": false,
-      "score": -9.4
+      "risk": "hoch",
+      "meets_min_yield": true
     },
-    "last_updated": "2026-08-19T13:15:36.566028"
+    "last_updated": "2026-08-19T14:06:25.335008",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "MDT": {
     "ticker": "MDT",
     "name": "Medtronic PLC",
-    "price": 92.09,
+    "price": 93.82,
     "market_cap": 117879.36859411954,
     "pe_ratio": 24.2494,
     "dividend_yield_pct": 3.1251,
@@ -599,19 +599,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.58
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:38.206190"
+    "last_updated": "2026-08-19T14:07:09.186296",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "TROW": {
     "ticker": "TROW",
     "name": "T Rowe Price Group Inc",
-    "price": 110.32,
+    "price": 112.4,
     "market_cap": 23533.003458413183,
     "pe_ratio": 10.5832,
     "dividend_yield_pct": 4.8448,
@@ -628,19 +628,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 4.71
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:41.492150"
+    "last_updated": "2026-08-19T14:06:12.516235",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "PEP": {
     "ticker": "PEP",
     "name": "PepsiCo Inc",
-    "price": 140.13,
+    "price": 141.75,
     "market_cap": 191262.25062175194,
     "pe_ratio": 18.2277,
     "dividend_yield_pct": 4.0993,
@@ -657,19 +657,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -3.19
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:42.825666"
+    "last_updated": "2026-08-19T14:07:16.575910",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "PG": {
     "ticker": "PG",
     "name": "Procter & Gamble Co",
-    "price": 143.45,
+    "price": 145.88,
     "market_cap": 333439.917603635,
     "pe_ratio": 20.8828,
     "dividend_yield_pct": 3.0539,
@@ -686,19 +686,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.42
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:45.090877"
+    "last_updated": "2026-08-19T14:07:45.950635",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ESS": {
     "ticker": "ESS",
     "name": "Essex Property Trust Inc",
-    "price": 283.71,
+    "price": 286.55,
     "market_cap": 18233.5990247993,
     "pe_ratio": 44.7985,
     "dividend_yield_pct": 3.5781,
@@ -715,19 +715,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": true,
-      "qualifies": false,
-      "score": -9.97
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:48.443212"
+    "last_updated": "2026-08-19T14:06:21.599896",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "GD": {
     "ticker": "GD",
     "name": "General Dynamics Corp",
-    "price": 393.48,
+    "price": 394.86,
     "market_cap": 106458.8470851735,
     "pe_ratio": 23.8002,
     "dividend_yield_pct": 1.5376,
@@ -744,19 +744,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.98
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:51.710044"
+    "last_updated": "2026-08-19T14:07:27.845746",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "SO": {
     "ticker": "SO",
     "name": "Southern Co",
-    "price": 92.07,
+    "price": 92.3,
     "market_cap": 105913.92587732538,
     "pe_ratio": 22.8714,
     "dividend_yield_pct": 2.9105,
@@ -773,19 +773,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -2.57
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:53.120163"
+    "last_updated": "2026-08-19T14:06:45.637749",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "SPGI": {
     "ticker": "SPGI",
     "name": "S&P Global Inc",
-    "price": 418.04,
+    "price": 429.66,
     "market_cap": 123238.18653074604,
     "pe_ratio": 24.949,
     "dividend_yield_pct": 0.9414,
@@ -802,19 +802,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.02
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:54.555246"
+    "last_updated": "2026-08-19T14:07:57.991441",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "PM": {
     "ticker": "PM",
     "name": "Philip Morris International Inc",
-    "price": 187.62,
+    "price": 187.63,
     "market_cap": 292427.0764045831,
     "pe_ratio": 27.007,
     "dividend_yield_pct": 3.0667,
@@ -831,19 +831,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -372.38
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:55.901865"
+    "last_updated": "2026-08-19T14:07:39.717072",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "O": {
     "ticker": "O",
     "name": "Realty Income Corp",
-    "price": 62.21,
+    "price": 63.03,
     "market_cap": 58864.22810966811,
     "pe_ratio": 47.1475,
     "dividend_yield_pct": 5.0138,
@@ -860,19 +860,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": true,
-      "debt_ok": true,
       "trap_warning": true,
-      "qualifies": false,
-      "score": -15.18
+      "risk": "hoch",
+      "meets_min_yield": true
     },
-    "last_updated": "2026-08-19T13:15:57.297457"
+    "last_updated": "2026-08-19T14:06:36.693215",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "LOW": {
     "ticker": "LOW",
     "name": "Lowe's Companies Inc",
-    "price": 215.64,
+    "price": 223.65,
     "market_cap": 120910.87601238996,
     "pe_ratio": 18.2487,
     "dividend_yield_pct": 2.1987,
@@ -889,19 +889,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -102.27
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:15:59.873510"
+    "last_updated": "2026-08-19T14:07:13.725167",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CHD": {
     "ticker": "CHD",
     "name": "Church & Dwight Co Inc",
-    "price": 99.13,
+    "price": 100.6,
     "market_cap": 23514.023730028166,
     "pe_ratio": 32.2557,
     "dividend_yield_pct": 1.1988,
@@ -918,19 +918,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.16
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:02.515758"
+    "last_updated": "2026-08-19T14:06:38.487073",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ITW": {
     "ticker": "ITW",
     "name": "Illinois Tool Works Inc",
-    "price": 284.66,
+    "price": 288.2,
     "market_cap": 81071.16418114859,
     "pe_ratio": 25.7809,
     "dividend_yield_pct": 2.226,
@@ -947,19 +947,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -5.21
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:04.295376"
+    "last_updated": "2026-08-19T14:07:20.512944",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "SJM": {
     "ticker": "SJM",
     "name": "J.M. Smucker Co",
-    "price": 118.5,
+    "price": 121.54,
     "market_cap": 12665.361239327847,
     "pe_ratio": null,
     "dividend_yield_pct": 3.6212,
@@ -976,19 +976,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 1.11
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:05.825433"
+    "last_updated": "2026-08-19T14:06:56.485716",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CINF": {
     "ticker": "CINF",
     "name": "Cincinnati Financial Corp",
-    "price": 171.35,
+    "price": 170.83,
     "market_cap": 26298.46222471969,
     "pe_ratio": 7.9392,
     "dividend_yield_pct": 2.0558,
@@ -1005,19 +1005,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 1.96
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:10.139578"
+    "last_updated": "2026-08-19T14:06:44.345878",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "DOV": {
     "ticker": "DOV",
     "name": "Dover Corp",
-    "price": 203.06,
+    "price": 203.45,
     "market_cap": 27348.165950779967,
     "pe_ratio": 24.5736,
     "dividend_yield_pct": 1.0093,
@@ -1034,19 +1034,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.16
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:12.992136"
+    "last_updated": "2026-08-19T14:06:42.846151",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ADP": {
     "ticker": "ADP",
     "name": "Automatic Data Processing Inc",
-    "price": 269.31,
+    "price": 277.35,
     "market_cap": 106986.83193028279,
     "pe_ratio": 24.2882,
     "dividend_yield_pct": 2.4501,
@@ -1063,19 +1063,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.15
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:14.321488"
+    "last_updated": "2026-08-19T14:07:24.050640",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "SHW": {
     "ticker": "SHW",
     "name": "Sherwin-Williams Co",
-    "price": 345.27,
+    "price": 354.29,
     "market_cap": 83817.11138779094,
     "pe_ratio": 32.4412,
     "dividend_yield_pct": 0.9014,
@@ -1092,19 +1092,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -5.36
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:18.950120"
+    "last_updated": "2026-08-19T14:08:01.895821",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "KMB": {
     "ticker": "KMB",
     "name": "Kimberly-Clark Corp",
-    "price": 107.72,
+    "price": 108.98,
     "market_cap": 35825.415461155775,
     "pe_ratio": 18.6721,
     "dividend_yield_pct": 4.5995,
@@ -1121,19 +1121,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -6.46
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:20.360753"
+    "last_updated": "2026-08-19T14:06:48.274941",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "KO": {
     "ticker": "KO",
     "name": "Coca-Cola Co",
-    "price": 88.82,
+    "price": 89.9,
     "market_cap": 382152.4016632959,
     "pe_ratio": 26.2553,
     "dividend_yield_pct": 2.942,
@@ -1150,19 +1150,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -2.19
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:21.741493"
+    "last_updated": "2026-08-19T14:07:38.515560",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "EMR": {
     "ticker": "EMR",
     "name": "Emerson Electric Co",
-    "price": 157.78,
+    "price": 158.66,
     "market_cap": 88009.68373127257,
     "pe_ratio": 35.0043,
     "dividend_yield_pct": 1.3663,
@@ -1179,19 +1179,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.08
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:25.679506"
+    "last_updated": "2026-08-19T14:06:29.455067",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ECL": {
     "ticker": "ECL",
     "name": "Ecolab Inc",
-    "price": 280,
+    "price": 284.18,
     "market_cap": 78492.00213181553,
     "pe_ratio": 36.7557,
     "dividend_yield_pct": 1.0255,
@@ -1208,19 +1208,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -1.6
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:26.997590"
+    "last_updated": "2026-08-19T14:06:59.235591",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "VZ": {
     "ticker": "VZ",
     "name": "Verizon Communications Inc",
-    "price": 48.54,
+    "price": 49.42,
     "market_cap": 191587.05,
     "pe_ratio": 12.0697,
     "dividend_yield_pct": 5.9598,
@@ -1237,19 +1237,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": true,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": true,
-      "score": 0.59
+      "risk": "mittel",
+      "meets_min_yield": true
     },
-    "last_updated": "2026-08-19T13:16:29.629975"
+    "last_updated": "2026-08-19T14:07:26.463784",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "LIN": {
     "ticker": "LIN",
     "name": "Linde PLC",
-    "price": 478.705,
+    "price": 480.81,
     "market_cap": 220673.50295654204,
     "pe_ratio": 30.4308,
     "dividend_yield_pct": 1.3056,
@@ -1266,19 +1266,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.13
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:30.926391"
+    "last_updated": "2026-08-19T14:06:53.572534",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "MKC": {
     "ticker": "MKC",
     "name": "McCormick & Company Inc",
-    "price": 55.28,
+    "price": 56.1,
     "market_cap": 14867.573039030032,
     "pe_ratio": 8.9232,
     "dividend_yield_pct": 3.4581,
@@ -1295,19 +1295,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 2.05
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:32.171463"
+    "last_updated": "2026-08-19T14:07:51.900497",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "T": {
     "ticker": "T",
     "name": "AT&T Inc",
-    "price": 24.9,
+    "price": 25.36,
     "market_cap": 170624.40708991894,
     "pe_ratio": 7.7478,
     "dividend_yield_pct": 4.8004,
@@ -1324,19 +1324,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 2.19
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:33.853950"
+    "last_updated": "2026-08-19T14:07:30.471159",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "HRL": {
     "ticker": "HRL",
     "name": "Hormel Foods Corp",
-    "price": 24.34,
+    "price": 24.71,
     "market_cap": 13394.665928599501,
     "pe_ratio": 28.9902,
     "dividend_yield_pct": 4.7241,
@@ -1353,19 +1353,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.17
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:35.285374"
+    "last_updated": "2026-08-19T14:06:35.090994",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CAT": {
     "ticker": "CAT",
     "name": "Caterpillar Inc",
-    "price": 840.87,
+    "price": 814.09,
     "market_cap": 386526.815043737,
     "pe_ratio": 36.3041,
     "dividend_yield_pct": 0.7143,
@@ -1382,19 +1382,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -3.94
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:36.571782"
+    "last_updated": "2026-08-19T14:08:03.701369",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "TGT": {
     "ticker": "TGT",
     "name": "Target Corp",
-    "price": 152.48,
+    "price": 159.86,
     "market_cap": 69255.06122615561,
     "pe_ratio": 20.3425,
     "dividend_yield_pct": 2.9338,
@@ -1411,19 +1411,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.09
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:37.733384"
+    "last_updated": "2026-08-19T14:07:33.323221",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ADM": {
     "ticker": "ADM",
     "name": "Archer-Daniels-Midland Co",
-    "price": 82.45,
+    "price": 81.93,
     "market_cap": 39737.56903318551,
     "pe_ratio": 21.9006,
     "dividend_yield_pct": 2.5849,
@@ -1440,19 +1440,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 1.24
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:38.889047"
+    "last_updated": "2026-08-19T14:07:12.145497",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "WPC": {
     "ticker": "WPC",
     "name": "W.p. Carey Inc",
-    "price": 71.04,
+    "price": 71.71,
     "market_cap": 16876.67,
     "pe_ratio": 24.7377,
     "dividend_yield_pct": 5.0469,
@@ -1469,19 +1469,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": true,
-      "debt_ok": true,
       "trap_warning": true,
-      "qualifies": false,
-      "score": -4.48
+      "risk": "hoch",
+      "meets_min_yield": true
     },
-    "last_updated": "2026-08-19T13:16:40.188630"
+    "last_updated": "2026-08-19T14:06:57.787603",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "MO": {
     "ticker": "MO",
     "name": "Altria Group Inc",
-    "price": 65.19,
+    "price": 65.37,
     "market_cap": 108850.60305326922,
     "pe_ratio": 13.7487,
     "dividend_yield_pct": 6.4423,
@@ -1498,19 +1498,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": true,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -14.76
+      "risk": "hoch",
+      "meets_min_yield": true
     },
-    "last_updated": "2026-08-19T13:16:41.311719"
+    "last_updated": "2026-08-19T14:06:39.955178",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ROP": {
     "ticker": "ROP",
     "name": "Roper Technologies Inc",
-    "price": 394.17,
+    "price": 405.94,
     "market_cap": 38983.755576220785,
     "pe_ratio": 15.331,
     "dividend_yield_pct": 0.9616,
@@ -1527,19 +1527,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -0.25
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:42.536256"
+    "last_updated": "2026-08-19T14:07:29.082667",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "SYY": {
     "ticker": "SYY",
     "name": "Sysco Corp",
-    "price": 81.96,
+    "price": 82.4,
     "market_cap": 39191.84407255272,
     "pe_ratio": 22.9833,
     "dividend_yield_pct": 2.5695,
@@ -1556,19 +1556,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": false,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -8.48
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:43.672658"
+    "last_updated": "2026-08-19T14:06:14.113822",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "DUK": {
     "ticker": "DUK",
     "name": "Duke Energy Corp",
-    "price": 123.99,
+    "price": 124.46,
     "market_cap": 96675.27838461935,
     "pe_ratio": 18.465,
     "dividend_yield_pct": 3.4917,
@@ -1585,19 +1585,19 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": -1.29
+      "risk": "mittel",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:46.044131"
+    "last_updated": "2026-08-19T14:06:23.103358",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CB": {
     "ticker": "CB",
     "name": "Chubb Limited",
-    "price": 345.29,
+    "price": 347.83,
     "market_cap": 133212.81937351503,
     "pe_ratio": 11.8429,
     "dividend_yield_pct": 1.1573,
@@ -1614,25 +1614,25 @@
       }
     ],
     "evaluation": {
-      "payout_ok": true,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.67
+      "risk": "niedrig",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:47.309481"
+    "last_updated": "2026-08-19T14:07:50.736228",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "ABBV": {
     "ticker": "ABBV",
-    "name": null,
-    "price": 258.92,
-    "market_cap": null,
-    "pe_ratio": null,
-    "dividend_yield_pct": 0,
-    "payout_ratio_pct": 0,
-    "debt_to_equity": null,
-    "current_ratio": null,
+    "name": "AbbVie Inc",
+    "price": 264.19,
+    "market_cap": 457542.01714022615,
+    "pe_ratio": 70.2422,
+    "dividend_yield_pct": 2.7024,
+    "payout_ratio_pct": 189.83,
+    "debt_to_equity": 49.2176,
+    "current_ratio": 0.8085,
     "data_source": "finnhub",
     "land": "USA",
     "sektor": "Gesundheit",
@@ -1643,25 +1643,25 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": false,
-      "debt_ok": true,
-      "trap_warning": false,
-      "qualifies": false,
-      "score": 0.0
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:48.604112"
+    "last_updated": "2026-08-19T14:06:49.585809",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   },
   "CL": {
     "ticker": "CL",
-    "name": null,
-    "price": 91.46,
-    "market_cap": null,
-    "pe_ratio": null,
-    "dividend_yield_pct": 0,
-    "payout_ratio_pct": 0,
-    "debt_to_equity": null,
-    "current_ratio": null,
+    "name": "Colgate-Palmolive Co",
+    "price": 92.49,
+    "market_cap": 72909.42268205121,
+    "pe_ratio": 36.4891,
+    "dividend_yield_pct": 2.4513,
+    "payout_ratio_pct": 62.63,
+    "debt_to_equity": 33.2924,
+    "current_ratio": 1.026,
     "data_source": "finnhub",
     "land": "USA",
     "sektor": "Konsumgueter",
@@ -1672,13 +1672,13 @@
       }
     ],
     "evaluation": {
-      "payout_ok": false,
-      "yield_reasonable": false,
-      "debt_ok": true,
       "trap_warning": false,
-      "qualifies": false,
-      "score": 0.0
+      "risk": "hoch",
+      "meets_min_yield": false
     },
-    "last_updated": "2026-08-19T13:16:49.864050"
+    "last_updated": "2026-08-19T14:07:48.349455",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null
   }
 }
