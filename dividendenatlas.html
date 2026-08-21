@@ -42,6 +42,8 @@ tr.gelb td{background:var(--yellowSoft);}
 .reasons{font-size:11px;color:var(--muted);margin-top:3px;}
 .hint{color:var(--muted);font-size:12px;font-style:italic;margin-bottom:14px;}
 #scanner-tbody tr{cursor:pointer;}
+#scanner-tbl th[data-key]{cursor:pointer;user-select:none;}
+#scanner-tbl th[data-key]:hover{color:var(--blueB);}
 .risk-filter-btn{border:1px solid var(--line);background:var(--surface);border-radius:20px;padding:6px 14px;font-size:12px;cursor:pointer;margin-right:8px;color:var(--muted);}
 .risk-filter-btn.active{border-color:var(--blue);color:var(--blue);background:var(--blueSoft);}
 .badge.niedrig{border-color:var(--green);color:var(--green);background:var(--greenSoft);}
@@ -91,27 +93,35 @@ tr.gelb td{background:var(--yellowSoft);}
 </table>
 
 <h2>Watchlist (<span id="scanner-count">45</span> Kandidaten mit ≥5% Rendite)</h2>
-<div class="hint">Nur Inspiration, komplett getrennt vom Dividendendepot. Zeigt ausschliesslich Aktien mit Rendite ≥ 5%. Klick auf eine Zeile fuer das vollstaendige Profil.</div>
-<div class="controls" style="margin-bottom:14px;">
-  <button class="risk-filter-btn active" data-risk="alle" onclick="setRiskFilter('alle')">Alle</button>
+<div class="hint">Nur Inspiration, komplett getrennt vom Dividendendepot. Zeigt ausschliesslich Aktien mit Rendite ≥ 5%. Klick auf eine Zeile fuer das vollstaendige Profil. Klick auf eine Spaltenüberschrift zum Sortieren.</div>
+<div class="controls" style="margin-bottom:10px;">
+  <button class="risk-filter-btn active" data-risk="alle" onclick="setRiskFilter('alle')">Alle Risiken</button>
   <button class="risk-filter-btn" data-risk="niedrig" onclick="setRiskFilter('niedrig')">Nur niedriges Risiko</button>
   <button class="risk-filter-btn" data-risk="mittel" onclick="setRiskFilter('mittel')">Nur mittleres Risiko</button>
   <button class="risk-filter-btn" data-risk="hoch" onclick="setRiskFilter('hoch')">Nur hohes Risiko</button>
 </div>
+<div class="controls" style="margin-bottom:14px;">
+  <select id="land-filter" onchange="setLandFilter(this.value)" style="padding:6px 10px;border-radius:20px;border:1px solid var(--line);font-size:12px;margin-right:8px;">
+    <option value="alle">Alle Länder</option>
+  </select>
+  <select id="sektor-filter" onchange="setSektorFilter(this.value)" style="padding:6px 10px;border-radius:20px;border:1px solid var(--line);font-size:12px;">
+    <option value="alle">Alle Sektoren</option>
+  </select>
+</div>
 <table id="scanner-tbl">
   <thead><tr>
-    <th data-key="rank" title="Rang innerhalb der Risikostufe, sortiert nach Rendite">Rang</th>
-    <th data-key="ticker" title="Boersenkuerzel">Ticker</th>
-    <th data-key="name" title="Vollstaendiger Firmenname">Name</th>
-    <th data-key="land" title="Land der Hauptbörse">Land</th>
-    <th data-key="sektor" title="Wirtschaftssektor">Sektor</th>
-    <th data-key="dividend_yield_pct" title="Aktuelle jaehrliche Dividendenrendite">Rendite</th>
-    <th data-key="perf_1m" title="Kursentwicklung letzter Monat">1M</th>
-    <th data-key="perf_3m" title="Kursentwicklung letzte 3 Monate">3M</th>
-    <th data-key="perf_1y" title="Kursentwicklung letztes Jahr">1J</th>
-    <th data-key="payout_ratio_pct" title="Anteil des Gewinns, der als Dividende ausgeschuettet wird">Ausschuett.-Quote</th>
-    <th data-key="debt_to_equity" title="Verschuldung im Verhaeltnis zum Eigenkapital - niedriger ist sicherer">Verschuldung</th>
-    <th data-key="evaluation.risk" title="Gesamteinschaetzung des Risikos: niedrig/mittel/hoch, basierend auf Ausschuettungsquote und Verschuldung">Risiko</th>
+    <th data-key="rank" title="Rang innerhalb der Risikostufe, sortiert nach Rendite">Rang ⇅</th>
+    <th data-key="ticker" title="Boersenkuerzel">Ticker ⇅</th>
+    <th data-key="name" title="Vollstaendiger Firmenname">Name ⇅</th>
+    <th data-key="land" title="Land der Hauptbörse">Land ⇅</th>
+    <th data-key="sektor" title="Wirtschaftssektor">Sektor ⇅</th>
+    <th data-key="dividend_yield_pct" title="Aktuelle jaehrliche Dividendenrendite">Rendite ⇅</th>
+    <th data-key="perf_1m" title="Kursentwicklung letzter Monat">1M ⇅</th>
+    <th data-key="perf_3m" title="Kursentwicklung letzte 3 Monate">3M ⇅</th>
+    <th data-key="perf_1y" title="Kursentwicklung letztes Jahr">1J ⇅</th>
+    <th data-key="payout_ratio_pct" title="Anteil des Gewinns, der als Dividende ausgeschuettet wird">Ausschuett.-Quote ⇅</th>
+    <th data-key="debt_to_equity" title="Verschuldung im Verhaeltnis zum Eigenkapital - niedriger ist sicherer">Verschuldung ⇅</th>
+    <th data-key="risk_order" title="Gesamteinschaetzung des Risikos: niedrig/mittel/hoch, basierend auf Ausschuettungsquote und Verschuldung">Risiko ⇅</th>
     <th title="Position ins Dividendendepot uebernehmen"></th>
   </tr></thead>
   <tbody id="scanner-tbody"></tbody>
@@ -124,12 +134,40 @@ tr.gelb td{background:var(--yellowSoft);}
 <div id="detail-overlay" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;
      background:rgba(0,0,0,0.3);z-index:99;" onclick="closeDetail()"></div>
 
+<div id="depot-modal-overlay" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;
+     background:rgba(0,0,0,0.4);z-index:200;" onclick="closeDepotModal()"></div>
+<div id="depot-modal" style="display:none;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);
+     background:var(--bg);border-radius:12px;padding:26px;width:360px;z-index:201;box-shadow:0 10px 40px rgba(0,0,0,0.25);">
+  <h3 id="depot-modal-title" style="margin-top:0;color:var(--blue);"></h3>
+  <label style="display:block;font-size:12px;color:var(--muted);margin-bottom:4px;">Anzahl Anteile</label>
+  <input type="number" id="modal-anteile" step="0.0001" min="0" style="width:100%;padding:9px;margin-bottom:14px;border:1px solid var(--line);border-radius:6px;box-sizing:border-box;">
+  <label id="modal-kaufpreis-label" style="display:block;font-size:12px;color:var(--muted);margin-bottom:4px;">Kaufpreis pro Anteil</label>
+  <div style="display:flex;gap:6px;margin-bottom:14px;">
+    <input type="number" id="modal-kaufpreis" step="0.01" min="0" style="flex:2;padding:9px;border:1px solid var(--line);border-radius:6px;box-sizing:border-box;">
+    <select id="modal-waehrung" style="flex:1;padding:9px;border:1px solid var(--line);border-radius:6px;">
+      <option value="EUR">EUR</option><option value="USD">USD</option><option value="GBP">GBP</option>
+      <option value="CHF">CHF</option><option value="JPY">JPY</option><option value="HKD">HKD</option>
+      <option value="SGD">SGD</option>
+    </select>
+  </div>
+  <label style="display:block;font-size:12px;color:var(--muted);margin-bottom:4px;">Datum</label>
+  <input type="date" id="modal-datum" style="width:100%;padding:9px;margin-bottom:14px;border:1px solid var(--line);border-radius:6px;box-sizing:border-box;">
+  <label style="display:block;font-size:12px;color:var(--muted);margin-bottom:4px;">Kommission (in gewählter Währung)</label>
+  <input type="number" id="modal-kommission" step="0.01" min="0" value="0" style="width:100%;padding:9px;margin-bottom:6px;border:1px solid var(--line);border-radius:6px;box-sizing:border-box;">
+  <div style="font-size:11px;color:var(--muted);margin-bottom:16px;">Depot wird immer in EUR geführt - Umrechnung erfolgt automatisch (Näherungskurse).</div>
+  <div style="display:flex;gap:8px;">
+    <button class="action-btn" onclick="submitDepotModal()" style="flex:1;padding:10px;">Speichern</button>
+    <button class="action-btn" onclick="closeDepotModal()" style="flex:1;padding:10px;">Abbrechen</button>
+  </div>
+</div>
+
 
 <script>
 const PYTHON_DEPOT = [];
-const SCANNER = [{"ticker": "VOW3.DE", "name": "Volkswagen Vz.", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 7.44, "payout_ratio_pct": 31.37, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:15:55.406028", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 1}, {"ticker": "O2D.DE", "name": "Telefonica Deutschland", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 7.13, "payout_ratio_pct": -737.62, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de - ACHTUNG unplausible Ausschuett., moeglw. delisted (Stand 2026-08)", "land": "Deutschland", "sektor": "Telekom", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:13:00.810118", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 2}, {"ticker": "MBG.DE", "name": "Mercedes-Benz Group", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.97, "payout_ratio_pct": 59.4, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:05:50.269614", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 3}, {"ticker": "VNA.DE", "name": "Vonovia SE", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.19, "payout_ratio_pct": 51.42, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:14:56.400175", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 4}, {"ticker": "PAH3.DE", "name": "Porsche Automobil Holding", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.06, "payout_ratio_pct": 22.65, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:09:58.120504", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 5}, {"ticker": "LEG.DE", "name": "LEG Immobilien", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.91, "payout_ratio_pct": 34.04, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:01:48.336817", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 6}, {"ticker": "DWNI.DE", "name": "Deutsche Wohnen", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.91, "payout_ratio_pct": 46.17, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de - moeglw. delisted (Squeeze-out) (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T13:55:48.112385", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 7}, {"ticker": "LTC", "name": "LTC Properties Inc", "price": 40.71, "market_cap": 2172.9332586385003, "pe_ratio": 15.5551, "dividend_yield_pct": 5.3541, "payout_ratio_pct": 55.55, "debt_to_equity": 0.6126, "current_ratio": 1.4171, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": 40.31}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:06:53.571893", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 8}, {"ticker": "HNR1.DE", "name": "Hannover Rueck", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.16, "payout_ratio_pct": 56.66, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Versicherung", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:02:52.697122", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 9}, {"ticker": "SIX2.DE", "name": "Sixt SE", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.06, "payout_ratio_pct": 52.02, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Autovermietung", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-20T14:03:55.275426", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 10}, {"ticker": "PFE", "name": "Pfizer Inc", "price": 27.75, "market_cap": 160958.77511745464, "pe_ratio": 35.1938, "dividend_yield_pct": 6.4166, "payout_ratio_pct": 80.25, "debt_to_equity": 0.7418, "current_ratio": 1.2669, "data_source": "finnhub", "land": "USA", "sektor": "Gesundheit", "price_history": [{"date": "2026-08-19", "price": 27.25}, {"date": "2026-08-20", "price": 28.24}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-20T14:11:54.165098", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 11}, {"ticker": "MAIN", "name": "Main Street Capital Corp", "price": 58.6, "market_cap": 5439.387305760768, "pe_ratio": 12.8342, "dividend_yield_pct": 6.2756, "payout_ratio_pct": 80.54, "debt_to_equity": 0.8177, "current_ratio": 1.5239, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": 58.17}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-20T14:03:52.180318", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 12}, {"ticker": "VZ", "name": "Verizon Communications Inc", "price": 49.4, "market_cap": 191587.05, "pe_ratio": 12.0697, "dividend_yield_pct": 5.9598, "payout_ratio_pct": 71.93, "debt_to_equity": 1.59, "current_ratio": 0.6039, "data_source": "finnhub", "land": "USA", "sektor": "Telekom", "price_history": [{"date": "2026-08-19", "price": 48.54}, {"date": "2026-08-20", "price": 49.36}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-20T14:08:57.787922", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 13}, {"ticker": "EPD", "name": "Enterprise Products Partners L.P", "price": 38.33, "market_cap": 82319.27318237473, "pe_ratio": 13.9453, "dividend_yield_pct": 5.7192, "payout_ratio_pct": 79.76, "debt_to_equity": 1.1474, "current_ratio": 0.9103, "data_source": "finnhub", "land": "USA", "sektor": "Energie", "price_history": [{"date": "2026-08-19", "price": 38.08}, {"date": "2026-08-20", "price": 38.12}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-20T14:04:55.750163", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 14}, {"ticker": "DEQ.DE", "name": "Deutsche EuroShop", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.64, "payout_ratio_pct": 69.25, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-20T14:08:52.953590", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 15}, {"ticker": "SAX.DE", "name": "Stroeer SE", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.12, "payout_ratio_pct": 80.74, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Medien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-20T14:01:51.140094", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 16}, {"ticker": "PFLT", "name": "PennantPark Floating Rate Capital Ltd", "price": 7.37, "market_cap": 730.2437279125684, "pe_ratio": 14.9669, "dividend_yield_pct": 16.2268, "payout_ratio_pct": 170.04, "debt_to_equity": 1.5472, "current_ratio": 3.092, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-19", "price": 7.4}, {"date": "2026-08-20", "price": 7.36}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:08:51.757543", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 17}, {"ticker": "AGNC", "name": "AGNC Investment Corp", "price": 11.04, "market_cap": 13135.134505571428, "pe_ratio": 5.7244, "dividend_yield_pct": 13.5143, "payout_ratio_pct": 53.94, "debt_to_equity": 8.607, "current_ratio": 0.0079, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 11.03}, {"date": "2026-08-20", "price": 11.08}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:09:53.202748", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 18}, {"ticker": "DX", "name": "Dynex Capital Inc", "price": 13.33, "market_cap": 3308.065065243551, "pe_ratio": 7.4164, "dividend_yield_pct": 11.2632, "payout_ratio_pct": 50.68, "debt_to_equity": 7.1369, "current_ratio": 0.033, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 13.35}, {"date": "2026-08-20", "price": 13.33}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:14:57.320362", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 19}, {"ticker": "5401.T", "name": "Nippon Steel", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 10.89, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Grundstoffe", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T13:55:46.355463", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 20}, {"ticker": "ARCC", "name": "Ares Capital Corp", "price": 19.86, "market_cap": 14216.853240823588, "pe_ratio": 15.1009, "dividend_yield_pct": 9.1675, "payout_ratio_pct": 138.44, "debt_to_equity": 1.1355, "current_ratio": 1.0991, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-19", "price": 19.9}, {"date": "2026-08-20", "price": 19.8}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:11:56.378656", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 21}, {"ticker": "FNTN.DE", "name": "freenet", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 8.59, "payout_ratio_pct": 100.29, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de - ACHTUNG Ausschuett. >100% (Stand 2026-08)", "land": "Deutschland", "sektor": "Telekom", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T13:56:48.314141", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 22}, {"ticker": "7240.T", "name": "NOK Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 8.22, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T13:56:45.693568", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 23}, {"ticker": "BIP", "name": "Brookfield Infrastructure Partners LP", "price": 39.24, "market_cap": 18038.986200000003, "pe_ratio": 27.7097, "dividend_yield_pct": 8.0603, "payout_ratio_pct": 166.05, "debt_to_equity": 12.2348, "current_ratio": 0.8886, "data_source": "finnhub", "land": "Kanada", "sektor": "Infrastruktur", "price_history": [{"date": "2026-08-19", "price": 39.21}, {"date": "2026-08-20", "price": 39.42}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:01:49.875800", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 24}, {"ticker": "UVV", "name": "Universal Corp", "price": 45.13, "market_cap": 1261.3964303855325, "pe_ratio": 58.6546, "dividend_yield_pct": 7.2849, "payout_ratio_pct": 94.87, "debt_to_equity": 0.8524, "current_ratio": 2.5719, "data_source": "finnhub", "land": "USA", "sektor": "Tabak", "price_history": [{"date": "2026-08-19", "price": 44.96}, {"date": "2026-08-20", "price": 45.19}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:08:54.128804", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 25}, {"ticker": "1833.T", "name": "Okumura Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 7.02, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Industrie", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T13:55:50.256377", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 26}, {"ticker": "8985.T", "name": "Japan Hotel REIT", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.83, "payout_ratio_pct": 106.11, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan - ACHTUNG Ausschuett. >100% (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:15:56.745872", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 27}, {"ticker": "8963.T", "name": "Invincible Investment Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.82, "payout_ratio_pct": 112.42, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan - ACHTUNG Ausschuett. >100% (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:10:52.833353", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 28}, {"ticker": "8150.T", "name": "Sanshin Denki", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.81, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Industrie", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:06:57.879858", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 29}, {"ticker": "0010.HK", "name": "Hang Lung Group", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.8, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet China (Stand 2026-08)", "land": "China", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:07:52.354948", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 30}, {"ticker": "9364.T", "name": "Kamigumi", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.67, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Logistik", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:00:53.142914", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 31}, {"ticker": "8395.T", "name": "Hyakugo Bank", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.53, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:10:59.706174", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 32}, {"ticker": "MO", "name": "Altria Group Inc", "price": 66.26, "market_cap": 110253.19361357018, "pe_ratio": 13.7487, "dividend_yield_pct": 6.4423, "payout_ratio_pct": 88.57, "debt_to_equity": 8.6709, "current_ratio": 0.5176, "data_source": "finnhub", "land": "USA", "sektor": "Tabak", "price_history": [{"date": "2026-08-19", "price": 65.19}, {"date": "2026-08-20", "price": 66.03}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:02:50.289656", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 33}, {"ticker": "EPR", "name": "EPR Properties", "price": 61.22, "market_cap": 4644.032942876263, "pe_ratio": 18.0853, "dividend_yield_pct": 6.2424, "payout_ratio_pct": 112.9, "debt_to_equity": 1.4259, "current_ratio": 0.4999, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 60.16}, {"date": "2026-08-20", "price": 60.62}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:06:54.726468", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 34}, {"ticker": "7177.T", "name": "GMO Financial Holdings", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.14, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:11:59.064683", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 35}, {"ticker": "8616.T", "name": "Tokai Tokyo Financial Holdings", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.04, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:09:55.768401", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 36}, {"ticker": "DOC", "name": "Healthpeak Properties Inc", "price": 20.85, "market_cap": 14667.505504837573, "pe_ratio": 60.4316, "dividend_yield_pct": 5.7539, "payout_ratio_pct": 175.94, "debt_to_equity": 1.2788, "current_ratio": 2.2959, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 20.44}, {"date": "2026-08-20", "price": 20.76}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:03:53.387552", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 37}, {"ticker": "ENB", "name": "Enbridge Inc", "price": 51.22, "market_cap": 155965.549927, "pe_ratio": 25.5731, "dividend_yield_pct": 5.5984, "payout_ratio_pct": 143.17, "debt_to_equity": 1.7159, "current_ratio": 0.721, "data_source": "finnhub", "land": "Kanada", "sektor": "Energie", "price_history": [{"date": "2026-08-19", "price": 50.25}, {"date": "2026-08-20", "price": 50.25}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:03:50.735453", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 38}, {"ticker": "8972.T", "name": "Kenedix Office Investment Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.44, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:14:55.465293", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 39}, {"ticker": "8960.T", "name": "United Urban Investment Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.43, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:04:50.853134", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 40}, {"ticker": "5938.T", "name": "Lixil Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.14, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Baustoffe", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T13:59:49.767285", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 41}, {"ticker": "4183.T", "name": "Mitsui Chemicals", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.11, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Chemie", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:08:55.230758", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 42}, {"ticker": "3002.T", "name": "Gunze", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.1, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Konsumgueter", "price_history": [{"date": "2026-08-20", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:12:59.591040", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 43}, {"ticker": "WPC", "name": "W.p. Carey Inc", "price": 72.05, "market_cap": 16876.67, "pe_ratio": 24.7377, "dividend_yield_pct": 5.0469, "payout_ratio_pct": 124.85, "debt_to_equity": 1.0207, "current_ratio": 0.1955, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 71.04}, {"date": "2026-08-20", "price": 71.95}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:03:49.396578", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 44}, {"ticker": "O", "name": "Realty Income Corp", "price": 63.3, "market_cap": 59564.42717186627, "pe_ratio": 47.1475, "dividend_yield_pct": 5.0138, "payout_ratio_pct": 236.39, "debt_to_equity": 0.7779, "current_ratio": 0.6222, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 62.21}, {"date": "2026-08-20", "price": 62.95}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-20T14:06:56.818315", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 45}];
+const SCANNER = [{"ticker": "VOW3.DE", "name": "Volkswagen Vz.", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 7.44, "payout_ratio_pct": 31.37, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T07:07:28.792880", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 1}, {"ticker": "O2D.DE", "name": "Telefonica Deutschland", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 7.13, "payout_ratio_pct": -737.62, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de - ACHTUNG unplausible Ausschuett., moeglw. delisted (Stand 2026-08)", "land": "Deutschland", "sektor": "Telekom", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T06:55:26.157707", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 2}, {"ticker": "MBG.DE", "name": "Mercedes-Benz Group", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.97, "payout_ratio_pct": 59.4, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T07:06:31.882985", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 3}, {"ticker": "VNA.DE", "name": "Vonovia SE", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.19, "payout_ratio_pct": 51.42, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T07:08:29.938635", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 4}, {"ticker": "PAH3.DE", "name": "Porsche Automobil Holding", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.06, "payout_ratio_pct": 22.65, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T06:59:30.150256", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 5}, {"ticker": "DWNI.DE", "name": "Deutsche Wohnen", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.91, "payout_ratio_pct": 46.17, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de - moeglw. delisted (Squeeze-out) (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T07:00:31.871239", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 6}, {"ticker": "LEG.DE", "name": "LEG Immobilien", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.91, "payout_ratio_pct": 34.04, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T07:02:34.523266", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 7}, {"ticker": "LTC", "name": "LTC Properties Inc", "price": 40.75, "market_cap": 2196.651781685686, "pe_ratio": 15.5551, "dividend_yield_pct": 5.3541, "payout_ratio_pct": 55.55, "debt_to_equity": 0.6126, "current_ratio": 1.4171, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": 40.31}, {"date": "2026-08-21", "price": 40.75}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T07:02:31.850530", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 8}, {"ticker": "HNR1.DE", "name": "Hannover Rueck", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.16, "payout_ratio_pct": 56.66, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Versicherung", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T07:06:28.315434", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 9}, {"ticker": "SIX2.DE", "name": "Sixt SE", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.06, "payout_ratio_pct": 52.02, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Autovermietung", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "niedrig", "meets_min_yield": true}, "last_updated": "2026-08-21T06:56:18.655266", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 10}, {"ticker": "PFE", "name": "Pfizer Inc", "price": 27.79, "market_cap": 158393.92083085232, "pe_ratio": 35.1938, "dividend_yield_pct": 6.4166, "payout_ratio_pct": 80.25, "debt_to_equity": 0.7418, "current_ratio": 1.2669, "data_source": "finnhub", "land": "USA", "sektor": "Gesundheit", "price_history": [{"date": "2026-08-19", "price": 27.25}, {"date": "2026-08-20", "price": 28.24}, {"date": "2026-08-21", "price": 27.79}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-21T07:04:22.635857", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 11}, {"ticker": "MAIN", "name": "Main Street Capital Corp", "price": 58.4, "market_cap": 5460.893950352415, "pe_ratio": 12.8342, "dividend_yield_pct": 6.2756, "payout_ratio_pct": 80.54, "debt_to_equity": 0.8177, "current_ratio": 1.5239, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": 58.17}, {"date": "2026-08-21", "price": 58.4}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-21T06:57:20.489365", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "US56035L1044", "rank": 12}, {"ticker": "EPD", "name": "Enterprise Products Partners L.P", "price": 38.43, "market_cap": 82988.71011866948, "pe_ratio": 13.9453, "dividend_yield_pct": 5.7192, "payout_ratio_pct": 79.76, "debt_to_equity": 1.1474, "current_ratio": 0.9103, "data_source": "finnhub", "land": "USA", "sektor": "Energie", "price_history": [{"date": "2026-08-19", "price": 38.08}, {"date": "2026-08-20", "price": 38.12}, {"date": "2026-08-21", "price": 38.43}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-21T07:08:24.626608", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 13}, {"ticker": "VZ", "name": "Verizon Communications Inc.", "price": 49.19, "market_cap": 205395796400, "pe_ratio": 12.809895833333334, "dividend_yield_pct": 5.682049, "payout_ratio_pct": 71.93297056641109, "debt_to_equity": 1.8134911470361816, "current_ratio": 0.6039285656877401, "data_source": "fmp", "land": "USA", "sektor": "Telekom", "price_history": [{"date": "2026-08-19", "price": 48.54}, {"date": "2026-08-20", "price": 49.36}, {"date": "2026-08-21", "price": 49.19}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-21T06:54:20.653632", "perf_1m": 11.06, "perf_3m": 1.74, "perf_1y": 9.24, "isin": "US92343V1044", "rank": 14}, {"ticker": "DEQ.DE", "name": "Deutsche EuroShop", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.64, "payout_ratio_pct": 69.25, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-21T06:54:17.593422", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 15}, {"ticker": "SAX.DE", "name": "Stroeer SE", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.12, "payout_ratio_pct": 80.74, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de (Stand 2026-08)", "land": "Deutschland", "sektor": "Medien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "mittel", "meets_min_yield": true}, "last_updated": "2026-08-21T07:04:30.915189", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 16}, {"ticker": "PFLT", "name": "PennantPark Floating Rate Capital Ltd", "price": 7.37, "market_cap": 731.2359029728261, "pe_ratio": 14.9669, "dividend_yield_pct": 16.2268, "payout_ratio_pct": 170.04, "debt_to_equity": 1.5472, "current_ratio": 3.092, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-19", "price": 7.4}, {"date": "2026-08-20", "price": 7.36}, {"date": "2026-08-21", "price": 7.37}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:08:32.872152", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 17}, {"ticker": "AGNC", "name": "AGNC Investment Corp", "price": 10.92, "market_cap": 12945.45729405054, "pe_ratio": 5.7244, "dividend_yield_pct": 13.5143, "payout_ratio_pct": 53.94, "debt_to_equity": 8.607, "current_ratio": 0.0079, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 11.03}, {"date": "2026-08-20", "price": 11.08}, {"date": "2026-08-21", "price": 10.92}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:05:32.791883", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 18}, {"ticker": "DX", "name": "Dynex Capital Inc", "price": 13.25, "market_cap": 3288.21161684171, "pe_ratio": 7.4164, "dividend_yield_pct": 11.2632, "payout_ratio_pct": 50.68, "debt_to_equity": 7.1369, "current_ratio": 0.033, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 13.35}, {"date": "2026-08-20", "price": 13.33}, {"date": "2026-08-21", "price": 13.25}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:01:26.012353", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 19}, {"ticker": "5401.T", "name": "Nippon Steel", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 10.89, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Grundstoffe", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:58:27.978499", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 20}, {"ticker": "ARCC", "name": "Ares Capital Corp", "price": 19.78, "market_cap": 14202.492180789899, "pe_ratio": 15.1009, "dividend_yield_pct": 9.1675, "payout_ratio_pct": 138.44, "debt_to_equity": 1.1355, "current_ratio": 1.0991, "data_source": "finnhub", "land": "USA", "sektor": "Finanzen", "price_history": [{"date": "2026-08-19", "price": 19.9}, {"date": "2026-08-20", "price": 19.8}, {"date": "2026-08-21", "price": 19.78}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:51:17.590749", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "US04010L1035", "rank": 21}, {"ticker": "FNTN.DE", "name": "freenet", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 8.59, "payout_ratio_pct": 100.29, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "finanzen100.de - ACHTUNG Ausschuett. >100% (Stand 2026-08)", "land": "Deutschland", "sektor": "Telekom", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:54:22.780229", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 22}, {"ticker": "7240.T", "name": "NOK Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 8.22, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Automobil", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:09:28.501247", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 23}, {"ticker": "BIP", "name": "Brookfield Infrastructure Partners LP", "price": 38.94, "market_cap": 17819.3334, "pe_ratio": 27.7097, "dividend_yield_pct": 8.0603, "payout_ratio_pct": 166.05, "debt_to_equity": 12.2348, "current_ratio": 0.8886, "data_source": "finnhub", "land": "Kanada", "sektor": "Infrastruktur", "price_history": [{"date": "2026-08-19", "price": 39.21}, {"date": "2026-08-20", "price": 39.42}, {"date": "2026-08-21", "price": 38.94}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:59:20.113323", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "BMG162521014", "rank": 24}, {"ticker": "UVV", "name": "Universal Corp", "price": 45.52, "market_cap": 1129.9282778096926, "pe_ratio": 58.6546, "dividend_yield_pct": 7.2849, "payout_ratio_pct": 94.87, "debt_to_equity": 0.8524, "current_ratio": 2.5719, "data_source": "finnhub", "land": "USA", "sektor": "Tabak", "price_history": [{"date": "2026-08-19", "price": 44.96}, {"date": "2026-08-20", "price": 45.19}, {"date": "2026-08-21", "price": 45.52}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:57:25.720886", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "US9134561094", "rank": 25}, {"ticker": "1833.T", "name": "Okumura Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 7.02, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Industrie", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:01:31.854734", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 26}, {"ticker": "8985.T", "name": "Japan Hotel REIT", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.83, "payout_ratio_pct": 106.11, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan - ACHTUNG Ausschuett. >100% (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:07:32.357207", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 27}, {"ticker": "8963.T", "name": "Invincible Investment Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.82, "payout_ratio_pct": 112.42, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan - ACHTUNG Ausschuett. >100% (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:06:36.505371", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 28}, {"ticker": "8150.T", "name": "Sanshin Denki", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.81, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Industrie", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:08:34.861928", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 29}, {"ticker": "0010.HK", "name": "Hang Lung Group", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.8, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet China (Stand 2026-08)", "land": "China", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:54:19.356972", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 30}, {"ticker": "9364.T", "name": "Kamigumi", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.67, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Logistik", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:09:38.018053", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 31}, {"ticker": "8395.T", "name": "Hyakugo Bank", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.53, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:04:25.877692", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 32}, {"ticker": "MO", "name": "Altria Group Inc", "price": 66.94, "market_cap": 111772.65436471572, "pe_ratio": 13.7487, "dividend_yield_pct": 6.4423, "payout_ratio_pct": 88.57, "debt_to_equity": 8.6709, "current_ratio": 0.5176, "data_source": "finnhub", "land": "USA", "sektor": "Tabak", "price_history": [{"date": "2026-08-19", "price": 65.19}, {"date": "2026-08-20", "price": 66.03}, {"date": "2026-08-21", "price": 66.94}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:51:24.064433", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "US02209S1033", "rank": 33}, {"ticker": "EPR", "name": "EPR Properties", "price": 61.22, "market_cap": 4689.998298114153, "pe_ratio": 18.0853, "dividend_yield_pct": 6.2424, "payout_ratio_pct": 112.9, "debt_to_equity": 1.4259, "current_ratio": 0.4999, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 60.16}, {"date": "2026-08-20", "price": 60.62}, {"date": "2026-08-21", "price": 61.22}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:08:27.956729", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 34}, {"ticker": "7177.T", "name": "GMO Financial Holdings", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.14, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:56:26.512379", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 35}, {"ticker": "8616.T", "name": "Tokai Tokyo Financial Holdings", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 6.04, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Finanzen", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:56:20.330143", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 36}, {"ticker": "DOC", "name": "Healthpeak Properties Inc", "price": 21.2, "market_cap": 14978.377264971097, "pe_ratio": 60.4316, "dividend_yield_pct": 5.7539, "payout_ratio_pct": 175.94, "debt_to_equity": 1.2788, "current_ratio": 2.2959, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 20.44}, {"date": "2026-08-20", "price": 20.76}, {"date": "2026-08-21", "price": 21.2}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:53:23.872103", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "US42250P1030", "rank": 37}, {"ticker": "ENB", "name": "Enbridge Inc", "price": 50.99, "market_cap": 151772.093201, "pe_ratio": 25.5731, "dividend_yield_pct": 5.5984, "payout_ratio_pct": 143.17, "debt_to_equity": 1.7159, "current_ratio": 0.721, "data_source": "finnhub", "land": "Kanada", "sektor": "Energie", "price_history": [{"date": "2026-08-19", "price": 50.25}, {"date": "2026-08-20", "price": 50.25}, {"date": "2026-08-21", "price": 50.99}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:00:21.900504", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "CA29250N1050", "rank": 38}, {"ticker": "8972.T", "name": "Kenedix Office Investment Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.44, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:51:22.311014", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 39}, {"ticker": "8960.T", "name": "United Urban Investment Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.43, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Immobilien", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:02:24.873980", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 40}, {"ticker": "5938.T", "name": "Lixil Corp", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.14, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Baustoffe", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:03:35.023689", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 41}, {"ticker": "4183.T", "name": "Mitsui Chemicals", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.11, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Chemie", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:00:25.715368", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 42}, {"ticker": "3002.T", "name": "Gunze", "price": null, "market_cap": null, "pe_ratio": null, "dividend_yield_pct": 5.1, "payout_ratio_pct": null, "debt_to_equity": null, "current_ratio": null, "data_source": "manuell", "manual_source_note": "Parqet Japan (Stand 2026-08)", "land": "Japan", "sektor": "Konsumgueter", "price_history": [{"date": "2026-08-20", "price": null}, {"date": "2026-08-21", "price": null}], "evaluation": {"trap_warning": false, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:52:16.635500", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 43}, {"ticker": "WPC", "name": "W.p. Carey Inc", "price": 72.01, "market_cap": 16876.67, "pe_ratio": 24.7377, "dividend_yield_pct": 5.0469, "payout_ratio_pct": 124.85, "debt_to_equity": 1.0207, "current_ratio": 0.1955, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 71.04}, {"date": "2026-08-20", "price": 71.95}, {"date": "2026-08-21", "price": 72.01}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T06:53:25.811788", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": "US92936U1097", "rank": 44}, {"ticker": "O", "name": "Realty Income Corp", "price": 63.17, "market_cap": 59772.59675081922, "pe_ratio": 47.1475, "dividend_yield_pct": 5.0138, "payout_ratio_pct": 236.39, "debt_to_equity": 0.7779, "current_ratio": 0.6222, "data_source": "finnhub", "land": "USA", "sektor": "Immobilien", "price_history": [{"date": "2026-08-19", "price": 62.21}, {"date": "2026-08-20", "price": 62.95}, {"date": "2026-08-21", "price": 63.17}], "evaluation": {"trap_warning": true, "risk": "hoch", "meets_min_yield": true}, "last_updated": "2026-08-21T07:05:23.132038", "perf_1m": null, "perf_3m": null, "perf_1y": null, "isin": null, "rank": 45}];
 const DEPOT_KEY = 'dividendenatlas_depot';
 const YELLOW_PRICE_DROP_PCT = 5.0;
+const MIN_YIELD_PCT = 5.0;
 const DECLINE_TREND_DAYS = 5;
 
 document.getElementById('stand').textContent = new Date().toLocaleString('de-DE');
@@ -149,12 +187,22 @@ function getLocalDepot() {
 }
 function saveLocalDepot(list) { localStorage.setItem(DEPOT_KEY, JSON.stringify(list)); }
 
+// Naeherungswerte fuer Waehrungsumrechnung zu EUR, Stand August 2026.
+// Depot wird IMMER in EUR gefuehrt - gelegentlich manuell aktualisieren,
+// falls sich Wechselkurse deutlich verschieben.
+const FX_RATES_TO_EUR = {
+  EUR: 1.0, USD: 0.92, GBP: 1.17, CHF: 1.06, JPY: 0.0061, HKD: 0.118, SGD: 0.685
+};
+
 function aggregateTransactions(transactions) {
   let anteile = 0, kostenbasis = 0, erstesKaufdatum = null;
   transactions.forEach(t => {
     if (t.type === 'buy') {
+      // Kommission wird der Kostenbasis zugeschlagen - realistischer
+      // Ø-Kaufkurs inklusive Transaktionskosten.
+      const gesamtkosten = t.anteile * t.kurs_eur + (t.kommission_eur || 0);
       anteile += t.anteile;
-      kostenbasis += t.anteile * t.kurs;
+      kostenbasis += gesamtkosten;
       if (!erstesKaufdatum || t.datum < erstesKaufdatum) erstesKaufdatum = t.datum;
     } else if (t.type === 'sell') {
       // Durchschnittskosten-Methode: Verkauf reduziert Anteile UND
@@ -167,59 +215,77 @@ function aggregateTransactions(transactions) {
   });
   return {
     anteile: Math.round(anteile * 10000) / 10000,
-    kaufkurs: anteile > 0 ? kostenbasis / anteile : 0,
+    kaufkurs: anteile > 0 ? kostenbasis / anteile : 0,  // immer in EUR
     kaufdatum: erstesKaufdatum,
   };
 }
 
-function addToDepot(ticker) {
-  const anteile = parseFloat(prompt('Wie viele Anteile von ' + ticker + '?'));
-  if (!anteile || anteile <= 0) return;
-  const kurs = parseFloat(prompt('Zu welchem Kaufkurs pro Anteil (in $)?'));
-  if (!kurs || kurs <= 0) return;
-  const datum = new Date().toISOString().slice(0, 10);
-  const depot = getLocalDepot();
-  const existing = depot.find(d => d.ticker === ticker);
-  if (existing) {
-    existing.transactions.push({type: 'buy', anteile, kurs, datum});
-  } else {
-    depot.push({ticker, transactions: [{type: 'buy', anteile, kurs, datum}], next_payout_manual: null});
+// --- Ein einziges Formular-Fenster statt mehrerer Pop-ups -------------
+let depotModalContext = null;
+
+function openDepotModal(ticker, mode) {
+  depotModalContext = {ticker, mode};
+  const titel = mode === 'sell' ? 'Teilverkauf: ' : mode === 'buymore' ? 'Zukauf: ' : 'Ins Depot aufnehmen: ';
+  document.getElementById('depot-modal-title').textContent = titel + ticker;
+  document.getElementById('modal-anteile').value = '';
+  document.getElementById('modal-kaufpreis').value = '';
+  document.getElementById('modal-waehrung').value = 'EUR';
+  document.getElementById('modal-datum').value = new Date().toISOString().slice(0, 10);
+  document.getElementById('modal-kommission').value = '0';
+  document.getElementById('modal-kaufpreis-label').textContent = mode === 'sell' ? 'Verkaufspreis pro Anteil' : 'Kaufpreis pro Anteil';
+  document.getElementById('depot-modal').style.display = 'block';
+  document.getElementById('depot-modal-overlay').style.display = 'block';
+  document.getElementById('modal-anteile').focus();
+}
+
+function closeDepotModal() {
+  document.getElementById('depot-modal').style.display = 'none';
+  document.getElementById('depot-modal-overlay').style.display = 'none';
+  depotModalContext = null;
+}
+
+function submitDepotModal() {
+  const anteile = parseFloat(document.getElementById('modal-anteile').value);
+  const kaufpreis = parseFloat(document.getElementById('modal-kaufpreis').value);
+  const waehrung = document.getElementById('modal-waehrung').value;
+  const datum = document.getElementById('modal-datum').value;
+  const kommission = parseFloat(document.getElementById('modal-kommission').value) || 0;
+  if (!anteile || anteile <= 0 || !kaufpreis || kaufpreis <= 0 || !datum) {
+    alert('Bitte Anteile, Preis und Datum ausfuellen.');
+    return;
   }
-  saveLocalDepot(depot);
-  renderDepot();
-}
-
-function buyMore(ticker) {
-  const anteile = parseFloat(prompt('Zukauf: wie viele weitere Anteile von ' + ticker + '?'));
-  if (!anteile || anteile <= 0) return;
-  const kurs = parseFloat(prompt('Zu welchem Kurs pro Anteil (in $)?'));
-  if (!kurs || kurs <= 0) return;
+  const rate = FX_RATES_TO_EUR[waehrung] || 1.0;
+  const kurs_eur = kaufpreis * rate;
+  const kommission_eur = kommission * rate;
+  const {ticker, mode} = depotModalContext;
   const depot = getLocalDepot();
-  const pos = depot.find(d => d.ticker === ticker);
-  if (!pos) { alert('Diese Position wurde ueber my_depot.json angelegt - Zukaeufe dort bitte direkt in der Datei ergaenzen.'); return; }
-  pos.transactions.push({type: 'buy', anteile, kurs, datum: new Date().toISOString().slice(0, 10)});
-  saveLocalDepot(depot);
-  renderDepot();
-}
+  let pos = depot.find(d => d.ticker === ticker);
 
-function sellPartial(ticker) {
-  const depot = getLocalDepot();
-  const pos = depot.find(d => d.ticker === ticker);
-  if (!pos) { alert('Diese Position wurde ueber my_depot.json angelegt - Verkaeufe dort bitte direkt in der Datei erfassen.'); return; }
-  const agg = aggregateTransactions(pos.transactions);
-  const anteile = parseFloat(prompt(`Teilverkauf: wie viele der aktuell ${agg.anteile} Anteile von ${ticker} verkaufen?`));
-  if (!anteile || anteile <= 0 || anteile > agg.anteile) { if (anteile > agg.anteile) alert('Mehr Anteile als vorhanden.'); return; }
-  const kurs = parseFloat(prompt('Zu welchem Verkaufskurs pro Anteil (in $)?'));
-  if (!kurs || kurs <= 0) return;
-  pos.transactions.push({type: 'sell', anteile, kurs, datum: new Date().toISOString().slice(0, 10)});
-  if (aggregateTransactions(pos.transactions).anteile <= 0) {
-    // Position komplett verkauft - ganz aus dem Depot entfernen
-    saveLocalDepot(depot.filter(d => d.ticker !== ticker));
+  if (mode === 'sell') {
+    if (!pos) { alert('Diese Position wurde ueber my_depot.json angelegt - Verkaeufe dort bitte direkt in der Datei erfassen.'); closeDepotModal(); return; }
+    const agg = aggregateTransactions(pos.transactions);
+    if (anteile > agg.anteile) { alert(`Nur ${agg.anteile} Anteile vorhanden.`); return; }
+    pos.transactions.push({type: 'sell', anteile, kurs_eur, kommission_eur, datum});
+    if (aggregateTransactions(pos.transactions).anteile <= 0) {
+      saveLocalDepot(depot.filter(d => d.ticker !== ticker));
+    } else {
+      saveLocalDepot(depot);
+    }
   } else {
+    if (pos) {
+      pos.transactions.push({type: 'buy', anteile, kurs_eur, kommission_eur, datum});
+    } else {
+      depot.push({ticker, transactions: [{type: 'buy', anteile, kurs_eur, kommission_eur, datum}], next_payout_manual: null});
+    }
     saveLocalDepot(depot);
   }
+  closeDepotModal();
   renderDepot();
 }
+
+function addToDepot(ticker) { openDepotModal(ticker, 'add'); }
+function buyMore(ticker) { openDepotModal(ticker, 'buymore'); }
+function sellPartial(ticker) { openDepotModal(ticker, 'sell'); }
 
 function removeFromDepot(ticker) {
   const depot = getLocalDepot().filter(d => d.ticker !== ticker);
@@ -239,9 +305,25 @@ function isDecliningTrend(priceHistory) {
   return {declining: true, reason: `seit ${days} Laeufen ruecklaeufig (${prices[0].toFixed(2)} -> ${prices[prices.length-1].toFixed(2)})`};
 }
 
+function inferCurrency(ticker) {
+  if (ticker.endsWith('.L')) return 'GBP';
+  if (ticker.endsWith('.SW')) return 'CHF';
+  if (ticker.endsWith('.T')) return 'JPY';
+  if (ticker.endsWith('.HK')) return 'HKD';
+  if (ticker.endsWith('.SI')) return 'SGD';
+  if (ticker.endsWith('.DE') || ticker.endsWith('.PA') || ticker.endsWith('.MC') || ticker.endsWith('.MI')) return 'EUR';
+  return 'USD';
+}
+
 function evaluateDepotPosition(agg, current) {
-  const kaufkurs = agg.kaufkurs;
-  const price = current.price;
+  const kaufkurs = agg.kaufkurs;  // immer in EUR
+  // WICHTIG: current.price kommt aus der Watchlist in der Original-
+  // Waehrung (z.B. USD/GBP/JPY) - fuer einen korrekten Vergleich mit dem
+  // EUR-Kaufkurs muss er erst umgerechnet werden, sonst waeren Kursentw.
+  // und Rendite auf Kaufkurs falsch (unterschiedliche Waehrungen).
+  const ccy = inferCurrency(current.ticker || '');
+  const rate = FX_RATES_TO_EUR[ccy] || 1.0;
+  const price = current.price !== null && current.price !== undefined ? current.price * rate : null;
   const payout = current.payout_ratio_pct;
 
   const gainPct = (price && kaufkurs) ? ((price - kaufkurs) / kaufkurs * 100) : null;
@@ -283,11 +365,12 @@ function buildDepotView() {
   const localDepot = getLocalDepot();
   // Python-Positionen (my_depot.json, altes Format ohne Transaktionen)
   // in eine synthetische Transaktion umwandeln, damit beide Quellen
-  // einheitlich behandelt werden koennen.
+  // einheitlich behandelt werden koennen. my_depot.json-Werte werden als
+  // bereits in EUR angenommen (keine Waehrungsangabe dort vorgesehen).
   const pythonAsTransactions = PYTHON_DEPOT.map(d => ({
     ticker: d.ticker, _source: 'python', current: d.current,
     next_payout_manual: d.next_payout_manual,
-    transactions: [{type: 'buy', anteile: d.anteile, kurs: d.kaufkurs, datum: d.kaufdatum}],
+    transactions: [{type: 'buy', anteile: d.anteile, kurs_eur: d.kaufkurs, kommission_eur: 0, datum: d.kaufdatum}],
   }));
   const localAsTransactions = localDepot.map(d => ({...d, _source: 'local'}));
   const combined = [...pythonAsTransactions, ...localAsTransactions];
@@ -329,14 +412,17 @@ function renderDepot() {
          <button class="action-btn" onclick="sellPartial('${d.ticker}')" title="Teil verkaufen">− Verkauf</button>
          <button class="action-btn" onclick="removeFromDepot('${d.ticker}')" title="Komplett entfernen">🗑</button>`
       : `<span style="color:var(--muted);font-size:11px;">via my_depot.json</span>`;
+    const ccy = inferCurrency(d.ticker);
+    const rate = FX_RATES_TO_EUR[ccy] || 1.0;
+    const preisEur = (c.price !== null && c.price !== undefined) ? c.price * rate : null;
     tr.innerHTML = `
       <td><span class="ampel ${ev.status}"></span></td>
       <td><strong>${d.ticker}</strong></td>
       <td>${c.name || ''}</td>
       <td>${d.anteile}</td>
-      <td>${fmt(d.kaufkurs, ' $')}</td>
+      <td>${fmt(d.kaufkurs, ' €')}</td>
       <td>${d.kaufdatum || '–'}</td>
-      <td>${fmt(c.price, ' $')}</td>
+      <td>${fmt(preisEur, ' €')}${ccy !== 'EUR' && preisEur !== null ? `<br><span style="color:var(--muted);font-size:10px;">(${fmt(c.price)} ${ccy})</span>` : ''}</td>
       <td class="yield">${fmt(ev.gain_pct, '%')}</td>
       <td class="yield">${fmt(ev.rendite_auf_kaufkurs, '%')}</td>
       <td>${fmt(c.dividend_yield_pct, '%')}</td>
@@ -362,10 +448,63 @@ function perfCell(v) {
   return `<td class="${cls}">${v >= 0 ? '+' : ''}${fmt(v)}%</td>`;
 }
 
+function buildSWOT(r) {
+  const staerken = [], schwaechen = [], chancen = [], risiken = [];
+  const yield_ = r.dividend_yield_pct, payout = r.payout_ratio_pct, debt = r.debt_to_equity;
+
+  // Staerken/Schwaechen: aus den Kennzahlen selbst abgeleitet, keine
+  // erfundenen Aussagen zu Marke/Management/Wettbewerb - nur das, was
+  // die Zahlen tatsaechlich hergeben.
+  if (payout !== null && payout !== undefined) {
+    if (payout <= 50) staerken.push(`Niedrige Ausschuettungsquote (${payout.toFixed(1)}%) - viel Spielraum, auch in schwaecheren Jahren die Dividende zu halten`);
+    else if (payout <= 85) staerken.push(`Ausschuettungsquote (${payout.toFixed(1)}%) noch im ueblichen Rahmen`);
+    else if (payout <= 100) schwaechen.push(`Hohe Ausschuettungsquote (${payout.toFixed(1)}%) - wenig Puffer bei Gewinnrueckgang`);
+    else schwaechen.push(`Ausschuettungsquote ueber 100% (${payout.toFixed(1)}%) - es wird mehr ausgeschuettet als verdient, nicht dauerhaft durchhaltbar`);
+  } else {
+    schwaechen.push('Ausschuettungsquote nicht bekannt - Nachhaltigkeit der Dividende laesst sich nicht einschaetzen');
+  }
+
+  if (debt !== null && debt !== undefined) {
+    if (debt <= 1.0) staerken.push(`Niedrige Verschuldung (D/E ${debt.toFixed(2)}) - finanziell solide aufgestellt`);
+    else if (debt <= 2.0) staerken.push(`Verschuldung (D/E ${debt.toFixed(2)}) im akzeptablen Rahmen`);
+    else schwaechen.push(`Hohe Verschuldung (D/E ${debt.toFixed(2)}) - anfaelliger bei steigenden Zinsen oder Gewinneinbruch`);
+  } else {
+    schwaechen.push('Verschuldungsgrad nicht bekannt');
+  }
+
+  if (r.perf_1y !== null && r.perf_1y !== undefined) {
+    if (r.perf_1y > 0) staerken.push(`Kurs im letzten Jahr um ${r.perf_1y.toFixed(1)}% gestiegen`);
+    else schwaechen.push(`Kurs im letzten Jahr um ${Math.abs(r.perf_1y).toFixed(1)}% gefallen`);
+  }
+
+  // Chancen/Risiken: aus der Kombination der Werte und dem Risiko-Modell
+  if (yield_ !== null && yield_ !== undefined && yield_ >= MIN_YIELD_PCT && r.evaluation.risk !== 'hoch') {
+    chancen.push(`Solide Rendite (${yield_.toFixed(2)}%) bei vertretbarem Risiko - passt zum Renditeziel, ohne offensichtliche Warnsignale`);
+  }
+  if (r.evaluation.trap_warning) {
+    risiken.push('Kombination aus sehr hoher Rendite und hoher/unplausibler Ausschuettungsquote - typisches Muster einer Dividenden-Kuerzung in der Zukunft');
+  }
+  if (r.data_source === 'manuell') {
+    risiken.push('Kein Live-Kurs verfuegbar - diese Einschaetzung basiert auf einer einmaligen Recherche, nicht auf aktuellen Zahlen');
+  }
+  if (r.perf_1m !== null && r.perf_1m !== undefined && r.perf_1m < -10) {
+    risiken.push(`Deutlicher Kursrueckgang im letzten Monat (${r.perf_1m.toFixed(1)}%) - koennte auf ein aktuelles Problem hindeuten, das noch nicht in Ausschuettungsquote/Verschuldung sichtbar ist`);
+  }
+  if (chancen.length === 0) chancen.push('Keine besondere Chance ueber die Basis-Rendite hinaus erkennbar aus den vorliegenden Zahlen');
+  if (risiken.length === 0) risiken.push('Keine ueber die Risikostufe hinausgehenden Auffaelligkeiten in den vorliegenden Zahlen');
+
+  return {staerken, schwaechen, chancen, risiken};
+}
+
+function swotList(items) {
+  return '<ul style="margin:4px 0;padding-left:18px;font-size:12px;">' + items.map(i => `<li>${i}</li>`).join('') + '</ul>';
+}
+
 function showDetail(ticker) {
   const r = SCANNER.find(s => s.ticker === ticker);
   if (!r) return;
   const ev = r.evaluation;
+  const swot = buildSWOT(r);
   document.getElementById('detail-content').innerHTML = `
     <span class="close-btn" onclick="closeDetail()">×</span>
     <h3>${r.name || r.ticker} (${r.ticker})</h3>
@@ -392,7 +531,23 @@ function showDetail(ticker) {
       Hoch: alles darueber, oder Ausschuettungsquote >100% / Rendite >12% (typisches Dividenden-Fallen-Muster)
     </p>
     ${ev.trap_warning ? '<p style="color:var(--red);"><strong>⚠ Moegliche Dividenden-Falle</strong> - die hohe Rendite koennte Symptom eines Kurseinbruchs oder einer nicht finanzierbaren Ausschuettung sein, keine echte Chance.</p>' : ''}
-    <button class="action-btn" style="margin-top:12px;" onclick="addToDepot('${r.ticker}'); closeDetail();">→ ins Dividendendepot</button>
+
+    <h3 style="margin-top:20px;">SWOT-Analyse (datenbasiert)</h3>
+    <p style="font-size:11px;color:var(--muted);font-style:italic;margin-top:-6px;">Abgeleitet ausschliesslich aus den obigen Kennzahlen - keine qualitativen Aussagen zu Geschaeftsmodell/Management, die wir nicht belegen koennen.</p>
+    <div style="background:var(--greenSoft);border-left:3px solid var(--green);padding:8px 12px;margin-top:8px;border-radius:4px;">
+      <strong style="color:var(--green);font-size:12px;">Staerken</strong>${swotList(swot.staerken)}
+    </div>
+    <div style="background:var(--redSoft);border-left:3px solid var(--red);padding:8px 12px;margin-top:8px;border-radius:4px;">
+      <strong style="color:var(--red);font-size:12px;">Schwaechen</strong>${swotList(swot.schwaechen)}
+    </div>
+    <div style="background:var(--blueSoft);border-left:3px solid var(--blue);padding:8px 12px;margin-top:8px;border-radius:4px;">
+      <strong style="color:var(--blue);font-size:12px;">Chancen</strong>${swotList(swot.chancen)}
+    </div>
+    <div style="background:var(--yellowSoft);border-left:3px solid var(--yellow);padding:8px 12px;margin-top:8px;border-radius:4px;">
+      <strong style="color:var(--yellow);font-size:12px;">Risiken</strong>${swotList(swot.risiken)}
+    </div>
+
+    <button class="action-btn" style="margin-top:16px;" onclick="addToDepot('${r.ticker}'); closeDetail();">→ ins Dividendendepot</button>
   `;
   document.getElementById('detail-panel').style.display = 'block';
   document.getElementById('detail-overlay').style.display = 'block';
@@ -403,7 +558,9 @@ function closeDetail() {
   document.getElementById('detail-overlay').style.display = 'none';
 }
 
-let riskFilter = 'alle';
+let riskFilter = 'alle', landFilter = 'alle', sektorFilter = 'alle';
+let scannerSortKey = 'rank', scannerSortDir = 1;
+const RISK_ORDER_JS = {niedrig: 0, mittel: 1, hoch: 2};
 
 function setRiskFilter(risk) {
   riskFilter = risk;
@@ -413,10 +570,42 @@ function setRiskFilter(risk) {
   renderScanner();
 }
 
+function setLandFilter(land) { landFilter = land; renderScanner(); }
+function setSektorFilter(sektor) { sektorFilter = sektor; renderScanner(); }
+
+function populateFilterDropdowns() {
+  const laender = [...new Set(SCANNER.map(r => r.land))].sort();
+  const sektoren = [...new Set(SCANNER.map(r => r.sektor))].sort();
+  const landSel = document.getElementById('land-filter');
+  laender.forEach(l => { const o = document.createElement('option'); o.value = l; o.textContent = l; landSel.appendChild(o); });
+  const sektorSel = document.getElementById('sektor-filter');
+  sektoren.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; sektorSel.appendChild(o); });
+}
+
+function sortValue(r, key) {
+  if (key === 'risk_order') return RISK_ORDER_JS[r.evaluation.risk];
+  if (key === 'payout_ratio_pct' || key === 'debt_to_equity' || key === 'perf_1m' || key === 'perf_3m' || key === 'perf_1y') {
+    const v = r[key];
+    return (v === null || v === undefined) ? -Infinity : v;
+  }
+  return r[key];
+}
+
 function renderScanner() {
   const tbody = document.getElementById('scanner-tbody');
   tbody.innerHTML = '';
-  const filtered = riskFilter === 'alle' ? SCANNER : SCANNER.filter(r => r.evaluation.risk === riskFilter);
+  let filtered = SCANNER.filter(r =>
+    (riskFilter === 'alle' || r.evaluation.risk === riskFilter) &&
+    (landFilter === 'alle' || r.land === landFilter) &&
+    (sektorFilter === 'alle' || r.sektor === sektorFilter)
+  );
+  filtered.sort((a, b) => {
+    let av = sortValue(a, scannerSortKey), bv = sortValue(b, scannerSortKey);
+    if (av === null || av === undefined) av = typeof bv === 'string' ? '' : -Infinity;
+    if (bv === null || bv === undefined) bv = typeof av === 'string' ? '' : -Infinity;
+    if (typeof av === 'string') return scannerSortDir * av.localeCompare(bv);
+    return scannerSortDir * (av - bv);
+  });
   document.getElementById('scanner-count').textContent = filtered.length;
   filtered.forEach(r => {
     const ev = r.evaluation;
@@ -443,6 +632,15 @@ function renderScanner() {
   });
 }
 
+document.getElementById('scanner-tbl').addEventListener('click', e => {
+  const th = e.target.closest('th[data-key]');
+  if (!th) return;
+  const key = th.dataset.key;
+  if (scannerSortKey === key) scannerSortDir *= -1; else { scannerSortKey = key; scannerSortDir = 1; }
+  renderScanner();
+});
+
+populateFilterDropdowns();
 renderDepot();
 renderScanner();
 </script>
