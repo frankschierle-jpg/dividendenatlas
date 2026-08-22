@@ -2,10 +2,10 @@
   "XOM": {
     "ticker": "XOM",
     "name": "Exxon Mobil Corporation",
-    "price": 166.325,
-    "market_cap": 689327309500,
-    "pe_ratio": 21.489018087855293,
-    "dividend_yield_pct": 2.477078,
+    "price": 165.11,
+    "market_cap": 684291790600,
+    "pe_ratio": 21.24967824967825,
+    "dividend_yield_pct": 2.495306,
     "payout_ratio_pct": 52.63302500228959,
     "debt_to_equity": 0.16334335723648702,
     "current_ratio": 1.1346729708431835,
@@ -24,6 +24,10 @@
       {
         "date": "2026-08-21",
         "price": 166.325
+      },
+      {
+        "date": "2026-08-22",
+        "price": 165.11
       }
     ],
     "evaluation": {
@@ -31,7 +35,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:51:14.664137",
+    "last_updated": "2026-08-22T07:04:50.838595",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -40,8 +44,8 @@
   "MCD": {
     "ticker": "MCD",
     "name": "McDonald's Corp",
-    "price": 269.13,
-    "market_cap": 190447.56006780572,
+    "price": 270.95,
+    "market_cap": 191735.4623470421,
     "pe_ratio": 22.3141,
     "dividend_yield_pct": 2.6651,
     "payout_ratio_pct": 59.47,
@@ -62,6 +66,10 @@
       {
         "date": "2026-08-21",
         "price": 269.13
+      },
+      {
+        "date": "2026-08-22",
+        "price": 270.95
       }
     ],
     "evaluation": {
@@ -69,7 +77,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:09:30.171154",
+    "last_updated": "2026-08-22T06:49:43.911218",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -77,15 +85,15 @@
   },
   "CVX": {
     "ticker": "CVX",
-    "name": "Chevron Corp",
-    "price": 205.77,
-    "market_cap": 406554.4372488749,
-    "pe_ratio": 18.9191,
-    "dividend_yield_pct": 3.5586,
-    "payout_ratio_pct": 67.33,
-    "debt_to_equity": 0.1953,
-    "current_ratio": 1.2522,
-    "data_source": "finnhub",
+    "name": "Chevron Corporation",
+    "price": 205.24,
+    "market_cap": 408755984000,
+    "pe_ratio": 19.602674307545367,
+    "dividend_yield_pct": 3.4350029999999996,
+    "payout_ratio_pct": 67.32553057160897,
+    "debt_to_equity": 0.19525181295850602,
+    "current_ratio": 1.3582040277319247,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -100,6 +108,10 @@
       {
         "date": "2026-08-21",
         "price": 205.77
+      },
+      {
+        "date": "2026-08-22",
+        "price": 205.24
       }
     ],
     "evaluation": {
@@ -107,7 +119,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:03:26.838889",
+    "last_updated": "2026-08-22T06:50:46.692497",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -116,8 +128,8 @@
   "BDX": {
     "ticker": "BDX",
     "name": "Becton Dickinson and Co",
-    "price": 187.62,
-    "market_cap": 51105.21501138326,
+    "price": 192,
+    "market_cap": 52298.26621707707,
     "pe_ratio": 53.2137,
     "dividend_yield_pct": 2.338,
     "payout_ratio_pct": 70.39,
@@ -138,6 +150,10 @@
       {
         "date": "2026-08-21",
         "price": 187.62
+      },
+      {
+        "date": "2026-08-22",
+        "price": 192
       }
     ],
     "evaluation": {
@@ -145,7 +161,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:10:25.628563",
+    "last_updated": "2026-08-22T06:56:50.263321",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -154,14 +170,14 @@
   "JNJ": {
     "ticker": "JNJ",
     "name": "Johnson & Johnson",
-    "price": 267.37,
-    "market_cap": 644334539486,
-    "pe_ratio": 30.909826589595376,
-    "dividend_yield_pct": 1.959831,
-    "payout_ratio_pct": 59.99429576460522,
-    "debt_to_equity": 0.5770910075202128,
-    "current_ratio": 1.0888787685581565,
-    "data_source": "fmp",
+    "price": 270.24,
+    "market_cap": 651250.9418563116,
+    "pe_ratio": 29.9333,
+    "dividend_yield_pct": 2.0043,
+    "payout_ratio_pct": 59.99,
+    "debt_to_equity": 0.5771,
+    "current_ratio": 1.0889,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Gesundheit",
     "price_history": [
@@ -176,6 +192,10 @@
       {
         "date": "2026-08-21",
         "price": 267.37
+      },
+      {
+        "date": "2026-08-22",
+        "price": 270.24
       }
     ],
     "evaluation": {
@@ -183,7 +203,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:52:19.226642",
+    "last_updated": "2026-08-22T07:04:57.223261",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -192,8 +212,8 @@
   "ED": {
     "ticker": "ED",
     "name": "Consolidated Edison Inc",
-    "price": 108.31,
-    "market_cap": 39915.45441947732,
+    "price": 106.35,
+    "market_cap": 39193.135277001194,
     "pe_ratio": 17.9511,
     "dividend_yield_pct": 3.0504,
     "payout_ratio_pct": 54.76,
@@ -214,6 +234,10 @@
       {
         "date": "2026-08-21",
         "price": 108.31
+      },
+      {
+        "date": "2026-08-22",
+        "price": 106.35
       }
     ],
     "evaluation": {
@@ -221,7 +245,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:54:24.424743",
+    "last_updated": "2026-08-22T06:53:46.144804",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -230,8 +254,8 @@
   "MMM": {
     "ticker": "MMM",
     "name": "3M Co",
-    "price": 178.09,
-    "market_cap": 91845.00623401639,
+    "price": 178.96,
+    "market_cap": 92293.68097330922,
     "pe_ratio": 31.1722,
     "dividend_yield_pct": 1.7009,
     "payout_ratio_pct": 53.02,
@@ -252,6 +276,10 @@
       {
         "date": "2026-08-21",
         "price": 178.09
+      },
+      {
+        "date": "2026-08-22",
+        "price": 178.96
       }
     ],
     "evaluation": {
@@ -259,7 +287,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:56:28.195419",
+    "last_updated": "2026-08-22T07:02:55.087600",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -268,8 +296,8 @@
   "GWW": {
     "ticker": "GWW",
     "name": "WW Grainger Inc",
-    "price": 1300.34,
-    "market_cap": 61247.2349475744,
+    "price": 1312.24,
+    "market_cap": 61807.73680565257,
     "pe_ratio": 32.8684,
     "dividend_yield_pct": 0.8054,
     "payout_ratio_pct": 26.47,
@@ -290,6 +318,10 @@
       {
         "date": "2026-08-21",
         "price": 1300.34
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1312.24
       }
     ],
     "evaluation": {
@@ -297,7 +329,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:52:18.322771",
+    "last_updated": "2026-08-22T07:02:53.955081",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -306,10 +338,10 @@
   "WMT": {
     "ticker": "WMT",
     "name": "Walmart Inc.",
-    "price": 103.84,
-    "market_cap": 826367027200,
-    "pe_ratio": 37.487364620938635,
-    "dividend_yield_pct": 0.941352,
+    "price": 103.7,
+    "market_cap": 825252896000,
+    "pe_ratio": 37.43682310469315,
+    "dividend_yield_pct": 0.9426230000000001,
     "payout_ratio_pct": 34.86591773872078,
     "debt_to_equity": 0.7507787210651683,
     "current_ratio": 0.7671279079823575,
@@ -328,6 +360,10 @@
       {
         "date": "2026-08-21",
         "price": 103.84
+      },
+      {
+        "date": "2026-08-22",
+        "price": 103.7
       }
     ],
     "evaluation": {
@@ -335,7 +371,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:53:27.314987",
+    "last_updated": "2026-08-22T07:00:52.194378",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -344,8 +380,8 @@
   "CTAS": {
     "ticker": "CTAS",
     "name": "Cintas Corp",
-    "price": 203.52,
-    "market_cap": 81442.50870307977,
+    "price": 203.79,
+    "market_cap": 81550.55546029688,
     "pe_ratio": 40.4028,
     "dividend_yield_pct": 0.8681,
     "payout_ratio_pct": 35.07,
@@ -366,6 +402,10 @@
       {
         "date": "2026-08-21",
         "price": 203.52
+      },
+      {
+        "date": "2026-08-22",
+        "price": 203.79
       }
     ],
     "evaluation": {
@@ -373,7 +413,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:52:25.575661",
+    "last_updated": "2026-08-22T07:06:58.231832",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -382,8 +422,8 @@
   "AFL": {
     "ticker": "AFL",
     "name": "Aflac Inc",
-    "price": 116.17,
-    "market_cap": 58241.05487213844,
+    "price": 116.07,
+    "market_cap": 58190.9185545151,
     "pe_ratio": 13.0483,
     "dividend_yield_pct": 1.9771,
     "payout_ratio_pct": 25.8,
@@ -404,6 +444,10 @@
       {
         "date": "2026-08-21",
         "price": 116.17
+      },
+      {
+        "date": "2026-08-22",
+        "price": 116.07
       }
     ],
     "evaluation": {
@@ -411,7 +455,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:51:16.165569",
+    "last_updated": "2026-08-22T06:57:50.108180",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -420,8 +464,8 @@
   "PFE": {
     "ticker": "PFE",
     "name": "Pfizer Inc",
-    "price": 27.79,
-    "market_cap": 158393.92083085232,
+    "price": 28.07,
+    "market_cap": 159989.83591972798,
     "pe_ratio": 35.1938,
     "dividend_yield_pct": 6.4166,
     "payout_ratio_pct": 80.25,
@@ -442,6 +486,10 @@
       {
         "date": "2026-08-21",
         "price": 27.79
+      },
+      {
+        "date": "2026-08-22",
+        "price": 28.07
       }
     ],
     "evaluation": {
@@ -449,7 +497,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:04:22.635857",
+    "last_updated": "2026-08-22T07:05:55.507341",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -458,8 +506,8 @@
   "PPG": {
     "ticker": "PPG",
     "name": "PPG Industries Inc",
-    "price": 112.44,
-    "market_cap": 24995.4119417665,
+    "price": 113.63,
+    "market_cap": 25259.94989537691,
     "pe_ratio": 16.2553,
     "dividend_yield_pct": 2.4928,
     "payout_ratio_pct": 40.52,
@@ -480,6 +528,10 @@
       {
         "date": "2026-08-21",
         "price": 112.44
+      },
+      {
+        "date": "2026-08-22",
+        "price": 113.63
       }
     ],
     "evaluation": {
@@ -487,7 +539,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:51:20.909502",
+    "last_updated": "2026-08-22T06:56:49.672107",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -496,8 +548,8 @@
   "FRT": {
     "ticker": "FRT",
     "name": "Federal Realty Investment Trust",
-    "price": 117.25,
-    "market_cap": 10249.471574895795,
+    "price": 116.74,
+    "market_cap": 10204.889863804861,
     "pe_ratio": 23.8262,
     "dividend_yield_pct": 3.7903,
     "payout_ratio_pct": 90.31,
@@ -518,6 +570,10 @@
       {
         "date": "2026-08-21",
         "price": 117.25
+      },
+      {
+        "date": "2026-08-22",
+        "price": 116.74
       }
     ],
     "evaluation": {
@@ -525,7 +581,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:53:18.506852",
+    "last_updated": "2026-08-22T06:56:49.074657",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -534,8 +590,8 @@
   "NUE": {
     "ticker": "NUE",
     "name": "Nucor Corp",
-    "price": 240.48,
-    "market_cap": 54559.06265996044,
+    "price": 243.63,
+    "market_cap": 55273.718838174405,
     "pe_ratio": 26.5678,
     "dividend_yield_pct": 0.8267,
     "payout_ratio_pct": 21.96,
@@ -556,6 +612,10 @@
       {
         "date": "2026-08-21",
         "price": 240.48
+      },
+      {
+        "date": "2026-08-22",
+        "price": 243.63
       }
     ],
     "evaluation": {
@@ -563,7 +623,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:07:27.401190",
+    "last_updated": "2026-08-22T07:05:53.579780",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -572,8 +632,8 @@
   "CLX": {
     "ticker": "CLX",
     "name": "Clorox Co",
-    "price": 106.04,
-    "market_cap": 12823.524204089343,
+    "price": 106.69,
+    "market_cap": 12902.129289480006,
     "pe_ratio": 21.8132,
     "dividend_yield_pct": 4.7015,
     "payout_ratio_pct": 79.63,
@@ -594,6 +654,10 @@
       {
         "date": "2026-08-21",
         "price": 106.04
+      },
+      {
+        "date": "2026-08-22",
+        "price": 106.69
       }
     ],
     "evaluation": {
@@ -601,7 +665,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:52:21.932835",
+    "last_updated": "2026-08-22T06:54:45.488897",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -610,8 +674,8 @@
   "ABT": {
     "ticker": "ABT",
     "name": "Abbott Laboratories",
-    "price": 114.14,
-    "market_cap": 197505.95047743633,
+    "price": 116.64,
+    "market_cap": 201831.9071238199,
     "pe_ratio": 35.5183,
     "dividend_yield_pct": 2.2114,
     "payout_ratio_pct": 78.54,
@@ -632,6 +696,10 @@
       {
         "date": "2026-08-21",
         "price": 114.14
+      },
+      {
+        "date": "2026-08-22",
+        "price": 116.64
       }
     ],
     "evaluation": {
@@ -639,7 +707,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:01:34.100647",
+    "last_updated": "2026-08-22T06:49:44.475720",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -648,8 +716,8 @@
   "GPC": {
     "ticker": "GPC",
     "name": "Genuine Parts Co",
-    "price": 132.92,
-    "market_cap": 18324.31994394202,
+    "price": 133.96,
+    "market_cap": 18467.694766624736,
     "pe_ratio": 563.0768,
     "dividend_yield_pct": 3.1139,
     "payout_ratio_pct": 67.14,
@@ -670,6 +738,10 @@
       {
         "date": "2026-08-21",
         "price": 132.92
+      },
+      {
+        "date": "2026-08-22",
+        "price": 133.96
       }
     ],
     "evaluation": {
@@ -677,7 +749,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:59:25.321435",
+    "last_updated": "2026-08-22T06:55:45.888982",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -686,8 +758,8 @@
   "ATO": {
     "ticker": "ATO",
     "name": "Atmos Energy Corp",
-    "price": 170.52,
-    "market_cap": 28815.925540789918,
+    "price": 166.85,
+    "market_cap": 28195.73871426753,
     "pe_ratio": 20.471,
     "dividend_yield_pct": 2.2019,
     "payout_ratio_pct": 45.07,
@@ -708,6 +780,10 @@
       {
         "date": "2026-08-21",
         "price": 170.52
+      },
+      {
+        "date": "2026-08-22",
+        "price": 166.85
       }
     ],
     "evaluation": {
@@ -715,7 +791,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:54:27.324649",
+    "last_updated": "2026-08-22T06:50:44.072617",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -724,8 +800,8 @@
   "DOC": {
     "ticker": "DOC",
     "name": "Healthpeak Properties Inc",
-    "price": 21.2,
-    "market_cap": 14978.377264971097,
+    "price": 21.4,
+    "market_cap": 15119.683088424528,
     "pe_ratio": 60.4316,
     "dividend_yield_pct": 5.7539,
     "payout_ratio_pct": 175.94,
@@ -746,6 +822,10 @@
       {
         "date": "2026-08-21",
         "price": 21.2
+      },
+      {
+        "date": "2026-08-22",
+        "price": 21.4
       }
     ],
     "evaluation": {
@@ -753,7 +833,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:53:23.872103",
+    "last_updated": "2026-08-22T07:01:48.852719",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -762,8 +842,8 @@
   "MDT": {
     "ticker": "MDT",
     "name": "Medtronic PLC",
-    "price": 92.3,
-    "market_cap": 118148.17664314884,
+    "price": 93.35,
+    "market_cap": 119492.2315939323,
     "pe_ratio": 24.2494,
     "dividend_yield_pct": 3.1251,
     "payout_ratio_pct": 75.78,
@@ -784,6 +864,10 @@
       {
         "date": "2026-08-21",
         "price": 92.3
+      },
+      {
+        "date": "2026-08-22",
+        "price": 93.35
       }
     ],
     "evaluation": {
@@ -791,7 +875,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:59:28.069882",
+    "last_updated": "2026-08-22T07:03:56.772191",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -800,8 +884,8 @@
   "TROW": {
     "ticker": "TROW",
     "name": "T Rowe Price Group Inc",
-    "price": 112.19,
-    "market_cap": 23931.904993077875,
+    "price": 111.51,
+    "market_cap": 23786.850022506285,
     "pe_ratio": 10.5832,
     "dividend_yield_pct": 4.8448,
     "payout_ratio_pct": 51.27,
@@ -822,6 +906,10 @@
       {
         "date": "2026-08-21",
         "price": 112.19
+      },
+      {
+        "date": "2026-08-22",
+        "price": 111.51
       }
     ],
     "evaluation": {
@@ -829,7 +917,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:01:21.217256",
+    "last_updated": "2026-08-22T07:07:55.291396",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -838,10 +926,10 @@
   "PEP": {
     "ticker": "PEP",
     "name": "PepsiCo, Inc.",
-    "price": 142.08,
-    "market_cap": 194081280000,
-    "pe_ratio": 18.596858638743456,
-    "dividend_yield_pct": 4.045256,
+    "price": 143.48,
+    "market_cap": 195993680000,
+    "pe_ratio": 18.780104712041883,
+    "dividend_yield_pct": 4.0057849999999995,
     "payout_ratio_pct": 74.47782546494993,
     "debt_to_equity": 2.4080912299755632,
     "current_ratio": 0.9336010938301145,
@@ -860,6 +948,10 @@
       {
         "date": "2026-08-21",
         "price": 142.08
+      },
+      {
+        "date": "2026-08-22",
+        "price": 143.48
       }
     ],
     "evaluation": {
@@ -867,7 +959,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:57:22.417522",
+    "last_updated": "2026-08-22T06:49:42.122112",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -876,8 +968,8 @@
   "PG": {
     "ticker": "PG",
     "name": "Procter & Gamble Co",
-    "price": 142.97,
-    "market_cap": 332324.21232745185,
+    "price": 144.68,
+    "market_cap": 336298.9845702852,
     "pe_ratio": 20.8828,
     "dividend_yield_pct": 3.0539,
     "payout_ratio_pct": 63.77,
@@ -898,6 +990,10 @@
       {
         "date": "2026-08-21",
         "price": 142.97
+      },
+      {
+        "date": "2026-08-22",
+        "price": 144.68
       }
     ],
     "evaluation": {
@@ -905,7 +1001,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:06:33.590743",
+    "last_updated": "2026-08-22T06:58:50.648900",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -914,8 +1010,8 @@
   "ESS": {
     "ticker": "ESS",
     "name": "Essex Property Trust Inc",
-    "price": 287.71,
-    "market_cap": 18490.672000939867,
+    "price": 289,
+    "market_cap": 18573.578679455008,
     "pe_ratio": 44.7985,
     "dividend_yield_pct": 3.5781,
     "payout_ratio_pct": 160.29,
@@ -936,6 +1032,10 @@
       {
         "date": "2026-08-21",
         "price": 287.71
+      },
+      {
+        "date": "2026-08-22",
+        "price": 289
       }
     ],
     "evaluation": {
@@ -943,7 +1043,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:55:24.721581",
+    "last_updated": "2026-08-22T06:51:43.871650",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -952,8 +1052,8 @@
   "GD": {
     "ticker": "GD",
     "name": "General Dynamics Corp",
-    "price": 386.07,
-    "market_cap": 104454.01334589838,
+    "price": 384.29,
+    "market_cap": 103972.42449476932,
     "pe_ratio": 23.8002,
     "dividend_yield_pct": 1.5376,
     "payout_ratio_pct": 36.59,
@@ -974,6 +1074,10 @@
       {
         "date": "2026-08-21",
         "price": 386.07
+      },
+      {
+        "date": "2026-08-22",
+        "price": 384.29
       }
     ],
     "evaluation": {
@@ -981,7 +1085,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:05:31.410095",
+    "last_updated": "2026-08-22T07:01:55.249033",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -990,8 +1094,8 @@
   "SO": {
     "ticker": "SO",
     "name": "Southern Co",
-    "price": 91.43,
-    "market_cap": 105177.69526864085,
+    "price": 88.94,
+    "market_cap": 102313.28886203609,
     "pe_ratio": 22.8714,
     "dividend_yield_pct": 2.9105,
     "payout_ratio_pct": 66.57,
@@ -1012,6 +1116,10 @@
       {
         "date": "2026-08-21",
         "price": 91.43
+      },
+      {
+        "date": "2026-08-22",
+        "price": 88.94
       }
     ],
     "evaluation": {
@@ -1019,7 +1127,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:53:22.495333",
+    "last_updated": "2026-08-22T06:59:51.135205",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1028,8 +1136,8 @@
   "SPGI": {
     "ticker": "SPGI",
     "name": "S&P Global Inc",
-    "price": 432.16,
-    "market_cap": 127400.76381777377,
+    "price": 431.29,
+    "market_cap": 127144.28781244715,
     "pe_ratio": 24.949,
     "dividend_yield_pct": 0.9414,
     "payout_ratio_pct": 23.49,
@@ -1050,6 +1158,10 @@
       {
         "date": "2026-08-21",
         "price": 432.16
+      },
+      {
+        "date": "2026-08-22",
+        "price": 431.29
       }
     ],
     "evaluation": {
@@ -1057,7 +1169,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:56:25.147327",
+    "last_updated": "2026-08-22T06:49:45.808886",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1066,8 +1178,8 @@
   "PM": {
     "ticker": "PM",
     "name": "Philip Morris International Inc",
-    "price": 191.52,
-    "market_cap": 298505.65087180666,
+    "price": 188.23,
+    "market_cap": 293377.83042907086,
     "pe_ratio": 27.007,
     "dividend_yield_pct": 3.0667,
     "payout_ratio_pct": 82.82,
@@ -1088,6 +1200,10 @@
       {
         "date": "2026-08-21",
         "price": 191.52
+      },
+      {
+        "date": "2026-08-22",
+        "price": 188.23
       }
     ],
     "evaluation": {
@@ -1095,7 +1211,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:07:36.997913",
+    "last_updated": "2026-08-22T07:04:53.918042",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1104,8 +1220,8 @@
   "O": {
     "ticker": "O",
     "name": "Realty Income Corp",
-    "price": 63.17,
-    "market_cap": 59772.59675081922,
+    "price": 62.6,
+    "market_cap": 59233.250003827765,
     "pe_ratio": 47.1475,
     "dividend_yield_pct": 5.0138,
     "payout_ratio_pct": 236.39,
@@ -1126,6 +1242,10 @@
       {
         "date": "2026-08-21",
         "price": 63.17
+      },
+      {
+        "date": "2026-08-22",
+        "price": 62.6
       }
     ],
     "evaluation": {
@@ -1133,17 +1253,17 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:05:23.132038",
+    "last_updated": "2026-08-22T06:53:48.831705",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US7561091049"
   },
   "LOW": {
     "ticker": "LOW",
     "name": "Lowe's Companies Inc",
-    "price": 217.34,
-    "market_cap": 121864.07943751829,
+    "price": 216.09,
+    "market_cap": 121163.19353045255,
     "pe_ratio": 18.2487,
     "dividend_yield_pct": 2.1987,
     "payout_ratio_pct": 40.12,
@@ -1164,6 +1284,10 @@
       {
         "date": "2026-08-21",
         "price": 217.34
+      },
+      {
+        "date": "2026-08-22",
+        "price": 216.09
       }
     ],
     "evaluation": {
@@ -1171,7 +1295,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:58:19.674165",
+    "last_updated": "2026-08-22T06:50:45.204783",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1180,8 +1304,8 @@
   "CHD": {
     "ticker": "CHD",
     "name": "Church & Dwight Co Inc",
-    "price": 97.41,
-    "market_cap": 23106.03270870033,
+    "price": 98.8,
+    "market_cap": 23435.74651683811,
     "pe_ratio": 32.2557,
     "dividend_yield_pct": 1.1988,
     "payout_ratio_pct": 38.67,
@@ -1202,6 +1326,10 @@
       {
         "date": "2026-08-21",
         "price": 97.41
+      },
+      {
+        "date": "2026-08-22",
+        "price": 98.8
       }
     ],
     "evaluation": {
@@ -1209,7 +1337,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:09:25.361665",
+    "last_updated": "2026-08-22T06:55:50.014035",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1218,8 +1346,8 @@
   "ITW": {
     "ticker": "ITW",
     "name": "Illinois Tool Works Inc",
-    "price": 282.74,
-    "market_cap": 80524.34854843342,
+    "price": 282.29,
+    "market_cap": 80396.18577692025,
     "pe_ratio": 25.7809,
     "dividend_yield_pct": 2.226,
     "payout_ratio_pct": 57.39,
@@ -1240,6 +1368,10 @@
       {
         "date": "2026-08-21",
         "price": 282.74
+      },
+      {
+        "date": "2026-08-22",
+        "price": 282.29
       }
     ],
     "evaluation": {
@@ -1247,7 +1379,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:58:24.799608",
+    "last_updated": "2026-08-22T07:07:54.586697",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1256,8 +1388,8 @@
   "SJM": {
     "ticker": "SJM",
     "name": "J.M. Smucker Co",
-    "price": 123.05,
-    "market_cap": 13151.667761950099,
+    "price": 124.32,
+    "market_cap": 13287.406951918734,
     "pe_ratio": null,
     "dividend_yield_pct": 3.6212,
     "payout_ratio_pct": 37.11,
@@ -1278,6 +1410,10 @@
       {
         "date": "2026-08-21",
         "price": 123.05
+      },
+      {
+        "date": "2026-08-22",
+        "price": 124.32
       }
     ],
     "evaluation": {
@@ -1285,7 +1421,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:04:32.606472",
+    "last_updated": "2026-08-22T06:51:46.405665",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1294,8 +1430,8 @@
   "CINF": {
     "ticker": "CINF",
     "name": "Cincinnati Financial Corp",
-    "price": 168.19,
-    "market_cap": 25813.47282671844,
+    "price": 168.29,
+    "market_cap": 25828.820164483022,
     "pe_ratio": 7.9392,
     "dividend_yield_pct": 2.0558,
     "payout_ratio_pct": 16.32,
@@ -1316,6 +1452,10 @@
       {
         "date": "2026-08-21",
         "price": 168.19
+      },
+      {
+        "date": "2026-08-22",
+        "price": 168.29
       }
     ],
     "evaluation": {
@@ -1323,7 +1463,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:54:25.817804",
+    "last_updated": "2026-08-22T07:02:53.400535",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1332,8 +1472,8 @@
   "DOV": {
     "ticker": "DOV",
     "name": "Dover Corp",
-    "price": 199.88,
-    "market_cap": 26919.883333987946,
+    "price": 201.92,
+    "market_cap": 27194.63100169382,
     "pe_ratio": 24.5736,
     "dividend_yield_pct": 1.0093,
     "payout_ratio_pct": 24.8,
@@ -1354,6 +1494,10 @@
       {
         "date": "2026-08-21",
         "price": 199.88
+      },
+      {
+        "date": "2026-08-22",
+        "price": 201.92
       }
     ],
     "evaluation": {
@@ -1361,7 +1505,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:04:35.520944",
+    "last_updated": "2026-08-22T07:01:51.619680",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1370,8 +1514,8 @@
   "ADP": {
     "ticker": "ADP",
     "name": "Automatic Data Processing Inc",
-    "price": 279.21,
-    "market_cap": 110919.73468861553,
+    "price": 280.81,
+    "market_cap": 111555.35119570234,
     "pe_ratio": 24.2882,
     "dividend_yield_pct": 2.4501,
     "payout_ratio_pct": 59.51,
@@ -1392,6 +1536,10 @@
       {
         "date": "2026-08-21",
         "price": 279.21
+      },
+      {
+        "date": "2026-08-22",
+        "price": 280.81
       }
     ],
     "evaluation": {
@@ -1399,7 +1547,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:09:35.561738",
+    "last_updated": "2026-08-22T07:05:50.856896",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1408,8 +1556,8 @@
   "SHW": {
     "ticker": "SHW",
     "name": "Sherwin-Williams Co",
-    "price": 346.91,
-    "market_cap": 84215.23361093544,
+    "price": 346.59,
+    "market_cap": 84137.55275887543,
     "pe_ratio": 32.4412,
     "dividend_yield_pct": 0.9014,
     "payout_ratio_pct": 29.24,
@@ -1430,6 +1578,10 @@
       {
         "date": "2026-08-21",
         "price": 346.91
+      },
+      {
+        "date": "2026-08-22",
+        "price": 346.59
       }
     ],
     "evaluation": {
@@ -1437,7 +1589,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:56:23.795986",
+    "last_updated": "2026-08-22T07:03:55.113677",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1446,8 +1598,8 @@
   "KMB": {
     "ticker": "KMB",
     "name": "Kimberly-Clark Corp",
-    "price": 108.69,
-    "market_cap": 36148.01501166182,
+    "price": 109.31,
+    "market_cap": 36354.215736759324,
     "pe_ratio": 18.6721,
     "dividend_yield_pct": 4.5995,
     "payout_ratio_pct": 85.88,
@@ -1468,6 +1620,10 @@
       {
         "date": "2026-08-21",
         "price": 108.69
+      },
+      {
+        "date": "2026-08-22",
+        "price": 109.31
       }
     ],
     "evaluation": {
@@ -1475,7 +1631,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:58:26.552919",
+    "last_updated": "2026-08-22T06:52:48.310338",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1483,15 +1639,15 @@
   },
   "KO": {
     "ticker": "KO",
-    "name": "The Coca-Cola Company",
-    "price": 90.5,
-    "market_cap": 389380678527,
-    "pe_ratio": 27.17717717717718,
-    "dividend_yield_pct": 2.298343,
-    "payout_ratio_pct": 77.24224643755238,
-    "debt_to_equity": 1.204508990318119,
-    "current_ratio": 1.3046031746031745,
-    "data_source": "fmp",
+    "name": "Coca-Cola Co",
+    "price": 91.1,
+    "market_cap": 391962.1982418729,
+    "pe_ratio": 26.2553,
+    "dividend_yield_pct": 2.942,
+    "payout_ratio_pct": 77.24,
+    "debt_to_equity": 1.2045,
+    "current_ratio": 1.3046,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Konsumgueter",
     "price_history": [
@@ -1506,6 +1662,10 @@
       {
         "date": "2026-08-21",
         "price": 90.5
+      },
+      {
+        "date": "2026-08-22",
+        "price": 91.1
       }
     ],
     "evaluation": {
@@ -1513,7 +1673,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:52:24.219410",
+    "last_updated": "2026-08-22T07:06:56.182722",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1522,8 +1682,8 @@
   "EMR": {
     "ticker": "EMR",
     "name": "Emerson Electric Co",
-    "price": 154.72,
-    "market_cap": 86302.81745393603,
+    "price": 157.26,
+    "market_cap": 87719.62677216856,
     "pe_ratio": 35.0043,
     "dividend_yield_pct": 1.3663,
     "payout_ratio_pct": 47.83,
@@ -1544,6 +1704,10 @@
       {
         "date": "2026-08-21",
         "price": 154.72
+      },
+      {
+        "date": "2026-08-22",
+        "price": 157.26
       }
     ],
     "evaluation": {
@@ -1551,7 +1715,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:01:24.462797",
+    "last_updated": "2026-08-22T06:59:51.787291",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1560,8 +1724,8 @@
   "ECL": {
     "ticker": "ECL",
     "name": "Ecolab Inc",
-    "price": 281.48,
-    "market_cap": 78906.88812720118,
+    "price": 281.63,
+    "market_cap": 78948.94184505571,
     "pe_ratio": 36.7557,
     "dividend_yield_pct": 1.0255,
     "payout_ratio_pct": 37.69,
@@ -1582,6 +1746,10 @@
       {
         "date": "2026-08-21",
         "price": 281.48
+      },
+      {
+        "date": "2026-08-22",
+        "price": 281.63
       }
     ],
     "evaluation": {
@@ -1589,7 +1757,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:00:29.283502",
+    "last_updated": "2026-08-22T07:02:49.380891",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1598,10 +1766,10 @@
   "VZ": {
     "ticker": "VZ",
     "name": "Verizon Communications Inc.",
-    "price": 49.19,
-    "market_cap": 205395796400,
-    "pe_ratio": 12.809895833333334,
-    "dividend_yield_pct": 5.682049,
+    "price": 49.45,
+    "market_cap": 206481442000,
+    "pe_ratio": 12.877604166666668,
+    "dividend_yield_pct": 5.6521740000000005,
     "payout_ratio_pct": 71.93297056641109,
     "debt_to_equity": 1.8134911470361816,
     "current_ratio": 0.6039285656877401,
@@ -1620,6 +1788,10 @@
       {
         "date": "2026-08-21",
         "price": 49.19
+      },
+      {
+        "date": "2026-08-22",
+        "price": 49.45
       }
     ],
     "evaluation": {
@@ -1627,17 +1799,17 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:54:20.653632",
-    "perf_1m": 11.06,
-    "perf_3m": 1.74,
-    "perf_1y": 9.24,
+    "last_updated": "2026-08-22T07:01:51.998985",
+    "perf_1m": 12.85,
+    "perf_3m": 2.28,
+    "perf_1y": 11.27,
     "isin": "US92343V1044"
   },
   "LIN": {
     "ticker": "LIN",
     "name": "Linde PLC",
-    "price": 481.29,
-    "market_cap": 221865.14517792032,
+    "price": 487.57,
+    "market_cap": 224760.10234464795,
     "pe_ratio": 30.4308,
     "dividend_yield_pct": 1.3056,
     "payout_ratio_pct": 39.73,
@@ -1658,6 +1830,10 @@
       {
         "date": "2026-08-21",
         "price": 481.29
+      },
+      {
+        "date": "2026-08-22",
+        "price": 487.57
       }
     ],
     "evaluation": {
@@ -1665,7 +1841,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:05:36.085528",
+    "last_updated": "2026-08-22T06:52:44.351257",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1674,8 +1850,8 @@
   "MKC": {
     "ticker": "MKC",
     "name": "McCormick & Company Inc",
-    "price": 55.22,
-    "market_cap": 14839.76264265935,
+    "price": 55.41,
+    "market_cap": 14901.668038351683,
     "pe_ratio": 8.9232,
     "dividend_yield_pct": 3.4581,
     "payout_ratio_pct": 30.86,
@@ -1696,6 +1872,10 @@
       {
         "date": "2026-08-21",
         "price": 55.22
+      },
+      {
+        "date": "2026-08-22",
+        "price": 55.41
       }
     ],
     "evaluation": {
@@ -1703,7 +1883,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:59:22.177216",
+    "last_updated": "2026-08-22T06:58:47.360343",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1711,15 +1891,15 @@
   },
   "T": {
     "ticker": "T",
-    "name": "AT&T Inc",
-    "price": 25.15,
-    "market_cap": 172337.50717413414,
-    "pe_ratio": 7.7478,
-    "dividend_yield_pct": 4.8004,
-    "payout_ratio_pct": 37.19,
-    "debt_to_equity": 1.3034,
-    "current_ratio": 0.971,
-    "data_source": "finnhub",
+    "name": "AT&T Inc.",
+    "price": 25.31,
+    "market_cap": 173433990900,
+    "pe_ratio": 8.353135313531352,
+    "dividend_yield_pct": 4.385618,
+    "payout_ratio_pct": 37.30343351633014,
+    "debt_to_equity": 1.4748469812755787,
+    "current_ratio": 0.9710014611666854,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Telekom",
     "price_history": [
@@ -1734,6 +1914,10 @@
       {
         "date": "2026-08-21",
         "price": 25.15
+      },
+      {
+        "date": "2026-08-22",
+        "price": 25.31
       }
     ],
     "evaluation": {
@@ -1741,7 +1925,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:03:22.105235",
+    "last_updated": "2026-08-22T06:53:49.311320",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1750,8 +1934,8 @@
   "HRL": {
     "ticker": "HRL",
     "name": "Hormel Foods Corp",
-    "price": 24.08,
-    "market_cap": 13251.583706467842,
+    "price": 23.88,
+    "market_cap": 13141.520759068106,
     "pe_ratio": 28.9902,
     "dividend_yield_pct": 4.7241,
     "payout_ratio_pct": 91.76,
@@ -1772,6 +1956,10 @@
       {
         "date": "2026-08-21",
         "price": 24.08
+      },
+      {
+        "date": "2026-08-22",
+        "price": 23.88
       }
     ],
     "evaluation": {
@@ -1779,7 +1967,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:01:29.435093",
+    "last_updated": "2026-08-22T06:54:49.605580",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1788,8 +1976,8 @@
   "CAT": {
     "ticker": "CAT",
     "name": "Caterpillar Inc",
-    "price": 815.39,
-    "market_cap": 374814.2999736005,
+    "price": 827.9,
+    "market_cap": 380564.8281684968,
     "pe_ratio": 36.3041,
     "dividend_yield_pct": 0.7143,
     "payout_ratio_pct": 25.93,
@@ -1810,6 +1998,10 @@
       {
         "date": "2026-08-21",
         "price": 815.39
+      },
+      {
+        "date": "2026-08-22",
+        "price": 827.9
       }
     ],
     "evaluation": {
@@ -1817,7 +2009,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:03:30.378125",
+    "last_updated": "2026-08-22T06:56:46.361130",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1826,12 +2018,12 @@
   "TGT": {
     "ticker": "TGT",
     "name": "Target Corporation",
-    "price": 158.19,
-    "market_cap": 71848474290,
-    "pe_ratio": 16.34194214876033,
-    "dividend_yield_pct": 2.895253,
+    "price": 165.42,
+    "market_cap": 75132275220,
+    "pe_ratio": 17.08884297520661,
+    "dividend_yield_pct": 2.76871,
     "payout_ratio_pct": 47.0856102003643,
-    "debt_to_equity": 0.25040632180687106,
+    "debt_to_equity": 1.0480860841786694,
     "current_ratio": 0.9881019830028328,
     "data_source": "fmp",
     "land": "USA",
@@ -1848,14 +2040,18 @@
       {
         "date": "2026-08-21",
         "price": 158.19
+      },
+      {
+        "date": "2026-08-22",
+        "price": 165.42
       }
     ],
     "evaluation": {
       "trap_warning": false,
-      "risk": "niedrig",
+      "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:52:26.493734",
+    "last_updated": "2026-08-22T06:55:50.999617",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1864,8 +2060,8 @@
   "ADM": {
     "ticker": "ADM",
     "name": "Archer-Daniels-Midland Co",
-    "price": 81.7,
-    "market_cap": 39376.09993103021,
+    "price": 80.3,
+    "market_cap": 38701.354010592404,
     "pe_ratio": 21.9006,
     "dividend_yield_pct": 2.5849,
     "payout_ratio_pct": 56.61,
@@ -1886,6 +2082,10 @@
       {
         "date": "2026-08-21",
         "price": 81.7
+      },
+      {
+        "date": "2026-08-22",
+        "price": 80.3
       }
     ],
     "evaluation": {
@@ -1893,7 +2093,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:00:24.225650",
+    "last_updated": "2026-08-22T07:00:51.786407",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1902,7 +2102,7 @@
   "WPC": {
     "ticker": "WPC",
     "name": "W.p. Carey Inc",
-    "price": 72.01,
+    "price": 71.2,
     "market_cap": 16876.67,
     "pe_ratio": 24.7377,
     "dividend_yield_pct": 5.0469,
@@ -1924,6 +2124,10 @@
       {
         "date": "2026-08-21",
         "price": 72.01
+      },
+      {
+        "date": "2026-08-22",
+        "price": 71.2
       }
     ],
     "evaluation": {
@@ -1931,7 +2135,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:53:25.811788",
+    "last_updated": "2026-08-22T07:00:53.377699",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1940,8 +2144,8 @@
   "MO": {
     "ticker": "MO",
     "name": "Altria Group Inc",
-    "price": 66.94,
-    "market_cap": 111772.65436471572,
+    "price": 66.09,
+    "market_cap": 110353.37814322724,
     "pe_ratio": 13.7487,
     "dividend_yield_pct": 6.4423,
     "payout_ratio_pct": 88.57,
@@ -1962,6 +2166,10 @@
       {
         "date": "2026-08-21",
         "price": 66.94
+      },
+      {
+        "date": "2026-08-22",
+        "price": 66.09
       }
     ],
     "evaluation": {
@@ -1969,7 +2177,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:51:24.064433",
+    "last_updated": "2026-08-22T06:50:43.368222",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1978,8 +2186,8 @@
   "ROP": {
     "ticker": "ROP",
     "name": "Roper Technologies Inc",
-    "price": 410.45,
-    "market_cap": 40593.86334566397,
+    "price": 411.79,
+    "market_cap": 40726.39099445284,
     "pe_ratio": 15.331,
     "dividend_yield_pct": 0.9616,
     "payout_ratio_pct": 14.74,
@@ -2000,6 +2208,10 @@
       {
         "date": "2026-08-21",
         "price": 410.45
+      },
+      {
+        "date": "2026-08-22",
+        "price": 411.79
       }
     ],
     "evaluation": {
@@ -2007,7 +2219,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:55:19.607499",
+    "last_updated": "2026-08-22T07:05:57.747731",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2016,8 +2228,8 @@
   "SYY": {
     "ticker": "SYY",
     "name": "Sysco Corp",
-    "price": 83.06,
-    "market_cap": 39717.8452078164,
+    "price": 84.1,
+    "market_cap": 40215.15435651456,
     "pe_ratio": 22.9833,
     "dividend_yield_pct": 2.5695,
     "payout_ratio_pct": 59.05,
@@ -2038,6 +2250,10 @@
       {
         "date": "2026-08-21",
         "price": 83.06
+      },
+      {
+        "date": "2026-08-22",
+        "price": 84.1
       }
     ],
     "evaluation": {
@@ -2045,7 +2261,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:55:18.191656",
+    "last_updated": "2026-08-22T06:58:52.673912",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2054,8 +2270,8 @@
   "DUK": {
     "ticker": "DUK",
     "name": "Duke Energy Corp",
-    "price": 122.69,
-    "market_cap": 95661.66289913988,
+    "price": 119.85,
+    "market_cap": 93447.31166502894,
     "pe_ratio": 18.465,
     "dividend_yield_pct": 3.4917,
     "payout_ratio_pct": 64.47,
@@ -2076,6 +2292,10 @@
       {
         "date": "2026-08-21",
         "price": 122.69
+      },
+      {
+        "date": "2026-08-22",
+        "price": 119.85
       }
     ],
     "evaluation": {
@@ -2083,7 +2303,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:03:25.427498",
+    "last_updated": "2026-08-22T07:03:53.897962",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2092,8 +2312,8 @@
   "CB": {
     "ticker": "CB",
     "name": "Chubb Limited",
-    "price": 342.87,
-    "market_cap": 132279.1947072836,
+    "price": 340.99,
+    "market_cap": 131553.88393314337,
     "pe_ratio": 11.8429,
     "dividend_yield_pct": 1.1573,
     "payout_ratio_pct": 13.71,
@@ -2114,6 +2334,10 @@
       {
         "date": "2026-08-21",
         "price": 342.87
+      },
+      {
+        "date": "2026-08-22",
+        "price": 340.99
       }
     ],
     "evaluation": {
@@ -2121,7 +2345,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:55:27.814257",
+    "last_updated": "2026-08-22T07:00:48.423152",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2129,15 +2353,15 @@
   },
   "ABBV": {
     "ticker": "ABBV",
-    "name": "AbbVie Inc",
-    "price": 261.83,
-    "market_cap": 462684.3272887946,
-    "pe_ratio": 70.2422,
-    "dividend_yield_pct": 2.7024,
-    "payout_ratio_pct": 189.83,
-    "debt_to_equity": 49.2176,
-    "current_ratio": 0.8085,
-    "data_source": "finnhub",
+    "name": "AbbVie Inc.",
+    "price": 265.01,
+    "market_cap": 468217765493,
+    "pe_ratio": 74.66121989012537,
+    "dividend_yield_pct": 2.577261,
+    "payout_ratio_pct": 189.70541653468482,
+    "debt_to_equity": -11.932940185341197,
+    "current_ratio": 0.8085346525142885,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Gesundheit",
     "price_history": [
@@ -2152,6 +2376,10 @@
       {
         "date": "2026-08-21",
         "price": 261.83
+      },
+      {
+        "date": "2026-08-22",
+        "price": 265.01
       }
     ],
     "evaluation": {
@@ -2159,7 +2387,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T07:06:23.719388",
+    "last_updated": "2026-08-22T06:55:46.344530",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2168,8 +2396,8 @@
   "CL": {
     "ticker": "CL",
     "name": "Colgate-Palmolive Co",
-    "price": 89.7,
-    "market_cap": 71506.4014718884,
+    "price": 91.08,
+    "market_cap": 72606.49529150769,
     "pe_ratio": 36.4891,
     "dividend_yield_pct": 2.4513,
     "payout_ratio_pct": 62.63,
@@ -2190,6 +2418,10 @@
       {
         "date": "2026-08-21",
         "price": 89.7
+      },
+      {
+        "date": "2026-08-22",
+        "price": 91.08
       }
     ],
     "evaluation": {
@@ -2197,7 +2429,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:52:20.588036",
+    "last_updated": "2026-08-22T07:07:56.932040",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2207,7 +2439,7 @@
     "ticker": "PFLT",
     "name": "PennantPark Floating Rate Capital Ltd",
     "price": 7.37,
-    "market_cap": 731.2359029728261,
+    "market_cap": 731.2358789999998,
     "pe_ratio": 14.9669,
     "dividend_yield_pct": 16.2268,
     "payout_ratio_pct": 170.04,
@@ -2228,6 +2460,10 @@
       {
         "date": "2026-08-21",
         "price": 7.37
+      },
+      {
+        "date": "2026-08-22",
+        "price": 7.37
       }
     ],
     "evaluation": {
@@ -2235,17 +2471,17 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:08:32.872152",
+    "last_updated": "2026-08-22T07:01:52.886277",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US70806A1060"
   },
   "ENB": {
     "ticker": "ENB",
     "name": "Enbridge Inc",
-    "price": 50.99,
-    "market_cap": 151772.093201,
+    "price": 50.46,
+    "market_cap": 153912.504273,
     "pe_ratio": 25.5731,
     "dividend_yield_pct": 5.5984,
     "payout_ratio_pct": 143.17,
@@ -2266,6 +2502,10 @@
       {
         "date": "2026-08-21",
         "price": 50.99
+      },
+      {
+        "date": "2026-08-22",
+        "price": 50.46
       }
     ],
     "evaluation": {
@@ -2273,7 +2513,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:00:21.900504",
+    "last_updated": "2026-08-22T06:58:51.973533",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2282,8 +2522,8 @@
   "UVV": {
     "ticker": "UVV",
     "name": "Universal Corp",
-    "price": 45.52,
-    "market_cap": 1129.9282778096926,
+    "price": 45,
+    "market_cap": 1130.1773164718804,
     "pe_ratio": 58.6546,
     "dividend_yield_pct": 7.2849,
     "payout_ratio_pct": 94.87,
@@ -2304,6 +2544,10 @@
       {
         "date": "2026-08-21",
         "price": 45.52
+      },
+      {
+        "date": "2026-08-22",
+        "price": 45
       }
     ],
     "evaluation": {
@@ -2311,7 +2555,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:57:25.720886",
+    "last_updated": "2026-08-22T06:54:50.272395",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2320,8 +2564,8 @@
   "EPR": {
     "ticker": "EPR",
     "name": "EPR Properties",
-    "price": 61.22,
-    "market_cap": 4689.998298114153,
+    "price": 60.35,
+    "market_cap": 4623.348708034955,
     "pe_ratio": 18.0853,
     "dividend_yield_pct": 6.2424,
     "payout_ratio_pct": 112.9,
@@ -2342,6 +2586,10 @@
       {
         "date": "2026-08-21",
         "price": 61.22
+      },
+      {
+        "date": "2026-08-22",
+        "price": 60.35
       }
     ],
     "evaluation": {
@@ -2349,17 +2597,17 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:08:27.956729",
+    "last_updated": "2026-08-22T07:02:56.225649",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US26884U1097"
   },
   "STAG": {
     "ticker": "STAG",
     "name": "STAG Industrial Inc",
-    "price": 36.37,
-    "market_cap": 7012.439178842438,
+    "price": 36.67,
+    "market_cap": 7070.2814126032445,
     "pe_ratio": 28.8824,
     "dividend_yield_pct": 3.392,
     "payout_ratio_pct": 97.97,
@@ -2380,6 +2628,10 @@
       {
         "date": "2026-08-21",
         "price": 36.37
+      },
+      {
+        "date": "2026-08-22",
+        "price": 36.67
       }
     ],
     "evaluation": {
@@ -2387,7 +2639,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-21T06:53:17.139834",
+    "last_updated": "2026-08-22T07:06:55.610337",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2396,8 +2648,8 @@
   "ARCC": {
     "ticker": "ARCC",
     "name": "Ares Capital Corp",
-    "price": 19.78,
-    "market_cap": 14202.492180789899,
+    "price": 19.92,
+    "market_cap": 14303.016428833169,
     "pe_ratio": 15.1009,
     "dividend_yield_pct": 9.1675,
     "payout_ratio_pct": 138.44,
@@ -2418,6 +2670,10 @@
       {
         "date": "2026-08-21",
         "price": 19.78
+      },
+      {
+        "date": "2026-08-22",
+        "price": 19.92
       }
     ],
     "evaluation": {
@@ -2425,19 +2681,19 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:51:17.590749",
+    "last_updated": "2026-08-22T07:06:54.072173",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US04010L1035"
+    "isin": null
   },
   "EPD": {
     "ticker": "EPD",
     "name": "Enterprise Products Partners L.P",
-    "price": 38.43,
-    "market_cap": 82988.71011866948,
-    "pe_ratio": 13.9453,
-    "dividend_yield_pct": 5.7192,
+    "price": 38.01,
+    "market_cap": 82081.73263192896,
+    "pe_ratio": 14.0587,
+    "dividend_yield_pct": 5.6731,
     "payout_ratio_pct": 79.76,
     "debt_to_equity": 1.1474,
     "current_ratio": 0.9103,
@@ -2456,6 +2712,10 @@
       {
         "date": "2026-08-21",
         "price": 38.43
+      },
+      {
+        "date": "2026-08-22",
+        "price": 38.01
       }
     ],
     "evaluation": {
@@ -2463,7 +2723,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:08:24.626608",
+    "last_updated": "2026-08-22T07:07:58.715852",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2472,10 +2732,10 @@
   "BIP": {
     "ticker": "BIP",
     "name": "Brookfield Infrastructure Partners LP",
-    "price": 38.94,
-    "market_cap": 17819.3334,
-    "pe_ratio": 27.7097,
-    "dividend_yield_pct": 8.0603,
+    "price": 38.95,
+    "market_cap": 17823.9095,
+    "pe_ratio": 27.3722,
+    "dividend_yield_pct": 8.1597,
     "payout_ratio_pct": 166.05,
     "debt_to_equity": 12.2348,
     "current_ratio": 0.8886,
@@ -2494,6 +2754,10 @@
       {
         "date": "2026-08-21",
         "price": 38.94
+      },
+      {
+        "date": "2026-08-22",
+        "price": 38.95
       }
     ],
     "evaluation": {
@@ -2501,7 +2765,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:59:20.113323",
+    "last_updated": "2026-08-22T06:49:43.142230",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2510,8 +2774,8 @@
   "AGNC": {
     "ticker": "AGNC",
     "name": "AGNC Investment Corp",
-    "price": 10.92,
-    "market_cap": 12945.45729405054,
+    "price": 10.89,
+    "market_cap": 12909.893029392857,
     "pe_ratio": 5.7244,
     "dividend_yield_pct": 13.5143,
     "payout_ratio_pct": 53.94,
@@ -2532,6 +2796,10 @@
       {
         "date": "2026-08-21",
         "price": 10.92
+      },
+      {
+        "date": "2026-08-22",
+        "price": 10.89
       }
     ],
     "evaluation": {
@@ -2539,17 +2807,17 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:05:32.791883",
+    "last_updated": "2026-08-22T06:55:49.340584",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US00123Q1040"
   },
   "DX": {
     "ticker": "DX",
     "name": "Dynex Capital Inc",
-    "price": 13.25,
-    "market_cap": 3288.21161684171,
+    "price": 13.03,
+    "market_cap": 3233.6149144966034,
     "pe_ratio": 7.4164,
     "dividend_yield_pct": 11.2632,
     "payout_ratio_pct": 50.68,
@@ -2570,6 +2838,10 @@
       {
         "date": "2026-08-21",
         "price": 13.25
+      },
+      {
+        "date": "2026-08-22",
+        "price": 13.03
       }
     ],
     "evaluation": {
@@ -2577,17 +2849,17 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:01:26.012353",
+    "last_updated": "2026-08-22T06:53:44.878820",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US26817Q8868"
   },
   "LTC": {
     "ticker": "LTC",
     "name": "LTC Properties Inc",
-    "price": 40.75,
-    "market_cap": 2196.651781685686,
+    "price": 40.27,
+    "market_cap": 2170.777036586258,
     "pe_ratio": 15.5551,
     "dividend_yield_pct": 5.3541,
     "payout_ratio_pct": 55.55,
@@ -2604,6 +2876,10 @@
       {
         "date": "2026-08-21",
         "price": 40.75
+      },
+      {
+        "date": "2026-08-22",
+        "price": 40.27
       }
     ],
     "evaluation": {
@@ -2611,17 +2887,17 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:02:31.850530",
+    "last_updated": "2026-08-22T06:49:46.458784",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US5021751020"
   },
   "MAIN": {
     "ticker": "MAIN",
     "name": "Main Street Capital Corp",
-    "price": 58.4,
-    "market_cap": 5460.893950352415,
+    "price": 58.29,
+    "market_cap": 5450.6083340214045,
     "pe_ratio": 12.8342,
     "dividend_yield_pct": 6.2756,
     "payout_ratio_pct": 80.54,
@@ -2638,6 +2914,10 @@
       {
         "date": "2026-08-21",
         "price": 58.4
+      },
+      {
+        "date": "2026-08-22",
+        "price": 58.29
       }
     ],
     "evaluation": {
@@ -2645,7 +2925,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:57:20.489365",
+    "last_updated": "2026-08-22T07:04:53.079195",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2673,6 +2953,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2680,7 +2964,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:58:27.978499",
+    "last_updated": "2026-08-22T06:56:52.044140",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2708,6 +2992,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2715,7 +3003,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:00:31.871239",
+    "last_updated": "2026-08-22T07:03:54.488111",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2743,6 +3031,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2750,7 +3042,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:01:31.854734",
+    "last_updated": "2026-08-22T06:54:51.012257",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2778,6 +3070,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2785,7 +3081,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:09:28.501247",
+    "last_updated": "2026-08-22T07:08:52.433872",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2813,6 +3109,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2820,7 +3120,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:54:22.780229",
+    "last_updated": "2026-08-22T06:50:47.261277",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2848,6 +3148,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2855,7 +3159,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:03:35.023689",
+    "last_updated": "2026-08-22T06:53:45.540028",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2883,6 +3187,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2890,7 +3198,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:09:38.018053",
+    "last_updated": "2026-08-22T06:51:45.152787",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2918,6 +3226,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2925,7 +3237,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:02:34.523266",
+    "last_updated": "2026-08-22T06:59:47.874638",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2953,6 +3265,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2960,7 +3276,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:04:30.915189",
+    "last_updated": "2026-08-22T06:58:51.261211",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2988,6 +3304,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -2995,7 +3315,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:06:28.315434",
+    "last_updated": "2026-08-22T07:03:49.852162",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3023,6 +3343,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3030,7 +3354,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:56:18.655266",
+    "last_updated": "2026-08-22T06:51:44.484281",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3058,6 +3382,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3065,7 +3393,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:02:24.873980",
+    "last_updated": "2026-08-22T07:02:52.063895",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3093,6 +3421,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3100,7 +3432,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:06:31.882985",
+    "last_updated": "2026-08-22T07:00:54.172124",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3128,6 +3460,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3135,7 +3471,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:08:34.861928",
+    "last_updated": "2026-08-22T06:52:45.637877",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3163,6 +3499,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3170,7 +3510,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:54:19.356972",
+    "last_updated": "2026-08-22T06:57:50.647277",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3198,6 +3538,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3205,7 +3549,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:54:17.593422",
+    "last_updated": "2026-08-22T06:55:51.552788",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3233,6 +3577,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3240,7 +3588,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:00:25.715368",
+    "last_updated": "2026-08-22T07:07:51.855195",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3268,6 +3616,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3275,7 +3627,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:56:20.330143",
+    "last_updated": "2026-08-22T06:55:48.585185",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3303,6 +3655,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3310,7 +3666,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:59:30.150256",
+    "last_updated": "2026-08-22T07:04:55.626235",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3338,6 +3694,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3345,7 +3705,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:06:36.505371",
+    "last_updated": "2026-08-22T07:04:54.995232",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3373,6 +3733,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3380,7 +3744,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:04:25.877692",
+    "last_updated": "2026-08-22T07:06:51.390638",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3408,6 +3772,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3415,7 +3783,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:56:26.512379",
+    "last_updated": "2026-08-22T06:49:45.151168",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3443,6 +3811,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3450,7 +3822,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:52:16.635500",
+    "last_updated": "2026-08-22T06:52:45.049929",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3478,6 +3850,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3485,7 +3861,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:55:26.157707",
+    "last_updated": "2026-08-22T06:53:46.719082",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3513,6 +3889,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3520,7 +3900,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T06:51:22.311014",
+    "last_updated": "2026-08-22T07:06:54.850098",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3548,6 +3928,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3555,7 +3939,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:08:29.938635",
+    "last_updated": "2026-08-22T07:00:51.106507",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3583,6 +3967,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3590,7 +3978,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:07:28.792880",
+    "last_updated": "2026-08-22T06:54:48.074079",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3618,6 +4006,10 @@
       {
         "date": "2026-08-21",
         "price": null
+      },
+      {
+        "date": "2026-08-22",
+        "price": null
       }
     ],
     "evaluation": {
@@ -3625,7 +4017,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-21T07:07:32.357207",
+    "last_updated": "2026-08-22T06:59:52.395951",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
