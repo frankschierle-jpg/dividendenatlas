@@ -1,15 +1,15 @@
 {
   "XOM": {
     "ticker": "XOM",
-    "name": "Exxonmobil Holdings Corp",
+    "name": "Exxon Mobil Corporation",
     "price": 165.11,
-    "market_cap": 650632.36,
-    "pe_ratio": 20.0535,
-    "dividend_yield_pct": 2.6246,
-    "payout_ratio_pct": 52.63,
-    "debt_to_equity": 0.1633,
-    "current_ratio": 1.1347,
-    "data_source": "finnhub",
+    "market_cap": 684291790600,
+    "pe_ratio": 21.24967824967825,
+    "dividend_yield_pct": 2.495306,
+    "payout_ratio_pct": 52.63302500228959,
+    "debt_to_equity": 0.16334335723648702,
+    "current_ratio": 1.1346729708431835,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -35,11 +35,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:21:57.574611",
+    "last_updated": "2026-08-22T19:58:21.258785",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MCD": {
     "ticker": "MCD",
@@ -77,23 +78,24 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:16:55.848431",
+    "last_updated": "2026-08-22T20:07:42.191406",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CVX": {
     "ticker": "CVX",
-    "name": "Chevron Corp",
-    "price": 205.27,
-    "market_cap": 405566.57090337214,
-    "pe_ratio": 18.9191,
-    "dividend_yield_pct": 3.5586,
-    "payout_ratio_pct": 67.33,
-    "debt_to_equity": 0.1953,
-    "current_ratio": 1.2522,
-    "data_source": "finnhub",
+    "name": "Chevron Corporation",
+    "price": 205.24,
+    "market_cap": 408755984000,
+    "pe_ratio": 19.602674307545367,
+    "dividend_yield_pct": 3.4350029999999996,
+    "payout_ratio_pct": 67.32553057160897,
+    "debt_to_equity": 0.19525181295850602,
+    "current_ratio": 1.3582040277319247,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -119,11 +121,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:27:02.808406",
+    "last_updated": "2026-08-22T20:00:18.436248",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "BDX": {
     "ticker": "BDX",
@@ -161,11 +164,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:20:59.513440",
+    "last_updated": "2026-08-22T19:59:21.505539",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "JNJ": {
     "ticker": "JNJ",
@@ -203,11 +207,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:46:11.339962",
+    "last_updated": "2026-08-22T20:02:19.877090",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ED": {
     "ticker": "ED",
@@ -245,11 +250,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:35:05.160798",
+    "last_updated": "2026-08-22T20:00:33.245000",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MMM": {
     "ticker": "MMM",
@@ -287,11 +293,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:17:57.949306",
+    "last_updated": "2026-08-22T20:01:06.933397",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "GWW": {
     "ticker": "GWW",
@@ -329,23 +336,24 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:19:58.356939",
+    "last_updated": "2026-08-22T20:00:25.843161",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "WMT": {
     "ticker": "WMT",
-    "name": "Walmart Inc",
+    "name": "Walmart Inc.",
     "price": 103.7,
-    "market_cap": 884142.59,
-    "pe_ratio": 40.6059,
-    "dividend_yield_pct": 0.8231,
-    "payout_ratio_pct": 33.42,
-    "debt_to_equity": 0.6162,
-    "current_ratio": 0.7714,
-    "data_source": "finnhub",
+    "market_cap": 825252896000,
+    "pe_ratio": 37.43682310469315,
+    "dividend_yield_pct": 0.9426230000000001,
+    "payout_ratio_pct": 34.86591773872078,
+    "debt_to_equity": 0.7507787210651683,
+    "current_ratio": 0.7671279079823575,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Einzelhandel",
     "price_history": [
@@ -371,11 +379,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:45:11.464753",
+    "last_updated": "2026-08-22T20:00:28.073024",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CTAS": {
     "ticker": "CTAS",
@@ -413,11 +422,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:28:00.365263",
+    "last_updated": "2026-08-22T20:00:37.138307",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "AFL": {
     "ticker": "AFL",
@@ -455,11 +465,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:23:58.259472",
+    "last_updated": "2026-08-22T20:07:21.082671",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PFE": {
     "ticker": "PFE",
@@ -495,13 +506,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:21:58.348134",
+    "last_updated": "2026-08-22T20:07:46.477985",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PPG": {
     "ticker": "PPG",
@@ -539,11 +552,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:22:57.860991",
+    "last_updated": "2026-08-22T20:07:36.444592",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "FRT": {
     "ticker": "FRT",
@@ -581,11 +595,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:30:05.138913",
+    "last_updated": "2026-08-22T19:57:22.227623",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "NUE": {
     "ticker": "NUE",
@@ -623,11 +638,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:33:04.199403",
+    "last_updated": "2026-08-22T20:02:35.437355",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CLX": {
     "ticker": "CLX",
@@ -665,11 +681,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:23:57.112217",
+    "last_updated": "2026-08-22T20:01:35.680019",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ABT": {
     "ticker": "ABT",
@@ -707,11 +724,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:26:01.652430",
+    "last_updated": "2026-08-22T20:06:04.852040",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "GPC": {
     "ticker": "GPC",
@@ -749,11 +767,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:31:01.288044",
+    "last_updated": "2026-08-22T20:02:34.150493",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ATO": {
     "ticker": "ATO",
@@ -791,11 +810,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:20:58.293473",
+    "last_updated": "2026-08-22T20:10:05.357985",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "DOC": {
     "ticker": "DOC",
@@ -831,13 +851,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:17:57.335808",
+    "last_updated": "2026-08-22T20:02:36.825990",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MDT": {
     "ticker": "MDT",
@@ -875,11 +897,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:27:59.727410",
+    "last_updated": "2026-08-22T20:08:05.621304",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TROW": {
     "ticker": "TROW",
@@ -917,23 +940,24 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:38:08.512407",
+    "last_updated": "2026-08-22T19:57:11.902425",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PEP": {
     "ticker": "PEP",
-    "name": "PepsiCo Inc",
+    "name": "PepsiCo, Inc.",
     "price": 143.48,
-    "market_cap": 195834.6320009107,
-    "pe_ratio": 18.2277,
-    "dividend_yield_pct": 4.0993,
-    "payout_ratio_pct": 74.72,
-    "debt_to_equity": 2.4081,
-    "current_ratio": 0.9336,
-    "data_source": "finnhub",
+    "market_cap": 195993680000,
+    "pe_ratio": 18.780104712041883,
+    "dividend_yield_pct": 4.0057849999999995,
+    "payout_ratio_pct": 74.47782546494993,
+    "debt_to_equity": 2.4080912299755632,
+    "current_ratio": 0.9336010938301145,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Konsumgueter",
     "price_history": [
@@ -959,11 +983,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:24:00.684828",
+    "last_updated": "2026-08-22T19:58:19.446267",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PG": {
     "ticker": "PG",
@@ -1001,11 +1026,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:45:12.800232",
+    "last_updated": "2026-08-22T20:08:51.964017",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ESS": {
     "ticker": "ESS",
@@ -1043,11 +1069,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:37:08.920970",
+    "last_updated": "2026-08-22T20:00:27.149389",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "GD": {
     "ticker": "GD",
@@ -1085,11 +1112,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:46:10.742949",
+    "last_updated": "2026-08-22T20:06:03.395413",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SO": {
     "ticker": "SO",
@@ -1127,11 +1155,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:16:54.572431",
+    "last_updated": "2026-08-22T20:04:33.618559",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SPGI": {
     "ticker": "SPGI",
@@ -1169,11 +1198,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:32:03.755349",
+    "last_updated": "2026-08-22T19:57:09.196695",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PM": {
     "ticker": "PM",
@@ -1211,11 +1241,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:48:12.289956",
+    "last_updated": "2026-08-22T20:00:17.537507",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "O": {
     "ticker": "O",
@@ -1251,13 +1282,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:38:04.118467",
+    "last_updated": "2026-08-22T20:04:09.427199",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "LOW": {
     "ticker": "LOW",
@@ -1295,11 +1328,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:43:09.715406",
+    "last_updated": "2026-08-22T19:55:59.958548",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CHD": {
     "ticker": "CHD",
@@ -1337,11 +1371,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:46:12.186157",
+    "last_updated": "2026-08-22T20:01:36.993155",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ITW": {
     "ticker": "ITW",
@@ -1379,11 +1414,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:46:12.778918",
+    "last_updated": "2026-08-22T20:04:20.788050",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SJM": {
     "ticker": "SJM",
@@ -1421,11 +1457,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:28:59.592140",
+    "last_updated": "2026-08-22T20:00:06.878650",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CINF": {
     "ticker": "CINF",
@@ -1463,11 +1500,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:38:06.664833",
+    "last_updated": "2026-08-22T20:00:24.550569",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "DOV": {
     "ticker": "DOV",
@@ -1505,11 +1543,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:30:02.519764",
+    "last_updated": "2026-08-22T19:59:30.180322",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ADP": {
     "ticker": "ADP",
@@ -1547,11 +1586,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:41:08.875776",
+    "last_updated": "2026-08-22T20:04:08.105682",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SHW": {
     "ticker": "SHW",
@@ -1589,11 +1629,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:44:10.215258",
+    "last_updated": "2026-08-22T20:08:06.923358",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "KMB": {
     "ticker": "KMB",
@@ -1631,23 +1672,24 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:31:05.512265",
+    "last_updated": "2026-08-22T20:09:38.270287",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "KO": {
     "ticker": "KO",
-    "name": "Coca-Cola Co",
+    "name": "The Coca-Cola Company",
     "price": 91.1,
-    "market_cap": 391962.1982418729,
-    "pe_ratio": 26.2553,
-    "dividend_yield_pct": 2.942,
-    "payout_ratio_pct": 77.24,
-    "debt_to_equity": 1.2045,
-    "current_ratio": 1.3046,
-    "data_source": "finnhub",
+    "market_cap": 391962207887,
+    "pe_ratio": 27.357357357357362,
+    "dividend_yield_pct": 2.283205,
+    "payout_ratio_pct": 77.24224643755238,
+    "debt_to_equity": 1.204508990318119,
+    "current_ratio": 1.3046031746031745,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Konsumgueter",
     "price_history": [
@@ -1673,11 +1715,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:16:55.187667",
+    "last_updated": "2026-08-22T19:56:00.927724",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "EMR": {
     "ticker": "EMR",
@@ -1715,11 +1758,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:34:02.237640",
+    "last_updated": "2026-08-22T20:05:37.400895",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ECL": {
     "ticker": "ECL",
@@ -1757,11 +1801,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:25:01.750364",
+    "last_updated": "2026-08-22T20:04:47.122760",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "VZ": {
     "ticker": "VZ",
@@ -1797,13 +1842,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:40:05.130542",
+    "last_updated": "2026-08-22T20:10:36.620310",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "LIN": {
     "ticker": "LIN",
@@ -1841,11 +1888,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:19:57.788351",
+    "last_updated": "2026-08-22T19:59:31.466774",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MKC": {
     "ticker": "MKC",
@@ -1883,23 +1931,24 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:20:56.813533",
+    "last_updated": "2026-08-22T20:09:14.025832",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "T": {
     "ticker": "T",
-    "name": "AT&T Inc",
-    "price": 25.29,
-    "market_cap": 173296.83279135506,
-    "pe_ratio": 7.7478,
-    "dividend_yield_pct": 4.8004,
-    "payout_ratio_pct": 37.19,
-    "debt_to_equity": 1.3034,
-    "current_ratio": 0.971,
-    "data_source": "finnhub",
+    "name": "AT&T Inc.",
+    "price": 25.31,
+    "market_cap": 173433990900,
+    "pe_ratio": 8.353135313531352,
+    "dividend_yield_pct": 4.385618,
+    "payout_ratio_pct": 37.30343351633014,
+    "debt_to_equity": 1.4748469812755787,
+    "current_ratio": 0.9710014611666854,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Telekom",
     "price_history": [
@@ -1925,11 +1974,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:43:10.330054",
+    "last_updated": "2026-08-22T19:58:20.361069",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "HRL": {
     "ticker": "HRL",
@@ -1967,11 +2017,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:33:04.842980",
+    "last_updated": "2026-08-22T20:04:25.153057",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CAT": {
     "ticker": "CAT",
@@ -2009,23 +2060,24 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:32:01.802081",
+    "last_updated": "2026-08-22T20:02:18.605560",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TGT": {
     "ticker": "TGT",
-    "name": "Target Corp",
-    "price": 165.44,
-    "market_cap": 75141.38081012676,
-    "pe_ratio": 20.3425,
-    "dividend_yield_pct": 2.9338,
-    "payout_ratio_pct": 59.68,
-    "debt_to_equity": 0.9402,
-    "current_ratio": 0.932,
-    "data_source": "finnhub",
+    "name": "Target Corporation",
+    "price": 165.42,
+    "market_cap": 75132275220,
+    "pe_ratio": 17.08884297520661,
+    "dividend_yield_pct": 2.76871,
+    "payout_ratio_pct": 47.0856102003643,
+    "debt_to_equity": 1.0480860841786694,
+    "current_ratio": 0.9881019830028328,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Einzelhandel",
     "price_history": [
@@ -2048,14 +2100,15 @@
     ],
     "evaluation": {
       "trap_warning": false,
-      "risk": "niedrig",
+      "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:25:58.712459",
+    "last_updated": "2026-08-22T20:00:28.971756",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ADM": {
     "ticker": "ADM",
@@ -2093,11 +2146,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:37:06.903417",
+    "last_updated": "2026-08-22T20:05:41.065930",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "WPC": {
     "ticker": "WPC",
@@ -2133,13 +2187,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:41:10.124338",
+    "last_updated": "2026-08-22T20:00:42.579547",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US92936U1097",
+    "news": null
   },
   "MO": {
     "ticker": "MO",
@@ -2175,13 +2231,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:16:53.719051",
+    "last_updated": "2026-08-22T20:07:05.141331",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ROP": {
     "ticker": "ROP",
@@ -2219,11 +2277,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:26:02.523947",
+    "last_updated": "2026-08-22T19:57:10.514818",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SYY": {
     "ticker": "SYY",
@@ -2261,11 +2320,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:19:58.891671",
+    "last_updated": "2026-08-22T19:57:06.498553",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "DUK": {
     "ticker": "DUK",
@@ -2303,11 +2363,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:27:00.317365",
+    "last_updated": "2026-08-22T20:01:23.147543",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CB": {
     "ticker": "CB",
@@ -2345,11 +2406,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:31:03.668637",
+    "last_updated": "2026-08-22T20:00:35.813254",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ABBV": {
     "ticker": "ABBV",
@@ -2387,11 +2449,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:26:59.165423",
+    "last_updated": "2026-08-22T20:04:29.362701",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CL": {
     "ticker": "CL",
@@ -2429,11 +2492,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:42:06.128521",
+    "last_updated": "2026-08-22T19:57:07.845003",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PFLT": {
     "ticker": "PFLT",
@@ -2469,13 +2533,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:25:59.929021",
+    "last_updated": "2026-08-22T20:09:51.206448",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ENB": {
     "ticker": "ENB",
@@ -2511,13 +2577,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:19:55.782262",
+    "last_updated": "2026-08-22T20:03:44.122713",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "UVV": {
     "ticker": "UVV",
@@ -2553,13 +2621,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:42:09.860708",
+    "last_updated": "2026-08-22T20:00:08.261266",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US9134561094",
+    "news": null
   },
   "EPR": {
     "ticker": "EPR",
@@ -2595,13 +2665,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:35:05.713338",
+    "last_updated": "2026-08-22T20:02:21.149916",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "STAG": {
     "ticker": "STAG",
@@ -2639,11 +2711,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:30:01.659689",
+    "last_updated": "2026-08-22T20:00:34.532285",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ARCC": {
     "ticker": "ARCC",
@@ -2679,13 +2752,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:41:08.159739",
+    "last_updated": "2026-08-22T19:58:22.562301",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US04010L1035",
+    "news": null
   },
   "EPD": {
     "ticker": "EPD",
@@ -2721,13 +2796,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:30:00.115009",
+    "last_updated": "2026-08-22T20:00:21.734428",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US2937921078",
+    "news": null
   },
   "BIP": {
     "ticker": "BIP",
@@ -2763,13 +2840,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:38:07.881914",
+    "last_updated": "2026-08-22T20:03:19.107660",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "AGNC": {
     "ticker": "AGNC",
@@ -2805,13 +2884,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:43:10.924789",
+    "last_updated": "2026-08-22T20:00:45.274539",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US00123Q1040",
+    "news": null
   },
   "DX": {
     "ticker": "DX",
@@ -2847,13 +2928,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:22:56.613649",
+    "last_updated": "2026-08-22T20:09:43.216966",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "LTC": {
     "ticker": "LTC",
@@ -2885,13 +2968,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:48:11.658422",
+    "last_updated": "2026-08-22T20:09:35.113553",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MAIN": {
     "ticker": "MAIN",
@@ -2923,13 +3008,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:36:03.191706",
+    "last_updated": "2026-08-22T20:05:34.399588",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "5401.T": {
     "ticker": "5401.T",
@@ -2962,13 +3049,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:43:11.632299",
+    "last_updated": "2026-08-22T20:09:19.496432",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "DWNI.DE": {
     "ticker": "DWNI.DE",
@@ -3001,13 +3090,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:34:04.047525",
+    "last_updated": "2026-08-22T20:02:31.540239",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "1833.T": {
     "ticker": "1833.T",
@@ -3040,13 +3131,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:42:09.262463",
+    "last_updated": "2026-08-22T20:07:39.543892",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "7240.T": {
     "ticker": "7240.T",
@@ -3079,13 +3172,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:32:03.039912",
+    "last_updated": "2026-08-22T19:58:14.136194",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "FNTN.DE": {
     "ticker": "FNTN.DE",
@@ -3118,13 +3213,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:20:55.593245",
+    "last_updated": "2026-08-22T20:05:38.529670",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "5938.T": {
     "ticker": "5938.T",
@@ -3157,13 +3254,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:20:58.831856",
+    "last_updated": "2026-08-22T19:58:02.885450",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "9364.T": {
     "ticker": "9364.T",
@@ -3196,13 +3295,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:46:08.175048",
+    "last_updated": "2026-08-22T20:09:40.566450",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "LEG.DE": {
     "ticker": "LEG.DE",
@@ -3235,13 +3336,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:37:06.156743",
+    "last_updated": "2026-08-22T20:07:07.832256",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SAX.DE": {
     "ticker": "SAX.DE",
@@ -3274,13 +3377,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:47:12.280111",
+    "last_updated": "2026-08-22T20:04:42.045903",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "HNR1.DE": {
     "ticker": "HNR1.DE",
@@ -3313,13 +3418,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:24:58.984333",
+    "last_updated": "2026-08-22T20:04:31.254565",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SIX2.DE": {
     "ticker": "SIX2.DE",
@@ -3352,13 +3459,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:38:07.233116",
+    "last_updated": "2026-08-22T20:10:34.238699",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "8960.T": {
     "ticker": "8960.T",
@@ -3391,13 +3500,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:21:59.679759",
+    "last_updated": "2026-08-22T20:10:41.041097",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MBG.DE": {
     "ticker": "MBG.DE",
@@ -3430,13 +3541,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:30:00.833514",
+    "last_updated": "2026-08-22T20:00:03.832901",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "8150.T": {
     "ticker": "8150.T",
@@ -3469,13 +3582,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:32:01.182518",
+    "last_updated": "2026-08-22T20:01:04.258429",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "0010.HK": {
     "ticker": "0010.HK",
@@ -3508,13 +3623,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:46:13.320317",
+    "last_updated": "2026-08-22T20:11:34.757230",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "DEQ.DE": {
     "ticker": "DEQ.DE",
@@ -3547,13 +3664,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:36:05.652983",
+    "last_updated": "2026-08-22T20:03:16.494010",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "4183.T": {
     "ticker": "4183.T",
@@ -3586,13 +3705,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:22:58.407867",
+    "last_updated": "2026-08-22T20:06:39.046666",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "8616.T": {
     "ticker": "8616.T",
@@ -3625,13 +3746,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:39:07.153280",
+    "last_updated": "2026-08-22T19:59:59.044412",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PAH3.DE": {
     "ticker": "PAH3.DE",
@@ -3664,13 +3787,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:21:59.085253",
+    "last_updated": "2026-08-22T20:10:19.997526",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "8963.T": {
     "ticker": "8963.T",
@@ -3703,13 +3828,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:25:58.096346",
+    "last_updated": "2026-08-22T20:08:40.045030",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "8395.T": {
     "ticker": "8395.T",
@@ -3742,13 +3869,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:29:03.134061",
+    "last_updated": "2026-08-22T20:07:32.751436",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "7177.T": {
     "ticker": "7177.T",
@@ -3781,13 +3910,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:34:03.006493",
+    "last_updated": "2026-08-22T20:02:41.026401",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "3002.T": {
     "ticker": "3002.T",
@@ -3820,13 +3951,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:24:57.599981",
+    "last_updated": "2026-08-22T20:02:04.761700",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "O2D.DE": {
     "ticker": "O2D.DE",
@@ -3859,13 +3992,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:40:10.324455",
+    "last_updated": "2026-08-22T20:01:31.032866",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "8972.T": {
     "ticker": "8972.T",
@@ -3898,13 +4033,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:21:56.156478",
+    "last_updated": "2026-08-22T19:56:02.402516",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "VNA.DE": {
     "ticker": "VNA.DE",
@@ -3937,13 +4074,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:31:00.677902",
+    "last_updated": "2026-08-22T19:57:02.401368",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "VOW3.DE": {
     "ticker": "VOW3.DE",
@@ -3976,13 +4115,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:21:56.813242",
+    "last_updated": "2026-08-22T19:59:26.247171",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "8985.T": {
     "ticker": "8985.T",
@@ -4015,13 +4156,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:42:11.125224",
+    "last_updated": "2026-08-22T19:56:13.131953",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TFC": {
     "ticker": "TFC",
@@ -4047,23 +4190,24 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:43:09.154005",
+    "last_updated": "2026-08-22T20:08:44.737796",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ET": {
     "ticker": "ET",
     "name": "Energy Transfer LP",
     "price": 21.19,
-    "market_cap": 72963.51453876145,
-    "pe_ratio": 16.7194,
-    "dividend_yield_pct": 6.5238,
-    "payout_ratio_pct": 109.07,
-    "debt_to_equity": 2.012,
-    "current_ratio": 1.1691,
-    "data_source": "finnhub",
+    "market_cap": 72918180400,
+    "pe_ratio": 13.161490683229816,
+    "dividend_yield_pct": 6.347334,
+    "payout_ratio_pct": 82.13058419243985,
+    "debt_to_equity": 1.9880841187625597,
+    "current_ratio": 1.1639137878940478,
+    "data_source": "fmp",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -4073,15 +4217,17 @@
       }
     ],
     "evaluation": {
-      "trap_warning": true,
-      "risk": "hoch",
-      "meets_min_yield": true
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:16:56.396919",
-    "perf_1m": null,
-    "perf_3m": null,
-    "perf_1y": null,
-    "isin": null
+    "last_updated": "2026-08-22T20:01:33.301451",
+    "perf_1m": 3.77,
+    "perf_3m": 5.58,
+    "perf_1y": 21.02,
+    "isin": "US29273V1008",
+    "news": null
   },
   "SWED-A.ST": {
     "ticker": "SWED-A.ST",
@@ -4106,13 +4252,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:44:11.939762",
+    "last_updated": "2026-08-22T20:05:01.608466",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "KMI": {
     "ticker": "KMI",
@@ -4138,11 +4286,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:34:05.532517",
+    "last_updated": "2026-08-22T20:06:41.890481",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "KIM": {
     "ticker": "KIM",
@@ -4168,11 +4317,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:36:08.005848",
+    "last_updated": "2026-08-22T20:07:22.377617",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "BCE": {
     "ticker": "BCE",
@@ -4196,13 +4346,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:39:08.421467",
+    "last_updated": "2026-08-22T20:06:43.230381",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "HSBA.L": {
     "ticker": "HSBA.L",
@@ -4227,13 +4379,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:39:09.196197",
+    "last_updated": "2026-08-22T20:04:16.996303",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SRG.MI": {
     "ticker": "SRG.MI",
@@ -4258,13 +4412,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:31:01.841221",
+    "last_updated": "2026-08-22T20:07:48.922051",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "EC": {
     "ticker": "EC",
@@ -4288,13 +4444,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:34:07.023696",
+    "last_updated": "2026-08-22T20:04:22.202661",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "JST.DE": {
     "ticker": "JST.DE",
@@ -4319,13 +4477,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:23:00.175104",
+    "last_updated": "2026-08-22T19:58:25.889312",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SDF.DE": {
     "ticker": "SDF.DE",
@@ -4350,13 +4510,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:48:09.103513",
+    "last_updated": "2026-08-22T20:01:15.494726",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "DOW": {
     "ticker": "DOW",
@@ -4382,11 +4544,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:39:07.729556",
+    "last_updated": "2026-08-22T20:05:33.101600",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "LEI.DE": {
     "ticker": "LEI.DE",
@@ -4413,11 +4576,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:39:04.620609",
+    "last_updated": "2026-08-22T20:06:02.071248",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CON.DE": {
     "ticker": "CON.DE",
@@ -4442,25 +4606,27 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:24:58.287094",
+    "last_updated": "2026-08-22T20:03:00.529696",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TRP": {
     "ticker": "TRP",
-    "name": "TC Energy Corporation",
+    "name": "TC Energy Corp",
     "price": 62.02,
-    "market_cap": 64610382889,
-    "pe_ratio": 24.822134,
-    "dividend_yield_pct": 3.9858109992815303,
-    "payout_ratio_pct": 98.42999999999999,
-    "debt_to_equity": null,
-    "current_ratio": null,
-    "data_source": "twelvedata",
+    "market_cap": 87010.002136,
+    "pe_ratio": 24.6787,
+    "dividend_yield_pct": 4.1479,
+    "payout_ratio_pct": 102.36,
+    "debt_to_equity": 2.2963,
+    "current_ratio": 0.6102,
+    "data_source": "finnhub",
     "land": "Kanada",
     "sektor": "Energie",
     "price_history": [
@@ -4470,15 +4636,16 @@
       }
     ],
     "evaluation": {
-      "trap_warning": false,
+      "trap_warning": true,
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:17:54.976967",
+    "last_updated": "2026-08-22T19:57:00.425133",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TW.L": {
     "ticker": "TW.L",
@@ -4503,13 +4670,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:17:55.541262",
+    "last_updated": "2026-08-22T19:59:03.426361",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "SREN.SW": {
     "ticker": "SREN.SW",
@@ -4534,13 +4703,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:41:05.700517",
+    "last_updated": "2026-08-22T19:58:58.674764",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MNG.L": {
     "ticker": "MNG.L",
@@ -4565,13 +4736,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:29:03.817114",
+    "last_updated": "2026-08-22T19:56:08.748016",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "NDA-FI.HE": {
     "ticker": "NDA-FI.HE",
@@ -4596,13 +4769,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:22:57.271944",
+    "last_updated": "2026-08-22T20:07:43.939845",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TRN.MI": {
     "ticker": "TRN.MI",
@@ -4627,13 +4802,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:40:09.690750",
+    "last_updated": "2026-08-22T19:56:57.639072",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "EVK.DE": {
     "ticker": "EVK.DE",
@@ -4658,13 +4835,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:47:08.789572",
+    "last_updated": "2026-08-22T20:09:03.530918",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MFC": {
     "ticker": "MFC",
@@ -4690,11 +4869,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:27:59.144915",
+    "last_updated": "2026-08-22T19:57:05.046128",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "NWX.DE": {
     "ticker": "NWX.DE",
@@ -4719,13 +4899,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:40:08.384719",
+    "last_updated": "2026-08-22T19:56:05.544177",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "LGEN.L": {
     "ticker": "LGEN.L",
@@ -4750,13 +4932,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:43:06.603533",
+    "last_updated": "2026-08-22T20:02:15.982723",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MUX.DE": {
     "ticker": "MUX.DE",
@@ -4781,13 +4965,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:18:55.169235",
+    "last_updated": "2026-08-22T20:08:33.250811",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "HAW.DE": {
     "ticker": "HAW.DE",
@@ -4812,13 +4998,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:32:02.421394",
+    "last_updated": "2026-08-22T19:59:18.851799",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "UCG.MI": {
     "ticker": "UCG.MI",
@@ -4843,13 +5031,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:33:01.611807",
+    "last_updated": "2026-08-22T19:57:23.930490",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "HABA.DE": {
     "ticker": "HABA.DE",
@@ -4874,13 +5064,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:18:55.763595",
+    "last_updated": "2026-08-22T20:04:01.014038",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "IBE.MC": {
     "ticker": "IBE.MC",
@@ -4907,11 +5099,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:16:57.027599",
+    "last_updated": "2026-08-22T20:10:11.670110",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ELE.MC": {
     "ticker": "ELE.MC",
@@ -4936,13 +5129,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:33:02.535949",
+    "last_updated": "2026-08-22T19:57:58.184679",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "BBAS3.SA": {
     "ticker": "BBAS3.SA",
@@ -4967,13 +5162,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:22:59.588625",
+    "last_updated": "2026-08-22T20:08:42.345880",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "BBSE3.SA": {
     "ticker": "BBSE3.SA",
@@ -4998,13 +5195,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:37:07.455995",
+    "last_updated": "2026-08-22T20:08:37.322784",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "OHI": {
     "ticker": "OHI",
@@ -5028,13 +5227,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:27:02.132187",
+    "last_updated": "2026-08-22T20:01:24.493533",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "US6819361006",
+    "news": null
   },
   "BIJ.DE": {
     "ticker": "BIJ.DE",
@@ -5059,13 +5260,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:45:07.607433",
+    "last_updated": "2026-08-22T20:08:18.997759",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PBR": {
     "ticker": "PBR",
@@ -5089,13 +5292,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:40:09.009250",
+    "last_updated": "2026-08-22T20:04:26.461547",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "BMW.DE": {
     "ticker": "BMW.DE",
@@ -5120,13 +5325,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:30:03.989851",
+    "last_updated": "2026-08-22T20:06:06.770690",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ENEL.MI": {
     "ticker": "ENEL.MI",
@@ -5153,11 +5360,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:37:08.348027",
+    "last_updated": "2026-08-22T20:11:04.571214",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CCI": {
     "ticker": "CCI",
@@ -5181,13 +5389,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:36:06.796624",
+    "last_updated": "2026-08-22T20:08:08.204704",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "004990.KS": {
     "ticker": "004990.KS",
@@ -5212,13 +5422,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:33:03.570861",
+    "last_updated": "2026-08-22T20:08:03.030533",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TRYG.CO": {
     "ticker": "TRYG.CO",
@@ -5243,13 +5455,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:35:02.602681",
+    "last_updated": "2026-08-22T20:04:35.153738",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "EDL.DE": {
     "ticker": "EDL.DE",
@@ -5274,13 +5488,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:41:09.458705",
+    "last_updated": "2026-08-22T19:55:57.227203",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CPFE3.SA": {
     "ticker": "CPFE3.SA",
@@ -5305,13 +5521,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:23:58.793881",
+    "last_updated": "2026-08-22T19:57:14.942132",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "WSU.DE": {
     "ticker": "WSU.DE",
@@ -5336,13 +5554,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:35:07.492394",
+    "last_updated": "2026-08-22T19:59:14.632517",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "HOT.DE": {
     "ticker": "HOT.DE",
@@ -5367,13 +5587,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:40:07.685453",
+    "last_updated": "2026-08-22T20:05:42.117036",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "LYB": {
     "ticker": "LYB",
@@ -5397,13 +5619,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "mittel",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:19:55.110067",
+    "last_updated": "2026-08-22T20:04:48.571391",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PWO.DE": {
     "ticker": "PWO.DE",
@@ -5428,13 +5652,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:34:04.691801",
+    "last_updated": "2026-08-22T20:04:05.759736",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "DTG.DE": {
     "ticker": "DTG.DE",
@@ -5459,13 +5685,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:28:03.196223",
+    "last_updated": "2026-08-22T20:01:20.484416",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "030000.KS": {
     "ticker": "030000.KS",
@@ -5490,13 +5718,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:31:02.466164",
+    "last_updated": "2026-08-22T20:00:59.574958",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "PBA": {
     "ticker": "PBA",
@@ -5522,11 +5752,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:26:59.731586",
+    "last_updated": "2026-08-22T20:00:38.434805",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ISP.MI": {
     "ticker": "ISP.MI",
@@ -5551,13 +5782,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:28:00.906851",
+    "last_updated": "2026-08-22T20:07:02.518519",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "WCH.DE": {
     "ticker": "WCH.DE",
@@ -5582,13 +5815,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:20:56.232155",
+    "last_updated": "2026-08-22T20:03:32.138562",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "NLY": {
     "ticker": "NLY",
@@ -5612,13 +5847,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:35:03.306404",
+    "last_updated": "2026-08-22T20:05:44.753961",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "GLEN.L": {
     "ticker": "GLEN.L",
@@ -5643,13 +5880,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:35:04.564566",
+    "last_updated": "2026-08-22T20:00:15.041545",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "STG.CO": {
     "ticker": "STG.CO",
@@ -5674,13 +5913,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:18:57.307284",
+    "last_updated": "2026-08-22T20:07:18.478434",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "M12.DE": {
     "ticker": "M12.DE",
@@ -5705,13 +5946,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "niedrig",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:36:07.416398",
+    "last_updated": "2026-08-22T20:10:50.420890",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "035250.KS": {
     "ticker": "035250.KS",
@@ -5736,13 +5979,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:45:10.790572",
+    "last_updated": "2026-08-22T20:08:49.415552",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "OKE": {
     "ticker": "OKE",
@@ -5768,11 +6013,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:41:10.761480",
+    "last_updated": "2026-08-22T20:08:36.130652",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "ZURN.SW": {
     "ticker": "ZURN.SW",
@@ -5797,13 +6043,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:18:54.596988",
+    "last_updated": "2026-08-22T20:00:40.022787",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "AV.L": {
     "ticker": "AV.L",
@@ -5828,13 +6076,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:25:59.289200",
+    "last_updated": "2026-08-22T20:03:41.528620",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TU": {
     "ticker": "TU",
@@ -5858,13 +6108,15 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:24:59.709134",
+    "last_updated": "2026-08-22T20:00:47.955024",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": "CA87971M1032",
+    "news": null
   },
   "BNS": {
     "ticker": "BNS",
@@ -5890,11 +6142,12 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:38:09.222563",
+    "last_updated": "2026-08-22T20:07:35.152320",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "CS.PA": {
     "ticker": "CS.PA",
@@ -5919,13 +6172,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:29:01.377872",
+    "last_updated": "2026-08-22T20:09:11.176299",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "B7E.DE": {
     "ticker": "B7E.DE",
@@ -5950,13 +6205,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:45:10.165389",
+    "last_updated": "2026-08-22T20:06:18.004771",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "EN.PA": {
     "ticker": "EN.PA",
@@ -5981,13 +6238,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:39:09.822828",
+    "last_updated": "2026-08-22T20:00:30.557971",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "MB.MI": {
     "ticker": "MB.MI",
@@ -6012,13 +6271,15 @@
     "evaluation": {
       "trap_warning": false,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:44:11.345555",
+    "last_updated": "2026-08-22T19:57:18.126060",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "KEY": {
     "ticker": "KEY",
@@ -6044,11 +6305,12 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:23:57.707267",
+    "last_updated": "2026-08-22T20:04:19.519597",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "TTE.PA": {
     "ticker": "TTE.PA",
@@ -6075,11 +6337,12 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T14:18:58.458575",
+    "last_updated": "2026-08-22T20:08:10.672204",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   },
   "BCH": {
     "ticker": "BCH",
@@ -6103,12 +6366,14 @@
     "evaluation": {
       "trap_warning": true,
       "risk": "hoch",
-      "meets_min_yield": true
+      "meets_min_yield": true,
+      "sentiment_warning": false
     },
-    "last_updated": "2026-08-22T14:45:12.122699",
+    "last_updated": "2026-08-22T20:04:44.421582",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": null
+    "isin": null,
+    "news": null
   }
 }
