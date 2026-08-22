@@ -1,15 +1,15 @@
 {
   "XOM": {
     "ticker": "XOM",
-    "name": "Exxon Mobil Corporation",
+    "name": "Exxonmobil Holdings Corp",
     "price": 165.11,
-    "market_cap": 684291790600,
-    "pe_ratio": 21.24967824967825,
-    "dividend_yield_pct": 2.495306,
-    "payout_ratio_pct": 52.63302500228959,
-    "debt_to_equity": 0.16334335723648702,
-    "current_ratio": 1.1346729708431835,
-    "data_source": "fmp",
+    "market_cap": 650632.36,
+    "pe_ratio": 20.0535,
+    "dividend_yield_pct": 2.6246,
+    "payout_ratio_pct": 52.63,
+    "debt_to_equity": 0.1633,
+    "current_ratio": 1.1347,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -35,7 +35,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:04:50.838595",
+    "last_updated": "2026-08-22T11:19:03.788645",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -77,7 +77,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:49:43.911218",
+    "last_updated": "2026-08-22T11:13:03.020012",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -85,15 +85,15 @@
   },
   "CVX": {
     "ticker": "CVX",
-    "name": "Chevron Corporation",
-    "price": 205.24,
-    "market_cap": 408755984000,
-    "pe_ratio": 19.602674307545367,
-    "dividend_yield_pct": 3.4350029999999996,
-    "payout_ratio_pct": 67.32553057160897,
-    "debt_to_equity": 0.19525181295850602,
-    "current_ratio": 1.3582040277319247,
-    "data_source": "fmp",
+    "name": "Chevron Corp",
+    "price": 205.27,
+    "market_cap": 405566.57090337214,
+    "pe_ratio": 18.9191,
+    "dividend_yield_pct": 3.5586,
+    "payout_ratio_pct": 67.33,
+    "debt_to_equity": 0.1953,
+    "current_ratio": 1.2522,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -119,7 +119,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:50:46.692497",
+    "last_updated": "2026-08-22T11:31:18.827130",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -161,7 +161,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:56:50.263321",
+    "last_updated": "2026-08-22T11:38:17.631343",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -203,7 +203,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:04:57.223261",
+    "last_updated": "2026-08-22T11:13:00.898061",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -245,7 +245,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:53:46.144804",
+    "last_updated": "2026-08-22T11:37:21.846199",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -287,7 +287,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:02:55.087600",
+    "last_updated": "2026-08-22T11:37:15.742027",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -329,7 +329,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:02:53.955081",
+    "last_updated": "2026-08-22T11:29:14.285304",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -337,15 +337,15 @@
   },
   "WMT": {
     "ticker": "WMT",
-    "name": "Walmart Inc.",
+    "name": "Walmart Inc",
     "price": 103.7,
-    "market_cap": 825252896000,
-    "pe_ratio": 37.43682310469315,
-    "dividend_yield_pct": 0.9426230000000001,
-    "payout_ratio_pct": 34.86591773872078,
-    "debt_to_equity": 0.7507787210651683,
-    "current_ratio": 0.7671279079823575,
-    "data_source": "fmp",
+    "market_cap": 884142.59,
+    "pe_ratio": 40.6059,
+    "dividend_yield_pct": 0.8231,
+    "payout_ratio_pct": 33.42,
+    "debt_to_equity": 0.6162,
+    "current_ratio": 0.7714,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Einzelhandel",
     "price_history": [
@@ -371,7 +371,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:00:52.194378",
+    "last_updated": "2026-08-22T11:24:13.527676",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -413,7 +413,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:06:58.231832",
+    "last_updated": "2026-08-22T11:29:15.612298",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -455,7 +455,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:57:50.108180",
+    "last_updated": "2026-08-22T11:26:14.448362",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -497,7 +497,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:05:55.507341",
+    "last_updated": "2026-08-22T11:11:03.655885",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -539,7 +539,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:56:49.672107",
+    "last_updated": "2026-08-22T11:28:14.800152",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -581,7 +581,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:56:49.074657",
+    "last_updated": "2026-08-22T11:18:04.699653",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -623,7 +623,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:05:53.579780",
+    "last_updated": "2026-08-22T11:12:03.845151",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -665,7 +665,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:54:45.488897",
+    "last_updated": "2026-08-22T11:37:19.870349",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -707,7 +707,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:49:44.475720",
+    "last_updated": "2026-08-22T11:24:14.885988",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -749,7 +749,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:55:45.888982",
+    "last_updated": "2026-08-22T11:34:14.977782",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -791,7 +791,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:50:44.072617",
+    "last_updated": "2026-08-22T11:34:16.292745",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -833,11 +833,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:01:48.852719",
+    "last_updated": "2026-08-22T11:20:07.528495",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US42250P1030"
+    "isin": null
   },
   "MDT": {
     "ticker": "MDT",
@@ -875,7 +875,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:03:56.772191",
+    "last_updated": "2026-08-22T11:28:13.471626",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -917,7 +917,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:07:55.291396",
+    "last_updated": "2026-08-22T11:37:14.422187",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -925,15 +925,15 @@
   },
   "PEP": {
     "ticker": "PEP",
-    "name": "PepsiCo, Inc.",
+    "name": "PepsiCo Inc",
     "price": 143.48,
-    "market_cap": 195993680000,
-    "pe_ratio": 18.780104712041883,
-    "dividend_yield_pct": 4.0057849999999995,
-    "payout_ratio_pct": 74.47782546494993,
-    "debt_to_equity": 2.4080912299755632,
-    "current_ratio": 0.9336010938301145,
-    "data_source": "fmp",
+    "market_cap": 195834.6320009107,
+    "pe_ratio": 18.2277,
+    "dividend_yield_pct": 4.0993,
+    "payout_ratio_pct": 74.72,
+    "debt_to_equity": 2.4081,
+    "current_ratio": 0.9336,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Konsumgueter",
     "price_history": [
@@ -959,7 +959,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:49:42.122112",
+    "last_updated": "2026-08-22T11:36:14.262916",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1001,7 +1001,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:58:50.648900",
+    "last_updated": "2026-08-22T11:29:17.473842",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1043,7 +1043,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:51:43.871650",
+    "last_updated": "2026-08-22T11:19:05.250595",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1085,7 +1085,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:01:55.249033",
+    "last_updated": "2026-08-22T11:25:10.720429",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1127,7 +1127,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:59:51.135205",
+    "last_updated": "2026-08-22T11:28:12.093124",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1169,7 +1169,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:49:45.808886",
+    "last_updated": "2026-08-22T11:21:12.199508",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1211,7 +1211,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:04:53.918042",
+    "last_updated": "2026-08-22T11:09:59.302659",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1253,11 +1253,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:53:48.831705",
+    "last_updated": "2026-08-22T11:10:08.277605",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US7561091049"
+    "isin": null
   },
   "LOW": {
     "ticker": "LOW",
@@ -1295,7 +1295,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:50:45.204783",
+    "last_updated": "2026-08-22T11:32:16.031303",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1337,7 +1337,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:55:50.014035",
+    "last_updated": "2026-08-22T11:13:07.895021",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1379,7 +1379,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:07:54.586697",
+    "last_updated": "2026-08-22T11:30:11.105110",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1421,7 +1421,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:51:46.405665",
+    "last_updated": "2026-08-22T11:28:16.956049",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1463,7 +1463,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:02:53.400535",
+    "last_updated": "2026-08-22T11:08:58.813552",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1505,7 +1505,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:01:51.619680",
+    "last_updated": "2026-08-22T11:34:11.299062",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1547,7 +1547,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:05:50.856896",
+    "last_updated": "2026-08-22T11:16:10.105015",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1589,7 +1589,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:03:55.113677",
+    "last_updated": "2026-08-22T11:27:07.797961",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1631,7 +1631,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:52:48.310338",
+    "last_updated": "2026-08-22T11:36:15.578900",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1673,7 +1673,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:06:56.182722",
+    "last_updated": "2026-08-22T11:14:09.074552",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1715,7 +1715,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:59:51.787291",
+    "last_updated": "2026-08-22T11:27:11.909494",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1757,7 +1757,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:02:49.380891",
+    "last_updated": "2026-08-22T11:33:19.506504",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1765,15 +1765,15 @@
   },
   "VZ": {
     "ticker": "VZ",
-    "name": "Verizon Communications Inc.",
+    "name": "Verizon Communications Inc",
     "price": 49.45,
-    "market_cap": 206481442000,
-    "pe_ratio": 12.877604166666668,
-    "dividend_yield_pct": 5.6521740000000005,
-    "payout_ratio_pct": 71.93297056641109,
-    "debt_to_equity": 1.8134911470361816,
-    "current_ratio": 0.6039285656877401,
-    "data_source": "fmp",
+    "market_cap": 191587.05,
+    "pe_ratio": 12.0697,
+    "dividend_yield_pct": 5.9598,
+    "payout_ratio_pct": 71.93,
+    "debt_to_equity": 1.59,
+    "current_ratio": 0.6039,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Telekom",
     "price_history": [
@@ -1799,11 +1799,11 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:01:51.998985",
-    "perf_1m": 12.85,
-    "perf_3m": 2.28,
-    "perf_1y": 11.27,
-    "isin": "US92343V1044"
+    "last_updated": "2026-08-22T11:27:14.545762",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
   },
   "LIN": {
     "ticker": "LIN",
@@ -1841,7 +1841,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:52:44.351257",
+    "last_updated": "2026-08-22T11:08:05.595945",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1883,7 +1883,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:58:47.360343",
+    "last_updated": "2026-08-22T11:33:12.860588",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1891,15 +1891,15 @@
   },
   "T": {
     "ticker": "T",
-    "name": "AT&T Inc.",
-    "price": 25.31,
-    "market_cap": 173433990900,
-    "pe_ratio": 8.353135313531352,
-    "dividend_yield_pct": 4.385618,
-    "payout_ratio_pct": 37.30343351633014,
-    "debt_to_equity": 1.4748469812755787,
-    "current_ratio": 0.9710014611666854,
-    "data_source": "fmp",
+    "name": "AT&T Inc",
+    "price": 25.29,
+    "market_cap": 173296.83279135506,
+    "pe_ratio": 7.7478,
+    "dividend_yield_pct": 4.8004,
+    "payout_ratio_pct": 37.19,
+    "debt_to_equity": 1.3034,
+    "current_ratio": 0.971,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Telekom",
     "price_history": [
@@ -1925,7 +1925,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:53:49.311320",
+    "last_updated": "2026-08-22T11:19:09.196880",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1967,7 +1967,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:54:49.605580",
+    "last_updated": "2026-08-22T11:21:13.568909",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2009,7 +2009,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:56:46.361130",
+    "last_updated": "2026-08-22T11:15:07.689193",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2017,15 +2017,15 @@
   },
   "TGT": {
     "ticker": "TGT",
-    "name": "Target Corporation",
-    "price": 165.42,
-    "market_cap": 75132275220,
-    "pe_ratio": 17.08884297520661,
-    "dividend_yield_pct": 2.76871,
-    "payout_ratio_pct": 47.0856102003643,
-    "debt_to_equity": 1.0480860841786694,
-    "current_ratio": 0.9881019830028328,
-    "data_source": "fmp",
+    "name": "Target Corp",
+    "price": 165.44,
+    "market_cap": 75141.38081012676,
+    "pe_ratio": 20.3425,
+    "dividend_yield_pct": 2.9338,
+    "payout_ratio_pct": 59.68,
+    "debt_to_equity": 0.9402,
+    "current_ratio": 0.932,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Einzelhandel",
     "price_history": [
@@ -2048,10 +2048,10 @@
     ],
     "evaluation": {
       "trap_warning": false,
-      "risk": "mittel",
+      "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:55:50.999617",
+    "last_updated": "2026-08-22T11:33:10.858734",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2093,7 +2093,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:00:51.786407",
+    "last_updated": "2026-08-22T11:36:19.391848",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2135,11 +2135,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:00:53.377699",
+    "last_updated": "2026-08-22T11:09:02.255726",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US92936U1097"
+    "isin": null
   },
   "MO": {
     "ticker": "MO",
@@ -2177,11 +2177,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:50:43.368222",
+    "last_updated": "2026-08-22T11:11:08.978756",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US02209S1033"
+    "isin": null
   },
   "ROP": {
     "ticker": "ROP",
@@ -2219,7 +2219,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:05:57.747731",
+    "last_updated": "2026-08-22T11:14:10.434841",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2261,7 +2261,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:58:52.673912",
+    "last_updated": "2026-08-22T11:12:00.304134",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2303,7 +2303,7 @@
       "risk": "mittel",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:03:53.897962",
+    "last_updated": "2026-08-22T11:22:12.743688",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2345,7 +2345,7 @@
       "risk": "niedrig",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:00:48.423152",
+    "last_updated": "2026-08-22T11:30:15.055191",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2353,15 +2353,15 @@
   },
   "ABBV": {
     "ticker": "ABBV",
-    "name": "AbbVie Inc.",
-    "price": 265.01,
-    "market_cap": 468217765493,
-    "pe_ratio": 74.66121989012537,
-    "dividend_yield_pct": 2.577261,
-    "payout_ratio_pct": 189.70541653468482,
-    "debt_to_equity": -11.932940185341197,
-    "current_ratio": 0.8085346525142885,
-    "data_source": "fmp",
+    "name": "AbbVie Inc",
+    "price": 264.96,
+    "market_cap": 468215.3783312934,
+    "pe_ratio": 70.2422,
+    "dividend_yield_pct": 2.7024,
+    "payout_ratio_pct": 189.83,
+    "debt_to_equity": 49.2176,
+    "current_ratio": 0.8085,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Gesundheit",
     "price_history": [
@@ -2387,7 +2387,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T06:55:46.344530",
+    "last_updated": "2026-08-22T11:26:13.103073",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2429,7 +2429,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:07:56.932040",
+    "last_updated": "2026-08-22T11:20:11.547997",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2471,11 +2471,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:01:52.886277",
+    "last_updated": "2026-08-22T11:09:00.163382",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US70806A1060"
+    "isin": null
   },
   "ENB": {
     "ticker": "ENB",
@@ -2513,11 +2513,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:58:51.973533",
+    "last_updated": "2026-08-22T11:14:07.099880",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "CA29250N1050"
+    "isin": null
   },
   "UVV": {
     "ticker": "UVV",
@@ -2555,11 +2555,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:54:50.272395",
+    "last_updated": "2026-08-22T11:35:18.884085",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US9134561094"
+    "isin": null
   },
   "EPR": {
     "ticker": "EPR",
@@ -2597,11 +2597,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:02:56.225649",
+    "last_updated": "2026-08-22T11:25:12.034959",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US26884U1097"
+    "isin": null
   },
   "STAG": {
     "ticker": "STAG",
@@ -2639,7 +2639,7 @@
       "risk": "hoch",
       "meets_min_yield": false
     },
-    "last_updated": "2026-08-22T07:06:55.610337",
+    "last_updated": "2026-08-22T11:20:09.511693",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2681,7 +2681,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:06:54.072173",
+    "last_updated": "2026-08-22T11:12:07.728515",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2723,7 +2723,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:07:58.715852",
+    "last_updated": "2026-08-22T11:20:12.854969",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2765,11 +2765,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:49:43.142230",
+    "last_updated": "2026-08-22T11:18:06.673187",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "BMG162521014"
+    "isin": null
   },
   "AGNC": {
     "ticker": "AGNC",
@@ -2807,11 +2807,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:55:49.340584",
+    "last_updated": "2026-08-22T11:25:06.824231",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US00123Q1040"
+    "isin": null
   },
   "DX": {
     "ticker": "DX",
@@ -2849,11 +2849,11 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:53:44.878820",
+    "last_updated": "2026-08-22T11:18:08.659684",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US26817Q8868"
+    "isin": null
   },
   "LTC": {
     "ticker": "LTC",
@@ -2887,11 +2887,11 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:49:46.458784",
+    "last_updated": "2026-08-22T11:07:59.741984",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US5021751020"
+    "isin": null
   },
   "MAIN": {
     "ticker": "MAIN",
@@ -2925,11 +2925,11 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:04:53.079195",
+    "last_updated": "2026-08-22T11:26:09.513344",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
-    "isin": "US56035L1044"
+    "isin": null
   },
   "5401.T": {
     "ticker": "5401.T",
@@ -2964,7 +2964,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:56:52.044140",
+    "last_updated": "2026-08-22T11:12:06.067114",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3003,7 +3003,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:03:54.488111",
+    "last_updated": "2026-08-22T11:08:01.970527",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3042,7 +3042,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:54:51.012257",
+    "last_updated": "2026-08-22T11:15:01.877094",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3081,7 +3081,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:08:52.433872",
+    "last_updated": "2026-08-22T11:23:12.986710",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3120,7 +3120,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:50:47.261277",
+    "last_updated": "2026-08-22T11:30:09.456571",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3159,7 +3159,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:53:45.540028",
+    "last_updated": "2026-08-22T11:11:05.557333",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3198,7 +3198,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:51:45.152787",
+    "last_updated": "2026-08-22T11:17:12.174241",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3237,7 +3237,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:59:47.874638",
+    "last_updated": "2026-08-22T11:34:13.335661",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3276,7 +3276,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:58:51.261211",
+    "last_updated": "2026-08-22T11:10:00.634401",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3315,7 +3315,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:03:49.852162",
+    "last_updated": "2026-08-22T11:30:18.085615",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3354,7 +3354,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:51:44.484281",
+    "last_updated": "2026-08-22T11:24:07.952943",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3393,7 +3393,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:02:52.063895",
+    "last_updated": "2026-08-22T11:29:11.018885",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3432,7 +3432,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:00:54.172124",
+    "last_updated": "2026-08-22T11:16:05.548773",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3471,7 +3471,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:52:45.637877",
+    "last_updated": "2026-08-22T11:14:01.325462",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3510,7 +3510,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:57:50.647277",
+    "last_updated": "2026-08-22T11:38:22.312451",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3549,7 +3549,7 @@
       "risk": "mittel",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:55:51.552788",
+    "last_updated": "2026-08-22T11:26:15.761533",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3588,7 +3588,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:07:51.855195",
+    "last_updated": "2026-08-22T11:26:07.315976",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3627,7 +3627,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:55:48.585185",
+    "last_updated": "2026-08-22T11:18:12.219439",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3666,7 +3666,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:04:55.626235",
+    "last_updated": "2026-08-22T11:11:07.249065",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3705,7 +3705,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:04:54.995232",
+    "last_updated": "2026-08-22T11:14:03.242500",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3744,7 +3744,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:06:51.390638",
+    "last_updated": "2026-08-22T11:25:15.613276",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3783,7 +3783,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:49:45.151168",
+    "last_updated": "2026-08-22T11:31:17.138262",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3822,7 +3822,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:52:45.049929",
+    "last_updated": "2026-08-22T11:17:04.519644",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3861,7 +3861,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:53:46.719082",
+    "last_updated": "2026-08-22T11:24:11.911630",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3900,7 +3900,7 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:06:54.850098",
+    "last_updated": "2026-08-22T11:21:07.880620",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3939,7 +3939,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T07:00:51.106507",
+    "last_updated": "2026-08-22T11:36:16.933694",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3978,7 +3978,7 @@
       "risk": "niedrig",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:54:48.074079",
+    "last_updated": "2026-08-22T11:23:14.639319",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4017,7 +4017,2095 @@
       "risk": "hoch",
       "meets_min_yield": true
     },
-    "last_updated": "2026-08-22T06:59:52.395951",
+    "last_updated": "2026-08-22T11:14:04.873576",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "TFC": {
+    "ticker": "TFC",
+    "name": "Truist Financial Corp",
+    "price": 50.42,
+    "market_cap": 61594.393486819434,
+    "pe_ratio": 11.0919,
+    "dividend_yield_pct": 4.48,
+    "payout_ratio_pct": 49.69,
+    "debt_to_equity": 0.9316,
+    "current_ratio": null,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 50.42
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "niedrig",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:07:58.337738",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "ET": {
+    "ticker": "ET",
+    "name": "Energy Transfer LP",
+    "price": 21.19,
+    "market_cap": 72963.51453876145,
+    "pe_ratio": 16.7352,
+    "dividend_yield_pct": 6.5177,
+    "payout_ratio_pct": 109.07,
+    "debt_to_equity": 2.012,
+    "current_ratio": 1.1691,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 21.19
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:08:03.658068",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "SWED-A.ST": {
+    "ticker": "SWED-A.ST",
+    "name": "Swedbank",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 8.0,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Schweden",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:08:07.017777",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "KMI": {
+    "ticker": "KMI",
+    "name": "Kinder Morgan Inc",
+    "price": 30.98,
+    "market_cap": 68986.32735267891,
+    "pe_ratio": 20.7522,
+    "dividend_yield_pct": 3.6512,
+    "payout_ratio_pct": 75.77,
+    "debt_to_equity": 1.0195,
+    "current_ratio": 0.4583,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 30.98
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:09:06.116493",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "KIM": {
+    "ticker": "KIM",
+    "name": "Kimco Realty Corp",
+    "price": 24.02,
+    "market_cap": 16112.360510116721,
+    "pe_ratio": 26.9474,
+    "dividend_yield_pct": 4.4376,
+    "payout_ratio_pct": 119.58,
+    "debt_to_equity": 0.8514,
+    "current_ratio": 1.7666,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 24.02
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:09:07.493310",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "BCE": {
+    "ticker": "BCE",
+    "name": "BCE Inc",
+    "price": 23.71,
+    "market_cap": 30558.871479,
+    "pe_ratio": 4.6793,
+    "dividend_yield_pct": 5.9158,
+    "payout_ratio_pct": 27.68,
+    "debt_to_equity": 1.7506,
+    "current_ratio": 0.7327,
+    "data_source": "finnhub",
+    "land": "Kanada",
+    "sektor": "Telekom",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 23.71
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:10:02.784900",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "HSBA.L": {
+    "ticker": "HSBA.L",
+    "name": "HSBC Holdings",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.4,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "UK",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:10:04.944772",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "SRG.MI": {
+    "ticker": "SRG.MI",
+    "name": "Snam",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.8,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Italien",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:10:06.637855",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "EC": {
+    "ticker": "EC",
+    "name": "Ecopetrol SA",
+    "price": 17.53,
+    "market_cap": 110809493.867188,
+    "pe_ratio": 12.0913,
+    "dividend_yield_pct": 10.7333,
+    "payout_ratio_pct": 129.78,
+    "debt_to_equity": 1.3037,
+    "current_ratio": 1.5485,
+    "data_source": "finnhub",
+    "land": "Kolumbien",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 17.53
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:10:59.901671",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "JST.DE": {
+    "ticker": "JST.DE",
+    "name": "Jost Werke",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.3,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (ISIN DE000JST4000 bestaetigt) (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Automobilzulieferer",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:11:01.978896",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "SDF.DE": {
+    "ticker": "SDF.DE",
+    "name": "K+S",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.4,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:12:09.712104",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "DOW": {
+    "ticker": "DOW",
+    "name": "Dow Inc",
+    "price": 32.35,
+    "market_cap": 23367.722671547115,
+    "pe_ratio": null,
+    "dividend_yield_pct": 4.588,
+    "payout_ratio_pct": 64.11,
+    "debt_to_equity": 1.1346,
+    "current_ratio": 1.7493,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 32.35
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:13:04.405996",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "LEI.DE": {
+    "ticker": "LEI.DE",
+    "name": "Leifheit",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": null,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche, Ticker bestaetigt - keine eigene Renditeangabe gefunden, bitte selbst pruefen (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:13:06.566999",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "CON.DE": {
+    "ticker": "CON.DE",
+    "name": "Continental",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.0,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Automobil",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:13:10.205971",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "TRP": {
+    "ticker": "TRP",
+    "name": "TC Energy Corporation",
+    "price": 62.02,
+    "market_cap": 64610382889,
+    "pe_ratio": 24.822134,
+    "dividend_yield_pct": 3.9858109992815303,
+    "payout_ratio_pct": 98.42999999999999,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "twelvedata",
+    "land": "Kanada",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 62.02
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:15:05.233963",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "TW.L": {
+    "ticker": "TW.L",
+    "name": "Taylor Wimpey",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.1,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "UK",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:15:11.143670",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "SREN.SW": {
+    "ticker": "SREN.SW",
+    "name": "Swiss Re",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.9,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Schweiz",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:16:02.312225",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "MNG.L": {
+    "ticker": "MNG.L",
+    "name": "M&G plc",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 9.1,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche - sehr hohe Rendite, genau pruefen (Stand 2026-08)",
+    "land": "UK",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:16:03.925211",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "NDA-FI.HE": {
+    "ticker": "NDA-FI.HE",
+    "name": "Nordea Bank Abp",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 8.52,
+    "payout_ratio_pct": 64.7,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Simply Wall St (Stand 2026-08)",
+    "land": "Finnland",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:16:08.381210",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "TRN.MI": {
+    "ticker": "TRN.MI",
+    "name": "Terna",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.1,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Italien",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:17:02.789097",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "EVK.DE": {
+    "ticker": "EVK.DE",
+    "name": "Evonik Industries",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 9.2,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche - sehr hohe Rendite, genau pruefen (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:17:06.153299",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "MFC": {
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp",
+    "price": 42.51,
+    "market_cap": 97298.383196,
+    "pe_ratio": 15.0652,
+    "dividend_yield_pct": 3.3757,
+    "payout_ratio_pct": 50.86,
+    "debt_to_equity": 0.2652,
+    "current_ratio": 1.1425,
+    "data_source": "finnhub",
+    "land": "Kanada",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 42.51
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "niedrig",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:17:08.606637",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "NWX.DE": {
+    "ticker": "NWX.DE",
+    "name": "Nordwest Handel",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.0,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche, ISIN selbst bestaetigt (DE0006775505) (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Handel",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:17:10.550412",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "LGEN.L": {
+    "ticker": "LGEN.L",
+    "name": "Legal & General",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 8.6,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "UK",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:18:10.590628",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "MUX.DE": {
+    "ticker": "MUX.DE",
+    "name": "Mutares",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.5,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (ISIN DE000A2NB650 bestaetigt) (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Beteiligungen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:19:07.147345",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "HAW.DE": {
+    "ticker": "HAW.DE",
+    "name": "Hawesko Holding",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.5,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Live gegengeprueft (divvydiary/finanzen.net/wallstreet-online): 4,98-6,40% je nach Quelle/Datum (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:19:11.058440",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "UCG.MI": {
+    "ticker": "UCG.MI",
+    "name": "UniCredit",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.3,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Italien",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:19:12.791245",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "HABA.DE": {
+    "ticker": "HABA.DE",
+    "name": "Hamborner REIT",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 9.0,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (ISIN DE000A3H2333 bestaetigt) (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:20:04.489614",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "IBE.MC": {
+    "ticker": "IBE.MC",
+    "name": "Iberdrola",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 1.07,
+    "payout_ratio_pct": 20.29,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "WIDERSPRUCH: investing.com/stockanalysis nennen 0,02%-2,56%, Nutzer-Quelle nennt 4,8%. Niedrigere, besser belegte Zahl gewaehlt - damit klar unter 5%, wuerde eigentlich nicht qualifizieren. (Stand 2026-08)",
+    "land": "Spanien",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "niedrig",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:20:06.116711",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "ELE.MC": {
+    "ticker": "ELE.MC",
+    "name": "Endesa",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.5,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Spanien",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:21:04.811950",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "BBAS3.SA": {
+    "ticker": "BBAS3.SA",
+    "name": "Banco do Brasil",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 9.3,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Brasilien",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:21:09.520921",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "BBSE3.SA": {
+    "ticker": "BBSE3.SA",
+    "name": "BB Seguridade",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.8,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Brasilien",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:22:05.322328",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "OHI": {
+    "ticker": "OHI",
+    "name": "Omega Healthcare Investors, Inc",
+    "price": 46.61,
+    "market_cap": 14123.435952931124,
+    "pe_ratio": 16.2812,
+    "dividend_yield_pct": 5.6886,
+    "payout_ratio_pct": 92.62,
+    "debt_to_equity": 0.7466,
+    "current_ratio": 0.9219,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 46.61
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:22:07.040698",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "BIJ.DE": {
+    "ticker": "BIJ.DE",
+    "name": "Bijou Brigitte",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 12.7,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche - sehr hohe Rendite, genau pruefen (ISIN DE0005229504 bestaetigt) (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Einzelhandel",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:22:08.992903",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "PBR": {
+    "ticker": "PBR",
+    "name": "Petroleo Brasileiro SA Petrobras",
+    "price": 19.15,
+    "market_cap": 603115.978244,
+    "pe_ratio": 5.6061,
+    "dividend_yield_pct": 6.6748,
+    "payout_ratio_pct": 37.42,
+    "debt_to_equity": 0.8349,
+    "current_ratio": 0.7429,
+    "data_source": "finnhub",
+    "land": "Brasilien",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 19.15
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "niedrig",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:22:10.787256",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "BMW.DE": {
+    "ticker": "BMW.DE",
+    "name": "BMW",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.5,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (aktienfinder.net u.a.) (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Automobil",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:22:14.073327",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "ENEL.MI": {
+    "ticker": "ENEL.MI",
+    "name": "Enel",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 2.29,
+    "payout_ratio_pct": 150.18,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "WIDERSPRUCH: Quellen nennen 2,29%-6,1%, Ausschuett. teils 150% (!) - klares Warnsignal falls das stimmt. Niedrigere Zahl gewaehlt. (Stand 2026-08)",
+    "land": "Italien",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:23:07.110244",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "CCI": {
+    "ticker": "CCI",
+    "name": "Crown Castle Inc",
+    "price": 75.51,
+    "market_cap": 32126.140341907285,
+    "pe_ratio": 37.3359,
+    "dividend_yield_pct": 5.7762,
+    "payout_ratio_pct": 215.66,
+    "debt_to_equity": 4.5436,
+    "current_ratio": 0.5216,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 75.51
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:23:09.489529",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "004990.KS": {
+    "ticker": "004990.KS",
+    "name": "LOTTE Corp.",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.2,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (KRX-Ticker 004990 bestaetigt) (Stand 2026-08)",
+    "land": "Suedkorea",
+    "sektor": "Mischkonzern",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:23:11.392023",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "TRYG.CO": {
+    "ticker": "TRYG.CO",
+    "name": "Tryg A/S",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.6,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Daenemark",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:24:06.316016",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "EDL.DE": {
+    "ticker": "EDL.DE",
+    "name": "Edel SE",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.45,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Live gegengeprueft (boerse.de), ISIN DE0005649503 bestaetigt (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Medien",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:24:09.555275",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "CPFE3.SA": {
+    "ticker": "CPFE3.SA",
+    "name": "CPFL Energia",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 8.2,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Brasilien",
+    "sektor": "Versorger",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:25:09.014568",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "WSU.DE": {
+    "ticker": "WSU.DE",
+    "name": "WashTec",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.5,
+    "payout_ratio_pct": 107.0,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Live gegengeprueft (boerse.de/parqet/finanzen.net/aktien.guide): 5,25-6,58% je nach Quelle/Datum, Ausschuettungsquote ~107-109% (!) - ACHTUNG Warnsignal trotz moderater Rendite (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:25:13.987822",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "HOT.DE": {
+    "ticker": "HOT.DE",
+    "name": "Hochtief",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.0,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (ISIN DE0006070006 bestaetigt) (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Bau",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:26:11.456142",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "LYB": {
+    "ticker": "LYB",
+    "name": "LyondellBasell Industries NV",
+    "price": 67.53,
+    "market_cap": 21814.75115011806,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.6179,
+    "payout_ratio_pct": 65.5,
+    "debt_to_equity": 1.2098,
+    "current_ratio": 1.6413,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 67.53
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:27:09.987754",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "PWO.DE": {
+    "ticker": "PWO.DE",
+    "name": "Progress-Werk Oberkirch",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.87,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "boerse.de - live gegengeprueft, ISIN DE0006968001 bestaetigt (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Automobilzulieferer",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:27:16.456279",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "DTG.DE": {
+    "ticker": "DTG.DE",
+    "name": "Daimler Truck Holding",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.1,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Automobil",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:28:08.305191",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "030000.KS": {
+    "ticker": "030000.KS",
+    "name": "Cheil Worldwide",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.3,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (KRX-Ticker 030000 bestaetigt) (Stand 2026-08)",
+    "land": "Suedkorea",
+    "sektor": "Marketing",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:28:10.500969",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "PBA": {
+    "ticker": "PBA",
+    "name": "Pembina Pipeline Corp",
+    "price": 48.73,
+    "market_cap": 39481.768098,
+    "pe_ratio": 22.1968,
+    "dividend_yield_pct": 4.5152,
+    "payout_ratio_pct": 100.22,
+    "debt_to_equity": 0.8092,
+    "current_ratio": 0.6182,
+    "data_source": "finnhub",
+    "land": "Kanada",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 48.73
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:29:12.954987",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "ISP.MI": {
+    "ticker": "ISP.MI",
+    "name": "Intesa Sanpaolo",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.5,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Italien",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:30:13.444106",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "WCH.DE": {
+    "ticker": "WCH.DE",
+    "name": "Wacker Chemie",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.2,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Chemie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:30:16.409363",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "NLY": {
+    "ticker": "NLY",
+    "name": "Annaly Capital Management Inc",
+    "price": 23.16,
+    "market_cap": 17456.026572005158,
+    "pe_ratio": 5.9543,
+    "dividend_yield_pct": 11.9395,
+    "payout_ratio_pct": 71.09,
+    "debt_to_equity": 7.3819,
+    "current_ratio": 0.0439,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Immobilien",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 23.16
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:31:09.876904",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "GLEN.L": {
+    "ticker": "GLEN.L",
+    "name": "Glencore",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.2,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "UK",
+    "sektor": "Grundstoffe",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:31:13.926386",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "STG.CO": {
+    "ticker": "STG.CO",
+    "name": "Scandinavian Tobacco Group",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.4,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Daenemark",
+    "sektor": "Konsumgueter",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:31:15.531331",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "M12.DE": {
+    "ticker": "M12.DE",
+    "name": "M1 Kliniken",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.5,
+    "payout_ratio_pct": 42.06,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Live gegengeprueft (simplywall.st/investing.com): 6,5-6,6% Rendite, 42% Ausschuettungsquote - solide Kombination (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Gesundheit",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "niedrig",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:32:14.420149",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "035250.KS": {
+    "ticker": "035250.KS",
+    "name": "Kangwon Land",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 6.2,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (KRX-Ticker 035250 bestaetigt) (Stand 2026-08)",
+    "land": "Suedkorea",
+    "sektor": "Freizeit",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:32:17.355013",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "OKE": {
+    "ticker": "OKE",
+    "name": "ONEOK Inc",
+    "price": 93.33,
+    "market_cap": 58832.40221368193,
+    "pe_ratio": 16.0291,
+    "dividend_yield_pct": 4.5118,
+    "payout_ratio_pct": 72.32,
+    "debt_to_equity": 1.4397,
+    "current_ratio": 0.7371,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 93.33
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:33:14.912834",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "ZURN.SW": {
+    "ticker": "ZURN.SW",
+    "name": "Zurich Insurance Group",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.1,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Schweiz",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:33:16.219894",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "AV.L": {
+    "ticker": "AV.L",
+    "name": "Aviva",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 7.2,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "UK",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:33:17.859711",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "TU": {
+    "ticker": "TU",
+    "name": "Telus Corporation",
+    "price": 9.9,
+    "market_cap": 21944.090667,
+    "pe_ratio": 22.6878,
+    "dividend_yield_pct": 7.8654,
+    "payout_ratio_pct": 178.45,
+    "debt_to_equity": 1.9956,
+    "current_ratio": 0.6691,
+    "data_source": "finnhub",
+    "land": "Kanada",
+    "sektor": "Telekom",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 9.9
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:35:11.830983",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "BNS": {
+    "ticker": "BNS",
+    "name": "Bank of Nova Scotia",
+    "price": 87.57,
+    "market_cap": 147115.265869,
+    "pe_ratio": 16.2587,
+    "dividend_yield_pct": 3.8303,
+    "payout_ratio_pct": 62.27,
+    "debt_to_equity": 3.241,
+    "current_ratio": null,
+    "data_source": "finnhub",
+    "land": "Kanada",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 87.57
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:35:13.766087",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "CS.PA": {
+    "ticker": "CS.PA",
+    "name": "AXA",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.8,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Frankreich",
+    "sektor": "Versicherung",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:35:15.147401",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "B7E.DE": {
+    "ticker": "B7E.DE",
+    "name": "Blue Cap",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 10.0,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche, Ticker/ISIN selbst bestaetigt (DE000A0JM2M1) - Rendite selbst nicht direkt verifiziert, mit Vorsicht behandeln (Stand 2026-08)",
+    "land": "Deutschland",
+    "sektor": "Beteiligungen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:37:12.793401",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "EN.PA": {
+    "ticker": "EN.PA",
+    "name": "Bouygues",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 5.3,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche (Stand 2026-08)",
+    "land": "Frankreich",
+    "sektor": "Industrie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:37:17.055887",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "MB.MI": {
+    "ticker": "MB.MI",
+    "name": "Mediobanca",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 10.5,
+    "payout_ratio_pct": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche - sehr hohe Rendite, genau pruefen (Stand 2026-08)",
+    "land": "Italien",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:38:14.670549",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "KEY": {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "price": 21.87,
+    "market_cap": 23338.101578173453,
+    "pe_ratio": 12.0722,
+    "dividend_yield_pct": 4.256,
+    "payout_ratio_pct": 51.38,
+    "debt_to_equity": 0.7401,
+    "current_ratio": null,
+    "data_source": "finnhub",
+    "land": "USA",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 21.87
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "niedrig",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:38:16.295396",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "TTE.PA": {
+    "ticker": "TTE.PA",
+    "name": "TotalEnergies",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 0.84,
+    "payout_ratio_pct": 70.14,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "WIDERSPRUCH: Quellen nennen 0,84%-7,48% je nach Zeitpunkt/Basis, Nutzer-Quelle nennt 6,4%. Niedrigere, aktuellere Zahl gewaehlt - damit klar unter 5%. (Stand 2026-08)",
+    "land": "Frankreich",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": false
+    },
+    "last_updated": "2026-08-22T11:38:20.379433",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null
+  },
+  "BCH": {
+    "ticker": "BCH",
+    "name": "Banco de Chile",
+    "price": 42.2,
+    "market_cap": 19092227.765625,
+    "pe_ratio": 16.3313,
+    "dividend_yield_pct": 5.4632,
+    "payout_ratio_pct": 375.96,
+    "debt_to_equity": 2.5377,
+    "current_ratio": null,
+    "data_source": "finnhub",
+    "land": "Chile",
+    "sektor": "Finanzen",
+    "price_history": [
+      {
+        "date": "2026-08-22",
+        "price": 42.2
+      }
+    ],
+    "evaluation": {
+      "trap_warning": true,
+      "risk": "hoch",
+      "meets_min_yield": true
+    },
+    "last_updated": "2026-08-22T11:39:13.832767",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
