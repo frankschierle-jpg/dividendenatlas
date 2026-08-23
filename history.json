@@ -42,7 +42,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:36:49.425481",
+    "last_updated": "2026-08-23T12:59:09.850343",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -95,7 +95,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:36:49.983279",
+    "last_updated": "2026-08-23T12:54:52.396710",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -148,7 +148,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:36:38.105089",
+    "last_updated": "2026-08-23T12:58:09.405260",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -201,7 +201,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:40:33.030004",
+    "last_updated": "2026-08-23T13:06:36.745846",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -254,7 +254,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:29:31.546561",
+    "last_updated": "2026-08-23T13:00:32.487697",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -307,7 +307,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:32:38.544457",
+    "last_updated": "2026-08-23T13:00:05.261188",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -360,7 +360,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:34.652672",
+    "last_updated": "2026-08-23T13:02:37.637882",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -413,7 +413,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:39:33.109167",
+    "last_updated": "2026-08-23T13:05:03.277777",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -466,7 +466,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:34.120783",
+    "last_updated": "2026-08-23T12:54:30.721266",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -519,7 +519,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:36:50.753506",
+    "last_updated": "2026-08-23T12:58:01.602004",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -572,7 +572,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:35.239581",
+    "last_updated": "2026-08-23T12:58:02.983659",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -627,13 +627,19 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:43:47.994895",
+    "last_updated": "2026-08-23T13:05:52.201888",
     "perf_1m": 12.24,
     "perf_3m": 8.17,
     "perf_1y": 8.46,
     "isin": null,
     "news": {
       "articles": [
+        {
+          "title": "Prelude Therapeutics: A Prognosis After Year-Long Rally",
+          "url": "https://finnhub.io/api/news?id=423ff622523781f562142ed7b0b7d87cfe74dfb95cf04deb4b282bc564269b75",
+          "published": "2026-08-23",
+          "sentiment_score": 0.0
+        },
         {
           "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
           "url": "https://finnhub.io/api/news?id=9920479acaf24aa724842791b54472c02592d99d6bd156b129117a03ccd429fb",
@@ -657,15 +663,9 @@
           "url": "https://finnhub.io/api/news?id=b85cf2c4c1752d6b68a87ce0e31deed248fb731b2165e96279cc313ac08ca183",
           "published": "2026-08-21",
           "sentiment_score": 0.3197
-        },
-        {
-          "title": "2 Reasons to Watch PFE and 1 to Stay Cautious",
-          "url": "https://finnhub.io/api/news?id=ca6f2c7d9ec1e90d62aaba8967fad5a833bf772134237c2edb5e2eff87bc99f3",
-          "published": "2026-08-21",
-          "sentiment_score": -0.1027
         }
       ],
-      "avg_sentiment": 0.029979999999999986
+      "avg_sentiment": 0.05051999999999999
     },
     "chart_series": [
       [
@@ -981,7 +981,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:43:41.625945",
+    "last_updated": "2026-08-23T13:05:08.781082",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1034,7 +1034,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T08:33:37.668742",
+    "last_updated": "2026-08-23T13:04:58.351041",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1087,7 +1087,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:35:48.129922",
+    "last_updated": "2026-08-23T12:57:16.210191",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1140,7 +1140,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:29:33.107619",
+    "last_updated": "2026-08-23T13:06:09.552118",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1193,7 +1193,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:37.626266",
+    "last_updated": "2026-08-23T12:52:37.973768",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1246,7 +1246,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:34:50.784444",
+    "last_updated": "2026-08-23T12:53:28.403707",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1299,7 +1299,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:36:41.145149",
+    "last_updated": "2026-08-23T12:57:52.589191",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1354,7 +1354,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:32:40.005515",
+    "last_updated": "2026-08-23T13:07:15.518118",
     "perf_1m": -3.08,
     "perf_3m": 8.96,
     "perf_1y": 20.56,
@@ -1708,7 +1708,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:41:45.029806",
+    "last_updated": "2026-08-23T13:01:20.570403",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1761,7 +1761,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:39:33.663473",
+    "last_updated": "2026-08-23T12:56:47.630023",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1814,7 +1814,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:34:52.544796",
+    "last_updated": "2026-08-23T13:00:56.012184",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1867,7 +1867,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:34:30.558280",
+    "last_updated": "2026-08-23T13:07:24.898797",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1920,7 +1920,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T08:41:40.464010",
+    "last_updated": "2026-08-23T13:06:38.010835",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1973,7 +1973,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:37:32.505064",
+    "last_updated": "2026-08-23T12:54:51.156516",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2026,7 +2026,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:39:34.229772",
+    "last_updated": "2026-08-23T12:59:50.243857",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2079,7 +2079,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:34:48.586432",
+    "last_updated": "2026-08-23T13:00:54.685700",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2132,7 +2132,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:31:31.982314",
+    "last_updated": "2026-08-23T13:01:34.162660",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2187,13 +2187,19 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:35:48.683826",
+    "last_updated": "2026-08-23T13:04:59.614711",
     "perf_1m": -3.28,
     "perf_3m": 0.59,
     "perf_1y": 6.25,
     "isin": null,
     "news": {
       "articles": [
+        {
+          "title": "Realty Income: It's Not Too Late To 'Buy'",
+          "url": "https://finnhub.io/api/news?id=6173e5060191552b8e7460ff81dbbb5ae2ad3730481c879146a81f4c0d8b3e7e",
+          "published": "2026-08-23",
+          "sentiment_score": 0.0
+        },
         {
           "title": "Passive Income: How Much Would You Need to Invest in Realty Income (O) Stock to Collect $1,000 in Annual Dividends?",
           "url": "https://finnhub.io/api/news?id=5da50f0742212eaf70e857e930c0576ecf9a48df4639bf391f117788ccd983c4",
@@ -2217,12 +2223,6 @@
           "url": "https://finnhub.io/api/news?id=cee00d328fd7c91df36f04cd10ca6d56e4ad2c044f24d908a01b99ed58550598",
           "published": "2026-08-22",
           "sentiment_score": 0.34
-        },
-        {
-          "title": "How a 75-Year-Old Turned $985,000 Into a $6,300 Monthly Paycheck With MAIN, JEPI, and O",
-          "url": "https://finnhub.io/api/news?id=791bf4deaba90b6ae2d47a9be9af9bf957425f5459b64fe8694612fbd739981b",
-          "published": "2026-08-21",
-          "sentiment_score": 0.0
         }
       ],
       "avg_sentiment": 0.24662
@@ -2541,7 +2541,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:35:37.362019",
+    "last_updated": "2026-08-23T12:53:59.555400",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2594,7 +2594,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:44:41.971557",
+    "last_updated": "2026-08-23T12:52:32.179256",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2647,7 +2647,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:36:40.564272",
+    "last_updated": "2026-08-23T13:00:21.908111",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2700,7 +2700,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:39:49.087334",
+    "last_updated": "2026-08-23T13:00:06.569084",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2753,7 +2753,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:31.493920",
+    "last_updated": "2026-08-23T12:59:51.563727",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2806,7 +2806,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:39:32.578774",
+    "last_updated": "2026-08-23T13:05:21.882861",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2859,7 +2859,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:41:44.498008",
+    "last_updated": "2026-08-23T12:56:07.969630",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2912,7 +2912,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:40.750924",
+    "last_updated": "2026-08-23T13:06:17.415861",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2965,7 +2965,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:29:26.523087",
+    "last_updated": "2026-08-23T12:51:46.916084",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3018,7 +3018,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:44:52.053383",
+    "last_updated": "2026-08-23T13:00:23.186927",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3071,7 +3071,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:37:31.968797",
+    "last_updated": "2026-08-23T13:05:04.739690",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3124,7 +3124,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:43:43.051769",
+    "last_updated": "2026-08-23T13:05:10.065267",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3179,7 +3179,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:32:41.132660",
+    "last_updated": "2026-08-23T12:56:51.997632",
     "perf_1m": 12.85,
     "perf_3m": 2.44,
     "perf_1y": 11.27,
@@ -3533,7 +3533,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:41:47.242026",
+    "last_updated": "2026-08-23T12:58:10.662305",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3586,7 +3586,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:39.538967",
+    "last_updated": "2026-08-23T12:58:51.258657",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3639,7 +3639,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:43:47.456834",
+    "last_updated": "2026-08-23T13:05:25.854949",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3692,7 +3692,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:34:48.055550",
+    "last_updated": "2026-08-23T12:55:08.131374",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3745,7 +3745,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:39:34.924292",
+    "last_updated": "2026-08-23T12:54:54.914718",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3798,7 +3798,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:33:33.840095",
+    "last_updated": "2026-08-23T12:52:54.353643",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3851,7 +3851,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:35:42.111766",
+    "last_updated": "2026-08-23T12:56:21.314285",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3906,7 +3906,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:34.390156",
+    "last_updated": "2026-08-23T12:56:18.026245",
     "perf_1m": -5.32,
     "perf_3m": -4.94,
     "perf_1y": 7.7,
@@ -4262,13 +4262,19 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:52.705067",
+    "last_updated": "2026-08-23T13:07:26.145816",
     "perf_1m": -8.31,
     "perf_3m": -10.34,
     "perf_1y": -2.33,
     "isin": null,
     "news": {
       "articles": [
+        {
+          "title": "Altria: Attractive Yield, But I'm Still Waiting For A Better Entry",
+          "url": "https://finnhub.io/api/news?id=16f6b7dcb5f1064f8ff4fdc205be077d7d167f31a19293b1cebc25cd11f02d6b",
+          "published": "2026-08-23",
+          "sentiment_score": 0.7003
+        },
         {
           "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
           "url": "https://finnhub.io/api/news?id=9920479acaf24aa724842791b54472c02592d99d6bd156b129117a03ccd429fb",
@@ -4292,15 +4298,9 @@
           "url": "https://finnhub.io/api/news?id=3cfeb60a18b8ac5c91991f4fdb2d8f5b91a4f079f7cf0eeb6762f310feea6147",
           "published": "2026-08-21",
           "sentiment_score": -0.0772
-        },
-        {
-          "title": "How Altria's Q2 Results and Guidance Shape Its 2026 Earnings Path",
-          "url": "https://finnhub.io/api/news?id=257aac83d57d1cbd9e2c9ec0db19b9d26f480b8165aaee5805cb512a1216afef",
-          "published": "2026-08-21",
-          "sentiment_score": 0.0
         }
       ],
-      "avg_sentiment": 0.16318
+      "avg_sentiment": 0.30324
     },
     "chart_series": [
       [
@@ -4616,7 +4616,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:40.213632",
+    "last_updated": "2026-08-23T12:56:16.749048",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4669,7 +4669,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:38:41.256073",
+    "last_updated": "2026-08-23T12:59:48.983336",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4722,7 +4722,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:29:33.642586",
+    "last_updated": "2026-08-23T12:53:46.320278",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4775,7 +4775,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:42:48.666165",
+    "last_updated": "2026-08-23T12:58:11.906485",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4828,7 +4828,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:41:42.493143",
+    "last_updated": "2026-08-23T12:54:53.620200",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4881,7 +4881,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:33:39.310201",
+    "last_updated": "2026-08-23T13:03:56.269307",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4936,7 +4936,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:43.181963",
+    "last_updated": "2026-08-23T12:54:31.959521",
     "perf_1m": 7.12,
     "perf_3m": -9.79,
     "perf_1y": -27.67,
@@ -5286,7 +5286,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:37.037852",
+    "last_updated": "2026-08-23T13:05:18.317377",
     "perf_1m": -10.53,
     "perf_3m": -12.68,
     "perf_1y": 5.19,
@@ -5642,7 +5642,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:43.424909",
+    "last_updated": "2026-08-23T12:55:09.384427",
     "perf_1m": -14.63,
     "perf_3m": -17.63,
     "perf_1y": -20.59,
@@ -5976,7 +5976,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:30.592164",
+    "last_updated": "2026-08-23T12:55:13.586350",
     "perf_1m": -2.63,
     "perf_3m": 2.79,
     "perf_1y": 11.74,
@@ -6330,7 +6330,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T08:40:47.154259",
+    "last_updated": "2026-08-23T12:52:27.842371",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -6385,7 +6385,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:47.017370",
+    "last_updated": "2026-08-23T12:52:39.236630",
     "perf_1m": 7.04,
     "perf_3m": 6.3,
     "perf_1y": -10.75,
@@ -6741,7 +6741,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:49.701291",
+    "last_updated": "2026-08-23T13:07:09.644624",
     "perf_1m": -2.04,
     "perf_3m": -3.7,
     "perf_1y": 19.15,
@@ -7097,7 +7097,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:38.635025",
+    "last_updated": "2026-08-23T12:51:39.504652",
     "perf_1m": -5.09,
     "perf_3m": -2.01,
     "perf_1y": 27.0,
@@ -7453,7 +7453,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:40:49.656650",
+    "last_updated": "2026-08-23T13:06:10.840625",
     "perf_1m": 3.12,
     "perf_3m": 6.14,
     "perf_1y": 10.22,
@@ -7809,13 +7809,19 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:42:45.490846",
+    "last_updated": "2026-08-23T13:06:26.354393",
     "perf_1m": 3.41,
     "perf_3m": 1.4,
     "perf_1y": 4.57,
     "isin": null,
     "news": {
       "articles": [
+        {
+          "title": "Dynex Capital: A 15% Yield Built To Absorb A Rate Hit",
+          "url": "https://finnhub.io/api/news?id=c887628bde33b49a690dfc8048a559bcada92c7771915dfb80cb019c10e74538",
+          "published": "2026-08-23",
+          "sentiment_score": 0.0
+        },
         {
           "title": "Dynex Capital: This 15.4% Yield Still Has Room To Run",
           "url": "https://finnhub.io/api/news?id=49b32f55619c9d1070bc2b82ec792693a01d293cbd1aae01a6aa6797159cdda2",
@@ -7837,12 +7843,6 @@
         {
           "title": "Buy 9 August Dividend Power Dogs",
           "url": "https://finnhub.io/api/news?id=60f92083b29b3de3b61619f0be33b634eb716a9c578af533a7e649e064be60f5",
-          "published": "2026-08-07",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "PennyMac Mortgage: Preferred With 20% Return Potential",
-          "url": "https://finnhub.io/api/news?id=3c3bfd806e2696ab6f91843b48a9d7182dc05c12f56aac99ac9cf8cb506eca55",
           "published": "2026-08-07",
           "sentiment_score": 0.0
         }
@@ -8161,7 +8161,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:29:28.328649",
+    "last_updated": "2026-08-23T12:52:34.710807",
     "perf_1m": -3.59,
     "perf_3m": 4.22,
     "perf_1y": 9.43,
@@ -8513,7 +8513,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:38.220882",
+    "last_updated": "2026-08-23T12:55:01.848638",
     "perf_1m": 9.73,
     "perf_3m": 14.25,
     "perf_1y": -10.45,
@@ -8866,7 +8866,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:29:27.046918",
+    "last_updated": "2026-08-23T13:04:20.805761",
     "perf_1m": 10.08,
     "perf_3m": 19.13,
     "perf_1y": 6.91,
@@ -9163,7 +9163,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:40:45.711654",
+    "last_updated": "2026-08-23T13:06:23.357257",
     "perf_1m": -0.44,
     "perf_3m": -5.97,
     "perf_1y": -22.08,
@@ -9460,7 +9460,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:41:49.550053",
+    "last_updated": "2026-08-23T13:01:30.933624",
     "perf_1m": 1.06,
     "perf_3m": 4.95,
     "perf_1y": 18.27,
@@ -9757,7 +9757,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:29:30.427596",
+    "last_updated": "2026-08-23T13:05:05.733263",
     "perf_1m": 0.23,
     "perf_3m": 6.06,
     "perf_1y": 20.27,
@@ -10054,7 +10054,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:39:38.400637",
+    "last_updated": "2026-08-23T12:59:00.805067",
     "perf_1m": 0.33,
     "perf_3m": -4.47,
     "perf_1y": -14.72,
@@ -10351,7 +10351,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:38:31.445612",
+    "last_updated": "2026-08-23T13:06:33.750513",
     "perf_1m": -4.07,
     "perf_3m": 6.75,
     "perf_1y": -9.34,
@@ -10648,7 +10648,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:41:39.399008",
+    "last_updated": "2026-08-23T12:55:48.736968",
     "perf_1m": -5.56,
     "perf_3m": -0.63,
     "perf_1y": 8.01,
@@ -10945,7 +10945,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:31:33.542787",
+    "last_updated": "2026-08-23T12:56:44.697057",
     "perf_1m": -2.05,
     "perf_3m": -15.88,
     "perf_1y": -31.95,
@@ -11242,7 +11242,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:34.451788",
+    "last_updated": "2026-08-23T13:00:08.033916",
     "perf_1m": 11.85,
     "perf_3m": 3.46,
     "perf_1y": -8.9,
@@ -11539,7 +11539,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:35:41.048774",
+    "last_updated": "2026-08-23T12:59:06.881954",
     "perf_1m": 0.56,
     "perf_3m": 3.64,
     "perf_1y": -0.71,
@@ -11836,7 +11836,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:41.295212",
+    "last_updated": "2026-08-23T13:07:06.674790",
     "perf_1m": 6.01,
     "perf_3m": -0.88,
     "perf_1y": -17.66,
@@ -12133,7 +12133,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:40:38.903038",
+    "last_updated": "2026-08-23T13:02:02.331704",
     "perf_1m": -1.83,
     "perf_3m": -3.31,
     "perf_1y": -9.83,
@@ -12430,7 +12430,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:43:50.550611",
+    "last_updated": "2026-08-23T12:51:29.619872",
     "perf_1m": 2.02,
     "perf_3m": -11.2,
     "perf_1y": -18.0,
@@ -12727,7 +12727,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:39:40.584843",
+    "last_updated": "2026-08-23T13:04:48.684092",
     "perf_1m": 6.66,
     "perf_3m": 10.46,
     "perf_1y": 14.28,
@@ -13024,7 +13024,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:35.404849",
+    "last_updated": "2026-08-23T13:02:31.410845",
     "perf_1m": -7.25,
     "perf_3m": -18.05,
     "perf_1y": -8.38,
@@ -13321,7 +13321,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:41:46.208745",
+    "last_updated": "2026-08-23T12:56:28.491277",
     "perf_1m": -0.11,
     "perf_3m": -8.76,
     "perf_1y": -2.34,
@@ -13618,7 +13618,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:31:37.036446",
+    "last_updated": "2026-08-23T12:58:06.384173",
     "perf_1m": -2.7,
     "perf_3m": 4.54,
     "perf_1y": 13.6,
@@ -13915,7 +13915,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:47.550180",
+    "last_updated": "2026-08-23T12:59:18.295414",
     "perf_1m": 5.05,
     "perf_3m": 21.16,
     "perf_1y": 46.31,
@@ -14212,7 +14212,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:42:39.904418",
+    "last_updated": "2026-08-23T13:06:18.384985",
     "perf_1m": 1.75,
     "perf_3m": -13.89,
     "perf_1y": -25.97,
@@ -14509,7 +14509,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:38:42.445412",
+    "last_updated": "2026-08-23T13:04:09.984067",
     "perf_1m": -1.62,
     "perf_3m": 0.17,
     "perf_1y": -12.3,
@@ -14806,7 +14806,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:32:34.010036",
+    "last_updated": "2026-08-23T12:55:59.325621",
     "perf_1m": 11.96,
     "perf_3m": 22.12,
     "perf_1y": 127.3,
@@ -15103,7 +15103,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:41:32.952962",
+    "last_updated": "2026-08-23T13:00:01.398063",
     "perf_1m": 7.14,
     "perf_3m": -2.68,
     "perf_1y": 17.17,
@@ -15400,7 +15400,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:41.783356",
+    "last_updated": "2026-08-23T12:54:43.867325",
     "perf_1m": 5.53,
     "perf_3m": 14.91,
     "perf_1y": 11.55,
@@ -15697,7 +15697,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:38:37.907456",
+    "last_updated": "2026-08-23T12:59:29.926984",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15748,7 +15748,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:32:37.473052",
+    "last_updated": "2026-08-23T13:05:22.852251",
     "perf_1m": -5.49,
     "perf_3m": -4.58,
     "perf_1y": -10.19,
@@ -16045,7 +16045,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:35:36.401832",
+    "last_updated": "2026-08-23T12:58:17.794514",
     "perf_1m": -1.38,
     "perf_3m": -6.83,
     "perf_1y": -29.91,
@@ -16342,7 +16342,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:35.909432",
+    "last_updated": "2026-08-23T13:04:32.426900",
     "perf_1m": 2.85,
     "perf_3m": -17.1,
     "perf_1y": -26.74,
@@ -16639,7 +16639,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:42:44.438381",
+    "last_updated": "2026-08-23T13:04:55.435382",
     "perf_1m": -2.06,
     "perf_3m": 6.74,
     "perf_1y": -4.04,
@@ -16925,7 +16925,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:33:31.778909",
+    "last_updated": "2026-08-23T12:56:14.000842",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16968,13 +16968,19 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:40:44.583848",
+    "last_updated": "2026-08-23T13:02:34.457346",
     "perf_1m": 3.77,
     "perf_3m": 5.9,
     "perf_1y": 21.02,
     "isin": null,
     "news": {
       "articles": [
+        {
+          "title": "EMO: Growing Distribution And Rising NAV Offers Strong Total Return Potential (Upgrade)",
+          "url": "https://finnhub.io/api/news?id=c0d49c4eed0ee963e0173345499e6953eb3b51e16b2a12018e622be27c6c85fe",
+          "published": "2026-08-23",
+          "sentiment_score": 0.6124
+        },
         {
           "title": "9% Yields With Well-Covered And Growing Dividends For Early Retirement",
           "url": "https://finnhub.io/api/news?id=25fe4abfefda4547cee887858ec4a052d829cd6b5838f261e27ec2f1bd304a92",
@@ -16998,15 +17004,9 @@
           "url": "https://finnhub.io/api/news?id=fb31b11c6ecbc82afc6ad3a49b138d84177d2575a2c0d62ee9b0dfb1d0c281de",
           "published": "2026-08-20",
           "sentiment_score": 0.6597
-        },
-        {
-          "title": "5-15% Yields: The Ultimate 6 Monthly Dividend Mix For Early Retirement",
-          "url": "https://finnhub.io/api/news?id=d965fe0cd32bc9b4d8edc781c0c7778c240d0f3fee475d1f20b6f16812a0c332",
-          "published": "2026-08-19",
-          "sentiment_score": 0.0
         }
       ],
-      "avg_sentiment": 0.34109999999999996
+      "avg_sentiment": 0.46358
     },
     "chart_series": [
       [
@@ -17313,7 +17313,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:38:48.045743",
+    "last_updated": "2026-08-23T12:57:45.186966",
     "perf_1m": 1.97,
     "perf_3m": 7.29,
     "perf_1y": 35.71,
@@ -17599,7 +17599,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:43:49.068039",
+    "last_updated": "2026-08-23T12:56:15.259221",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -17640,7 +17640,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T08:37:33.069549",
+    "last_updated": "2026-08-23T13:06:39.770791",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -17683,7 +17683,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:44.317148",
+    "last_updated": "2026-08-23T13:05:14.978718",
     "perf_1m": 11.79,
     "perf_3m": -2.79,
     "perf_1y": -6.98,
@@ -18028,7 +18028,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:47.046597",
+    "last_updated": "2026-08-23T13:02:47.692413",
     "perf_1m": -0.56,
     "perf_3m": 9.55,
     "perf_1y": 56.97,
@@ -18317,7 +18317,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:29:35.915395",
+    "last_updated": "2026-08-23T13:03:02.823877",
     "perf_1m": -7.39,
     "perf_3m": -9.28,
     "perf_1y": 9.87,
@@ -18605,7 +18605,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": true
     },
-    "last_updated": "2026-08-23T08:42:47.604961",
+    "last_updated": "2026-08-23T13:06:30.845941",
     "perf_1m": 7.35,
     "perf_3m": 26.48,
     "perf_1y": 90.75,
@@ -18950,7 +18950,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:43:42.044017",
+    "last_updated": "2026-08-23T12:54:27.596274",
     "perf_1m": 9.16,
     "perf_3m": 7.99,
     "perf_1y": 14.93,
@@ -19239,7 +19239,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:46.048609",
+    "last_updated": "2026-08-23T12:51:26.166681",
     "perf_1m": 12.27,
     "perf_3m": 11.58,
     "perf_1y": 37.76,
@@ -19525,7 +19525,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:44:35.534753",
+    "last_updated": "2026-08-23T12:54:56.200021",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -19567,7 +19567,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:27.508857",
+    "last_updated": "2026-08-23T12:52:53.111333",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -19611,7 +19611,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:51.053102",
+    "last_updated": "2026-08-23T12:58:29.421508",
     "perf_1m": -0.66,
     "perf_3m": -0.35,
     "perf_1y": 18.7,
@@ -19897,7 +19897,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:33:32.971045",
+    "last_updated": "2026-08-23T13:06:29.593308",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -19941,7 +19941,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:43.315319",
+    "last_updated": "2026-08-23T12:51:49.354999",
     "perf_1m": 1.92,
     "perf_3m": 3.81,
     "perf_1y": -17.76,
@@ -20230,7 +20230,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:40:43.442475",
+    "last_updated": "2026-08-23T13:06:06.193897",
     "perf_1m": 5.21,
     "perf_3m": 16.33,
     "perf_1y": -5.88,
@@ -20519,7 +20519,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:31:42.067910",
+    "last_updated": "2026-08-23T12:52:49.863611",
     "perf_1m": -2.04,
     "perf_3m": 9.9,
     "perf_1y": 29.19,
@@ -20808,7 +20808,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:44.666587",
+    "last_updated": "2026-08-23T12:51:36.482715",
     "perf_1m": 1.59,
     "perf_3m": 3.1,
     "perf_1y": 29.32,
@@ -21097,7 +21097,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:32:42.512410",
+    "last_updated": "2026-08-23T13:06:49.690720",
     "perf_1m": -5.28,
     "perf_3m": -2.22,
     "perf_1y": 13.26,
@@ -21386,7 +21386,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:40.048622",
+    "last_updated": "2026-08-23T12:53:56.505356",
     "perf_1m": 7.99,
     "perf_3m": 6.8,
     "perf_1y": 6.86,
@@ -21672,7 +21672,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:30:44.288282",
+    "last_updated": "2026-08-23T12:51:42.747552",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -21685,7 +21685,7 @@
   "NWX.DE": {
     "ticker": "NWX.DE",
     "name": "Nordwest Handel",
-    "price": null,
+    "price": 13.350000381469727,
     "market_cap": null,
     "pe_ratio": null,
     "dividend_yield_pct": 6.0,
@@ -21716,12 +21716,18 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:43:33.941674",
-    "perf_1m": null,
-    "perf_3m": null,
-    "perf_1y": null,
+    "last_updated": "2026-08-23T13:07:18.454542",
+    "perf_1m": 0.0,
+    "perf_3m": 0.0,
+    "perf_1y": 0.0,
     "isin": null,
     "news": null,
+    "chart_series": [
+      [
+        "2026-07-17",
+        13.350000381469727
+      ]
+    ],
     "grades": [],
     "next_payout": null
   },
@@ -21759,7 +21765,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:42:41.923237",
+    "last_updated": "2026-08-23T12:53:43.353709",
     "perf_1m": -4.09,
     "perf_3m": 4.64,
     "perf_1y": 10.72,
@@ -22048,7 +22054,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:31:38.667063",
+    "last_updated": "2026-08-23T12:51:32.929462",
     "perf_1m": -0.37,
     "perf_3m": -1.47,
     "perf_1y": -2.78,
@@ -22337,7 +22343,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:41:41.418019",
+    "last_updated": "2026-08-23T12:52:42.862810",
     "perf_1m": -6.63,
     "perf_3m": -15.5,
     "perf_1y": -24.55,
@@ -22626,7 +22632,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:30.449743",
+    "last_updated": "2026-08-23T13:00:18.867296",
     "perf_1m": 4.81,
     "perf_3m": 13.03,
     "perf_1y": 20.0,
@@ -22915,7 +22921,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:29:34.548505",
+    "last_updated": "2026-08-23T12:59:52.944787",
     "perf_1m": -2.38,
     "perf_3m": -16.34,
     "perf_1y": -25.86,
@@ -23202,7 +23208,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:41:43.941593",
+    "last_updated": "2026-08-23T12:56:59.800864",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -23246,7 +23252,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:30:36.537398",
+    "last_updated": "2026-08-23T12:57:49.535216",
     "perf_1m": 0.91,
     "perf_3m": 12.71,
     "perf_1y": 55.29,
@@ -23535,9 +23541,9 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:48.440857",
-    "perf_1m": -11.94,
-    "perf_3m": -14.87,
+    "last_updated": "2026-08-23T12:52:29.261693",
+    "perf_1m": -12.61,
+    "perf_3m": -11.99,
     "perf_1y": -6.4,
     "isin": null,
     "news": null,
@@ -23587,8 +23593,8 @@
         20.899999618530273
       ],
       [
-        "2025-10-24",
-        20.520000457763672
+        "2025-10-23",
+        20.649999618530273
       ],
       [
         "2025-10-30",
@@ -23611,8 +23617,8 @@
         21.84000015258789
       ],
       [
-        "2025-12-01",
-        22.260000228881836
+        "2025-11-28",
+        22.469999313354492
       ],
       [
         "2025-12-05",
@@ -23631,12 +23637,12 @@
         21.75
       ],
       [
-        "2026-01-05",
-        21.8799991607666
+        "2026-01-02",
+        21.68000030517578
       ],
       [
-        "2026-01-09",
-        21.860000610351562
+        "2026-01-08",
+        21.81999969482422
       ],
       [
         "2026-01-15",
@@ -23655,12 +23661,12 @@
         25.299999237060547
       ],
       [
-        "2026-02-09",
-        24.81999969482422
+        "2026-02-06",
+        24.329999923706055
       ],
       [
-        "2026-02-13",
-        25.43000030517578
+        "2026-02-12",
+        26.030000686645508
       ],
       [
         "2026-02-23",
@@ -23675,16 +23681,16 @@
         25.0
       ],
       [
-        "2026-03-12",
-        24.229999542236328
+        "2026-03-11",
+        25.34000015258789
       ],
       [
-        "2026-03-18",
-        23.40999984741211
+        "2026-03-17",
+        23.670000076293945
       ],
       [
-        "2026-03-24",
-        23.649999618530273
+        "2026-03-23",
+        23.959999084472656
       ],
       [
         "2026-03-30",
@@ -23699,16 +23705,16 @@
         24.729999542236328
       ],
       [
-        "2026-04-17",
-        24.399999618530273
+        "2026-04-16",
+        24.280000686645508
       ],
       [
-        "2026-04-24",
-        22.700000762939453
+        "2026-04-23",
+        23.0
       ],
       [
-        "2026-04-30",
-        22.209999084472656
+        "2026-04-29",
+        21.709999084472656
       ],
       [
         "2026-05-07",
@@ -23719,20 +23725,20 @@
         20.760000228881836
       ],
       [
-        "2026-05-20",
-        20.700000762939453
+        "2026-05-19",
+        20.229999542236328
       ],
       [
-        "2026-05-26",
-        21.110000610351562
+        "2026-05-25",
+        21.649999618530273
       ],
       [
-        "2026-06-01",
-        20.079999923706055
+        "2026-05-29",
+        20.299999237060547
       ],
       [
-        "2026-06-08",
-        19.100000381469727
+        "2026-06-05",
+        19.170000076293945
       ],
       [
         "2026-06-12",
@@ -23743,36 +23749,36 @@
         19.530000686645508
       ],
       [
-        "2026-06-25",
-        20.049999237060547
-      ],
-      [
-        "2026-07-01",
+        "2026-06-24",
         19.729999542236328
       ],
       [
-        "2026-07-07",
-        19.729999542236328
+        "2026-06-30",
+        19.90999984741211
       ],
       [
-        "2026-07-13",
-        20.239999771118164
+        "2026-07-06",
+        19.770000457763672
+      ],
+      [
+        "2026-07-10",
+        20.579999923706055
       ],
       [
         "2026-07-17",
         20.489999771118164
       ],
       [
-        "2026-07-24",
-        20.350000381469727
+        "2026-07-23",
+        20.93000030517578
       ],
       [
-        "2026-07-30",
-        21.190000534057617
+        "2026-07-29",
+        20.780000686645508
       ],
       [
-        "2026-08-05",
-        21.049999237060547
+        "2026-08-04",
+        20.989999771118164
       ],
       [
         "2026-08-11",
@@ -23824,9 +23830,9 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:35.970715",
-    "perf_1m": -12.29,
-    "perf_3m": 7.42,
+    "last_updated": "2026-08-23T13:07:12.559613",
+    "perf_1m": -12.66,
+    "perf_3m": 7.89,
     "perf_1y": 17.58,
     "isin": null,
     "news": null,
@@ -23876,8 +23882,8 @@
         31.959999084472656
       ],
       [
-        "2025-10-24",
-        32.08000183105469
+        "2025-10-23",
+        32.0099983215332
       ],
       [
         "2025-10-30",
@@ -23900,8 +23906,8 @@
         33.560001373291016
       ],
       [
-        "2025-12-01",
-        34.61000061035156
+        "2025-11-28",
+        34.11000061035156
       ],
       [
         "2025-12-05",
@@ -23920,12 +23926,12 @@
         35.54999923706055
       ],
       [
-        "2026-01-05",
-        35.86000061035156
+        "2026-01-02",
+        35.7400016784668
       ],
       [
-        "2026-01-09",
-        34.9900016784668
+        "2026-01-08",
+        34.650001525878906
       ],
       [
         "2026-01-15",
@@ -23944,12 +23950,12 @@
         38.099998474121094
       ],
       [
-        "2026-02-09",
-        37.36000061035156
+        "2026-02-06",
+        37.22999954223633
       ],
       [
-        "2026-02-13",
-        33.81999969482422
+        "2026-02-12",
+        37.7599983215332
       ],
       [
         "2026-02-23",
@@ -23964,16 +23970,16 @@
         33.720001220703125
       ],
       [
-        "2026-03-12",
-        34.369998931884766
+        "2026-03-11",
+        34.65999984741211
       ],
       [
-        "2026-03-18",
-        34.52000045776367
+        "2026-03-17",
+        34.91999816894531
       ],
       [
-        "2026-03-24",
-        34.459999084472656
+        "2026-03-23",
+        34.650001525878906
       ],
       [
         "2026-03-30",
@@ -23988,16 +23994,16 @@
         36.40999984741211
       ],
       [
-        "2026-04-17",
-        34.91999816894531
+        "2026-04-16",
+        35.0099983215332
       ],
       [
-        "2026-04-24",
-        34.290000915527344
+        "2026-04-23",
+        34.27000045776367
       ],
       [
-        "2026-04-30",
-        33.880001068115234
+        "2026-04-29",
+        33.75
       ],
       [
         "2026-05-07",
@@ -24008,20 +24014,20 @@
         34.029998779296875
       ],
       [
-        "2026-05-20",
-        34.709999084472656
+        "2026-05-19",
+        33.90999984741211
       ],
       [
-        "2026-05-26",
-        34.720001220703125
+        "2026-05-25",
+        34.619998931884766
       ],
       [
-        "2026-06-01",
-        35.029998779296875
+        "2026-05-29",
+        35.400001525878906
       ],
       [
-        "2026-06-08",
-        35.869998931884766
+        "2026-06-05",
+        35.38999938964844
       ],
       [
         "2026-06-12",
@@ -24032,36 +24038,36 @@
         39.439998626708984
       ],
       [
-        "2026-06-25",
-        38.869998931884766
+        "2026-06-24",
+        38.68000030517578
       ],
       [
-        "2026-07-01",
-        38.130001068115234
+        "2026-06-30",
+        39.16999816894531
       ],
       [
-        "2026-07-07",
-        38.54999923706055
+        "2026-07-06",
+        38.709999084472656
       ],
       [
-        "2026-07-13",
-        40.279998779296875
+        "2026-07-10",
+        40.349998474121094
       ],
       [
         "2026-07-17",
         41.119998931884766
       ],
       [
-        "2026-07-24",
-        41.4900016784668
+        "2026-07-23",
+        42.400001525878906
       ],
       [
-        "2026-07-30",
-        40.86000061035156
+        "2026-07-29",
+        40.91999816894531
       ],
       [
-        "2026-08-05",
-        41.66999816894531
+        "2026-08-04",
+        42.06999969482422
       ],
       [
         "2026-08-11",
@@ -24112,7 +24118,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:32:32.545482",
+    "last_updated": "2026-08-23T13:05:59.018470",
     "perf_1m": -8.55,
     "perf_3m": -3.42,
     "perf_1y": 10.29,
@@ -24457,7 +24463,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:43.818528",
+    "last_updated": "2026-08-23T12:54:58.802266",
     "perf_1m": -1.06,
     "perf_3m": -12.92,
     "perf_1y": 18.02,
@@ -24745,7 +24751,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:51.481120",
+    "last_updated": "2026-08-23T12:57:30.184509",
     "perf_1m": 0.79,
     "perf_3m": -4.39,
     "perf_1y": 55.31,
@@ -25090,7 +25096,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:30:33.041350",
+    "last_updated": "2026-08-23T13:05:55.933956",
     "perf_1m": 3.44,
     "perf_3m": -21.76,
     "perf_1y": -35.59,
@@ -25377,7 +25383,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:32:31.919966",
+    "last_updated": "2026-08-23T12:57:28.928872",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -25420,7 +25426,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:40.555039",
+    "last_updated": "2026-08-23T13:03:23.235248",
     "perf_1m": 1.26,
     "perf_3m": -17.96,
     "perf_1y": -27.25,
@@ -25765,7 +25771,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:43:44.942779",
+    "last_updated": "2026-08-23T12:55:04.890022",
     "perf_1m": 2.24,
     "perf_3m": -12.81,
     "perf_1y": -16.64,
@@ -26054,7 +26060,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:41.934688",
+    "last_updated": "2026-08-23T13:05:11.014374",
     "perf_1m": -0.84,
     "perf_3m": -1.41,
     "perf_1y": -9.17,
@@ -26343,7 +26349,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:40.910874",
+    "last_updated": "2026-08-23T12:53:53.111571",
     "perf_1m": -1.63,
     "perf_3m": 4.33,
     "perf_1y": 16.99,
@@ -26632,9 +26638,9 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:48.012809",
-    "perf_1m": -8.44,
-    "perf_3m": -2.26,
+    "last_updated": "2026-08-23T12:57:07.002156",
+    "perf_1m": -9.4,
+    "perf_3m": -2.29,
     "perf_1y": 8.9,
     "isin": null,
     "news": null,
@@ -26684,8 +26690,8 @@
         39.47999954223633
       ],
       [
-        "2025-10-24",
-        40.79999923706055
+        "2025-10-23",
+        40.70000076293945
       ],
       [
         "2025-10-30",
@@ -26708,8 +26714,8 @@
         48.11000061035156
       ],
       [
-        "2025-12-01",
-        48.599998474121094
+        "2025-11-28",
+        48.77000045776367
       ],
       [
         "2025-12-05",
@@ -26728,12 +26734,12 @@
         51.4900016784668
       ],
       [
-        "2026-01-05",
-        53.650001525878906
+        "2026-01-02",
+        53.7599983215332
       ],
       [
-        "2026-01-09",
-        53.540000915527344
+        "2026-01-08",
+        54.029998779296875
       ],
       [
         "2026-01-15",
@@ -26752,12 +26758,12 @@
         51.11000061035156
       ],
       [
-        "2026-02-09",
-        50.20000076293945
+        "2026-02-06",
+        49.310001373291016
       ],
       [
-        "2026-02-13",
-        50.7400016784668
+        "2026-02-12",
+        50.5099983215332
       ],
       [
         "2026-02-23",
@@ -26772,16 +26778,16 @@
         46.95000076293945
       ],
       [
-        "2026-03-12",
-        48.2400016784668
+        "2026-03-11",
+        48.75
       ],
       [
-        "2026-03-18",
-        47.97999954223633
+        "2026-03-17",
+        48.709999084472656
       ],
       [
-        "2026-03-24",
-        46.880001068115234
+        "2026-03-23",
+        47.150001525878906
       ],
       [
         "2026-03-30",
@@ -26796,16 +26802,16 @@
         53.810001373291016
       ],
       [
-        "2026-04-17",
-        55.0099983215332
+        "2026-04-16",
+        56.2599983215332
       ],
       [
-        "2026-04-24",
-        53.31999969482422
+        "2026-04-23",
+        54.13999938964844
       ],
       [
-        "2026-04-30",
-        48.93000030517578
+        "2026-04-29",
+        50.61000061035156
       ],
       [
         "2026-05-07",
@@ -26816,19 +26822,19 @@
         45.470001220703125
       ],
       [
-        "2026-05-20",
-        44.369998931884766
+        "2026-05-19",
+        43.720001220703125
       ],
       [
-        "2026-05-26",
-        43.59000015258789
+        "2026-05-25",
+        43.29999923706055
       ],
       [
-        "2026-06-01",
-        42.849998474121094
+        "2026-05-29",
+        43.38999938964844
       ],
       [
-        "2026-06-08",
+        "2026-06-05",
         42.689998626708984
       ],
       [
@@ -26840,36 +26846,36 @@
         44.0099983215332
       ],
       [
-        "2026-06-25",
-        45.119998931884766
+        "2026-06-24",
+        44.369998931884766
       ],
       [
-        "2026-07-01",
-        44.2599983215332
+        "2026-06-30",
+        44.779998779296875
       ],
       [
-        "2026-07-07",
-        45.439998626708984
+        "2026-07-06",
+        44.880001068115234
       ],
       [
-        "2026-07-13",
-        46.84000015258789
+        "2026-07-10",
+        47.869998931884766
       ],
       [
         "2026-07-17",
         46.869998931884766
       ],
       [
-        "2026-07-24",
-        45.09000015258789
+        "2026-07-23",
+        46.220001220703125
       ],
       [
-        "2026-07-30",
-        46.09000015258789
+        "2026-07-29",
+        44.790000915527344
       ],
       [
-        "2026-08-05",
-        46.09000015258789
+        "2026-08-04",
+        46.349998474121094
       ],
       [
         "2026-08-11",
@@ -26921,7 +26927,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:34:29.526337",
+    "last_updated": "2026-08-23T12:58:45.689993",
     "perf_1m": 3.48,
     "perf_3m": -3.97,
     "perf_1y": 4.88,
@@ -27210,7 +27216,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:36.905085",
+    "last_updated": "2026-08-23T12:57:13.270421",
     "perf_1m": -4.55,
     "perf_3m": -11.65,
     "perf_1y": 89.2,
@@ -27498,7 +27504,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:30:43.092295",
+    "last_updated": "2026-08-23T13:07:21.330487",
     "perf_1m": 9.41,
     "perf_3m": -3.64,
     "perf_1y": 14.91,
@@ -27843,7 +27849,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:42:46.406928",
+    "last_updated": "2026-08-23T13:03:09.467231",
     "perf_1m": 0.0,
     "perf_3m": -10.24,
     "perf_1y": -21.38,
@@ -28132,7 +28138,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:42:33.446085",
+    "last_updated": "2026-08-23T13:03:20.307775",
     "perf_1m": -0.74,
     "perf_3m": 9.0,
     "perf_1y": 9.15,
@@ -28421,7 +28427,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:37.400564",
+    "last_updated": "2026-08-23T12:53:49.058427",
     "perf_1m": 1.94,
     "perf_3m": 1.29,
     "perf_1y": -3.42,
@@ -28707,7 +28713,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:33:32.344509",
+    "last_updated": "2026-08-23T12:58:16.416246",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -28751,7 +28757,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:45.809933",
+    "last_updated": "2026-08-23T13:02:54.444510",
     "perf_1m": 7.77,
     "perf_3m": 18.59,
     "perf_1y": 19.98,
@@ -29040,7 +29046,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:30:41.564796",
+    "last_updated": "2026-08-23T13:03:31.921968",
     "perf_1m": 0.11,
     "perf_3m": -9.28,
     "perf_1y": 29.94,
@@ -29328,7 +29334,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:35:47.087788",
+    "last_updated": "2026-08-23T12:58:13.130316",
     "perf_1m": 3.81,
     "perf_3m": 7.07,
     "perf_1y": 9.61,
@@ -29673,7 +29679,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:38:44.322387",
+    "last_updated": "2026-08-23T12:56:49.037825",
     "perf_1m": 10.99,
     "perf_3m": 1.93,
     "perf_1y": 104.14,
@@ -29962,7 +29968,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:30.946317",
+    "last_updated": "2026-08-23T12:54:48.245750",
     "perf_1m": 0.72,
     "perf_3m": -3.44,
     "perf_1y": -22.86,
@@ -30251,7 +30257,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:36:39.411888",
+    "last_updated": "2026-08-23T13:01:47.195165",
     "perf_1m": 6.81,
     "perf_3m": -4.11,
     "perf_1y": 30.19,
@@ -30540,7 +30546,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:37:39.575448",
+    "last_updated": "2026-08-23T12:51:43.965344",
     "perf_1m": 0.92,
     "perf_3m": -6.96,
     "perf_1y": -20.41,
@@ -30826,7 +30832,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:41:40.998394",
+    "last_updated": "2026-08-23T12:56:06.733878",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -30870,7 +30876,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:33:28.941855",
+    "last_updated": "2026-08-23T13:03:48.189050",
     "perf_1m": -5.18,
     "perf_3m": 3.1,
     "perf_1y": -1.71,
@@ -31159,7 +31165,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:31:28.019447",
+    "last_updated": "2026-08-23T13:02:08.970170",
     "perf_1m": 4.92,
     "perf_3m": 14.17,
     "perf_1y": 6.63,
@@ -31447,7 +31453,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:44.869116",
+    "last_updated": "2026-08-23T12:51:22.312645",
     "perf_1m": -2.08,
     "perf_3m": -20.29,
     "perf_1y": -40.36,
@@ -31789,7 +31795,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:37:42.500278",
+    "last_updated": "2026-08-23T12:52:33.465904",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -31833,7 +31839,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:30:38.524969",
+    "last_updated": "2026-08-23T13:01:53.936649",
     "perf_1m": -2.32,
     "perf_3m": 8.14,
     "perf_1y": 11.22,
@@ -32122,7 +32128,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:44:42.384660",
+    "last_updated": "2026-08-23T13:05:49.191612",
     "perf_1m": -5.06,
     "perf_3m": -18.62,
     "perf_1y": -17.36,
@@ -32411,7 +32417,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:35:38.913882",
+    "last_updated": "2026-08-23T13:06:56.444050",
     "perf_1m": -3.43,
     "perf_3m": -7.66,
     "perf_1y": 26.9,
@@ -32700,7 +32706,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:39:44.819539",
+    "last_updated": "2026-08-23T13:00:46.757641",
     "perf_1m": 1.58,
     "perf_3m": 31.1,
     "perf_1y": 28.54,
@@ -32986,7 +32992,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:34:49.120562",
+    "last_updated": "2026-08-23T12:54:57.415523",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -33028,7 +33034,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:34:38.409607",
+    "last_updated": "2026-08-23T12:53:47.914803",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -33071,7 +33077,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:29:36.995876",
+    "last_updated": "2026-08-23T13:06:14.155010",
     "perf_1m": 3.89,
     "perf_3m": 11.85,
     "perf_1y": 45.42,
@@ -33374,6 +33380,44 @@
         "previous_grade": null
       }
     ],
+    "next_payout": null
+  },
+  "WCP": {
+    "ticker": "WCP",
+    "name": "Whitecap Resources",
+    "price": null,
+    "market_cap": null,
+    "pe_ratio": null,
+    "dividend_yield_pct": 4.3,
+    "payout_ratio_pct": 74.0,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "data_source": "manuell",
+    "manual_source_note": "Nutzer-Recherche - Rendite liegt aktuell UNTER der 5%-Mindestschwelle, erscheint deshalb momentan nicht in der Watchlist (kein Fehler) (Stand 2026-08)",
+    "land": "Kanada",
+    "sektor": "Energie",
+    "price_history": [
+      {
+        "date": "2026-08-23",
+        "price": null
+      }
+    ],
+    "evaluation": {
+      "trap_warning": false,
+      "risk": "mittel",
+      "meets_min_yield": false,
+      "is_reit": false,
+      "payout_niedrig_max": 60.0,
+      "payout_mittel_max": 80.0
+    },
+    "last_updated": "2026-08-23T12:57:54.265895",
+    "perf_1m": null,
+    "perf_3m": null,
+    "perf_1y": null,
+    "isin": null,
+    "news": null,
+    "chart_series": null,
+    "grades": [],
     "next_payout": null
   }
 }
