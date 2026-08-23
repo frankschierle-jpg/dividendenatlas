@@ -42,7 +42,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:38.457536",
+    "last_updated": "2026-08-23T08:36:49.425481",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -95,7 +95,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:50:07.784711",
+    "last_updated": "2026-08-23T08:36:49.983279",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -148,7 +148,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:21.578820",
+    "last_updated": "2026-08-23T08:36:38.105089",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -201,7 +201,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:51:23.647418",
+    "last_updated": "2026-08-23T08:40:33.030004",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -254,7 +254,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:04:48.805149",
+    "last_updated": "2026-08-23T08:29:31.546561",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -307,7 +307,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:33.022131",
+    "last_updated": "2026-08-23T08:32:38.544457",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -360,7 +360,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:04:29.852988",
+    "last_updated": "2026-08-23T08:30:34.652672",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -413,7 +413,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:54:23.871632",
+    "last_updated": "2026-08-23T08:39:33.109167",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -466,7 +466,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:40.954119",
+    "last_updated": "2026-08-23T08:30:34.120783",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -519,7 +519,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:56:21.030737",
+    "last_updated": "2026-08-23T08:36:50.753506",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -572,7 +572,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:30.263299",
+    "last_updated": "2026-08-23T08:30:35.239581",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -627,12 +627,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:04:41.695093",
+    "last_updated": "2026-08-23T08:43:47.994895",
     "perf_1m": 12.24,
     "perf_3m": 8.17,
     "perf_1y": 8.46,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
+          "url": "https://finnhub.io/api/news?id=9920479acaf24aa724842791b54472c02592d99d6bd156b129117a03ccd429fb",
+          "published": "2026-08-22",
+          "sentiment_score": 0.6908
+        },
+        {
+          "title": "This 'Dynamo' Biotech Puts AI-Fueled Breakout In Motion",
+          "url": "https://finnhub.io/api/news?id=2786289cd80629a85c4beb9b2b703fa1debdc3f8f0ee3af73c8134554ef335cd",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Can mRNA Cure Cancer? Inside the Pipeline Risks for Biotech’s Biggest Players",
+          "url": "https://finnhub.io/api/news?id=38dd0d7e7c6eb6285ae70cc42b7302f86dda418041d32af3c76017a0115b343f",
+          "published": "2026-08-21",
+          "sentiment_score": -0.7579
+        },
+        {
+          "title": "Lilly's Multiple Assumes Less Growth Than You Think",
+          "url": "https://finnhub.io/api/news?id=b85cf2c4c1752d6b68a87ce0e31deed248fb731b2165e96279cc313ac08ca183",
+          "published": "2026-08-21",
+          "sentiment_score": 0.3197
+        },
+        {
+          "title": "2 Reasons to Watch PFE and 1 to Stay Cautious",
+          "url": "https://finnhub.io/api/news?id=ca6f2c7d9ec1e90d62aaba8967fad5a833bf772134237c2edb5e2eff87bc99f3",
+          "published": "2026-08-21",
+          "sentiment_score": -0.1027
+        }
+      ],
+      "avg_sentiment": 0.029979999999999986
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -879,7 +913,29 @@
         28.06999969482422
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "14 Kaufen / 20 Halten / 2 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "15 Kaufen / 19 Halten / 2 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "15 Kaufen / 18 Halten / 3 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "PPG": {
@@ -925,7 +981,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:40.077242",
+    "last_updated": "2026-08-23T08:43:41.625945",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -978,7 +1034,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T07:58:44.052246",
+    "last_updated": "2026-08-23T08:33:37.668742",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1031,7 +1087,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:13.558455",
+    "last_updated": "2026-08-23T08:35:48.129922",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1084,7 +1140,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:57:38.245954",
+    "last_updated": "2026-08-23T08:29:33.107619",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1137,7 +1193,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:59:48.137771",
+    "last_updated": "2026-08-23T08:30:37.626266",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1190,7 +1246,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:36.654547",
+    "last_updated": "2026-08-23T08:34:50.784444",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1243,7 +1299,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:00:26.573251",
+    "last_updated": "2026-08-23T08:36:41.145149",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1298,12 +1354,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:01:42.409274",
+    "last_updated": "2026-08-23T08:32:40.005515",
     "perf_1m": -3.08,
     "perf_3m": 8.96,
     "perf_1y": 20.56,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Institutions Are Buying Real Estate Blind",
+          "url": "https://finnhub.io/api/news?id=2ee6b67a9adbc2e5b6a4d0531487154b45a7e6addf1f86cd1ac12a7e16c8a59e",
+          "published": "2026-08-20",
+          "sentiment_score": -0.4019
+        },
+        {
+          "title": "Healthpeak Properties Inc's Dividend Analysis",
+          "url": "https://finnhub.io/api/news?id=177746028f3f103610882613cab71a91b8947263d9aa66a8a2b8a83d653270be",
+          "published": "2026-08-17",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Wall Street's Most Accurate Analysts Give Their Take On 3 Real Estate Stocks Delivering High-Dividend Yields",
+          "url": "https://finnhub.io/api/news?id=8ba0125d8337764d099dd4201580f19ae8fbc7ff48f228add860fd16d1e6cfbd",
+          "published": "2026-08-17",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Baird Maintains Outperform on Healthpeak Properties, Raises Price Target to $24",
+          "url": "https://finnhub.io/api/news?id=1789cda0aa85a16b79a37da6129e7b77e5faa4e98822b6c7cfe5c8756f241f46",
+          "published": "2026-08-13",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Healthpeak Properties (DOC) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=43be34445880729ce636cbe1dff36fac776db60fc3f53d3f55053f678df3e6b9",
+          "published": "2026-08-11",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": -0.08038
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -1550,7 +1640,29 @@
         21.399999618530273
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 16 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 13 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 11 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "MDT": {
@@ -1596,7 +1708,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:54:08.854174",
+    "last_updated": "2026-08-23T08:41:45.029806",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1649,7 +1761,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:54:36.506075",
+    "last_updated": "2026-08-23T08:39:33.663473",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1702,7 +1814,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:30.146541",
+    "last_updated": "2026-08-23T08:34:52.544796",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1755,7 +1867,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:54:22.047504",
+    "last_updated": "2026-08-23T08:34:30.558280",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1808,7 +1920,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T07:51:20.598493",
+    "last_updated": "2026-08-23T08:41:40.464010",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1861,7 +1973,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:03:26.556308",
+    "last_updated": "2026-08-23T08:37:32.505064",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1914,7 +2026,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:28.203568",
+    "last_updated": "2026-08-23T08:39:34.229772",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1967,7 +2079,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:51:06.183163",
+    "last_updated": "2026-08-23T08:34:48.586432",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2020,7 +2132,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:57:29.926655",
+    "last_updated": "2026-08-23T08:31:31.982314",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2075,12 +2187,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:25.223852",
+    "last_updated": "2026-08-23T08:35:48.683826",
     "perf_1m": -3.28,
     "perf_3m": 0.59,
     "perf_1y": 6.25,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Passive Income: How Much Would You Need to Invest in Realty Income (O) Stock to Collect $1,000 in Annual Dividends?",
+          "url": "https://finnhub.io/api/news?id=5da50f0742212eaf70e857e930c0576ecf9a48df4639bf391f117788ccd983c4",
+          "published": "2026-08-22",
+          "sentiment_score": 0.2023
+        },
+        {
+          "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
+          "url": "https://finnhub.io/api/news?id=9920479acaf24aa724842791b54472c02592d99d6bd156b129117a03ccd429fb",
+          "published": "2026-08-22",
+          "sentiment_score": 0.6908
+        },
+        {
+          "title": "5 Monthly Dividend Payers to Own Heading Into September",
+          "url": "https://finnhub.io/api/news?id=68c8c86acbf9038eb3585e68a979c1fb132dd9631395033e63ff9721074d308a",
+          "published": "2026-08-22",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Realty Income: European Growth Engine Backs This Monthly Dividend Payer",
+          "url": "https://finnhub.io/api/news?id=cee00d328fd7c91df36f04cd10ca6d56e4ad2c044f24d908a01b99ed58550598",
+          "published": "2026-08-22",
+          "sentiment_score": 0.34
+        },
+        {
+          "title": "How a 75-Year-Old Turned $985,000 Into a $6,300 Monthly Paycheck With MAIN, JEPI, and O",
+          "url": "https://finnhub.io/api/news?id=791bf4deaba90b6ae2d47a9be9af9bf957425f5459b64fe8694612fbd739981b",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.24662
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -2327,7 +2473,29 @@
         62.599998474121094
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "13 Kaufen / 18 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 18 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 18 Halten / 1 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "LOW": {
@@ -2373,7 +2541,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:29.365857",
+    "last_updated": "2026-08-23T08:35:37.362019",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2426,7 +2594,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:37.553535",
+    "last_updated": "2026-08-23T08:44:41.971557",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2479,7 +2647,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:32.088715",
+    "last_updated": "2026-08-23T08:36:40.564272",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2532,7 +2700,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:02:26.657148",
+    "last_updated": "2026-08-23T08:39:49.087334",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2585,7 +2753,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:14.545323",
+    "last_updated": "2026-08-23T08:30:31.493920",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2638,7 +2806,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:56:26.274430",
+    "last_updated": "2026-08-23T08:39:32.578774",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2691,7 +2859,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:59:16.054941",
+    "last_updated": "2026-08-23T08:41:44.498008",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2744,7 +2912,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:01:12.145847",
+    "last_updated": "2026-08-23T08:30:40.750924",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2797,7 +2965,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:54:22.959605",
+    "last_updated": "2026-08-23T08:29:26.523087",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2850,7 +3018,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:59:49.068195",
+    "last_updated": "2026-08-23T08:44:52.053383",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2903,7 +3071,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:56:08.046968",
+    "last_updated": "2026-08-23T08:37:31.968797",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2956,7 +3124,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:50:04.855571",
+    "last_updated": "2026-08-23T08:43:43.051769",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3011,12 +3179,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:41.854282",
+    "last_updated": "2026-08-23T08:32:41.132660",
     "perf_1m": 12.85,
     "perf_3m": 2.44,
     "perf_1y": 11.27,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
+          "url": "https://finnhub.io/api/news?id=9920479acaf24aa724842791b54472c02592d99d6bd156b129117a03ccd429fb",
+          "published": "2026-08-22",
+          "sentiment_score": 0.6908
+        },
+        {
+          "title": "AST SpaceMobile vs. Boeing: Which High Flying Stock Is a Better Buy in 2026?",
+          "url": "https://finnhub.io/api/news?id=35f4c0aee14f8d636bfa03b2b20a14a967352f4db77fc6e7c7aeeb04c80d7741",
+          "published": "2026-08-21",
+          "sentiment_score": 0.4404
+        },
+        {
+          "title": "Top Analyst Reports for Dell, Marvell & Verizon Communications",
+          "url": "https://finnhub.io/api/news?id=8f719eada3e0abcaa6f1418b0eade857a3c0bd7c74521d5e0d259b39ac9610a2",
+          "published": "2026-08-21",
+          "sentiment_score": 0.2023
+        },
+        {
+          "title": "Verizon prepares network for potential tropical storm; Customer relief through August 31",
+          "url": "https://finnhub.io/api/news?id=dcbae1d0dcbba6af587426b0e490bf77a5f008cf231c70f845dded67fc5c237d",
+          "published": "2026-08-21",
+          "sentiment_score": 0.4767
+        },
+        {
+          "title": "2 Mega-Cap Stocks Worth Your Attention and 1 We Find Risky",
+          "url": "https://finnhub.io/api/news?id=75c0701ff77e1b8f3439a4aeeee00bfdf2460c712ade54721f411f5d335ad7ab",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0258
+        }
+      ],
+      "avg_sentiment": 0.3672
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -3263,7 +3465,29 @@
         49.45000076293945
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "18 Kaufen / 18 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "18 Kaufen / 18 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "18 Kaufen / 17 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "LIN": {
@@ -3309,7 +3533,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:31.169957",
+    "last_updated": "2026-08-23T08:41:47.242026",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3362,7 +3586,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:06.463134",
+    "last_updated": "2026-08-23T08:30:39.538967",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3415,7 +3639,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:51:07.108123",
+    "last_updated": "2026-08-23T08:43:47.456834",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3468,7 +3692,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:18.254018",
+    "last_updated": "2026-08-23T08:34:48.055550",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3521,7 +3745,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:02.395591",
+    "last_updated": "2026-08-23T08:39:34.924292",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3574,7 +3798,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:02:31.542886",
+    "last_updated": "2026-08-23T08:33:33.840095",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3627,7 +3851,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:02:11.805388",
+    "last_updated": "2026-08-23T08:35:42.111766",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3682,12 +3906,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:58:21.253903",
+    "last_updated": "2026-08-23T08:33:34.390156",
     "perf_1m": -5.32,
     "perf_3m": -4.94,
     "perf_1y": 7.7,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "W. P. Carey: A Rock-Solid 5% Yielding REIT For Dividend Growth Investors",
+          "url": "https://finnhub.io/api/news?id=c9a099878ae3e385f342d006c785e800ec7a19c5ab2edcb5520d2e74321f3ba0",
+          "published": "2026-08-20",
+          "sentiment_score": 0.3818
+        },
+        {
+          "title": "Dividend Stocks Are Facing Their Toughest Test In Years",
+          "url": "https://finnhub.io/api/news?id=2fca9c250cc0b6719f59c84ceec9054e0242616c968e3ab14df1bb4dff353a41",
+          "published": "2026-08-19",
+          "sentiment_score": -0.0772
+        },
+        {
+          "title": "August's 5 Dividend Growth Stocks With Yields Up To 6.21%",
+          "url": "https://finnhub.io/api/news?id=e87e6e6b47502bc6936da99712377e142d91ea4d5512d8317f576092cc02e00f",
+          "published": "2026-08-18",
+          "sentiment_score": 0.3818
+        },
+        {
+          "title": "5 Undervalued Winners Up To 6.8% And 15 Overvalued To Avoid Now",
+          "url": "https://finnhub.io/api/news?id=e6bf7b78e031bbcb468b8823cda499b666ece9ead74075c85b9647263cd0d6bf",
+          "published": "2026-08-18",
+          "sentiment_score": 0.2263
+        },
+        {
+          "title": "Net Lease Office Properties: Almost Gone",
+          "url": "https://finnhub.io/api/news?id=406b8b54ded6139151f3dba4b795ea3446aa429451207f03ba189ede1a5b3a22",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.18253999999999998
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -3934,7 +4192,29 @@
         71.19999694824219
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "9 Kaufen / 8 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "8 Kaufen / 9 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "7 Kaufen / 9 Halten / 2 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "MO": {
@@ -3982,12 +4262,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:57:09.081860",
+    "last_updated": "2026-08-23T08:44:52.705067",
     "perf_1m": -8.31,
     "perf_3m": -10.34,
     "perf_1y": -2.33,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
+          "url": "https://finnhub.io/api/news?id=9920479acaf24aa724842791b54472c02592d99d6bd156b129117a03ccd429fb",
+          "published": "2026-08-22",
+          "sentiment_score": 0.6908
+        },
+        {
+          "title": "What Altria Group (MO)'s Higher 2026 Earnings Outlook Means For Shareholders",
+          "url": "https://finnhub.io/api/news?id=ee5d9b60184701d4cefa4d8804f62403906e9bd6c4ea83a7ed0dbdfa102db3b7",
+          "published": "2026-08-22",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Top Analyst Reports for Dell, Marvell & Verizon Communications",
+          "url": "https://finnhub.io/api/news?id=8f719eada3e0abcaa6f1418b0eade857a3c0bd7c74521d5e0d259b39ac9610a2",
+          "published": "2026-08-21",
+          "sentiment_score": 0.2023
+        },
+        {
+          "title": "Is Altria Stock Worth Holding as Pricing Offsets Volume Pressure?",
+          "url": "https://finnhub.io/api/news?id=3cfeb60a18b8ac5c91991f4fdb2d8f5b91a4f079f7cf0eeb6762f310feea6147",
+          "published": "2026-08-21",
+          "sentiment_score": -0.0772
+        },
+        {
+          "title": "How Altria's Q2 Results and Guidance Shape Its 2026 Earnings Path",
+          "url": "https://finnhub.io/api/news?id=257aac83d57d1cbd9e2c9ec0db19b9d26f480b8165aaee5805cb512a1216afef",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.16318
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -4234,7 +4548,29 @@
         66.08999633789062
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 9 Halten / 3 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 8 Halten / 3 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 8 Halten / 3 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "ROP": {
@@ -4280,7 +4616,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:00:22.293243",
+    "last_updated": "2026-08-23T08:30:40.213632",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4333,7 +4669,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:50:32.845250",
+    "last_updated": "2026-08-23T08:38:41.256073",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4386,7 +4722,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:01:11.234494",
+    "last_updated": "2026-08-23T08:29:33.642586",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4439,7 +4775,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:02:27.569312",
+    "last_updated": "2026-08-23T08:42:48.666165",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4492,7 +4828,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:55:29.246240",
+    "last_updated": "2026-08-23T08:41:42.493143",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4545,7 +4881,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:05.459759",
+    "last_updated": "2026-08-23T08:33:39.310201",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4600,12 +4936,40 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:27.017164",
+    "last_updated": "2026-08-23T08:33:43.181963",
     "perf_1m": 7.12,
     "perf_3m": -9.79,
     "perf_1y": -27.67,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "PennantPark Floating Rate Capital: Better Dividend Coverage But Same Problems",
+          "url": "https://finnhub.io/api/news?id=de0d3e548a7ffe20809dff5d6cb63dd67c20eafdc94288d26d98d17bb38d103b",
+          "published": "2026-08-13",
+          "sentiment_score": -0.3818
+        },
+        {
+          "title": "PennantPark Floating Rate Capital (PFLT) Q3 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=92d8bd7aa6ec4805048727ced96cd7e9fbc311249abaffab5d7397eb7fd65ef9",
+          "published": "2026-08-11",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "July Income Rising - 1 Raise And 4 Business Development Company Cuts",
+          "url": "https://finnhub.io/api/news?id=312e1482c32f9b342864ac8c0669f26bf5164549be96254c57cc93c6ef5bff0c",
+          "published": "2026-08-05",
+          "sentiment_score": -0.296
+        },
+        {
+          "title": "Ares Capital: 20 Big-Yield BDCs Ranked For A Maturing Market",
+          "url": "https://finnhub.io/api/news?id=fb6f7320476ea2b7097d1e84fa686db38bc35282d1018b6c188cccf0499f96bd",
+          "published": "2026-07-30",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": -0.16945
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -4852,7 +5216,29 @@
         7.369999885559082
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "ENB": {
@@ -4900,12 +5286,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:03:24.584845",
+    "last_updated": "2026-08-23T08:34:37.037852",
     "perf_1m": -10.53,
     "perf_3m": -12.68,
     "perf_1y": 5.19,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "The U.S. Treasury Likely Just Launched A Major Market Shift",
+          "url": "https://finnhub.io/api/news?id=41683b928e2bd0f7e90ec14f641f2bf3366b33124c0c8ab461fda339b63c8eb1",
+          "published": "2026-08-20",
+          "sentiment_score": 0.3182
+        },
+        {
+          "title": "Enbridge: A $41 Billion Growth Backlog Meets A Mainline Volume Threat",
+          "url": "https://finnhub.io/api/news?id=3d3b8ba549b1f748dfe77aa243562e75d8c2724e0ac1eacad4979f153a41fc98",
+          "published": "2026-08-19",
+          "sentiment_score": -0.2023
+        },
+        {
+          "title": "5-15% Yields: The Ultimate 6 Monthly Dividend Mix For Early Retirement",
+          "url": "https://finnhub.io/api/news?id=d965fe0cd32bc9b4d8edc781c0c7778c240d0f3fee475d1f20b6f16812a0c332",
+          "published": "2026-08-19",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Enbridge: Buy The 5.5% Yield And Growing Backlog",
+          "url": "https://finnhub.io/api/news?id=98f73a19a15622c76be65cf92568cd2548ca54c63572c2e22909676901a361a7",
+          "published": "2026-08-19",
+          "sentiment_score": 0.1779
+        },
+        {
+          "title": "My Near-Perfect $1 Million Retirement Portfolio",
+          "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.05875999999999999
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -5152,7 +5572,29 @@
         50.459999084472656
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 15 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 15 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 15 Halten / 1 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "UVV": {
@@ -5200,12 +5642,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:10.029753",
+    "last_updated": "2026-08-23T08:44:43.424909",
     "perf_1m": -14.63,
     "perf_3m": -17.63,
     "perf_1y": -20.59,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Top 3 Risk Off Stocks That May Explode This Quarter",
+          "url": "https://finnhub.io/api/news?id=33c2c4cc472bde55e9049e748772a01c8616c01a9a5b8605833ddca0f9c8a9b1",
+          "published": "2026-08-14",
+          "sentiment_score": -0.0772
+        },
+        {
+          "title": "Universal Corporation (UVV) Q1 2027 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=f7ee037be93075d9c15eddcbc79842a6e6199aef22e9dcd6f7d3b772c5acc9fd",
+          "published": "2026-08-06",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Universal Corporation 2027 Q1 - Results - Earnings Call Presentation",
+          "url": "https://finnhub.io/api/news?id=b11d0c045ce501faa745fc0a1dd3294e7a20b6f400b4009de22eaab28d6e64b8",
+          "published": "2026-08-06",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Universal Q1 Adj. EPS $(0.20) May Not Be Comparable To $0.25 Estimate, Sales $523.779M Miss $587.000M Estimate",
+          "url": "https://finnhub.io/api/news?id=22f8625579f5f9782a23e3b30e39f982fe276b53526461f1d910950855f15c3a",
+          "published": "2026-08-05",
+          "sentiment_score": -0.1531
+        },
+        {
+          "title": "Best Dividend Kings: July 2026",
+          "url": "https://finnhub.io/api/news?id=9a2687b22714d8cedc636831b2bc62592056cb84c4baeb1b206ee7ea9c167dc4",
+          "published": "2026-07-26",
+          "sentiment_score": 0.6369
+        }
+      ],
+      "avg_sentiment": 0.08132
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -5500,12 +5976,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:50:05.748656",
+    "last_updated": "2026-08-23T08:33:30.592164",
     "perf_1m": -2.63,
     "perf_3m": 2.79,
     "perf_1y": 11.74,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "5 Monthly Dividend Payers to Own Heading Into September",
+          "url": "https://finnhub.io/api/news?id=68c8c86acbf9038eb3585e68a979c1fb132dd9631395033e63ff9721074d308a",
+          "published": "2026-08-22",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Dividend Champion, Contender, And Challenger Highlights: Week August 23",
+          "url": "https://finnhub.io/api/news?id=39359255fee6dd1beadb269dd99f2e2f1d0813d68dd4371fa931522e517ddb8d",
+          "published": "2026-08-21",
+          "sentiment_score": 0.7096
+        },
+        {
+          "title": "EPR Properties (EPR) Upgraded to Buy: What Does It Mean for the Stock?",
+          "url": "https://finnhub.io/api/news?id=e86bf8d3e986ccfa92fe0b4d06e12104789c5e1753459d41e67b66448374c214",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Keybanc Upgrades EPR Properties (EPR)",
+          "url": "https://finnhub.io/api/news?id=bcebafc45f6d39c4d0e31f0bcadce7e0d04748e235c374d766450e1979a30b90",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "This Safe Monthly Dividend Income Portfolio Has Baby Boomers Retiring Early",
+          "url": "https://finnhub.io/api/news?id=624b5373ad9c6bf57e654dae81cdc8ccad295f7aa36139a1335f4c64611eb3fa",
+          "published": "2026-08-20",
+          "sentiment_score": 0.4404
+        }
+      ],
+      "avg_sentiment": 0.22999999999999998
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -5752,7 +6262,29 @@
         60.349998474121094
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "8 Kaufen / 8 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "7 Kaufen / 8 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "6 Kaufen / 9 Halten / 1 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "STAG": {
@@ -5798,7 +6330,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T08:04:49.681287",
+    "last_updated": "2026-08-23T08:40:47.154259",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -5853,12 +6385,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:06.827297",
+    "last_updated": "2026-08-23T08:34:47.017370",
     "perf_1m": 7.04,
     "perf_3m": 6.3,
     "perf_1y": -10.75,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Morgan Stanley Direct Lending: High Safety Margin Despite Non-Accrual Challenges",
+          "url": "https://finnhub.io/api/news?id=080f0d250a109d2ec4fda01916aab2f84eded7aa4a4688c0e33ad3641c330423",
+          "published": "2026-08-22",
+          "sentiment_score": 0.3773
+        },
+        {
+          "title": "The BDC Asymmetry That Nobody Prices In",
+          "url": "https://finnhub.io/api/news?id=5e1502b095cda1176bb8688161b93f9ac1a28cfede6f85ff5b00c32c0bf9f624",
+          "published": "2026-08-17",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "2 BDCs To Sell Before The Dividend Cuts Land",
+          "url": "https://finnhub.io/api/news?id=9084e48eb4049a98c177e8e1b300e7f68e7e4dbd8e2c825b671472d6c672ed2c",
+          "published": "2026-08-16",
+          "sentiment_score": -0.296
+        },
+        {
+          "title": "My Near-Perfect $1 Million Retirement Portfolio",
+          "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Blackstone Secured Lending: The Dividend Cut I've Been Expecting Is Coming, Management Just Telegraphed It",
+          "url": "https://finnhub.io/api/news?id=010193aa847676e9ae6a240a46f74770f0b4f51005813f9a8c9388634aa6e5fa",
+          "published": "2026-08-13",
+          "sentiment_score": 0.1531
+        }
+      ],
+      "avg_sentiment": 0.04688000000000001
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -6105,7 +6671,29 @@
         19.920000076293945
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "16 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "16 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "17 Kaufen / 3 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "EPD": {
@@ -6153,12 +6741,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:07.390875",
+    "last_updated": "2026-08-23T08:34:49.701291",
     "perf_1m": -2.04,
     "perf_3m": -3.7,
     "perf_1y": 19.15,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "9% Yields With Well-Covered And Growing Dividends For Early Retirement",
+          "url": "https://finnhub.io/api/news?id=25fe4abfefda4547cee887858ec4a052d829cd6b5838f261e27ec2f1bd304a92",
+          "published": "2026-08-22",
+          "sentiment_score": 0.1779
+        },
+        {
+          "title": "Enterprise Products Partners' Stellar Performance Demands An Upgrade",
+          "url": "https://finnhub.io/api/news?id=bf54dd0138da9c0b82e58231292e7b857e6a1064fc99ca7fc6229f0e92e36862",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Western Midstream Is Now As Expensive As EPD - Think About That",
+          "url": "https://finnhub.io/api/news?id=34aee1ceff8527bc777e1eb399d1e5262a65ef77714e195e793efc4cb6765dcf",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "The Retirement Yield Trap Investors Need To Know About",
+          "url": "https://finnhub.io/api/news?id=af76e9cfcac6fff7c0657a5c71593f4a38884d27972d2524d9d920f38a73848d",
+          "published": "2026-08-21",
+          "sentiment_score": -0.3182
+        },
+        {
+          "title": "The U.S. Treasury Likely Just Launched A Major Market Shift",
+          "url": "https://finnhub.io/api/news?id=41683b928e2bd0f7e90ec14f641f2bf3366b33124c0c8ab461fda339b63c8eb1",
+          "published": "2026-08-20",
+          "sentiment_score": 0.3182
+        }
+      ],
+      "avg_sentiment": 0.03558
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -6405,7 +7027,29 @@
         38.0099983215332
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "15 Kaufen / 10 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "15 Kaufen / 10 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "15 Kaufen / 10 Halten / 1 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "BIP": {
@@ -6453,12 +7097,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:14.189091",
+    "last_updated": "2026-08-23T08:37:38.635025",
     "perf_1m": -5.09,
     "perf_3m": -2.01,
     "perf_1y": 27.0,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Dividend Champion, Contender, And Challenger Highlights: Week August 23",
+          "url": "https://finnhub.io/api/news?id=39359255fee6dd1beadb269dd99f2e2f1d0813d68dd4371fa931522e517ddb8d",
+          "published": "2026-08-21",
+          "sentiment_score": 0.7096
+        },
+        {
+          "title": "Brookfield Infrastructure to Issue $100 Million of Preferred Units",
+          "url": "https://finnhub.io/api/news?id=f53dfd44c1091b1a79644cab86ef8c5909bc603bbcd009db1fd5b3e238aee0a5",
+          "published": "2026-08-20",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income",
+          "url": "https://finnhub.io/api/news?id=6eb212648a38faabb1fdfdd84c2c770889834a057d45dc603571743c9c309deb",
+          "published": "2026-08-20",
+          "sentiment_score": 0.6908
+        },
+        {
+          "title": "The BDC Asymmetry That Nobody Prices In",
+          "url": "https://finnhub.io/api/news?id=5e1502b095cda1176bb8688161b93f9ac1a28cfede6f85ff5b00c32c0bf9f624",
+          "published": "2026-08-17",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "My Near-Perfect $1 Million Retirement Portfolio",
+          "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.28008
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -6705,7 +7383,29 @@
         38.95000076293945
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 3 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 3 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 3 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "AGNC": {
@@ -6753,12 +7453,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:57:24.139874",
+    "last_updated": "2026-08-23T08:40:49.656650",
     "perf_1m": 3.12,
     "perf_3m": 6.14,
     "perf_1y": 10.22,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "9.5% Dividend Yield Looks Great Until You Keep Reading From Cherry Hill Mortgage",
+          "url": "https://finnhub.io/api/news?id=4dc77847d922d450483ddcc0d6e62e9a6a26256a2246a33d554016a09bd6c11c",
+          "published": "2026-08-21",
+          "sentiment_score": 0.6249
+        },
+        {
+          "title": "Monthly-Paid Dividends: 21 Ideal 'Safer' August Dog Buys",
+          "url": "https://finnhub.io/api/news?id=5b317705ffed3ebac564b9fee3a76b517233f4295746afe5d788495769859c4a",
+          "published": "2026-08-18",
+          "sentiment_score": 0.7351
+        },
+        {
+          "title": "Dividend Harvesting Portfolio Week 285: $28,500 Allocated, $3,238.12 In Projected Dividends",
+          "url": "https://finnhub.io/api/news?id=80d3535cac8dec4f2521294723b745055df3a970550559052017dea0657a5d4a",
+          "published": "2026-08-17",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "9% Dividend Yield Wins The Wrong Contest From AGNC Investment",
+          "url": "https://finnhub.io/api/news?id=cc619cc52b5215c10f36a9509e43f798fc2b697be512998466fc7d41ea2a8707",
+          "published": "2026-08-13",
+          "sentiment_score": 0.1531
+        },
+        {
+          "title": "Chimera Investment: 15% Yield May Not Be A Red Flag",
+          "url": "https://finnhub.io/api/news?id=652d42d815e08ea42a430e9375ae6a028e4062f3d0fbf7bfd8601cd594b7253d",
+          "published": "2026-08-10",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.30262
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -7005,7 +7739,29 @@
         10.890000343322754
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "8 Kaufen / 12 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 10 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 10 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "DX": {
@@ -7053,12 +7809,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:44.390827",
+    "last_updated": "2026-08-23T08:42:45.490846",
     "perf_1m": 3.41,
     "perf_3m": 1.4,
     "perf_1y": 4.57,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Dynex Capital: This 15.4% Yield Still Has Room To Run",
+          "url": "https://finnhub.io/api/news?id=49b32f55619c9d1070bc2b82ec792693a01d293cbd1aae01a6aa6797159cdda2",
+          "published": "2026-08-22",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Institutions Are Buying Real Estate Blind",
+          "url": "https://finnhub.io/api/news?id=2ee6b67a9adbc2e5b6a4d0531487154b45a7e6addf1f86cd1ac12a7e16c8a59e",
+          "published": "2026-08-20",
+          "sentiment_score": -0.4019
+        },
+        {
+          "title": "Monthly-Paid Dividends: 21 Ideal 'Safer' August Dog Buys",
+          "url": "https://finnhub.io/api/news?id=5b317705ffed3ebac564b9fee3a76b517233f4295746afe5d788495769859c4a",
+          "published": "2026-08-18",
+          "sentiment_score": 0.7351
+        },
+        {
+          "title": "Buy 9 August Dividend Power Dogs",
+          "url": "https://finnhub.io/api/news?id=60f92083b29b3de3b61619f0be33b634eb716a9c578af533a7e649e064be60f5",
+          "published": "2026-08-07",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "PennyMac Mortgage: Preferred With 20% Return Potential",
+          "url": "https://finnhub.io/api/news?id=3c3bfd806e2696ab6f91843b48a9d7182dc05c12f56aac99ac9cf8cb506eca55",
+          "published": "2026-08-07",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.06664
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -7305,7 +8095,29 @@
         13.029999732971191
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 3 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 3 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 3 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "LTC": {
@@ -7349,12 +8161,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:12.209358",
+    "last_updated": "2026-08-23T08:29:28.328649",
     "perf_1m": -3.59,
     "perf_3m": 4.22,
     "perf_1y": 9.43,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "LTC Properties: 'Buy' This 5.6% Yield Before SHOP Growth Accelerates",
+          "url": "https://finnhub.io/api/news?id=27c064546804025c9e0b13e28eeb77346400cc152dea948b575c9adc3401842f",
+          "published": "2026-08-21",
+          "sentiment_score": 0.3818
+        },
+        {
+          "title": "Monthly-Paid Dividends: 21 Ideal 'Safer' August Dog Buys",
+          "url": "https://finnhub.io/api/news?id=5b317705ffed3ebac564b9fee3a76b517233f4295746afe5d788495769859c4a",
+          "published": "2026-08-18",
+          "sentiment_score": 0.7351
+        },
+        {
+          "title": "Inflation Scare Takes A Breather",
+          "url": "https://finnhub.io/api/news?id=cc412ebb53e312909c531739395b81e518d1f8bf7fe50b43c8df0dbe86ed14ba",
+          "published": "2026-08-16",
+          "sentiment_score": -0.4939
+        },
+        {
+          "title": "RBC Capital Upgrades LTC Properties (LTC)",
+          "url": "https://finnhub.io/api/news?id=87f4263c24dac926873430bee88eb4d62fb8a7f39f8e1856cce3e1b4a30dea14",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "RBC Capital Upgrades LTC Properties to Outperform, Raises Price Target to $45",
+          "url": "https://finnhub.io/api/news?id=5d7dd98b5be004adde7a82a99e006a41c296eca791b4e2ea2c12ed9c01e47896",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.1246
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -7601,7 +8447,29 @@
         40.27000045776367
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "4 Kaufen / 8 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "4 Kaufen / 8 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "4 Kaufen / 8 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "MAIN": {
@@ -7645,12 +8513,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:34.684769",
+    "last_updated": "2026-08-23T08:33:38.220882",
     "perf_1m": 9.73,
     "perf_3m": 14.25,
     "perf_1y": -10.45,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "5-15% Yields: The Ultimate 6 Monthly Dividend Mix For Early Retirement",
+          "url": "https://finnhub.io/api/news?id=d965fe0cd32bc9b4d8edc781c0c7778c240d0f3fee475d1f20b6f16812a0c332",
+          "published": "2026-08-19",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Dividend Announcements: August 1-7, 2026",
+          "url": "https://finnhub.io/api/news?id=9d892d1c46fc34e76484400133ccfacd3aaf49d29a7d83b06d9eef6c6da6ce1f",
+          "published": "2026-08-16",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Main Street Capital: I'm Waiting For Another Opportunity (Rating Downgrade)",
+          "url": "https://finnhub.io/api/news?id=9162ed57745eef14b1a869ad3bead88cfbc2323686b66c9924156d27a1380f3d",
+          "published": "2026-08-15",
+          "sentiment_score": 0.4215
+        },
+        {
+          "title": "The One Chart Investors Can't Ignore As America's Debt Approaches $50 Trillion",
+          "url": "https://finnhub.io/api/news?id=5e864e566844cba3f7654233e625788dc1f43c8c4f44951bdc678f5d94398fcb",
+          "published": "2026-08-15",
+          "sentiment_score": -0.1002
+        },
+        {
+          "title": "My Near-Perfect $1 Million Retirement Portfolio",
+          "url": "https://finnhub.io/api/news?id=5e3541fccf1078926f97612ed0ac0f516a8515190945e8f6003a3f2f27e07619",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.06426
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -7897,7 +8799,29 @@
         58.290000915527344
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "7 Kaufen / 8 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "7 Kaufen / 8 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "7 Kaufen / 8 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "5401.T": {
@@ -7942,7 +8866,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:04:46.931555",
+    "last_updated": "2026-08-23T08:29:27.046918",
     "perf_1m": 10.08,
     "perf_3m": 19.13,
     "perf_1y": 6.91,
@@ -8239,7 +9163,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:02:09.770376",
+    "last_updated": "2026-08-23T08:40:45.711654",
     "perf_1m": -0.44,
     "perf_3m": -5.97,
     "perf_1y": -22.08,
@@ -8536,7 +9460,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:03.536831",
+    "last_updated": "2026-08-23T08:41:49.550053",
     "perf_1m": 1.06,
     "perf_3m": 4.95,
     "perf_1y": 18.27,
@@ -8833,7 +9757,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:53:19.862658",
+    "last_updated": "2026-08-23T08:29:30.427596",
     "perf_1m": 0.23,
     "perf_3m": 6.06,
     "perf_1y": 20.27,
@@ -9130,7 +10054,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:20.730731",
+    "last_updated": "2026-08-23T08:39:38.400637",
     "perf_1m": 0.33,
     "perf_3m": -4.47,
     "perf_1y": -14.72,
@@ -9427,7 +10351,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:16.721772",
+    "last_updated": "2026-08-23T08:38:31.445612",
     "perf_1m": -4.07,
     "perf_3m": 6.75,
     "perf_1y": -9.34,
@@ -9724,7 +10648,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:29.126532",
+    "last_updated": "2026-08-23T08:41:39.399008",
     "perf_1m": -5.56,
     "perf_3m": -0.63,
     "perf_1y": 8.01,
@@ -10021,7 +10945,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:18.231950",
+    "last_updated": "2026-08-23T08:31:33.542787",
     "perf_1m": -2.05,
     "perf_3m": -15.88,
     "perf_1y": -31.95,
@@ -10318,7 +11242,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:53:24.359417",
+    "last_updated": "2026-08-23T08:44:34.451788",
     "perf_1m": 11.85,
     "perf_3m": 3.46,
     "perf_1y": -8.9,
@@ -10615,7 +11539,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:37.237688",
+    "last_updated": "2026-08-23T08:35:41.048774",
     "perf_1m": 0.56,
     "perf_3m": 3.64,
     "perf_1y": -0.71,
@@ -10912,7 +11836,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:57:22.167386",
+    "last_updated": "2026-08-23T08:33:41.295212",
     "perf_1m": 6.01,
     "perf_3m": -0.88,
     "perf_1y": -17.66,
@@ -11209,7 +12133,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:01:21.733983",
+    "last_updated": "2026-08-23T08:40:38.903038",
     "perf_1m": -1.83,
     "perf_3m": -3.31,
     "perf_1y": -9.83,
@@ -11506,7 +12430,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:51:27.373388",
+    "last_updated": "2026-08-23T08:43:50.550611",
     "perf_1m": 2.02,
     "perf_3m": -11.2,
     "perf_1y": -18.0,
@@ -11803,7 +12727,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:00:43.172166",
+    "last_updated": "2026-08-23T08:39:40.584843",
     "perf_1m": 6.66,
     "perf_3m": 10.46,
     "perf_1y": 14.28,
@@ -12100,7 +13024,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:04:27.760496",
+    "last_updated": "2026-08-23T08:33:35.404849",
     "perf_1m": -7.25,
     "perf_3m": -18.05,
     "perf_1y": -8.38,
@@ -12397,7 +13321,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:34.741418",
+    "last_updated": "2026-08-23T08:41:46.208745",
     "perf_1m": -0.11,
     "perf_3m": -8.76,
     "perf_1y": -2.34,
@@ -12694,7 +13618,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:02:22.237297",
+    "last_updated": "2026-08-23T08:31:37.036446",
     "perf_1m": -2.7,
     "perf_3m": 4.54,
     "perf_1y": 13.6,
@@ -12991,7 +13915,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:56:21.728777",
+    "last_updated": "2026-08-23T08:37:47.550180",
     "perf_1m": 5.05,
     "perf_3m": 21.16,
     "perf_1y": 46.31,
@@ -13288,7 +14212,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:01:45.439690",
+    "last_updated": "2026-08-23T08:42:39.904418",
     "perf_1m": 1.75,
     "perf_3m": -13.89,
     "perf_1y": -25.97,
@@ -13585,7 +14509,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:51:32.400976",
+    "last_updated": "2026-08-23T08:38:42.445412",
     "perf_1m": -1.62,
     "perf_3m": 0.17,
     "perf_1y": -12.3,
@@ -13882,7 +14806,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:00:37.739498",
+    "last_updated": "2026-08-23T08:32:34.010036",
     "perf_1m": 11.96,
     "perf_3m": 22.12,
     "perf_1y": 127.3,
@@ -14179,7 +15103,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:20.364467",
+    "last_updated": "2026-08-23T08:41:32.952962",
     "perf_1m": 7.14,
     "perf_3m": -2.68,
     "perf_1y": 17.17,
@@ -14476,7 +15400,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:53:05.268634",
+    "last_updated": "2026-08-23T08:34:41.783356",
     "perf_1m": 5.53,
     "perf_3m": 14.91,
     "perf_1y": 11.55,
@@ -14773,7 +15697,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:56:27.631870",
+    "last_updated": "2026-08-23T08:38:37.907456",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14824,7 +15748,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:42.683393",
+    "last_updated": "2026-08-23T08:32:37.473052",
     "perf_1m": -5.49,
     "perf_3m": -4.58,
     "perf_1y": -10.19,
@@ -15121,7 +16045,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:03:10.278650",
+    "last_updated": "2026-08-23T08:35:36.401832",
     "perf_1m": -1.38,
     "perf_3m": -6.83,
     "perf_1y": -29.91,
@@ -15418,7 +16342,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:19.498124",
+    "last_updated": "2026-08-23T08:34:35.909432",
     "perf_1m": 2.85,
     "perf_3m": -17.1,
     "perf_1y": -26.74,
@@ -15715,7 +16639,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:57:36.250181",
+    "last_updated": "2026-08-23T08:42:44.438381",
     "perf_1m": -2.06,
     "perf_3m": 6.74,
     "perf_1y": -4.04,
@@ -16001,7 +16925,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:02:28.463681",
+    "last_updated": "2026-08-23T08:33:31.778909",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16044,12 +16968,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:37.396843",
+    "last_updated": "2026-08-23T08:40:44.583848",
     "perf_1m": 3.77,
     "perf_3m": 5.9,
     "perf_1y": 21.02,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "9% Yields With Well-Covered And Growing Dividends For Early Retirement",
+          "url": "https://finnhub.io/api/news?id=25fe4abfefda4547cee887858ec4a052d829cd6b5838f261e27ec2f1bd304a92",
+          "published": "2026-08-22",
+          "sentiment_score": 0.1779
+        },
+        {
+          "title": "Energy Transfer: A 6.4% Yield Backed By The AI Power Boom",
+          "url": "https://finnhub.io/api/news?id=44f32aba11525f51ad20a738fd03e6e7bb9e0c3f70aadebfd2026dcb879ef577",
+          "published": "2026-08-21",
+          "sentiment_score": 0.296
+        },
+        {
+          "title": "Perfect Stocks Portfolio: August 2026 Edition",
+          "url": "https://finnhub.io/api/news?id=278217fb6d18fb789fc9d841f66676bab178e446b845e44eab81f0ae2256fd94",
+          "published": "2026-08-20",
+          "sentiment_score": 0.5719
+        },
+        {
+          "title": "Energy Transfer: Strong Buy With A Path To 7% Yield On Cost",
+          "url": "https://finnhub.io/api/news?id=fb31b11c6ecbc82afc6ad3a49b138d84177d2575a2c0d62ee9b0dfb1d0c281de",
+          "published": "2026-08-20",
+          "sentiment_score": 0.6597
+        },
+        {
+          "title": "5-15% Yields: The Ultimate 6 Monthly Dividend Mix For Early Retirement",
+          "url": "https://finnhub.io/api/news?id=d965fe0cd32bc9b4d8edc781c0c7778c240d0f3fee475d1f20b6f16812a0c332",
+          "published": "2026-08-19",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.34109999999999996
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -16296,7 +17254,29 @@
         21.190000534057617
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "26 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "26 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "26 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "SWED-A.ST": {
@@ -16333,7 +17313,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:58:28.621632",
+    "last_updated": "2026-08-23T08:38:48.045743",
     "perf_1m": 1.97,
     "perf_3m": 7.29,
     "perf_1y": 35.71,
@@ -16619,7 +17599,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:01:44.745668",
+    "last_updated": "2026-08-23T08:43:49.068039",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16660,7 +17640,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-23T07:55:42.442564",
+    "last_updated": "2026-08-23T08:37:33.069549",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16703,12 +17683,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:11.634286",
+    "last_updated": "2026-08-23T08:33:44.317148",
     "perf_1m": 11.79,
     "perf_3m": -2.79,
     "perf_1y": -6.98,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "This Best Buy Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
+          "url": "https://finnhub.io/api/news?id=794c72ced61af588364a9f28fc0ba514105d0c7b8ea5f9ee6efd36d08dff2295",
+          "published": "2026-08-11",
+          "sentiment_score": 0.7184
+        },
+        {
+          "title": "B of A Securities Upgrades BCE to Buy, Raises Price Target to $27",
+          "url": "https://finnhub.io/api/news?id=b72c5434342fbb7ca1fe3f67f7d6c761789009e7cc4af1596dd426f197a7fae4",
+          "published": "2026-08-11",
+          "sentiment_score": 0.296
+        },
+        {
+          "title": "BCE Inc. 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://finnhub.io/api/news?id=d2334ee74afbe505c7da60b96d798a569f85c0a0e7eb97878342089603948f59",
+          "published": "2026-08-08",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "BCE Inc. (BCE:CA) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=f14f249e00d2079e2b0d526b2c9ca5416b3ee995a764b9e457fd611ea0e22fb3",
+          "published": "2026-08-06",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "BCE Raises FY2026 Adj EPS Guidance from $1.79-$1.91 to $1.80-$1.92 vs $1.90 Est; Raises FY2026 Sales Guidance from $17.725B-$18.426B to $17.851B-$18.558B vs $18.210B Est",
+          "url": "https://finnhub.io/api/news?id=55c32c839b8627b397776be36a7f275d83e789b4cd65dc8434f943d37af8f09e",
+          "published": "2026-08-06",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.20288
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -16955,7 +17969,29 @@
         23.709999084472656
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 10 Halten / 2 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 9 Halten / 3 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 9 Halten / 3 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "HSBA.L": {
@@ -16992,7 +18028,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:31.411770",
+    "last_updated": "2026-08-23T08:36:47.046597",
     "perf_1m": -0.56,
     "perf_3m": 9.55,
     "perf_1y": 56.97,
@@ -17281,7 +18317,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:57:28.124636",
+    "last_updated": "2026-08-23T08:29:35.915395",
     "perf_1m": -7.39,
     "perf_3m": -9.28,
     "perf_1y": 9.87,
@@ -17567,14 +18603,48 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0,
       "sentiment_warning": false,
-      "analyst_downgrade_warning": false
+      "analyst_downgrade_warning": true
     },
-    "last_updated": "2026-08-23T08:01:40.440978",
+    "last_updated": "2026-08-23T08:42:47.604961",
     "perf_1m": 7.35,
     "perf_3m": 26.48,
     "perf_1y": 90.75,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "UBS Maintains Neutral on Ecopetrol, Raises Price Target to $16",
+          "url": "https://finnhub.io/api/news?id=a64b260ac7bf118a43471711a2c854fff83c7ac31b3d6832ce845d65c82863c1",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Ecopetrol S.A. 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://finnhub.io/api/news?id=88553558bdec7279aedcfc8d632fd103b2b382e2d5194af67a83aefaf142fb21",
+          "published": "2026-08-06",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Ecopetrol Completes Tender Offer Auction For 25% Of Brava Energia At R$23.00 Per Share; On Track To Acquire ~51% Controlling Stake",
+          "url": "https://finnhub.io/api/news?id=dd7906da4c25f89763c2ed0d8ff10356ac1974594df6b8076a4828d351553233",
+          "published": "2026-08-05",
+          "sentiment_score": 0.296
+        },
+        {
+          "title": "Ecopetrol S.A. - Depositary Receipt (EC) Price Target Increased by 10.21% to 15.70",
+          "url": "https://finnhub.io/api/news?id=a74fe99e7e8c325ad4d4d82d065fb775886bb3339140a5e3688f1d8235da4591",
+          "published": "2026-08-05",
+          "sentiment_score": 0.2732
+        },
+        {
+          "title": "Ecopetrol S.A. (EC) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=d98fa22f68a2e069e7b03f356d3644241a4c7a612944aa9284778e8c34f10193",
+          "published": "2026-08-04",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.11383999999999998
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -17821,7 +18891,29 @@
         17.530000686645508
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "downgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "1 Kaufen / 6 Halten / 4 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "downgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "1 Kaufen / 6 Halten / 4 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "downgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "0 Kaufen / 7 Halten / 4 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "JST.DE": {
@@ -17858,7 +18950,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:03:22.731891",
+    "last_updated": "2026-08-23T08:43:42.044017",
     "perf_1m": 9.16,
     "perf_3m": 7.99,
     "perf_1y": 14.93,
@@ -18147,7 +19239,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:01:25.134941",
+    "last_updated": "2026-08-23T08:34:46.048609",
     "perf_1m": 12.27,
     "perf_3m": 11.58,
     "perf_1y": 37.76,
@@ -18433,7 +19525,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:29.189081",
+    "last_updated": "2026-08-23T08:44:35.534753",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -18475,7 +19567,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:54:05.796996",
+    "last_updated": "2026-08-23T08:30:27.508857",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -18519,7 +19611,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:57:07.275653",
+    "last_updated": "2026-08-23T08:44:51.053102",
     "perf_1m": -0.66,
     "perf_3m": -0.35,
     "perf_1y": 18.7,
@@ -18805,7 +19897,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:56:25.364934",
+    "last_updated": "2026-08-23T08:33:32.971045",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -18849,7 +19941,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:01:09.397387",
+    "last_updated": "2026-08-23T08:36:43.315319",
     "perf_1m": 1.92,
     "perf_3m": 3.81,
     "perf_1y": -17.76,
@@ -19138,7 +20230,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:03:46.440003",
+    "last_updated": "2026-08-23T08:40:43.442475",
     "perf_1m": 5.21,
     "perf_3m": 16.33,
     "perf_1y": -5.88,
@@ -19427,7 +20519,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:56:19.243069",
+    "last_updated": "2026-08-23T08:31:42.067910",
     "perf_1m": -2.04,
     "perf_3m": 9.9,
     "perf_1y": 29.19,
@@ -19716,7 +20808,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:24.952062",
+    "last_updated": "2026-08-23T08:36:44.666587",
     "perf_1m": 1.59,
     "perf_3m": 3.1,
     "perf_1y": 29.32,
@@ -20005,7 +21097,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:55:06.280238",
+    "last_updated": "2026-08-23T08:32:42.512410",
     "perf_1m": -5.28,
     "perf_3m": -2.22,
     "perf_1y": 13.26,
@@ -20294,7 +21386,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:04:23.228684",
+    "last_updated": "2026-08-23T08:33:40.048622",
     "perf_1m": 7.99,
     "perf_3m": 6.8,
     "perf_1y": 6.86,
@@ -20580,7 +21672,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:52:06.981624",
+    "last_updated": "2026-08-23T08:30:44.288282",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -20624,7 +21716,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:01:30.125794",
+    "last_updated": "2026-08-23T08:43:33.941674",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -20667,7 +21759,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:23.398126",
+    "last_updated": "2026-08-23T08:42:41.923237",
     "perf_1m": -4.09,
     "perf_3m": 4.64,
     "perf_1y": 10.72,
@@ -20956,7 +22048,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:08.319277",
+    "last_updated": "2026-08-23T08:31:38.667063",
     "perf_1m": -0.37,
     "perf_3m": -1.47,
     "perf_1y": -2.78,
@@ -21245,7 +22337,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:51:21.804554",
+    "last_updated": "2026-08-23T08:41:41.418019",
     "perf_1m": -6.63,
     "perf_3m": -15.5,
     "perf_1y": -24.55,
@@ -21534,7 +22626,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:50:16.313105",
+    "last_updated": "2026-08-23T08:36:30.449743",
     "perf_1m": 4.81,
     "perf_3m": 13.03,
     "perf_1y": 20.0,
@@ -21823,7 +22915,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:00:24.681326",
+    "last_updated": "2026-08-23T08:29:34.548505",
     "perf_1m": -2.38,
     "perf_3m": -16.34,
     "perf_1y": -25.86,
@@ -22110,7 +23202,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:02:38.742645",
+    "last_updated": "2026-08-23T08:41:43.941593",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -22154,7 +23246,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:50:18.510173",
+    "last_updated": "2026-08-23T08:30:36.537398",
     "perf_1m": 0.91,
     "perf_3m": 12.71,
     "perf_1y": 55.29,
@@ -22443,7 +23535,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:21.448339",
+    "last_updated": "2026-08-23T08:37:48.440857",
     "perf_1m": -11.94,
     "perf_3m": -14.87,
     "perf_1y": -6.4,
@@ -22732,7 +23824,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:53:21.817649",
+    "last_updated": "2026-08-23T08:44:35.970715",
     "perf_1m": -12.29,
     "perf_3m": 7.42,
     "perf_1y": 17.58,
@@ -23020,12 +24112,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:56:23.398399",
+    "last_updated": "2026-08-23T08:32:32.545482",
     "perf_1m": -8.55,
     "perf_3m": -3.42,
     "perf_1y": 10.29,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Wall Street's Most Accurate Analysts Give Their Take On 3 Real Estate Stocks Delivering High-Dividend Yields",
+          "url": "https://finnhub.io/api/news?id=8ba0125d8337764d099dd4201580f19ae8fbc7ff48f228add860fd16d1e6cfbd",
+          "published": "2026-08-17",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Inflation and Taxes Are Eating Into Your Savings. What You Can Do About It.",
+          "url": "https://finnhub.io/api/news?id=61df8569036d43072b535da9a645ba3c15275557431fe5687d848787d5492c3b",
+          "published": "2026-08-14",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Winners Of REIT Earnings Season",
+          "url": "https://finnhub.io/api/news?id=da8b772db1da1af1363faab77df6fc20237691c44ca0eb5da866ac206f84a25d",
+          "published": "2026-08-13",
+          "sentiment_score": 0.4767
+        },
+        {
+          "title": "GLPI or OHI: Which Is the Better Value Stock Right Now?",
+          "url": "https://finnhub.io/api/news?id=fb43251bc42b72c36d19eeb70ce0f909176d643191d1f6591a8ff3f2fd16f3af",
+          "published": "2026-08-10",
+          "sentiment_score": 0.6486
+        },
+        {
+          "title": "Omega Healthcare Investors (OHI) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=56e31f317187db39e86b5a5df746c8497e7e0a2372b92b53ecf3a20837f8d784",
+          "published": "2026-08-08",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.22505999999999998
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -23272,7 +24398,29 @@
         46.61000061035156
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 11 Halten / 2 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 11 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 11 Halten / 1 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "BIJ.DE": {
@@ -23309,7 +24457,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:56:41.172271",
+    "last_updated": "2026-08-23T08:37:43.818528",
     "perf_1m": -1.06,
     "perf_3m": -12.92,
     "perf_1y": 18.02,
@@ -23597,12 +24745,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:09.811601",
+    "last_updated": "2026-08-23T08:34:51.481120",
     "perf_1m": 0.79,
     "perf_3m": -4.39,
     "perf_1y": 55.31,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Petrobras: Profits And Dividends Soar 100%+",
+          "url": "https://finnhub.io/api/news?id=c118d0efe4d8e88439fb4acb799784a50de99163b02dc3c5dc520e22fc956880",
+          "published": "2026-08-10",
+          "sentiment_score": 0.4404
+        },
+        {
+          "title": "Petróleo Brasileiro S.A. - Petrobras (PBR) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=7dc9eac899bba2335a9bd6187231b2377f13241ac889b4121d285f2d9d1232a7",
+          "published": "2026-08-07",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Petróleo Brasileiro S.A. - Petrobras 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://finnhub.io/api/news?id=c5ffcbd4f4333c8f037f640602bb4ab3df36f0569273fafdb624821e5d055afd",
+          "published": "2026-08-07",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Petroleo Brasileiro S.A.- Petrobras American Depositary Shares Q2 EPS $1.62 Up From $0.74 YoY, Sales $33.607B Up From $21.037B YoY",
+          "url": "https://finnhub.io/api/news?id=d50dcc86a57ae9483ecf7a95faa73c6befaaa3be44eb024ba69e7a3debbdfca5",
+          "published": "2026-08-07",
+          "sentiment_score": 0.296
+        },
+        {
+          "title": "Petrobras Brasileiro Q2 EPS $1.62 Beats $1.36 Estimate, Sales $33.607B Miss $33.690B Estimate",
+          "url": "https://finnhub.io/api/news?id=cbe5144ceabdf1d45871dcaf190966f076b7d2b316ac1f9741c7902430faa9bf",
+          "published": "2026-08-07",
+          "sentiment_score": -0.1531
+        }
+      ],
+      "avg_sentiment": 0.11665999999999999
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -23849,7 +25031,29 @@
         19.149999618530273
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "16 Kaufen / 2 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "16 Kaufen / 2 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "16 Kaufen / 2 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "BMW.DE": {
@@ -23886,7 +25090,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:02:45.929437",
+    "last_updated": "2026-08-23T08:30:33.041350",
     "perf_1m": 3.44,
     "perf_3m": -21.76,
     "perf_1y": -35.59,
@@ -24173,7 +25377,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:58:23.620314",
+    "last_updated": "2026-08-23T08:32:31.919966",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -24216,12 +25420,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:58:44.967245",
+    "last_updated": "2026-08-23T08:37:40.555039",
     "perf_1m": 1.26,
     "perf_3m": -17.96,
     "perf_1y": -27.25,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Crown Castle (CCI) Faces A Tower Only Test On A Fair Value Gap",
+          "url": "https://finnhub.io/api/news?id=2cf39eb635549c6fb482243c20230e3bb13a694830d2304bfc35a626babf3ff7",
+          "published": "2026-08-21",
+          "sentiment_score": 0.5719
+        },
+        {
+          "title": "Barclays Upgrades Crown Castle (CCI)",
+          "url": "https://finnhub.io/api/news?id=0decc17bc6ea05462735b9c76df0de59a0b8dcf9daf7c27084a2ebd69e1a0c52",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Crown Castle Draws an Upgrade With a Lower Price Target",
+          "url": "https://finnhub.io/api/news?id=a90682b20b2b568815a094b973484f2392aa4158ed1b30ea94fc7ff3b0af913f",
+          "published": "2026-08-20",
+          "sentiment_score": -0.296
+        },
+        {
+          "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Alphabet, Analog Devices, Crown Castle, ebay, EPR Properties, Etsy, Merck & Co., Shopify, TJX Companies, and More",
+          "url": "https://finnhub.io/api/news?id=a8bd927ed75c88b5492ec4b6332f4c7ae2352eb289871e0eafb613dfc6f6ee2e",
+          "published": "2026-08-20",
+          "sentiment_score": 0.2023
+        },
+        {
+          "title": "Barclays Upgrades Crown Castle to Overweight, Lowers Price Target to $84",
+          "url": "https://finnhub.io/api/news?id=e4e55f4c350a0c1cdf4034effd2999154f988311fdf017b78628873e66db6041",
+          "published": "2026-08-20",
+          "sentiment_score": -0.4588
+        }
+      ],
+      "avg_sentiment": 0.0038799999999999946
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -24468,7 +25706,29 @@
         75.51000213623047
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "15 Kaufen / 10 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "14 Kaufen / 10 Halten / 1 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "14 Kaufen / 10 Halten / 1 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "004990.KS": {
@@ -24505,7 +25765,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:57:19.727795",
+    "last_updated": "2026-08-23T08:43:44.942779",
     "perf_1m": 2.24,
     "perf_3m": -12.81,
     "perf_1y": -16.64,
@@ -24794,7 +26054,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:55:40.671022",
+    "last_updated": "2026-08-23T08:36:41.934688",
     "perf_1m": -0.84,
     "perf_3m": -1.41,
     "perf_1y": -9.17,
@@ -25083,7 +26343,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:54:26.946976",
+    "last_updated": "2026-08-23T08:44:40.910874",
     "perf_1m": -1.63,
     "perf_3m": 4.33,
     "perf_1y": 16.99,
@@ -25372,7 +26632,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:01:47.197258",
+    "last_updated": "2026-08-23T08:36:48.012809",
     "perf_1m": -8.44,
     "perf_3m": -2.26,
     "perf_1y": 8.9,
@@ -25661,7 +26921,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:58:07.776737",
+    "last_updated": "2026-08-23T08:34:29.526337",
     "perf_1m": 3.48,
     "perf_3m": -3.97,
     "perf_1y": 4.88,
@@ -25950,7 +27210,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:50:26.872752",
+    "last_updated": "2026-08-23T08:36:36.905085",
     "perf_1m": -4.55,
     "perf_3m": -11.65,
     "perf_1y": 89.2,
@@ -26238,12 +27498,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:22.535061",
+    "last_updated": "2026-08-23T08:30:43.092295",
     "perf_1m": 9.41,
     "perf_3m": -3.64,
     "perf_1y": 14.91,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Thursday's session: top gainers and losers in the S&P500 index",
+          "url": "https://finnhub.io/api/news?id=e35621ca09fce0d3e1edebbfb4c083ea6617d2a571f2e19e5d99d4ad8722292d",
+          "published": "2026-08-20",
+          "sentiment_score": -0.3818
+        },
+        {
+          "title": "Ride The Sector Cycle To Double-Digit Returns: Eastman",
+          "url": "https://finnhub.io/api/news?id=8a2fdd717e46a839c754ef16f9ddf3ddc03083734dea6217a84f4cabbea99808",
+          "published": "2026-08-20",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?",
+          "url": "https://finnhub.io/api/news?id=b043b98b8ae86707ddb51b9512d52f849cff1d78b9f4486d14642e257dc1d6dd",
+          "published": "2026-08-18",
+          "sentiment_score": 0.694
+        },
+        {
+          "title": "LyondellBasell Industries N.V. 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://finnhub.io/api/news?id=5be22882c18317931bbbf39220d55f4c877b8b6210202501c0df378479f81d19",
+          "published": "2026-08-18",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Are Wall Street Analysts Predicting LyondellBasell Industries Stock Will Climb or Sink?",
+          "url": "https://finnhub.io/api/news?id=47d162fa86ed59f91b3200d6edbe54c9be3a9a00b758345cab11ad1b4a71a843",
+          "published": "2026-08-17",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.062439999999999996
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -26490,7 +27784,29 @@
         67.52999877929688
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 10 Halten / 4 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 10 Halten / 4 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 10 Halten / 4 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "PWO.DE": {
@@ -26527,7 +27843,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:50:20.559259",
+    "last_updated": "2026-08-23T08:42:46.406928",
     "perf_1m": 0.0,
     "perf_3m": -10.24,
     "perf_1y": -21.38,
@@ -26816,7 +28132,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:52:04.880219",
+    "last_updated": "2026-08-23T08:42:33.446085",
     "perf_1m": -0.74,
     "perf_3m": 9.0,
     "perf_1y": 9.15,
@@ -27105,7 +28421,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:53:34.248345",
+    "last_updated": "2026-08-23T08:37:37.400564",
     "perf_1m": 1.94,
     "perf_3m": 1.29,
     "perf_1y": -3.42,
@@ -27391,7 +28707,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:01:13.094785",
+    "last_updated": "2026-08-23T08:33:32.344509",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -27435,7 +28751,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:58:42.174503",
+    "last_updated": "2026-08-23T08:44:45.809933",
     "perf_1m": 7.77,
     "perf_3m": 18.59,
     "perf_1y": 19.98,
@@ -27724,7 +29040,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:51:04.415566",
+    "last_updated": "2026-08-23T08:30:41.564796",
     "perf_1m": 0.11,
     "perf_3m": -9.28,
     "perf_1y": 29.94,
@@ -28012,12 +29328,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:46.282359",
+    "last_updated": "2026-08-23T08:35:47.087788",
     "perf_1m": 3.81,
     "perf_3m": 7.07,
     "perf_1y": 9.61,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "9.5% Dividend Yield Looks Great Until You Keep Reading From Cherry Hill Mortgage",
+          "url": "https://finnhub.io/api/news?id=4dc77847d922d450483ddcc0d6e62e9a6a26256a2246a33d554016a09bd6c11c",
+          "published": "2026-08-21",
+          "sentiment_score": 0.6249
+        },
+        {
+          "title": "5 High ROE Stocks to Buy as Markets Sway on Intense Volatility",
+          "url": "https://finnhub.io/api/news?id=0c1ee1c79b2506b9012efe5b836c08a4e74630fba599b9759a26e9a6b75b0a86",
+          "published": "2026-08-21",
+          "sentiment_score": 0.0772
+        },
+        {
+          "title": "Why Is Annaly (NLY) Up 5.9% Since Last Earnings Report?",
+          "url": "https://finnhub.io/api/news?id=d54b3402648bc41be5232dbf9ec0dd2d803cd231b36d3e6aa0d86de4c40aec87",
+          "published": "2026-08-20",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "The Fed Held Rates Flat for 231 Days, Your Mortgage Rates Went Up Anyway",
+          "url": "https://finnhub.io/api/news?id=63addc28b0a06519e8ae83b54600b477ba27c8567346cc1c1a76d2f9ea0607f0",
+          "published": "2026-08-19",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Annaly Capital Management, Inc. Announces Redemption of all 17,700,000 Outstanding Shares of 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+          "url": "https://finnhub.io/api/news?id=447bcfd5b92a4169284bd44aed17f0f29461ade75439ac71fff4b27cadb876db",
+          "published": "2026-08-19",
+          "sentiment_score": 0.7351
+        }
+      ],
+      "avg_sentiment": 0.28744000000000003
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -28264,7 +29614,29 @@
         23.15999984741211
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 5 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 5 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 5 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "GLEN.L": {
@@ -28301,7 +29673,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:00:08.851435",
+    "last_updated": "2026-08-23T08:38:44.322387",
     "perf_1m": 10.99,
     "perf_3m": 1.93,
     "perf_1y": 104.14,
@@ -28590,7 +29962,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:55:35.236981",
+    "last_updated": "2026-08-23T08:37:30.946317",
     "perf_1m": 0.72,
     "perf_3m": -3.44,
     "perf_1y": -22.86,
@@ -28879,7 +30251,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:04:31.637907",
+    "last_updated": "2026-08-23T08:36:39.411888",
     "perf_1m": 6.81,
     "perf_3m": -4.11,
     "perf_1y": 30.19,
@@ -29168,7 +30540,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:19.645313",
+    "last_updated": "2026-08-23T08:37:39.575448",
     "perf_1m": 0.92,
     "perf_3m": -6.96,
     "perf_1y": -20.41,
@@ -29454,7 +30826,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:02:29.332839",
+    "last_updated": "2026-08-23T08:41:40.998394",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -29498,7 +30870,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:55:27.441155",
+    "last_updated": "2026-08-23T08:33:28.941855",
     "perf_1m": -5.18,
     "perf_3m": 3.1,
     "perf_1y": -1.71,
@@ -29787,7 +31159,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:04:39.748507",
+    "last_updated": "2026-08-23T08:31:28.019447",
     "perf_1m": 4.92,
     "perf_3m": 14.17,
     "perf_1y": 6.63,
@@ -30075,12 +31447,46 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:04:50.638827",
+    "last_updated": "2026-08-23T08:44:44.869116",
     "perf_1m": -2.08,
     "perf_3m": -20.29,
     "perf_1y": -40.36,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Barclays Maintains Equal-Weight on TELUS, Lowers Price Target to $11",
+          "url": "https://finnhub.io/api/news?id=aa29769eb8087c6e73689c68b610b44640b0addfb0eb25b647014cc07ef989d4",
+          "published": "2026-08-04",
+          "sentiment_score": -0.128
+        },
+        {
+          "title": "TELUS Corporation (T:CA) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=f3ec38220f5a473f162fb785f2008eae46e221c5a7754b27611ce140877cf5ab",
+          "published": "2026-08-01",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "TELUS Corporation 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://finnhub.io/api/news?id=a1ad49aa28439198c5c86584485fb2994e82a26ed4e375c27d69f9b88a63d56d",
+          "published": "2026-07-31",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Telus Stock Slides After Disappointing Q2 Results",
+          "url": "https://finnhub.io/api/news?id=29c5de017c6aeb43092c9e40b23947a1fa27befa3cf9a7dbafd282d16e6776f9",
+          "published": "2026-07-31",
+          "sentiment_score": -0.4939
+        },
+        {
+          "title": "TELUS Q2 Adj. EPS $0.12 Misses $0.17 Estimate, Sales $3.561B Miss $3.760B Estimate",
+          "url": "https://finnhub.io/api/news?id=0b20c9dc8be02ecffc4794e5c1336921ab094e4d24e13cebce10314043eaebb5",
+          "published": "2026-07-31",
+          "sentiment_score": -0.3612
+        }
+      ],
+      "avg_sentiment": -0.19662000000000002
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -30327,7 +31733,29 @@
         9.899999618530273
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 10 Halten / 3 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 10 Halten / 2 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "12 Kaufen / 10 Halten / 2 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   },
   "BNS": {
@@ -30361,7 +31789,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:49:18.746981",
+    "last_updated": "2026-08-23T08:37:42.500278",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -30405,7 +31833,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:03:39.241648",
+    "last_updated": "2026-08-23T08:30:38.524969",
     "perf_1m": -2.32,
     "perf_3m": 8.14,
     "perf_1y": 11.22,
@@ -30694,7 +32122,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:26.393142",
+    "last_updated": "2026-08-23T08:44:42.384660",
     "perf_1m": -5.06,
     "perf_3m": -18.62,
     "perf_1y": -17.36,
@@ -30983,7 +32411,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:59:24.120346",
+    "last_updated": "2026-08-23T08:35:38.913882",
     "perf_1m": -3.43,
     "perf_3m": -7.66,
     "perf_1y": 26.9,
@@ -31272,7 +32700,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T08:00:29.710114",
+    "last_updated": "2026-08-23T08:39:44.819539",
     "perf_1m": 1.58,
     "perf_3m": 31.1,
     "perf_1y": 28.54,
@@ -31558,7 +32986,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T07:59:25.912187",
+    "last_updated": "2026-08-23T08:34:49.120562",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -31600,7 +33028,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-23T08:03:31.125686",
+    "last_updated": "2026-08-23T08:34:38.409607",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -31643,12 +33071,40 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-23T07:49:09.544571",
+    "last_updated": "2026-08-23T08:29:36.995876",
     "perf_1m": 3.89,
     "perf_3m": 11.85,
     "perf_1y": 45.42,
     "isin": null,
-    "news": null,
+    "news": {
+      "articles": [
+        {
+          "title": "Banco de Chile 2026 Q2 - Results - Earnings Call Presentation",
+          "url": "https://finnhub.io/api/news?id=a8c265e1da199b51609246dc0884a83aeb32be3cb48576612d03199453e806b8",
+          "published": "2026-08-10",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "JP Morgan Maintains Neutral on Banco De Chile, Raises Price Target to $45",
+          "url": "https://finnhub.io/api/news?id=a78d813aa523ce782f5162547c34c4f21d80b8e97ac81b564ceb03daa5d6b40a",
+          "published": "2026-08-07",
+          "sentiment_score": 0.368
+        },
+        {
+          "title": "Banco de Chile (BCH) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=1eea932f87dd7cffdd139b684f0fa78bfe672151c0aa5070cee08d969d148338",
+          "published": "2026-08-07",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Banco De Chile Q2 EPS $0.84 Beats $0.65 Estimate, Sales $1.001B Beat $912.560M Estimate",
+          "url": "https://finnhub.io/api/news?id=5de114d3e82d2c4bdc1ecdac2889b07915fd89fb2d6eaae43b608e03f689c91e",
+          "published": "2026-07-31",
+          "sentiment_score": 0.0
+        }
+      ],
+      "avg_sentiment": 0.092
+    },
     "chart_series": [
       [
         "2025-08-22",
@@ -31895,7 +33351,29 @@
         42.20000076293945
       ]
     ],
-    "grades": [],
+    "grades": [
+      {
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 7 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "11 Kaufen / 7 Halten / 0 Verkaufen",
+        "previous_grade": null
+      },
+      {
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "10 Kaufen / 8 Halten / 0 Verkaufen",
+        "previous_grade": null
+      }
+    ],
     "next_payout": null
   }
 }
