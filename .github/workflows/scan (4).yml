@@ -1,0 +1,57 @@
+name: Dividendenatlas taeglicher Scan
+
+# Laeuft taeglich automatisch (Cron in UTC!) und kann jederzeit manuell
+# ueber den "Actions"-Tab in GitHub angestossen werden (workflow_dispatch).
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 06:00 UTC = 07:00 oder 08:00 deutscher Zeit, je nach Sommerzeit
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # noetig, damit der Bot das Ergebnis zurueck ins Repo committen darf
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # volle Historie statt nur letztem Commit - noetig,
+                            # damit "git pull --rebase" weiter unten sauber
+                            # funktioniert und nicht an einem flachen Klon scheitert
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Abhaengigkeiten installieren
+        run: pip install vaderSentiment
+
+      - name: Scan ausfuehren
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+          MARKETSTACK_API_KEY: ${{ secrets.MARKETSTACK_API_KEY }}
+          LEEWAY_API_KEY: ${{ secrets.LEEWAY_API_KEY }}
+          BRAPI_API_KEY: ${{ secrets.BRAPI_API_KEY }}
+        run: python3 scan_dividends.py
+
+      - name: Ergebnis zurueck ins Repo committen
+        run: |
+          git config user.name "Dividendenatlas Bot"
+          git config user.email "actions@github.com"
+          git add history.json dividendenatlas.html recherche.html dividendenatlas.log
+          git diff --staged --quiet || git commit -m "Automatischer Scan $(date -u +%Y-%m-%d\ %H:%M\ UTC)"
+          # Vor dem Push erst pruefen, ob es in der Zwischenzeit (z.B. durch
+          # einen ueberlappenden manuellen Lauf) bereits einen neueren Commit
+          # auf main gibt - sonst wird der Push abgelehnt ("rejected - fetch
+          # first"). --autostash legt unseren frischen Commit kurz beiseite,
+          # setzt ihn nach dem Pull wieder oben drauf, und erst DANN wird
+          # gepusht. Bei den hier veraenderten Dateien (generierte HTML/JSON/
+          # Log) gibt es praktisch nie einen echten Inhaltskonflikt.
+          git pull --rebase --autostash origin main
+          git push
