@@ -1,15 +1,15 @@
 {
   "XOM": {
     "ticker": "XOM",
-    "name": "Exxon Mobil Corporation",
+    "name": "Exxonmobil Holdings Corp",
     "price": 165.11,
-    "market_cap": 684291790600,
-    "pe_ratio": 21.24967824967825,
-    "dividend_yield_pct": 2.495306,
-    "payout_ratio_pct": 52.63302500228959,
-    "debt_to_equity": 0.16334335723648702,
-    "current_ratio": 1.1346729708431835,
-    "data_source": "fmp",
+    "market_cap": 650632.36,
+    "pe_ratio": 20.0535,
+    "dividend_yield_pct": 2.6246,
+    "payout_ratio_pct": 52.63,
+    "debt_to_equity": 0.1633,
+    "current_ratio": 1.1347,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -46,7 +46,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:18:32.209169",
+    "last_updated": "2026-08-24T06:48:50.996783",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -103,7 +103,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:09.995933",
+    "last_updated": "2026-08-24T06:54:17.091433",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -115,15 +115,15 @@
   },
   "CVX": {
     "ticker": "CVX",
-    "name": "Chevron Corporation",
-    "price": 205.24,
-    "market_cap": 408755984000,
-    "pe_ratio": 19.602674307545367,
-    "dividend_yield_pct": 3.4350029999999996,
-    "payout_ratio_pct": 67.32553057160897,
-    "debt_to_equity": 0.19525181295850602,
-    "current_ratio": 1.3582040277319247,
-    "data_source": "fmp",
+    "name": "Chevron Corp",
+    "price": 205.27,
+    "market_cap": 405566.57090337214,
+    "pe_ratio": 18.9191,
+    "dividend_yield_pct": 3.5586,
+    "payout_ratio_pct": 67.33,
+    "debt_to_equity": 0.1953,
+    "current_ratio": 1.2522,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -160,7 +160,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:18.649429",
+    "last_updated": "2026-08-24T06:52:14.310700",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -217,7 +217,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:28.963094",
+    "last_updated": "2026-08-24T06:53:04.714290",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -231,13 +231,13 @@
     "ticker": "JNJ",
     "name": "Johnson & Johnson",
     "price": 270.24,
-    "market_cap": 651250947940,
-    "pe_ratio": 31.241618497109826,
-    "dividend_yield_pct": 1.9390170000000002,
-    "payout_ratio_pct": 59.99429576460522,
-    "debt_to_equity": 0.5770910075202128,
-    "current_ratio": 1.0888787685581565,
-    "data_source": "fmp",
+    "market_cap": 651250.9418563116,
+    "pe_ratio": 29.9333,
+    "dividend_yield_pct": 2.0043,
+    "payout_ratio_pct": 59.99,
+    "debt_to_equity": 0.5771,
+    "current_ratio": 1.0889,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Gesundheit",
     "price_history": [
@@ -274,7 +274,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:15.223418",
+    "last_updated": "2026-08-24T06:46:42.863802",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -331,7 +331,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:35.745644",
+    "last_updated": "2026-08-24T06:48:03.300563",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -388,7 +388,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:18:27.024253",
+    "last_updated": "2026-08-24T06:54:02.308253",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -445,7 +445,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:32.246290",
+    "last_updated": "2026-08-24T06:39:37.362519",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -457,15 +457,15 @@
   },
   "WMT": {
     "ticker": "WMT",
-    "name": "Walmart Inc.",
+    "name": "Walmart Inc",
     "price": 103.7,
-    "market_cap": 825252896000,
-    "pe_ratio": 37.43682310469315,
-    "dividend_yield_pct": 0.9426230000000001,
-    "payout_ratio_pct": 34.86591773872078,
-    "debt_to_equity": 0.7507787210651683,
-    "current_ratio": 0.7671279079823575,
-    "data_source": "fmp",
+    "market_cap": 884142.59,
+    "pe_ratio": 40.6059,
+    "dividend_yield_pct": 0.8231,
+    "payout_ratio_pct": 33.42,
+    "debt_to_equity": 0.6162,
+    "current_ratio": 0.7714,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Einzelhandel",
     "price_history": [
@@ -502,7 +502,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:18.372907",
+    "last_updated": "2026-08-24T06:42:40.905371",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -559,7 +559,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:27.906186",
+    "last_updated": "2026-08-24T06:46:50.844939",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -616,7 +616,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:22:06.537162",
+    "last_updated": "2026-08-24T06:44:54.000847",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -673,7 +673,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:28:17.000367",
+    "last_updated": "2026-08-24T06:54:16.279915",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -730,7 +730,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:17.537019",
+    "last_updated": "2026-08-24T06:53:55.915492",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -787,7 +787,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:18:31.300771",
+    "last_updated": "2026-08-24T06:49:06.107678",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -844,7 +844,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:28:32.447008",
+    "last_updated": "2026-08-24T06:42:42.167440",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -901,7 +901,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:28:36.955666",
+    "last_updated": "2026-08-24T06:44:56.045806",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -958,7 +958,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:33.128450",
+    "last_updated": "2026-08-24T06:42:48.135281",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1015,7 +1015,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:31.797780",
+    "last_updated": "2026-08-24T06:50:00.354363",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1072,7 +1072,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:30.808347",
+    "last_updated": "2026-08-24T06:54:04.442023",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1129,7 +1129,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:19:13.442486",
+    "last_updated": "2026-08-24T06:49:53.158039",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1186,7 +1186,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:16.530101",
+    "last_updated": "2026-08-24T06:40:49.421449",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1243,7 +1243,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:24.398695",
+    "last_updated": "2026-08-24T06:52:07.641958",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1255,15 +1255,15 @@
   },
   "PEP": {
     "ticker": "PEP",
-    "name": "PepsiCo, Inc.",
+    "name": "PepsiCo Inc",
     "price": 143.48,
-    "market_cap": 195993680000,
-    "pe_ratio": 18.780104712041883,
-    "dividend_yield_pct": 4.0057849999999995,
-    "payout_ratio_pct": 74.47782546494993,
-    "debt_to_equity": 2.4080912299755632,
-    "current_ratio": 0.9336010938301145,
-    "data_source": "fmp",
+    "market_cap": 195834.6320009107,
+    "pe_ratio": 18.2277,
+    "dividend_yield_pct": 4.0993,
+    "payout_ratio_pct": 74.72,
+    "debt_to_equity": 2.4081,
+    "current_ratio": 0.9336,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Konsumgueter",
     "price_history": [
@@ -1300,7 +1300,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:18:18.821797",
+    "last_updated": "2026-08-24T06:52:12.070168",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1357,7 +1357,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:16.172549",
+    "last_updated": "2026-08-24T06:46:49.982548",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1414,7 +1414,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:21:33.240574",
+    "last_updated": "2026-08-24T06:48:44.677299",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1471,7 +1471,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:25.702863",
+    "last_updated": "2026-08-24T06:41:53.466812",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1528,7 +1528,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:18.106007",
+    "last_updated": "2026-08-24T06:50:07.631014",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1585,7 +1585,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:21.453065",
+    "last_updated": "2026-08-24T06:49:03.610192",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1642,7 +1642,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:22.696571",
+    "last_updated": "2026-08-24T06:55:03.858910",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1699,7 +1699,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:32:11.605933",
+    "last_updated": "2026-08-24T06:42:48.943200",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1756,7 +1756,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:15.702079",
+    "last_updated": "2026-08-24T06:54:15.470075",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1813,7 +1813,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:22:19.690288",
+    "last_updated": "2026-08-24T06:55:04.678242",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1870,7 +1870,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:07.977793",
+    "last_updated": "2026-08-24T06:49:04.415462",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1927,7 +1927,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:11.345970",
+    "last_updated": "2026-08-24T06:49:52.359660",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -1984,7 +1984,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:29.386871",
+    "last_updated": "2026-08-24T06:43:55.686661",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2041,7 +2041,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:30:37.972193",
+    "last_updated": "2026-08-24T06:42:45.408653",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2098,7 +2098,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:08.445761",
+    "last_updated": "2026-08-24T06:49:06.897138",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2155,7 +2155,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:07.419839",
+    "last_updated": "2026-08-24T06:47:02.572281",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2212,7 +2212,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:34.404162",
+    "last_updated": "2026-08-24T06:41:41.245429",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2224,15 +2224,15 @@
   },
   "KO": {
     "ticker": "KO",
-    "name": "The Coca-Cola Company",
+    "name": "Coca-Cola Co",
     "price": 91.1,
-    "market_cap": 391962207887,
-    "pe_ratio": 27.357357357357362,
-    "dividend_yield_pct": 2.283205,
-    "payout_ratio_pct": 77.24224643755238,
-    "debt_to_equity": 1.204508990318119,
-    "current_ratio": 1.3046031746031745,
-    "data_source": "fmp",
+    "market_cap": 391962.1982418729,
+    "pe_ratio": 26.2553,
+    "dividend_yield_pct": 2.942,
+    "payout_ratio_pct": 77.24,
+    "debt_to_equity": 1.2045,
+    "current_ratio": 1.3046,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Konsumgueter",
     "price_history": [
@@ -2269,7 +2269,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:21:31.866590",
+    "last_updated": "2026-08-24T06:49:02.759236",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2326,7 +2326,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:21.760509",
+    "last_updated": "2026-08-24T06:50:06.740821",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2383,7 +2383,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:24.402299",
+    "last_updated": "2026-08-24T06:47:07.730319",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2395,15 +2395,15 @@
   },
   "VZ": {
     "ticker": "VZ",
-    "name": "Verizon Communications Inc.",
+    "name": "Verizon Communications Inc",
     "price": 49.45,
-    "market_cap": 206481442000,
-    "pe_ratio": 12.877604166666668,
-    "dividend_yield_pct": 5.6521740000000005,
-    "payout_ratio_pct": 71.93297056641109,
-    "debt_to_equity": 1.8134911470361816,
-    "current_ratio": 0.6039285656877401,
-    "data_source": "fmp",
+    "market_cap": 191587.05,
+    "pe_ratio": 12.0697,
+    "dividend_yield_pct": 5.9598,
+    "payout_ratio_pct": 71.93,
+    "debt_to_equity": 1.59,
+    "current_ratio": 0.6039,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Telekom",
     "price_history": [
@@ -2442,7 +2442,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:20:28.828071",
+    "last_updated": "2026-08-24T06:45:59.520484",
     "perf_1m": 12.85,
     "perf_3m": 2.44,
     "perf_1y": 11.27,
@@ -2800,7 +2800,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:31:30.612119",
+    "last_updated": "2026-08-24T06:39:49.906670",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2857,7 +2857,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:14.782210",
+    "last_updated": "2026-08-24T06:53:05.587745",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2869,15 +2869,15 @@
   },
   "T": {
     "ticker": "T",
-    "name": "AT&T Inc.",
-    "price": 25.31,
-    "market_cap": 173433990900,
-    "pe_ratio": 8.353135313531352,
-    "dividend_yield_pct": 4.385618,
-    "payout_ratio_pct": 37.30343351633014,
-    "debt_to_equity": 1.4748469812755787,
-    "current_ratio": 0.9710014611666854,
-    "data_source": "fmp",
+    "name": "AT&T Inc",
+    "price": 25.29,
+    "market_cap": 173296.83279135506,
+    "pe_ratio": 7.7478,
+    "dividend_yield_pct": 4.8004,
+    "payout_ratio_pct": 37.19,
+    "debt_to_equity": 1.3034,
+    "current_ratio": 0.971,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Telekom",
     "price_history": [
@@ -2914,7 +2914,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:21:05.643974",
+    "last_updated": "2026-08-24T06:46:51.708262",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -2971,7 +2971,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:30:09.939415",
+    "last_updated": "2026-08-24T06:42:42.969854",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3028,7 +3028,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:19.961239",
+    "last_updated": "2026-08-24T06:52:13.279735",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3085,7 +3085,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:36.520623",
+    "last_updated": "2026-08-24T06:48:43.865084",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3142,7 +3142,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:05.590302",
+    "last_updated": "2026-08-24T06:42:46.212163",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3199,7 +3199,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:17:09.505080",
+    "last_updated": "2026-08-24T06:54:03.181635",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3256,7 +3256,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:05.829240",
+    "last_updated": "2026-08-24T06:40:47.691222",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3313,7 +3313,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:20.126132",
+    "last_updated": "2026-08-24T06:40:43.107801",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3370,7 +3370,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:12.531458",
+    "last_updated": "2026-08-24T06:51:52.493585",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3427,7 +3427,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:22:21.039310",
+    "last_updated": "2026-08-24T06:39:40.250638",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3484,7 +3484,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:19.197724",
+    "last_updated": "2026-08-24T06:39:36.443267",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3541,7 +3541,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:17.602844",
+    "last_updated": "2026-08-24T06:46:00.319477",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3598,7 +3598,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:23.118199",
+    "last_updated": "2026-08-24T06:40:48.514798",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -3657,7 +3657,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:19:20.482370",
+    "last_updated": "2026-08-24T06:54:53.930003",
     "perf_1m": 7.12,
     "perf_3m": -9.79,
     "perf_1y": -27.67,
@@ -4009,7 +4009,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:32:10.941294",
+    "last_updated": "2026-08-24T06:53:55.091559",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4066,7 +4066,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:21:23.833128",
+    "last_updated": "2026-08-24T06:43:48.538147",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4123,7 +4123,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:20:06.945861",
+    "last_updated": "2026-08-24T06:39:48.052380",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4180,7 +4180,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:27:18.002043",
+    "last_updated": "2026-08-24T06:52:11.266488",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -4239,7 +4239,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:17:24.039680",
+    "last_updated": "2026-08-24T06:51:03.410611",
     "perf_1m": 7.04,
     "perf_3m": 6.3,
     "perf_1y": -10.75,
@@ -4599,7 +4599,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:19:37.040717",
+    "last_updated": "2026-08-24T06:45:43.216738",
     "perf_1m": -2.04,
     "perf_3m": -3.7,
     "perf_1y": 19.15,
@@ -4957,7 +4957,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:32:12.297803",
+    "last_updated": "2026-08-24T06:55:03.044990",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -5016,7 +5016,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:26:28.086433",
+    "last_updated": "2026-08-24T06:41:40.356512",
     "perf_1m": 3.12,
     "perf_3m": 6.14,
     "perf_1y": 10.22,
@@ -5376,7 +5376,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:21:25.175466",
+    "last_updated": "2026-08-24T06:40:42.321694",
     "perf_1m": 3.41,
     "perf_3m": 1.4,
     "perf_1y": 4.57,
@@ -5732,7 +5732,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:29:09.306548",
+    "last_updated": "2026-08-24T06:43:54.888835",
     "perf_1m": -3.59,
     "perf_3m": 4.22,
     "perf_1y": 9.43,
@@ -6086,7 +6086,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:37.448213",
+    "last_updated": "2026-08-24T06:46:59.042313",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -6099,7 +6099,7 @@
   "5401.T": {
     "ticker": "5401.T",
     "name": "Nippon Steel",
-    "price": 665.7000122070312,
+    "price": 666.0999755859375,
     "market_cap": null,
     "pe_ratio": null,
     "dividend_yield_pct": 10.89,
@@ -6142,10 +6142,10 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:19:21.743396",
-    "perf_1m": 9.53,
-    "perf_3m": 19.69,
-    "perf_1y": 6.99,
+    "last_updated": "2026-08-24T06:43:52.636582",
+    "perf_1m": 9.59,
+    "perf_3m": 19.76,
+    "perf_1y": 7.06,
     "isin": null,
     "news": null,
     "chart_series": [
@@ -6391,7 +6391,7 @@
       ],
       [
         "2026-08-24",
-        665.7000122070312
+        666.0999755859375
       ]
     ],
     "grades": [],
@@ -6443,7 +6443,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:21:04.652962",
+    "last_updated": "2026-08-24T06:55:01.990881",
     "perf_1m": -0.44,
     "perf_3m": -5.97,
     "perf_1y": -22.08,
@@ -6742,7 +6742,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:23.580716",
+    "last_updated": "2026-08-24T06:54:13.494562",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -6796,7 +6796,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:28.562357",
+    "last_updated": "2026-08-24T06:40:43.804074",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -6850,7 +6850,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:31:17.829687",
+    "last_updated": "2026-08-24T06:42:47.310882",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -6904,7 +6904,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:18.320905",
+    "last_updated": "2026-08-24T06:47:58.449663",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -6958,7 +6958,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:21:27.058180",
+    "last_updated": "2026-08-24T06:41:39.453740",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -7014,7 +7014,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:23:33.788714",
+    "last_updated": "2026-08-24T06:53:03.597736",
     "perf_1m": -2.05,
     "perf_3m": -15.88,
     "perf_1y": -31.95,
@@ -7313,7 +7313,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:26.549343",
+    "last_updated": "2026-08-24T06:54:07.870644",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -7369,7 +7369,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:28:27.804431",
+    "last_updated": "2026-08-24T06:49:59.460281",
     "perf_1m": 0.56,
     "perf_3m": 3.64,
     "perf_1y": -0.71,
@@ -7670,7 +7670,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:25:27.868848",
+    "last_updated": "2026-08-24T06:41:46.158396",
     "perf_1m": 6.01,
     "perf_3m": -0.88,
     "perf_1y": -17.66,
@@ -7969,7 +7969,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:22:05.165643",
+    "last_updated": "2026-08-24T06:40:50.165248",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -8025,7 +8025,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:27:35.835704",
+    "last_updated": "2026-08-24T06:52:06.826337",
     "perf_1m": 2.02,
     "perf_3m": -11.2,
     "perf_1y": -18.0,
@@ -8324,7 +8324,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:28:30.689775",
+    "last_updated": "2026-08-24T06:50:05.839932",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -8378,7 +8378,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:25:34.810930",
+    "last_updated": "2026-08-24T06:44:53.142927",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -8434,7 +8434,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:28:16.329636",
+    "last_updated": "2026-08-24T06:44:48.152286",
     "perf_1m": -0.11,
     "perf_3m": -8.76,
     "perf_1y": -2.34,
@@ -8733,7 +8733,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:31:29.267600",
+    "last_updated": "2026-08-24T06:41:50.516559",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -8787,7 +8787,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:30:32.795255",
+    "last_updated": "2026-08-24T06:48:50.149488",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -8843,7 +8843,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:20:12.930261",
+    "last_updated": "2026-08-24T06:54:01.532523",
     "perf_1m": 1.75,
     "perf_3m": -13.89,
     "perf_1y": -25.97,
@@ -9142,7 +9142,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:31:37.803209",
+    "last_updated": "2026-08-24T06:39:40.866587",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -9196,7 +9196,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:26.414523",
+    "last_updated": "2026-08-24T06:52:03.422995",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -9250,7 +9250,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:21:13.049587",
+    "last_updated": "2026-08-24T06:46:01.782800",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -9304,7 +9304,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:30:37.287781",
+    "last_updated": "2026-08-24T06:48:42.786013",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -9410,7 +9410,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:31:09.681456",
+    "last_updated": "2026-08-24T06:48:03.739267",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -9466,7 +9466,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:31:32.194812",
+    "last_updated": "2026-08-24T06:42:52.669363",
     "perf_1m": -1.38,
     "perf_3m": -6.83,
     "perf_1y": -29.91,
@@ -9767,7 +9767,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:24:06.128234",
+    "last_updated": "2026-08-24T06:53:52.648312",
     "perf_1m": 2.85,
     "perf_3m": -17.1,
     "perf_1y": -26.74,
@@ -10066,7 +10066,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:26:30.739284",
+    "last_updated": "2026-08-24T06:49:08.212328",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10111,7 +10111,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:30:33.456407",
+    "last_updated": "2026-08-24T06:40:52.051444",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10125,13 +10125,13 @@
     "ticker": "ET",
     "name": "Energy Transfer LP",
     "price": 21.19,
-    "market_cap": 72918180400,
-    "pe_ratio": 13.161490683229816,
-    "dividend_yield_pct": 6.347334,
-    "payout_ratio_pct": 82.13058419243985,
-    "debt_to_equity": 1.9880841187625597,
-    "current_ratio": 1.1639137878940478,
-    "data_source": "fmp",
+    "market_cap": 72963.51453876145,
+    "pe_ratio": 16.7194,
+    "dividend_yield_pct": 6.5238,
+    "payout_ratio_pct": 109.07,
+    "debt_to_equity": 2.012,
+    "current_ratio": 1.1691,
+    "data_source": "finnhub",
     "land": "USA",
     "sektor": "Energie",
     "price_history": [
@@ -10149,14 +10149,14 @@
       }
     ],
     "evaluation": {
-      "trap_warning": false,
+      "trap_warning": true,
       "risk": "hoch",
       "meets_min_yield": true,
       "is_reit": false,
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:06.865646",
+    "last_updated": "2026-08-24T06:52:01.317333",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10202,7 +10202,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:26.580792",
+    "last_updated": "2026-08-24T06:53:00.956675",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10247,7 +10247,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:32:30.437694",
+    "last_updated": "2026-08-24T06:46:52.528584",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10292,7 +10292,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:29:29.632561",
+    "last_updated": "2026-08-24T06:39:44.038039",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10339,7 +10339,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:19:17.930189",
+    "last_updated": "2026-08-24T06:47:06.921038",
     "perf_1m": 11.79,
     "perf_3m": -2.79,
     "perf_1y": -6.98,
@@ -10686,7 +10686,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:26:35.285783",
+    "last_updated": "2026-08-24T06:39:38.703042",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10732,7 +10732,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:16.833744",
+    "last_updated": "2026-08-24T06:44:52.694095",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -10779,7 +10779,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": true
     },
-    "last_updated": "2026-08-24T05:17:04.428576",
+    "last_updated": "2026-08-24T06:49:51.492554",
     "perf_1m": 7.35,
     "perf_3m": 26.48,
     "perf_1y": 90.75,
@@ -11126,7 +11126,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:21:17.329217",
+    "last_updated": "2026-08-24T06:50:02.162057",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11172,7 +11172,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:22:22.605460",
+    "last_updated": "2026-08-24T06:46:59.976403",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11217,7 +11217,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:23.254521",
+    "last_updated": "2026-08-24T06:53:54.269926",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11263,7 +11263,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:22:31.402567",
+    "last_updated": "2026-08-24T06:45:48.664925",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11309,7 +11309,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:30:17.364601",
+    "last_updated": "2026-08-24T06:50:59.956565",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11354,7 +11354,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:30.925703",
+    "last_updated": "2026-08-24T06:53:46.175385",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11400,7 +11400,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:17:14.354903",
+    "last_updated": "2026-08-24T06:43:47.645257",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11446,7 +11446,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:31.294028",
+    "last_updated": "2026-08-24T06:45:57.447782",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11492,7 +11492,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:14.043587",
+    "last_updated": "2026-08-24T06:49:50.650816",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11540,7 +11540,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:18:28.836915",
+    "last_updated": "2026-08-24T06:54:14.657527",
     "perf_1m": 1.59,
     "perf_3m": 3.1,
     "perf_1y": 29.32,
@@ -11831,7 +11831,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:26:26.775016",
+    "last_updated": "2026-08-24T06:49:01.603918",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -11879,7 +11879,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:30:31.712196",
+    "last_updated": "2026-08-24T06:46:41.786022",
     "perf_1m": 7.99,
     "perf_3m": 6.8,
     "perf_1y": 6.86,
@@ -12169,7 +12169,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:17.235908",
+    "last_updated": "2026-08-24T06:53:48.090332",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12215,7 +12215,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:07.720442",
+    "last_updated": "2026-08-24T06:42:39.988680",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12261,7 +12261,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:22:27.580390",
+    "last_updated": "2026-08-24T06:43:54.017210",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12307,7 +12307,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:03.757850",
+    "last_updated": "2026-08-24T06:40:38.951492",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12353,7 +12353,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:26:07.131785",
+    "last_updated": "2026-08-24T06:51:51.653399",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12399,7 +12399,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:28:31.790335",
+    "last_updated": "2026-08-24T06:41:52.637048",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12445,7 +12445,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:30:09.257323",
+    "last_updated": "2026-08-24T06:39:42.132733",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12491,7 +12491,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:36.801959",
+    "last_updated": "2026-08-24T06:39:46.106529",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12537,7 +12537,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:18:14.886036",
+    "last_updated": "2026-08-24T06:52:12.503005",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12585,7 +12585,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:31:32.633395",
+    "last_updated": "2026-08-24T06:42:50.778623",
     "perf_1m": -12.61,
     "perf_3m": -11.99,
     "perf_1y": -6.4,
@@ -12876,7 +12876,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:08.956581",
+    "last_updated": "2026-08-24T06:39:43.191400",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -12923,7 +12923,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:27:30.868313",
+    "last_updated": "2026-08-24T06:41:51.600103",
     "perf_1m": -8.55,
     "perf_3m": -3.42,
     "perf_1y": 10.29,
@@ -13272,7 +13272,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:18:03.251637",
+    "last_updated": "2026-08-24T06:51:09.220080",
     "perf_1m": -1.06,
     "perf_3m": -12.92,
     "perf_1y": 18.02,
@@ -13564,7 +13564,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:22:32.923520",
+    "last_updated": "2026-08-24T06:48:00.183502",
     "perf_1m": 0.79,
     "perf_3m": -4.39,
     "perf_1y": 55.31,
@@ -13911,7 +13911,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:23:28.064026",
+    "last_updated": "2026-08-24T06:52:44.788551",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -13957,7 +13957,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:22:17.830625",
+    "last_updated": "2026-08-24T06:44:40.842440",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14002,7 +14002,7 @@
       "payout_niedrig_max": 75.0,
       "payout_mittel_max": 95.0
     },
-    "last_updated": "2026-08-24T05:26:35.956530",
+    "last_updated": "2026-08-24T06:53:53.454132",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14048,7 +14048,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:31:33.088074",
+    "last_updated": "2026-08-24T06:44:50.877309",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14094,7 +14094,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:18:25.713574",
+    "last_updated": "2026-08-24T06:51:06.318544",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14140,7 +14140,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:03.055273",
+    "last_updated": "2026-08-24T06:51:02.599732",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14186,7 +14186,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:08.148644",
+    "last_updated": "2026-08-24T06:43:53.108345",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14232,7 +14232,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:27:15.827946",
+    "last_updated": "2026-08-24T06:42:50.082636",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14278,7 +14278,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:32:18.321097",
+    "last_updated": "2026-08-24T06:46:49.144264",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14325,7 +14325,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:24:08.690640",
+    "last_updated": "2026-08-24T06:42:43.850726",
     "perf_1m": 9.41,
     "perf_3m": -3.64,
     "perf_1y": 14.91,
@@ -14672,7 +14672,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:22.016561",
+    "last_updated": "2026-08-24T06:54:45.823391",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14718,7 +14718,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:04.295871",
+    "last_updated": "2026-08-24T06:43:50.369808",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14764,7 +14764,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:12.177306",
+    "last_updated": "2026-08-24T06:42:53.095087",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14809,7 +14809,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:24:12.792034",
+    "last_updated": "2026-08-24T06:45:50.577439",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14855,7 +14855,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:32:10.170721",
+    "last_updated": "2026-08-24T06:52:00.458813",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14901,7 +14901,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:30.412726",
+    "last_updated": "2026-08-24T06:46:57.974026",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -14948,7 +14948,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:31:29.946270",
+    "last_updated": "2026-08-24T06:42:44.615790",
     "perf_1m": 3.81,
     "perf_3m": 7.07,
     "perf_1y": 9.61,
@@ -15295,7 +15295,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:11.210455",
+    "last_updated": "2026-08-24T06:50:08.705707",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15341,7 +15341,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:19:16.445541",
+    "last_updated": "2026-08-24T06:49:05.322719",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15389,7 +15389,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:23:23.097031",
+    "last_updated": "2026-08-24T06:51:44.288706",
     "perf_1m": 6.81,
     "perf_3m": -4.11,
     "perf_1y": 30.19,
@@ -15680,7 +15680,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:32:29.765218",
+    "last_updated": "2026-08-24T06:49:43.332269",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15725,7 +15725,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:10.008022",
+    "last_updated": "2026-08-24T06:49:07.781643",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15771,7 +15771,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:16.822289",
+    "last_updated": "2026-08-24T06:45:58.331535",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15817,7 +15817,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:18:11.681227",
+    "last_updated": "2026-08-24T06:40:41.366727",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15862,7 +15862,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:26:08.449335",
+    "last_updated": "2026-08-24T06:54:18.063299",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15907,7 +15907,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:17:20.104440",
+    "last_updated": "2026-08-24T06:40:46.879447",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -15953,7 +15953,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:25:29.438566",
+    "last_updated": "2026-08-24T06:41:42.284110",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16001,7 +16001,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:21:22.513912",
+    "last_updated": "2026-08-24T06:43:52.201691",
     "perf_1m": -5.06,
     "perf_3m": -18.62,
     "perf_1y": -17.36,
@@ -16292,7 +16292,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:21:30.961370",
+    "last_updated": "2026-08-24T06:40:45.602023",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16340,7 +16340,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-24T05:23:05.616991",
+    "last_updated": "2026-08-24T06:40:51.289633",
     "perf_1m": 1.58,
     "perf_3m": 31.1,
     "perf_1y": 28.54,
@@ -16630,7 +16630,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:10.683710",
+    "last_updated": "2026-08-24T06:39:39.475878",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16676,7 +16676,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:29:28.261162",
+    "last_updated": "2026-08-24T06:53:12.992430",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16721,7 +16721,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:26:31.528329",
+    "last_updated": "2026-08-24T06:52:16.550105",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
@@ -16763,7 +16763,7 @@
       "payout_niedrig_max": 60.0,
       "payout_mittel_max": 80.0
     },
-    "last_updated": "2026-08-24T05:20:24.993458",
+    "last_updated": "2026-08-24T06:52:10.475940",
     "perf_1m": null,
     "perf_3m": null,
     "perf_1y": null,
