@@ -1,0 +1,44 @@
+name: Neue Aktienvorschlaege recherchieren
+
+# Bewusst NUR manuell ausloesbar (Button "Run workflow" im Actions-Tab) -
+# das ist echtes, kostenpflichtiges Anthropic-API-Kontingent, kein
+# kostenloses Finanzdaten-Kontingent wie beim taeglichen Scan.
+on:
+  workflow_dispatch:
+
+# Explizit noetig, falls die Repo-Standardeinstellung fuer neue Workflows
+# auf "nur lesen" steht (GITHUB_TOKEN bekommt sonst keine Schreibrechte
+# fuer den abschliessenden 'git push') - fuehrte zum 403-Fehler.
+permissions:
+  contents: write
+
+jobs:
+  vorschlaege:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Abhaengigkeiten installieren
+        run: pip install anthropic
+
+      - name: Neue Kandidaten recherchieren
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python vorschlaege_recherche.py
+
+      - name: Ergebnis committen
+        run: |
+          git config user.name "Dividendenatlas Bot"
+          git config user.email "actions@github.com"
+          git add vorschlaege.json
+          git diff --staged --quiet || git commit -m "Neue Aktienvorschlaege recherchiert $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash origin main
+          git push
