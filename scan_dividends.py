@@ -2329,6 +2329,7 @@ body{{background:var(--surface);color:var(--text);font-family:-apple-system,Blin
 .top-bar h1{{font-size:26px;margin:0;font-weight:800;letter-spacing:-0.3px;}}
 .top-bar .meta{{color:#C7D6E8;font-size:13px;margin-top:4px;}}
 .top-bar .meta a{{color:#fff;font-weight:600;}}
+.versteckt-bis-login{{display:none;}}
 h2{{font-size:18px;margin:30px 0 12px;color:var(--blue);font-weight:800;letter-spacing:-0.2px;}}
 .summary{{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:18px;}}
 .summary-card{{background:#fff;border-radius:10px;padding:16px 20px;min-width:140px;box-shadow:var(--shadow);border:1px solid var(--line);}}
@@ -2381,7 +2382,19 @@ td.computed-hint .editable-value{{border-bottom-style:dashed;border-bottom-color
 </style>
 </head>
 <body>
-<div class="top-bar">
+<div id="login-overlay" style="position:fixed;inset:0;z-index:9999;background:linear-gradient(135deg,#1E3A8A,#2563EB);display:flex;align-items:center;justify-content:center;flex-direction:column;color:white;font-family:inherit;">
+  <div style="width:80px;height:80px;margin-bottom:20px;">{LOGO_SVG}</div>
+  <h1 style="color:white;margin:0 0 6px;">Dividendenatlas</h1>
+  <p style="color:#DBEAFE;margin:0 0 24px;font-size:14px;">Bitte Passwort eingeben</p>
+  <form id="login-form" style="display:flex;gap:8px;" onsubmit="return false;">
+    <input type="password" id="login-passwort" placeholder="Passwort" autofocus
+      style="padding:10px 14px;border-radius:8px;border:none;font-size:14px;width:200px;">
+    <button onclick="loginVersuchen()" type="submit"
+      style="padding:10px 20px;border-radius:8px;border:none;background:white;color:#1E3A8A;font-weight:600;cursor:pointer;">Los</button>
+  </form>
+  <div id="login-fehler" style="color:#FCA5A5;margin-top:12px;font-size:13px;min-height:18px;"></div>
+</div>
+<div class="top-bar versteckt-bis-login" id="haupt-topbar">
   <div style="display:flex;align-items:center;gap:14px;">
     <div style="width:44px;height:44px;flex-shrink:0;">{LOGO_SVG}</div>
     <h1>Dividendenatlas</h1>
@@ -2402,7 +2415,7 @@ td.computed-hint .editable-value{{border-bottom-style:dashed;border-bottom-color
   <textarea id="export-textarea" readonly style="width:100%;height:300px;font-family:monospace;font-size:12px;padding:8px;box-sizing:border-box;"></textarea>
   <button class="action-btn" style="margin-top:10px;" onclick="copyExportText()">📋 In Zwischenablage kopieren</button>
 </div>
-<div class="page-wrap">
+<div class="page-wrap versteckt-bis-login" id="haupt-inhalt">
 
 {f'''<h2>🆕 Vorschlaege von Claude ({len(vorschlaege)})</h2>
 <div class="hint">Ticker, die Claude im Chat vorgeschlagen hat, aber noch nicht in stammdaten.json stehen. "Kopieren" legt den fertigen JSON-Schnipsel in die Zwischenablage - einfach in stammdaten.json einfuegen.</div>
@@ -3053,6 +3066,7 @@ function showDetail(ticker) {{
   document.getElementById('detail-content').innerHTML = `
     <span class="close-btn" onclick="closeDetail()">×</span>
     <h3>${{r.name || r.ticker}} (${{r.ticker}})</h3>
+    <div id="speicher-status" style="font-size:12px;color:var(--muted);min-height:16px;margin-bottom:8px;"></div>
     <table>
       <tr><td>ISIN</td><td style="font-family:monospace;">${{editableCell(r.ticker, 'isin', r.isin, true)}}
         ${{r.isin_quelle ? `<div style="font-size:11px;color:#B45309;font-weight:normal;margin-top:2px;font-family:inherit;">⚡ ${{r.isin_quelle}}</div>` : ''}}</td></tr>
@@ -3142,6 +3156,62 @@ const RISK_ORDER_JS = {{niedrig: 0, mittel: 1, hoch: 2}};
 // wenn eine Quelle fehlt oder du selbst nachgeprueft hast. Wird pro
 // Ticker in localStorage gespeichert, Risiko/Qualifikation werden danach
 // automatisch neu berechnet.
+// --- Echte, dauerhafte Speicherung ueber den Cloudflare Worker ----------
+// WICHTIG: Diese URL muss nach dem Einrichten des Workers (siehe worker.js)
+// hier eingetragen werden - ohne echte URL bleibt die Speicherung auf den
+// Browser beschraenkt (localStorage-Fallback wie bisher).
+const WORKER_URL = 'https://dividendenatlas.frankschierle.workers.dev';
+const SERVER_PASSWORD_KEY = 'dividendenatlas_server_passwort';
+
+function getServerPassword() {{
+  let pw = localStorage.getItem(SERVER_PASSWORD_KEY);
+  if (!pw) {{
+    pw = prompt('Passwort fuer dauerhaftes Speichern (einmalig, wird im Browser gemerkt):');
+    if (pw) localStorage.setItem(SERVER_PASSWORD_KEY, pw);
+  }}
+  return pw;
+}}
+
+function passwortZuruecksetzen() {{
+  localStorage.removeItem(SERVER_PASSWORD_KEY);
+  alert('Gespeichertes Passwort geloescht - beim naechsten Speichern wirst du erneut gefragt.');
+}}
+
+async function speichereDauerhaft(ticker, felder, statusEl) {{
+  if (WORKER_URL.includes('DEINE-WORKER-URL')) {{
+    if (statusEl) statusEl.textContent = '⚠ Server noch nicht eingerichtet (WORKER_URL fehlt)';
+    return false;
+  }}
+  const pw = getServerPassword();
+  if (!pw) return false;
+  if (statusEl) statusEl.textContent = '⏳ Speichere dauerhaft ...';
+  try {{
+    const resp = await fetch(WORKER_URL, {{
+      method: 'POST',
+      headers: {{ 'Content-Type': 'application/json' }},
+      body: JSON.stringify({{ password: pw, ticker, felder }}),
+    }});
+    const data = await resp.json();
+    if (resp.status === 401) {{
+      passwortZuruecksetzen();
+      if (statusEl) statusEl.textContent = '✗ Falsches Passwort - bitte nochmal versuchen';
+      return false;
+    }}
+    if (!resp.ok) {{
+      if (statusEl) statusEl.textContent = '✗ Fehler: ' + (data.error || 'unbekannt');
+      return false;
+    }}
+    if (statusEl) {{
+      statusEl.textContent = '✓ Dauerhaft gespeichert';
+      setTimeout(() => {{ statusEl.textContent = ''; }}, 3000);
+    }}
+    return true;
+  }} catch (e) {{
+    if (statusEl) statusEl.textContent = '✗ Verbindung fehlgeschlagen: ' + e.message;
+    return false;
+  }}
+}}
+
 const SCANNER_OVERRIDES_KEY = 'dividendenatlas_scanner_overrides';
 const EDITABLE_FIELDS = {{
   dividend_yield_pct: {{suffix: '%', decimals: 2}},
@@ -3323,6 +3393,9 @@ function getEffectivePrice(ticker) {{
   return (p === null || p === undefined || p === 0) ? null : p;
 }}
 
+const STAMMDATEN_FELDER = ['isin', 'market_cap', 'pe_ratio', 'payout_ratio_pct',
+  'payout_ratio_fcf_pct', 'debt_to_equity', 'next_payout', 'dividend_per_share'];
+
 function saveEditCell(input, ticker, field) {{
   const val = input.value.trim();
   const overrides = getScannerOverrides();
@@ -3355,6 +3428,15 @@ function saveEditCell(input, ticker, field) {{
   const panel = document.getElementById('detail-panel');
   if (panel && panel.style.display !== 'none' && panel.dataset.ticker === ticker) {{
     showDetail(ticker);
+  }}
+  // Nur "echte" Stammdaten-Felder auf den Server schreiben (nicht price/
+  // perf_*, die taeglich automatisch neu kommen und nicht in
+  // stammdaten.json gehoeren).
+  if (STAMMDATEN_FELDER.includes(field)) {{
+    const statusEl = document.getElementById('speicher-status');
+    const gefiltert = {{}};
+    STAMMDATEN_FELDER.forEach(f => {{ if (overrides[ticker] && overrides[ticker][f] !== undefined) gefiltert[f] = overrides[ticker][f]; }});
+    speichereDauerhaft(ticker, gefiltert, statusEl);
   }}
 }}
 
@@ -3439,17 +3521,30 @@ function matchesSearch(r, term) {{
 function renderVorschlaege() {{
   const container = document.getElementById('vorschlaege-liste');
   if (!container) return; // keine Vorschlaege vorhanden
+  const feld = (label, wert, suffix) => (wert !== undefined && wert !== null && wert !== '')
+    ? `<div style="display:flex;justify-content:space-between;font-size:11px;padding:1px 0;"><span style="color:var(--muted);">${{label}}</span><span>${{wert}}${{suffix || ''}}</span></div>` : '';
   container.innerHTML = VORSCHLAEGE.map((v, i) => `
-    <div style="border:1px solid var(--line);border-radius:8px;padding:12px 14px;width:260px;background:#FFFBEB;">
+    <div style="border:1px solid var(--line);border-radius:8px;padding:12px 14px;width:280px;background:#FFFBEB;">
       <div style="font-weight:700;">${{v.ticker}} <span style="font-weight:400;color:var(--muted);">- ${{v.name || ''}}</span></div>
-      <div style="font-size:12px;color:var(--muted);margin:2px 0 6px;">${{v.land || ''}} · ${{v.sektor || ''}}${{v.geschaetzte_rendite_pct ? ' · ~' + v.geschaetzte_rendite_pct + '% Rendite (geschaetzt)' : ''}}</div>
+      <div style="font-size:12px;color:var(--muted);margin:2px 0 8px;">${{v.land || ''}} · ${{v.sektor || ''}}</div>
+      <div style="border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:6px 0;margin-bottom:8px;">
+        ${{feld('Rendite (geschätzt)', v.geschaetzte_rendite_pct, '%')}}
+        ${{feld('Dividende/Aktie', v.dividend_per_share)}}
+        ${{feld('Ausschüttungsquote', v.payout_ratio_pct, '%')}}
+        ${{feld('KGV', v.pe_ratio)}}
+        ${{feld('Marktkap.', v.market_cap ? (v.market_cap/1e9).toFixed(1) + ' Mrd. $' : null)}}
+        ${{feld('Verschuldung (D/E)', v.debt_to_equity)}}
+        ${{feld('ISIN', v.isin)}}
+        ${{feld('Nächste Auszahlung', v.next_payout)}}
+      </div>
       <div style="font-size:12px;margin-bottom:10px;">${{v.grund || ''}}</div>
-      <button class="action-btn" onclick="vorschlagKopieren(${{i}}, this)">📋 In Stammdaten-Format kopieren</button>
+      <button class="action-btn" onclick="vorschlagUebernehmen(${{i}}, this)">✓ In Watchlist übernehmen</button>
+      <button class="action-btn" onclick="vorschlagKopieren(${{i}}, this)" style="margin-left:4px;" title="Falls der Server nicht eingerichtet ist">📋 Kopieren</button>
+      <div class="vorschlag-status" style="font-size:11px;color:var(--muted);margin-top:4px;"></div>
     </div>`).join('');
 }}
 
-function vorschlagKopieren(index, btn) {{
-  const v = VORSCHLAEGE[index];
+function vorschlagFelder(v) {{
   const eintrag = {{}};
   if (v.name) eintrag.name = v.name;
   if (v.land) eintrag.land = v.land;
@@ -3458,8 +3553,26 @@ function vorschlagKopieren(index, btn) {{
   if (v.payout_ratio_pct !== undefined) eintrag.payout_ratio_pct = v.payout_ratio_pct;
   if (v.market_cap) eintrag.market_cap = v.market_cap;
   if (v.pe_ratio) eintrag.pe_ratio = v.pe_ratio;
+  if (v.debt_to_equity !== undefined) eintrag.debt_to_equity = v.debt_to_equity;
   if (v.isin) eintrag.isin = v.isin;
   if (v.next_payout) eintrag.next_payout = v.next_payout;
+  if (v.dividend_streak_jahre) eintrag.dividend_streak_jahre = v.dividend_streak_jahre;
+  return eintrag;
+}}
+
+async function vorschlagUebernehmen(index, btn) {{
+  const v = VORSCHLAEGE[index];
+  const statusEl = btn.parentElement.querySelector('.vorschlag-status');
+  const erfolg = await speichereDauerhaft(v.ticker, vorschlagFelder(v), statusEl);
+  if (erfolg) {{
+    btn.textContent = '✓ Übernommen!';
+    btn.disabled = true;
+  }}
+}}
+
+function vorschlagKopieren(index, btn) {{
+  const v = VORSCHLAEGE[index];
+  const eintrag = vorschlagFelder(v);
   const snippet = `"${{v.ticker}}": ${{JSON.stringify(eintrag, null, 2)}}`;
   const zeigeErfolg = () => {{
     const alt = btn.textContent;
@@ -3564,10 +3677,58 @@ document.getElementById('scanner-tbl').addEventListener('click', e => {{
   renderScanner();
 }});
 
-populateFilterDropdowns();
-renderDepot();
-renderScanner();
-renderVorschlaege();
+function initSeite() {{
+  populateFilterDropdowns();
+  renderDepot();
+  renderScanner();
+  renderVorschlaege();
+}}
+
+const LOGIN_OK_KEY = 'dividendenatlas_login_ok';
+
+function zeigeInhalt() {{
+  document.getElementById('login-overlay').style.display = 'none';
+  document.getElementById('haupt-topbar').classList.remove('versteckt-bis-login');
+  document.getElementById('haupt-inhalt').classList.remove('versteckt-bis-login');
+  initSeite();
+}}
+
+async function loginVersuchen() {{
+  const pw = document.getElementById('login-passwort').value;
+  const fehlerEl = document.getElementById('login-fehler');
+  if (!pw) return;
+  if (WORKER_URL.includes('DEINE-WORKER-URL')) {{
+    fehlerEl.textContent = 'Server noch nicht eingerichtet - siehe Chat-Anleitung.';
+    return;
+  }}
+  fehlerEl.textContent = 'Pruefe ...';
+  try {{
+    const resp = await fetch(WORKER_URL, {{
+      method: 'POST',
+      headers: {{ 'Content-Type': 'application/json' }},
+      body: JSON.stringify({{ password: pw }}),
+    }});
+    if (resp.ok) {{
+      localStorage.setItem(SERVER_PASSWORD_KEY, pw);
+      localStorage.setItem(LOGIN_OK_KEY, '1');
+      zeigeInhalt();
+    }} else {{
+      fehlerEl.textContent = 'Falsches Passwort';
+    }}
+  }} catch (e) {{
+    fehlerEl.textContent = 'Verbindung fehlgeschlagen: ' + e.message;
+  }}
+}}
+
+document.getElementById('login-passwort').addEventListener('keydown', e => {{
+  if (e.key === 'Enter') loginVersuchen();
+}});
+
+// Bereits in diesem Browser eingeloggt (Passwort wurde gemerkt) -> Login-
+// Seite ueberspringen und direkt zum Inhalt.
+if (localStorage.getItem(LOGIN_OK_KEY) === '1' && localStorage.getItem(SERVER_PASSWORD_KEY)) {{
+  zeigeInhalt();
+}}
 </script>
 </body></html>"""
     with open(REPORT_PATH, "w", encoding="utf-8") as f:
