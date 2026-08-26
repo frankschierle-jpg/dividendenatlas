@@ -329,7 +329,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:34.710840"
+    "last_updated": "2026-08-26T12:10:06.085225"
   },
   "MCD": {
     "ticker": "MCD",
@@ -661,7 +661,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:17.817996"
+    "last_updated": "2026-08-26T12:10:35.427868"
   },
   "CVX": {
     "ticker": "CVX",
@@ -993,7 +993,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:32.173782"
+    "last_updated": "2026-08-26T12:10:49.924901"
   },
   "BDX": {
     "ticker": "BDX",
@@ -1325,7 +1325,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:47.618280"
+    "last_updated": "2026-08-26T12:10:01.399387"
   },
   "JNJ": {
     "ticker": "JNJ",
@@ -1657,7 +1657,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:37.106852"
+    "last_updated": "2026-08-26T12:10:24.744654"
   },
   "ED": {
     "ticker": "ED",
@@ -1989,7 +1989,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:00.879196"
+    "last_updated": "2026-08-26T12:11:08.791586"
   },
   "MMM": {
     "ticker": "MMM",
@@ -2321,7 +2321,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:32.111066"
+    "last_updated": "2026-08-26T12:11:25.445105"
   },
   "GWW": {
     "ticker": "GWW",
@@ -2653,7 +2653,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:13.131746"
+    "last_updated": "2026-08-26T12:11:10.175649"
   },
   "WMT": {
     "ticker": "WMT",
@@ -2985,7 +2985,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:38.290829"
+    "last_updated": "2026-08-26T12:10:53.040725"
   },
   "CTAS": {
     "ticker": "CTAS",
@@ -3317,7 +3317,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:41.640763"
+    "last_updated": "2026-08-26T12:11:05.688669"
   },
   "AFL": {
     "ticker": "AFL",
@@ -3649,7 +3649,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:01.356790"
+    "last_updated": "2026-08-26T12:11:19.540166"
   },
   "PFE": {
     "ticker": "PFE",
@@ -3921,8 +3921,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -3981,7 +3981,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:52.926075"
+    "last_updated": "2026-08-26T12:11:06.704810"
   },
   "PPG": {
     "ticker": "PPG",
@@ -4313,7 +4313,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:22.345129"
+    "last_updated": "2026-08-26T12:11:14.750305"
   },
   "FRT": {
     "ticker": "FRT",
@@ -4645,7 +4645,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:26.646503"
+    "last_updated": "2026-08-26T12:11:08.403148"
   },
   "NUE": {
     "ticker": "NUE",
@@ -4977,7 +4977,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:29.544102"
+    "last_updated": "2026-08-26T12:11:23.380221"
   },
   "CLX": {
     "ticker": "CLX",
@@ -5309,7 +5309,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:45.917163"
+    "last_updated": "2026-08-26T12:10:21.598130"
   },
   "ABT": {
     "ticker": "ABT",
@@ -5641,7 +5641,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:36.272021"
+    "last_updated": "2026-08-26T12:10:55.114779"
   },
   "GPC": {
     "ticker": "GPC",
@@ -5973,7 +5973,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:36.138209"
+    "last_updated": "2026-08-26T12:11:19.111987"
   },
   "ATO": {
     "ticker": "ATO",
@@ -6305,7 +6305,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:19.956809"
+    "last_updated": "2026-08-26T12:10:26.794867"
   },
   "DOC": {
     "ticker": "DOC",
@@ -6637,7 +6637,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:31.554506"
+    "last_updated": "2026-08-26T12:11:24.732825"
   },
   "MDT": {
     "ticker": "MDT",
@@ -6969,7 +6969,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:15.268724"
+    "last_updated": "2026-08-26T12:11:25.075695"
   },
   "TROW": {
     "ticker": "TROW",
@@ -7301,7 +7301,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:34.117846"
+    "last_updated": "2026-08-26T12:11:20.237361"
   },
   "PEP": {
     "ticker": "PEP",
@@ -7633,7 +7633,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:26.900219"
+    "last_updated": "2026-08-26T12:10:13.790687"
   },
   "PG": {
     "ticker": "PG",
@@ -7965,7 +7965,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:19.490817"
+    "last_updated": "2026-08-26T12:10:49.574535"
   },
   "ESS": {
     "ticker": "ESS",
@@ -8297,7 +8297,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:36.741325"
+    "last_updated": "2026-08-26T12:11:13.381468"
   },
   "GD": {
     "ticker": "GD",
@@ -8629,7 +8629,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:07.952848"
+    "last_updated": "2026-08-26T12:10:05.283659"
   },
   "SO": {
     "ticker": "SO",
@@ -8961,7 +8961,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:34.269334"
+    "last_updated": "2026-08-26T12:10:22.914385"
   },
   "SPGI": {
     "ticker": "SPGI",
@@ -9293,7 +9293,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:16.240033"
+    "last_updated": "2026-08-26T12:10:58.914757"
   },
   "PM": {
     "ticker": "PM",
@@ -9625,7 +9625,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:54.532313"
+    "last_updated": "2026-08-26T12:11:16.461023"
   },
   "O": {
     "ticker": "O",
@@ -9897,8 +9897,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -10015,7 +10015,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:46.603552"
+    "last_updated": "2026-08-26T12:10:54.424745"
   },
   "LOW": {
     "ticker": "LOW",
@@ -10347,7 +10347,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:49.016744"
+    "last_updated": "2026-08-26T12:10:45.805038"
   },
   "CHD": {
     "ticker": "CHD",
@@ -10679,7 +10679,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:37.180097"
+    "last_updated": "2026-08-26T12:10:58.574588"
   },
   "ITW": {
     "ticker": "ITW",
@@ -11011,7 +11011,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:08.460154"
+    "last_updated": "2026-08-26T12:10:38.194254"
   },
   "SJM": {
     "ticker": "SJM",
@@ -11343,7 +11343,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:48.163403"
+    "last_updated": "2026-08-26T12:10:10.323159"
   },
   "CINF": {
     "ticker": "CINF",
@@ -11675,7 +11675,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:49.231015"
+    "last_updated": "2026-08-26T12:10:07.457348"
   },
   "DOV": {
     "ticker": "DOV",
@@ -12007,7 +12007,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:24.365456"
+    "last_updated": "2026-08-26T12:10:56.789248"
   },
   "ADP": {
     "ticker": "ADP",
@@ -12339,7 +12339,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:35.596211"
+    "last_updated": "2026-08-26T12:10:31.399310"
   },
   "SHW": {
     "ticker": "SHW",
@@ -12671,7 +12671,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:09.437195"
+    "last_updated": "2026-08-26T12:10:56.450313"
   },
   "KMB": {
     "ticker": "KMB",
@@ -13003,7 +13003,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:31.573486"
+    "last_updated": "2026-08-26T12:10:10.996814"
   },
   "KO": {
     "ticker": "KO",
@@ -13335,7 +13335,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:35.790234"
+    "last_updated": "2026-08-26T12:10:51.586489"
   },
   "EMR": {
     "ticker": "EMR",
@@ -13667,7 +13667,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:06.923284"
+    "last_updated": "2026-08-26T12:10:31.046547"
   },
   "ECL": {
     "ticker": "ECL",
@@ -13999,7 +13999,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:42.122061"
+    "last_updated": "2026-08-26T12:10:54.073628"
   },
   "VZ": {
     "ticker": "VZ",
@@ -14331,7 +14331,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:22.824499"
+    "last_updated": "2026-08-26T12:11:21.934368"
   },
   "LIN": {
     "ticker": "LIN",
@@ -14663,7 +14663,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:48.692060"
+    "last_updated": "2026-08-26T12:09:58.267015"
   },
   "MKC": {
     "ticker": "MKC",
@@ -14995,7 +14995,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:47.564906"
+    "last_updated": "2026-08-26T12:10:21.916190"
   },
   "T": {
     "ticker": "T",
@@ -15327,7 +15327,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:26.103213"
+    "last_updated": "2026-08-26T12:11:11.276063"
   },
   "HRL": {
     "ticker": "HRL",
@@ -15659,7 +15659,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:23.444507"
+    "last_updated": "2026-08-26T12:11:07.060955"
   },
   "CAT": {
     "ticker": "CAT",
@@ -15991,7 +15991,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:34.851694"
+    "last_updated": "2026-08-26T12:10:48.555538"
   },
   "TGT": {
     "ticker": "TGT",
@@ -16323,7 +16323,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:56.063026"
+    "last_updated": "2026-08-26T12:11:16.121880"
   },
   "ADM": {
     "ticker": "ADM",
@@ -16655,7 +16655,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:55.548507"
+    "last_updated": "2026-08-26T12:11:20.583136"
   },
   "WPC": {
     "ticker": "WPC",
@@ -16927,8 +16927,8 @@
     "market_cap": null,
     "pe_ratio": 15,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -16987,7 +16987,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:14.500712"
+    "last_updated": "2026-08-26T12:11:16.824587"
   },
   "MO": {
     "ticker": "MO",
@@ -17259,8 +17259,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -17319,7 +17319,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:47.029653"
+    "last_updated": "2026-08-26T12:11:23.026238"
   },
   "ROP": {
     "ticker": "ROP",
@@ -17651,7 +17651,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:02.835205"
+    "last_updated": "2026-08-26T12:11:06.019713"
   },
   "SYY": {
     "ticker": "SYY",
@@ -17983,7 +17983,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:36.677162"
+    "last_updated": "2026-08-26T12:11:22.305449"
   },
   "DUK": {
     "ticker": "DUK",
@@ -18315,7 +18315,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:23.270142"
+    "last_updated": "2026-08-26T12:09:58.937524"
   },
   "CB": {
     "ticker": "CB",
@@ -18647,7 +18647,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:45.421154"
+    "last_updated": "2026-08-26T12:10:23.321787"
   },
   "ABBV": {
     "ticker": "ABBV",
@@ -18979,7 +18979,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:06.019707"
+    "last_updated": "2026-08-26T12:11:18.454278"
   },
   "CL": {
     "ticker": "CL",
@@ -19311,7 +19311,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:21.453839"
+    "last_updated": "2026-08-26T12:10:33.424981"
   },
   "PFLT": {
     "ticker": "PFLT",
@@ -19643,7 +19643,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:30.469220"
+    "last_updated": "2026-08-26T12:11:05.360652"
   },
   "ENB": {
     "ticker": "ENB",
@@ -19975,7 +19975,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:59.548716"
+    "last_updated": "2026-08-26T12:11:20.915060"
   },
   "UVV": {
     "ticker": "UVV",
@@ -20247,8 +20247,8 @@
     "market_cap": null,
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -20307,7 +20307,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:54.066194"
+    "last_updated": "2026-08-26T12:10:47.522850"
   },
   "EPR": {
     "ticker": "EPR",
@@ -20639,7 +20639,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:14.147162"
+    "last_updated": "2026-08-26T12:10:56.097407"
   },
   "STAG": {
     "ticker": "STAG",
@@ -20971,7 +20971,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:53.501188"
+    "last_updated": "2026-08-26T12:11:10.930015"
   },
   "ARCC": {
     "ticker": "ARCC",
@@ -21303,7 +21303,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:50.961414"
+    "last_updated": "2026-08-26T12:10:36.835711"
   },
   "EPD": {
     "ticker": "EPD",
@@ -21635,7 +21635,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:30.050194"
+    "last_updated": "2026-08-26T12:09:57.922195"
   },
   "BIP": {
     "ticker": "BIP",
@@ -21907,8 +21907,8 @@
     "market_cap": null,
     "pe_ratio": 25,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -21967,7 +21967,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:22.914573"
+    "last_updated": "2026-08-26T12:11:23.715589"
   },
   "AGNC": {
     "ticker": "AGNC",
@@ -22299,7 +22299,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:30.990095"
+    "last_updated": "2026-08-26T12:10:57.485433"
   },
   "DX": {
     "ticker": "DX",
@@ -22631,7 +22631,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:34.202375"
+    "last_updated": "2026-08-26T12:10:15.472162"
   },
   "LTC": {
     "ticker": "LTC",
@@ -22903,8 +22903,8 @@
     "market_cap": null,
     "pe_ratio": 15,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -22959,7 +22959,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:33.628230"
+    "last_updated": "2026-08-26T12:10:18.096011"
   },
   "MAIN": {
     "ticker": "MAIN",
@@ -23232,7 +23232,7 @@
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -23287,7 +23287,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:17.530044"
+    "last_updated": "2026-08-26T12:10:15.134995"
   },
   "5401.T": {
     "ticker": "5401.T",
@@ -23559,8 +23559,8 @@
     "market_cap": null,
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-04",
     "next_payout_hinweis": "geschaetzt (halbjaehrlich, Muster Sept-Ex-Tag/Dez-Zahlung aus Vorjahren)",
     "data_source": "Yahoo",
@@ -23615,7 +23615,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:41.434264"
+    "last_updated": "2026-08-26T12:11:15.785302"
   },
   "DWNI.DE": {
     "ticker": "DWNI.DE",
@@ -23624,12 +23624,12 @@
     "sektor": "Immobilien",
     "isin": "DE000A0HN5C6",
     "isin_quelle": null,
-    "price": 18.0,
-    "perf_1m": -3.74,
-    "perf_3m": -6.83,
-    "perf_1y": -22.58,
-    "perf_3y": -14.61,
-    "gesamtrendite_3j_pct": -14.01,
+    "price": 17.959999084472656,
+    "perf_1m": -3.96,
+    "perf_3m": -7.04,
+    "perf_1y": -22.75,
+    "perf_3y": -14.8,
+    "gesamtrendite_3j_pct": -14.2,
     "chart_series": [
       [
         "2023-08-28",
@@ -23873,7 +23873,7 @@
       ],
       [
         "2026-08-26",
-        18.0
+        17.959999084472656
       ]
     ],
     "dividend_per_share": null,
@@ -23887,8 +23887,8 @@
     "market_cap": 7350000000.0,
     "pe_ratio": 7.5,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -23943,7 +23943,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:25.320048"
+    "last_updated": "2026-08-26T12:09:58.594584"
   },
   "1833.T": {
     "ticker": "1833.T",
@@ -24215,8 +24215,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -24273,7 +24273,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:33.253242"
+    "last_updated": "2026-08-26T12:10:36.176575"
   },
   "7240.T": {
     "ticker": "7240.T",
@@ -24545,8 +24545,8 @@
     "market_cap": null,
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.121,
+    "debt_to_equity_hinweis": "Nutzer-Recherche (Google AI, Aug 2026) - 12,1% D/E",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -24603,7 +24603,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:54.193884"
+    "last_updated": "2026-08-26T12:10:49.203950"
   },
   "FNTN.DE": {
     "ticker": "FNTN.DE",
@@ -24612,12 +24612,12 @@
     "sektor": "Telekom",
     "isin": null,
     "isin_quelle": null,
-    "price": 24.459999084472656,
-    "perf_1m": -2.55,
-    "perf_3m": -3.24,
-    "perf_1y": -14.54,
-    "perf_3y": 10.38,
-    "gesamtrendite_3j_pct": 36.15,
+    "price": 24.5,
+    "perf_1m": -2.39,
+    "perf_3m": -3.09,
+    "perf_1y": -14.4,
+    "perf_3y": 10.56,
+    "gesamtrendite_3j_pct": 36.33,
     "chart_series": [
       [
         "2023-08-28",
@@ -24861,7 +24861,7 @@
       ],
       [
         "2026-08-26",
-        24.459999084472656
+        24.5
       ]
     ],
     "dividend_per_share": null,
@@ -24875,8 +24875,8 @@
     "market_cap": null,
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -24931,7 +24931,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:24.859708"
+    "last_updated": "2026-08-26T12:10:03.130267"
   },
   "5938.T": {
     "ticker": "5938.T",
@@ -25203,8 +25203,8 @@
     "market_cap": null,
     "pe_ratio": 13,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -25261,7 +25261,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:59.106746"
+    "last_updated": "2026-08-26T12:11:22.618338"
   },
   "9364.T": {
     "ticker": "9364.T",
@@ -25533,8 +25533,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -25591,7 +25591,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:44.947071"
+    "last_updated": "2026-08-26T12:10:58.194011"
   },
   "LEG.DE": {
     "ticker": "LEG.DE",
@@ -25600,12 +25600,12 @@
     "sektor": "Immobilien",
     "isin": "DE000LEG1110",
     "isin_quelle": null,
-    "price": 49.720001220703125,
-    "perf_1m": -6.98,
-    "perf_3m": -10.82,
-    "perf_1y": -32.35,
-    "perf_3y": -25.19,
-    "gesamtrendite_3j_pct": -7.46,
+    "price": 49.70000076293945,
+    "perf_1m": -7.02,
+    "perf_3m": -10.85,
+    "perf_1y": -32.38,
+    "perf_3y": -25.22,
+    "gesamtrendite_3j_pct": -7.49,
     "chart_series": [
       [
         "2023-08-28",
@@ -25849,7 +25849,7 @@
       ],
       [
         "2026-08-26",
-        49.720001220703125
+        49.70000076293945
       ]
     ],
     "dividend_per_share": null,
@@ -25863,8 +25863,8 @@
     "market_cap": 3800000000.0,
     "pe_ratio": 92.1,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-27",
     "next_payout_hinweis": "grobe Schaetzung nach Branchenmuster (Vonovia/Immobiliensektor Ende Mai) - kein exaktes 2026er-Datum gefunden, geringere Sicherheit",
     "data_source": "Yahoo",
@@ -25921,7 +25921,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:56.605206"
+    "last_updated": "2026-08-26T12:10:12.712551"
   },
   "SAX.DE": {
     "ticker": "SAX.DE",
@@ -25930,12 +25930,12 @@
     "sektor": "Medien",
     "isin": null,
     "isin_quelle": null,
-    "price": 40.2599983215332,
-    "perf_1m": 7.25,
-    "perf_3m": 6.62,
-    "perf_1y": -3.34,
-    "perf_3y": -4.19,
-    "gesamtrendite_3j_pct": 11.17,
+    "price": 40.36000061035156,
+    "perf_1m": 7.51,
+    "perf_3m": 6.89,
+    "perf_1y": -3.1,
+    "perf_3y": -3.95,
+    "gesamtrendite_3j_pct": 11.41,
     "chart_series": [
       [
         "2023-08-28",
@@ -26179,7 +26179,7 @@
       ],
       [
         "2026-08-26",
-        40.2599983215332
+        40.36000061035156
       ]
     ],
     "dividend_per_share": null,
@@ -26193,8 +26193,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -26249,7 +26249,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:57.126655"
+    "last_updated": "2026-08-26T12:10:11.726199"
   },
   "HNR1.DE": {
     "ticker": "HNR1.DE",
@@ -26258,12 +26258,12 @@
     "sektor": "Versicherung",
     "isin": "DE0008402215",
     "isin_quelle": null,
-    "price": 255.0,
-    "perf_1m": -1.09,
-    "perf_3m": 9.72,
-    "perf_1y": 1.76,
-    "perf_3y": 29.97,
-    "gesamtrendite_3j_pct": 45.45,
+    "price": 255.39999389648438,
+    "perf_1m": -0.93,
+    "perf_3m": 9.9,
+    "perf_1y": 1.92,
+    "perf_3y": 30.17,
+    "gesamtrendite_3j_pct": 45.65,
     "chart_series": [
       [
         "2023-08-28",
@@ -26507,7 +26507,7 @@
       ],
       [
         "2026-08-26",
-        255.0
+        255.39999389648438
       ]
     ],
     "dividend_per_share": null,
@@ -26522,7 +26522,7 @@
     "pe_ratio": 11.5,
     "pe_quelle": null,
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-06",
     "next_payout_hinweis": "grobe Schaetzung - HV 2026 fand 'Anfang Mai' statt, exaktes Datum nicht gefunden",
     "data_source": "Yahoo",
@@ -26579,7 +26579,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:47.073918"
+    "last_updated": "2026-08-26T12:11:03.722532"
   },
   "SIX2.DE": {
     "ticker": "SIX2.DE",
@@ -26588,12 +26588,12 @@
     "sektor": "Autovermietung",
     "isin": "DE0007231326",
     "isin_quelle": null,
-    "price": 73.5,
-    "perf_1m": 2.44,
-    "perf_3m": -3.92,
-    "perf_1y": -13.17,
-    "perf_3y": -25.11,
-    "gesamtrendite_3j_pct": -9.93,
+    "price": 73.3499984741211,
+    "perf_1m": 2.23,
+    "perf_3m": -4.12,
+    "perf_1y": -13.35,
+    "perf_3y": -25.27,
+    "gesamtrendite_3j_pct": -10.09,
     "chart_series": [
       [
         "2023-08-28",
@@ -26837,7 +26837,7 @@
       ],
       [
         "2026-08-26",
-        73.5
+        73.3499984741211
       ]
     ],
     "dividend_per_share": null,
@@ -26851,8 +26851,8 @@
     "market_cap": 3200000000.0,
     "pe_ratio": 11.2,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-06-22",
     "next_payout_hinweis": "geschaetzt nach 2026er-Muster (Auszahlung 22.06.2026)",
     "data_source": "Yahoo",
@@ -26907,7 +26907,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:08.895366"
+    "last_updated": "2026-08-26T12:11:18.133376"
   },
   "8960.T": {
     "ticker": "8960.T",
@@ -27179,8 +27179,8 @@
     "market_cap": null,
     "pe_ratio": 14,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -27235,7 +27235,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:43.979485"
+    "last_updated": "2026-08-26T12:10:51.226922"
   },
   "MBG.DE": {
     "ticker": "MBG.DE",
@@ -27244,12 +27244,12 @@
     "sektor": "Automobil",
     "isin": "DE0007100000",
     "isin_quelle": null,
-    "price": 44.58000183105469,
-    "perf_1m": -4.38,
-    "perf_3m": -14.58,
-    "perf_1y": -16.31,
-    "perf_3y": -32.31,
-    "gesamtrendite_3j_pct": -11.4,
+    "price": 44.724998474121094,
+    "perf_1m": -4.06,
+    "perf_3m": -14.3,
+    "perf_1y": -16.04,
+    "perf_3y": -32.09,
+    "gesamtrendite_3j_pct": -11.18,
     "chart_series": [
       [
         "2023-08-28",
@@ -27493,7 +27493,7 @@
       ],
       [
         "2026-08-26",
-        44.58000183105469
+        44.724998474121094
       ]
     ],
     "dividend_per_share": null,
@@ -27507,8 +27507,8 @@
     "market_cap": 45000000000.0,
     "pe_ratio": 8.2,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-04-20",
     "next_payout_hinweis": "geschaetzt - HV am 15.04.2027 offiziell angekuendigt, Auszahlung ca. wenige Tage danach",
     "data_source": "Yahoo",
@@ -27565,7 +27565,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:10.541800"
+    "last_updated": "2026-08-26T12:10:22.253801"
   },
   "8150.T": {
     "ticker": "8150.T",
@@ -27837,8 +27837,8 @@
     "market_cap": null,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -27895,7 +27895,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:38.197231"
+    "last_updated": "2026-08-26T12:10:41.716635"
   },
   "0010.HK": {
     "ticker": "0010.HK",
@@ -28167,8 +28167,8 @@
     "market_cap": null,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -28225,7 +28225,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:40.592713"
+    "last_updated": "2026-08-26T12:10:18.769639"
   },
   "DEQ.DE": {
     "ticker": "DEQ.DE",
@@ -28497,8 +28497,8 @@
     "market_cap": 1480000000.0,
     "pe_ratio": 6.5,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-06-23",
     "next_payout_hinweis": "geschaetzt nach 2026er-Muster (Auszahlung 22.-23.06.2026)",
     "data_source": "Yahoo",
@@ -28555,7 +28555,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:16.990373"
+    "last_updated": "2026-08-26T12:10:25.111255"
   },
   "4183.T": {
     "ticker": "4183.T",
@@ -28827,8 +28827,8 @@
     "market_cap": null,
     "pe_ratio": 11,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -28885,7 +28885,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:13.599668"
+    "last_updated": "2026-08-26T12:11:19.880247"
   },
   "8616.T": {
     "ticker": "8616.T",
@@ -29158,7 +29158,7 @@
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -29213,7 +29213,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:54.996785"
+    "last_updated": "2026-08-26T12:10:02.104433"
   },
   "PAH3.DE": {
     "ticker": "PAH3.DE",
@@ -29222,12 +29222,12 @@
     "sektor": "Automobil",
     "isin": "DE000PAH0038",
     "isin_quelle": null,
-    "price": 27.100000381469727,
-    "perf_1m": -5.61,
-    "perf_3m": -17.13,
-    "perf_1y": -26.42,
-    "perf_3y": -44.12,
-    "gesamtrendite_3j_pct": -25.94,
+    "price": 27.149999618530273,
+    "perf_1m": -5.43,
+    "perf_3m": -16.97,
+    "perf_1y": -26.28,
+    "perf_3y": -44.02,
+    "gesamtrendite_3j_pct": -25.84,
     "chart_series": [
       [
         "2023-08-28",
@@ -29471,7 +29471,7 @@
       ],
       [
         "2026-08-26",
-        27.100000381469727
+        27.149999618530273
       ]
     ],
     "dividend_per_share": null,
@@ -29485,8 +29485,8 @@
     "market_cap": 4500000000.0,
     "pe_ratio": 3.5,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-06-30",
     "next_payout_hinweis": "geschaetzt nach 2026er-Muster (HV 23.06., Auszahlung 30.06.2026)",
     "data_source": "Yahoo",
@@ -29543,7 +29543,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:15.747962"
+    "last_updated": "2026-08-26T12:10:28.637840"
   },
   "8963.T": {
     "ticker": "8963.T",
@@ -29815,8 +29815,8 @@
     "market_cap": null,
     "pe_ratio": 13,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -29871,7 +29871,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:37.631581"
+    "last_updated": "2026-08-26T12:10:34.383587"
   },
   "8395.T": {
     "ticker": "8395.T",
@@ -30144,7 +30144,7 @@
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -30201,7 +30201,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:46.121672"
+    "last_updated": "2026-08-26T12:10:21.221168"
   },
   "7177.T": {
     "ticker": "7177.T",
@@ -30474,7 +30474,7 @@
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -30529,7 +30529,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:27.851410"
+    "last_updated": "2026-08-26T12:11:08.069179"
   },
   "3002.T": {
     "ticker": "3002.T",
@@ -30801,8 +30801,8 @@
     "market_cap": null,
     "pe_ratio": 14,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -30857,7 +30857,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:06.435901"
+    "last_updated": "2026-08-26T12:11:00.583034"
   },
   "O2D.DE": {
     "ticker": "O2D.DE",
@@ -31181,8 +31181,8 @@
     "market_cap": null,
     "pe_ratio": 14,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -31237,7 +31237,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:09.972532"
+    "last_updated": "2026-08-26T12:11:17.808080"
   },
   "VNA.DE": {
     "ticker": "VNA.DE",
@@ -31246,12 +31246,12 @@
     "sektor": "Immobilien",
     "isin": "DE000A1ML7J1",
     "isin_quelle": null,
-    "price": 19.850000381469727,
-    "perf_1m": -7.76,
-    "perf_3m": -7.37,
-    "perf_1y": -30.57,
-    "perf_3y": -9.15,
-    "gesamtrendite_3j_pct": 9.42,
+    "price": 19.799999237060547,
+    "perf_1m": -7.99,
+    "perf_3m": -7.61,
+    "perf_1y": -30.75,
+    "perf_3y": -9.38,
+    "gesamtrendite_3j_pct": 9.19,
     "chart_series": [
       [
         "2023-08-28",
@@ -31495,7 +31495,7 @@
       ],
       [
         "2026-08-26",
-        19.850000381469727
+        19.799999237060547
       ]
     ],
     "dividend_per_share": null,
@@ -31509,8 +31509,8 @@
     "market_cap": 20000000000.0,
     "pe_ratio": 5.5,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-26",
     "next_payout_hinweis": "geschaetzt nach 2026er-Muster (HV 21.05., Auszahlung 26.05.2026)",
     "data_source": "Yahoo",
@@ -31567,7 +31567,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:07.458247"
+    "last_updated": "2026-08-26T12:11:04.044222"
   },
   "VOW3.DE": {
     "ticker": "VOW3.DE",
@@ -31576,12 +31576,12 @@
     "sektor": "Automobil",
     "isin": "DE0007664039",
     "isin_quelle": null,
-    "price": 72.23999786376953,
-    "perf_1m": -2.27,
-    "perf_3m": -21.32,
-    "perf_1y": -28.01,
-    "perf_3y": -33.31,
-    "gesamtrendite_3j_pct": -10.99,
+    "price": 72.41999816894531,
+    "perf_1m": -2.03,
+    "perf_3m": -21.13,
+    "perf_1y": -27.83,
+    "perf_3y": -33.14,
+    "gesamtrendite_3j_pct": -10.82,
     "chart_series": [
       [
         "2023-08-28",
@@ -31825,7 +31825,7 @@
       ],
       [
         "2026-08-26",
-        72.23999786376953
+        72.41999816894531
       ]
     ],
     "dividend_per_share": null,
@@ -31839,8 +31839,8 @@
     "market_cap": 38000000000.0,
     "pe_ratio": 4.3,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-06-23",
     "next_payout_hinweis": "geschaetzt nach 2026er-Muster (HV 18.06., Auszahlung 23.06.2026)",
     "data_source": "Yahoo",
@@ -31897,7 +31897,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:33.727456"
+    "last_updated": "2026-08-26T12:10:10.664689"
   },
   "8985.T": {
     "ticker": "8985.T",
@@ -32169,8 +32169,8 @@
     "market_cap": null,
     "pe_ratio": 13,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Japan: meist halbjaehrlich (Zwischen-/Endauszahlung).",
     "data_source": "Yahoo",
@@ -32225,7 +32225,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:20.905890"
+    "last_updated": "2026-08-26T12:10:59.561687"
   },
   "TFC": {
     "ticker": "TFC",
@@ -32498,7 +32498,7 @@
     "pe_ratio": null,
     "pe_quelle": null,
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -32545,7 +32545,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:11.046429"
+    "last_updated": "2026-08-26T12:10:30.699763"
   },
   "ET": {
     "ticker": "ET",
@@ -32817,8 +32817,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -32864,25 +32864,25 @@
     },
     "grades": [
       {
-        "date": "2026-08-18",
-        "action": "maintain",
-        "firm": "Morgan Stanley",
-        "new_grade": "Equal Weight",
-        "previous_grade": "Equal Weight"
+        "date": "2026-08-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "26 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
       },
       {
-        "date": "2026-08-12",
-        "action": "maintain",
-        "firm": "Truist Securities",
-        "new_grade": "Buy",
-        "previous_grade": "Buy"
+        "date": "2026-07-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "26 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
       },
       {
-        "date": "2026-08-10",
-        "action": "maintain",
-        "firm": "TD Cowen",
-        "new_grade": "Buy",
-        "previous_grade": "Buy"
+        "date": "2026-06-01",
+        "action": "upgrade",
+        "firm": "Analysten-Konsens (Finnhub)",
+        "new_grade": "26 Kaufen / 4 Halten / 0 Verkaufen",
+        "previous_grade": null
       }
     ],
     "price_history": [
@@ -32923,7 +32923,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:46.460327"
+    "last_updated": "2026-08-26T12:11:09.117793"
   },
   "SWED-A.ST": {
     "ticker": "SWED-A.ST",
@@ -32932,12 +32932,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 374.20001220703125,
-    "perf_1m": 0.4,
-    "perf_3m": 10.71,
-    "perf_1y": 34.99,
-    "perf_3y": 93.44,
-    "gesamtrendite_3j_pct": 117.44,
+    "price": 373.79998779296875,
+    "perf_1m": 0.3,
+    "perf_3m": 10.59,
+    "perf_1y": 34.85,
+    "perf_3y": 93.23,
+    "gesamtrendite_3j_pct": 117.23,
     "chart_series": [
       [
         "2023-08-28",
@@ -33181,7 +33181,7 @@
       ],
       [
         "2026-08-26",
-        374.20001220703125
+        373.79998779296875
       ]
     ],
     "dividend_per_share": null,
@@ -33196,7 +33196,7 @@
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -33245,7 +33245,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:28.059383"
+    "last_updated": "2026-08-26T12:11:11.655975"
   },
   "KMI": {
     "ticker": "KMI",
@@ -33517,8 +33517,8 @@
     "market_cap": null,
     "pe_ratio": 18,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -33565,7 +33565,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:09.983977"
+    "last_updated": "2026-08-26T12:10:09.638076"
   },
   "KIM": {
     "ticker": "KIM",
@@ -33837,8 +33837,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -33885,7 +33885,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:32.106539"
+    "last_updated": "2026-08-26T12:10:02.482324"
   },
   "BCE": {
     "ticker": "BCE",
@@ -34157,8 +34157,8 @@
     "market_cap": 24000000000.0,
     "pe_ratio": 10.5,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-10-15",
     "next_payout_hinweis": "bestaetigt per SEC-Filing (6-K) - zahlt quartalsweise",
     "data_source": "Yahoo",
@@ -34263,7 +34263,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:25.869499"
+    "last_updated": "2026-08-26T12:10:59.922487"
   },
   "HSBA.L": {
     "ticker": "HSBA.L",
@@ -34272,12 +34272,12 @@
     "sektor": "Finanzen",
     "isin": "GB0005405286",
     "isin_quelle": null,
-    "price": 1518.0,
-    "perf_1m": -1.96,
-    "perf_3m": 8.93,
-    "perf_1y": 59.09,
-    "perf_3y": 156.98,
-    "gesamtrendite_3j_pct": 170.48,
+    "price": 1520.0,
+    "perf_1m": -1.83,
+    "perf_3m": 9.07,
+    "perf_1y": 59.3,
+    "perf_3y": 157.32,
+    "gesamtrendite_3j_pct": 170.82,
     "chart_series": [
       [
         "2023-08-29",
@@ -34521,7 +34521,7 @@
       ],
       [
         "2026-08-26",
-        1518.0
+        1520.0
       ]
     ],
     "dividend_per_share": null,
@@ -34536,7 +34536,7 @@
     "pe_ratio": 13.0,
     "pe_quelle": null,
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -34583,7 +34583,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:51.925256"
+    "last_updated": "2026-08-26T12:11:09.836765"
   },
   "SRG.MI": {
     "ticker": "SRG.MI",
@@ -34592,12 +34592,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 5.817999839782715,
-    "perf_1m": -5.4,
-    "perf_3m": -7.15,
-    "perf_1y": 10.15,
-    "perf_3y": 22.77,
-    "gesamtrendite_3j_pct": 40.17,
+    "price": 5.822000026702881,
+    "perf_1m": -5.33,
+    "perf_3m": -7.09,
+    "perf_1y": 10.22,
+    "perf_3y": 22.85,
+    "gesamtrendite_3j_pct": 40.25,
     "chart_series": [
       [
         "2023-08-28",
@@ -34841,7 +34841,7 @@
       ],
       [
         "2026-08-26",
-        5.817999839782715
+        5.822000026702881
       ]
     ],
     "dividend_per_share": null,
@@ -34855,8 +34855,8 @@
     "market_cap": null,
     "pe_ratio": 16,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -34903,7 +34903,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:29.128719"
+    "last_updated": "2026-08-26T12:10:41.078167"
   },
   "EC": {
     "ticker": "EC",
@@ -35175,8 +35175,8 @@
     "market_cap": null,
     "pe_ratio": 5,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-07",
     "next_payout_hinweis": "bestaetigt (stockevents.app) - zahlt jaehrlich",
     "data_source": "Yahoo",
@@ -35223,7 +35223,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:11.638710"
+    "last_updated": "2026-08-26T12:10:42.023409"
   },
   "JST.DE": {
     "ticker": "JST.DE",
@@ -35495,8 +35495,8 @@
     "market_cap": null,
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -35545,7 +35545,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:39.124021"
+    "last_updated": "2026-08-26T12:10:55.766494"
   },
   "SDF.DE": {
     "ticker": "SDF.DE",
@@ -35554,12 +35554,12 @@
     "sektor": "Chemie",
     "isin": "DE000KSAG888",
     "isin_quelle": null,
-    "price": 16.1299991607666,
-    "perf_1m": 9.28,
-    "perf_3m": 8.91,
-    "perf_1y": 37.04,
-    "perf_3y": -7.85,
-    "gesamtrendite_3j_pct": -4.55,
+    "price": 16.170000076293945,
+    "perf_1m": 9.55,
+    "perf_3m": 9.18,
+    "perf_1y": 37.38,
+    "perf_3y": -7.63,
+    "gesamtrendite_3j_pct": -4.33,
     "chart_series": [
       [
         "2023-08-28",
@@ -35803,7 +35803,7 @@
       ],
       [
         "2026-08-26",
-        16.1299991607666
+        16.170000076293945
       ]
     ],
     "dividend_per_share": null,
@@ -35865,7 +35865,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:21.324322"
+    "last_updated": "2026-08-26T12:11:25.935753"
   },
   "DOW": {
     "ticker": "DOW",
@@ -36137,8 +36137,8 @@
     "market_cap": null,
     "pe_ratio": 15,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -36185,7 +36185,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:39.588634"
+    "last_updated": "2026-08-26T12:11:18.772954"
   },
   "LEI.DE": {
     "ticker": "LEI.DE",
@@ -36194,12 +36194,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 12.850000381469727,
-    "perf_1m": -3.38,
-    "perf_3m": -25.94,
-    "perf_1y": -17.1,
-    "perf_3y": -30.54,
-    "gesamtrendite_3j_pct": -7.2,
+    "price": 13.050000190734863,
+    "perf_1m": -1.14,
+    "perf_3m": -25.43,
+    "perf_1y": -13.86,
+    "perf_3y": -30.03,
+    "gesamtrendite_3j_pct": -7.05,
     "chart_series": [
       [
         "2023-08-28",
@@ -36290,8 +36290,8 @@
         17.75
       ],
       [
-        "2024-09-27",
-        17.899999618530273
+        "2024-09-30",
+        18.0
       ],
       [
         "2024-10-16",
@@ -36302,8 +36302,8 @@
         15.199999809265137
       ],
       [
-        "2024-11-20",
-        16.200000762939453
+        "2024-11-21",
+        16.299999237060547
       ],
       [
         "2024-12-09",
@@ -36314,8 +36314,8 @@
         15.899999618530273
       ],
       [
-        "2025-01-20",
-        16.5
+        "2025-01-21",
+        16.049999237060547
       ],
       [
         "2025-02-06",
@@ -36326,8 +36326,8 @@
         16.399999618530273
       ],
       [
-        "2025-03-13",
-        17.350000381469727
+        "2025-03-14",
+        17.5
       ],
       [
         "2025-04-01",
@@ -36338,7 +36338,7 @@
         19.799999237060547
       ],
       [
-        "2025-05-09",
+        "2025-05-12",
         21.0
       ],
       [
@@ -36350,8 +36350,8 @@
         18.899999618530273
       ],
       [
-        "2025-07-02",
-        16.149999618530273
+        "2025-07-03",
+        16.600000381469727
       ],
       [
         "2025-07-21",
@@ -36362,95 +36362,95 @@
         15.050000190734863
       ],
       [
-        "2025-08-25",
+        "2025-08-26",
         15.5
       ],
       [
-        "2025-09-11",
-        15.350000381469727
+        "2025-09-12",
+        15.300000190734863
       ],
       [
         "2025-09-30",
         15.449999809265137
       ],
       [
-        "2025-10-16",
-        15.800000190734863
+        "2025-10-17",
+        15.199999809265137
       ],
       [
-        "2025-11-04",
-        14.949999809265137
+        "2025-11-05",
+        14.800000190734863
       ],
       [
         "2025-11-21",
         14.949999809265137
       ],
       [
-        "2025-12-09",
-        14.850000381469727
+        "2025-12-10",
+        14.899999618530273
       ],
       [
-        "2026-01-02",
-        14.899999618530273
+        "2026-01-05",
+        15.0
       ],
       [
         "2026-01-21",
         15.100000381469727
       ],
       [
-        "2026-02-06",
-        15.350000381469727
+        "2026-02-09",
+        15.5
       ],
       [
-        "2026-02-25",
-        15.0
+        "2026-02-26",
+        15.100000381469727
       ],
       [
         "2026-03-16",
         14.899999618530273
       ],
       [
-        "2026-04-01",
-        15.0
+        "2026-04-02",
+        15.399999618530273
       ],
       [
-        "2026-04-22",
-        16.850000381469727
+        "2026-04-23",
+        16.600000381469727
       ],
       [
         "2026-05-12",
         16.850000381469727
       ],
       [
-        "2026-05-28",
-        17.350000381469727
+        "2026-05-29",
+        17.5
       ],
       [
-        "2026-06-16",
-        14.850000381469727
+        "2026-06-17",
+        14.899999618530273
       ],
       [
         "2026-07-03",
         14.550000190734863
       ],
       [
-        "2026-07-21",
-        13.199999809265137
+        "2026-07-22",
+        13.399999618530273
       ],
       [
-        "2026-08-07",
+        "2026-08-10",
         12.899999618530273
       ],
       [
-        "2026-08-25",
-        12.850000381469727
+        "2026-08-26",
+        13.050000190734863
       ]
     ],
     "dividend_per_share": 1.0,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 7.78,
+    "dividend_yield_pct": 7.66,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 5.73,
+    "netto_rendite_pct": 5.64,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -36505,7 +36505,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:48.568102"
+    "last_updated": "2026-08-26T12:10:04.872615"
   },
   "CON.DE": {
     "ticker": "CON.DE",
@@ -36514,12 +36514,12 @@
     "sektor": "Automobil",
     "isin": null,
     "isin_quelle": null,
-    "price": 70.36000061035156,
-    "perf_1m": -2.47,
-    "perf_3m": -1.4,
-    "perf_1y": 23.37,
-    "perf_3y": 37.44,
-    "gesamtrendite_3j_pct": 52.44,
+    "price": 70.81999969482422,
+    "perf_1m": -1.83,
+    "perf_3m": -0.76,
+    "perf_1y": 24.18,
+    "perf_3y": 38.34,
+    "gesamtrendite_3j_pct": 53.34,
     "chart_series": [
       [
         "2023-08-28",
@@ -36763,7 +36763,7 @@
       ],
       [
         "2026-08-26",
-        70.36000061035156
+        70.81999969482422
       ]
     ],
     "dividend_per_share": null,
@@ -36777,8 +36777,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -36825,7 +36825,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:50.503031"
+    "last_updated": "2026-08-26T12:10:30.359128"
   },
   "TRP": {
     "ticker": "TRP",
@@ -37097,8 +37097,8 @@
     "market_cap": 66000000000.0,
     "pe_ratio": 20.0,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -37145,7 +37145,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:00.093744"
+    "last_updated": "2026-08-26T12:10:14.822171"
   },
   "TW.L": {
     "ticker": "TW.L",
@@ -37154,12 +37154,12 @@
     "sektor": "Immobilien",
     "isin": null,
     "isin_quelle": null,
-    "price": 85.87999725341797,
-    "perf_1m": 1.8,
-    "perf_3m": 7.65,
-    "perf_1y": -11.74,
-    "perf_3y": -24.86,
-    "gesamtrendite_3j_pct": -3.56,
+    "price": 86.08000183105469,
+    "perf_1m": 2.04,
+    "perf_3m": 7.9,
+    "perf_1y": -11.53,
+    "perf_3y": -24.69,
+    "gesamtrendite_3j_pct": -3.39,
     "chart_series": [
       [
         "2023-08-29",
@@ -37403,7 +37403,7 @@
       ],
       [
         "2026-08-26",
-        85.87999725341797
+        86.08000183105469
       ]
     ],
     "dividend_per_share": null,
@@ -37417,8 +37417,8 @@
     "market_cap": null,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -37467,7 +37467,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:29.060843"
+    "last_updated": "2026-08-26T12:11:21.258753"
   },
   "SREN.SW": {
     "ticker": "SREN.SW",
@@ -37476,12 +37476,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 140.3000030517578,
-    "perf_1m": 3.16,
-    "perf_3m": 19.2,
-    "perf_1y": -4.59,
-    "perf_3y": 64.59,
-    "gesamtrendite_3j_pct": 82.29,
+    "price": 140.5,
+    "perf_1m": 3.31,
+    "perf_3m": 19.37,
+    "perf_1y": -4.45,
+    "perf_3y": 64.83,
+    "gesamtrendite_3j_pct": 82.53,
     "chart_series": [
       [
         "2023-08-28",
@@ -37725,7 +37725,7 @@
       ],
       [
         "2026-08-26",
-        140.3000030517578
+        140.5
       ]
     ],
     "dividend_per_share": null,
@@ -37740,7 +37740,7 @@
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -37787,7 +37787,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:25.571611"
+    "last_updated": "2026-08-26T12:10:45.142443"
   },
   "MNG.L": {
     "ticker": "MNG.L",
@@ -37796,12 +37796,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 349.8999938964844,
-    "perf_1m": -0.85,
-    "perf_3m": 10.73,
-    "perf_1y": 31.59,
-    "perf_3y": 83.19,
-    "gesamtrendite_3j_pct": 110.49,
+    "price": 350.20001220703125,
+    "perf_1m": -0.77,
+    "perf_3m": 10.82,
+    "perf_1y": 31.7,
+    "perf_3y": 83.35,
+    "gesamtrendite_3j_pct": 110.65,
     "chart_series": [
       [
         "2023-08-29",
@@ -38045,7 +38045,7 @@
       ],
       [
         "2026-08-26",
-        349.8999938964844
+        350.20001220703125
       ]
     ],
     "dividend_per_share": null,
@@ -38060,7 +38060,7 @@
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -38107,7 +38107,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:20.342310"
+    "last_updated": "2026-08-26T12:10:28.306632"
   },
   "NDA-FI.HE": {
     "ticker": "NDA-FI.HE",
@@ -38116,12 +38116,12 @@
     "sektor": "Finanzen",
     "isin": "FI4000297767",
     "isin_quelle": null,
-    "price": 17.545000076293945,
-    "perf_1m": 1.18,
-    "perf_3m": 6.98,
-    "perf_1y": 30.01,
-    "perf_3y": 73.78,
-    "gesamtrendite_3j_pct": 99.34,
+    "price": 17.53499984741211,
+    "perf_1m": 1.12,
+    "perf_3m": 6.92,
+    "perf_1y": 29.94,
+    "perf_3y": 73.68,
+    "gesamtrendite_3j_pct": 99.24,
     "chart_series": [
       [
         "2023-08-28",
@@ -38365,7 +38365,7 @@
       ],
       [
         "2026-08-26",
-        17.545000076293945
+        17.53499984741211
       ]
     ],
     "dividend_per_share": null,
@@ -38380,7 +38380,7 @@
     "pe_ratio": 11.9,
     "pe_quelle": null,
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -38427,7 +38427,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:44.922688"
+    "last_updated": "2026-08-26T12:10:09.990710"
   },
   "TRN.MI": {
     "ticker": "TRN.MI",
@@ -38436,12 +38436,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 9.883999824523926,
-    "perf_1m": -3.33,
-    "perf_3m": 0.32,
-    "perf_1y": 14.05,
-    "perf_3y": 30.19,
-    "gesamtrendite_3j_pct": 45.49,
+    "price": 9.904000282287598,
+    "perf_1m": -3.14,
+    "perf_3m": 0.53,
+    "perf_1y": 14.29,
+    "perf_3y": 30.45,
+    "gesamtrendite_3j_pct": 45.75,
     "chart_series": [
       [
         "2023-08-28",
@@ -38685,7 +38685,7 @@
       ],
       [
         "2026-08-26",
-        9.883999824523926
+        9.904000282287598
       ]
     ],
     "dividend_per_share": null,
@@ -38699,8 +38699,8 @@
     "market_cap": null,
     "pe_ratio": 18,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -38747,7 +38747,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:03.373130"
+    "last_updated": "2026-08-26T12:10:16.155084"
   },
   "EVK.DE": {
     "ticker": "EVK.DE",
@@ -38756,12 +38756,12 @@
     "sektor": "Chemie",
     "isin": "DE000EVNK013",
     "isin_quelle": null,
-    "price": 18.450000762939453,
-    "perf_1m": 8.53,
-    "perf_3m": 9.76,
-    "perf_1y": 10.61,
-    "perf_3y": 3.94,
-    "gesamtrendite_3j_pct": 23.44,
+    "price": 18.540000915527344,
+    "perf_1m": 9.06,
+    "perf_3m": 10.29,
+    "perf_1y": 11.15,
+    "perf_3y": 4.45,
+    "gesamtrendite_3j_pct": 23.95,
     "chart_series": [
       [
         "2023-08-28",
@@ -39005,7 +39005,7 @@
       ],
       [
         "2026-08-26",
-        18.450000762939453
+        18.540000915527344
       ]
     ],
     "dividend_per_share": null,
@@ -39019,8 +39019,8 @@
     "market_cap": 7900000000.0,
     "pe_ratio": 69.0,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -39067,7 +39067,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:35.265611"
+    "last_updated": "2026-08-26T12:10:31.714240"
   },
   "MFC": {
     "ticker": "MFC",
@@ -39340,7 +39340,7 @@
     "pe_ratio": 11,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Kanada: meist quartalsweise, grob Dez angesetzt.",
     "data_source": "Yahoo",
@@ -39387,14 +39387,14 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:29.982142"
+    "last_updated": "2026-08-26T12:10:36.514395"
   },
   "NWX.DE": {
     "ticker": "NWX.DE",
     "name": "Nordwest Handel",
     "land": "Deutschland",
     "sektor": "Handel",
-    "isin": "DE0006775505",
+    "isin": null,
     "isin_quelle": null,
     "price": null,
     "perf_1m": null,
@@ -39414,8 +39414,8 @@
     "market_cap": null,
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "kein Kurs verfuegbar",
@@ -39458,7 +39458,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:13.978045"
+    "last_updated": "2026-08-26T12:11:12.400038"
   },
   "LGEN.L": {
     "ticker": "LGEN.L",
@@ -39467,12 +39467,12 @@
     "sektor": "Finanzen",
     "isin": "GB0005603997",
     "isin_quelle": null,
-    "price": 290.5,
-    "perf_1m": -2.35,
-    "perf_3m": 7.04,
-    "perf_1y": 15.19,
-    "perf_3y": 32.83,
-    "gesamtrendite_3j_pct": 53.83,
+    "price": 290.5950012207031,
+    "perf_1m": -2.32,
+    "perf_3m": 7.07,
+    "perf_1y": 15.22,
+    "perf_3y": 32.87,
+    "gesamtrendite_3j_pct": 53.87,
     "chart_series": [
       [
         "2023-08-29",
@@ -39716,7 +39716,7 @@
       ],
       [
         "2026-08-26",
-        290.5
+        290.5950012207031
       ]
     ],
     "dividend_per_share": null,
@@ -39731,7 +39731,7 @@
     "pe_ratio": 45.0,
     "pe_quelle": null,
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -39778,7 +39778,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:18.022657"
+    "last_updated": "2026-08-26T12:10:03.459220"
   },
   "MUX.DE": {
     "ticker": "MUX.DE",
@@ -39787,12 +39787,12 @@
     "sektor": "Beteiligungen",
     "isin": null,
     "isin_quelle": null,
-    "price": 26.350000381469727,
-    "perf_1m": -1.86,
-    "perf_3m": -5.56,
-    "perf_1y": -5.92,
-    "perf_3y": 22.37,
-    "gesamtrendite_3j_pct": 44.87,
+    "price": 26.149999618530273,
+    "perf_1m": -2.61,
+    "perf_3m": -6.27,
+    "perf_1y": -6.63,
+    "perf_3y": 21.44,
+    "gesamtrendite_3j_pct": 43.94,
     "chart_series": [
       [
         "2023-08-28",
@@ -40036,7 +40036,7 @@
       ],
       [
         "2026-08-26",
-        26.350000381469727
+        26.149999618530273
       ]
     ],
     "dividend_per_share": null,
@@ -40050,8 +40050,8 @@
     "market_cap": null,
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -40100,14 +40100,14 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:18.997527"
+    "last_updated": "2026-08-26T12:10:37.485208"
   },
   "HAW.DE": {
     "ticker": "HAW.DE",
     "name": "Hawesko Holding",
     "land": "Deutschland",
     "sektor": "Konsumgueter",
-    "isin": "DE0006042708",
+    "isin": null,
     "isin_quelle": null,
     "price": 16.5,
     "perf_1m": -6.52,
@@ -40369,11 +40369,11 @@
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": 150022832,
+    "market_cap": null,
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -40420,7 +40420,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:51.090308"
+    "last_updated": "2026-08-26T12:10:29.649720"
   },
   "UCG.MI": {
     "ticker": "UCG.MI",
@@ -40429,12 +40429,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 85.19000244140625,
-    "perf_1m": 4.44,
-    "perf_3m": 14.75,
-    "perf_1y": 28.63,
-    "perf_3y": 275.29,
-    "gesamtrendite_3j_pct": 291.19,
+    "price": 85.30000305175781,
+    "perf_1m": 4.57,
+    "perf_3m": 14.9,
+    "perf_1y": 28.79,
+    "perf_3y": 275.77,
+    "gesamtrendite_3j_pct": 291.67,
     "chart_series": [
       [
         "2023-08-28",
@@ -40678,7 +40678,7 @@
       ],
       [
         "2026-08-26",
-        85.19000244140625
+        85.30000305175781
       ]
     ],
     "dividend_per_share": null,
@@ -40693,7 +40693,7 @@
     "pe_ratio": 7,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -40742,7 +40742,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:26.339790"
+    "last_updated": "2026-08-26T12:11:24.402752"
   },
   "HABA.DE": {
     "ticker": "HABA.DE",
@@ -40751,12 +40751,12 @@
     "sektor": "Immobilien",
     "isin": "DE000A3H2333",
     "isin_quelle": null,
-    "price": 4.349999904632568,
-    "perf_1m": -1.81,
-    "perf_3m": -16.67,
-    "perf_1y": -24.22,
-    "perf_3y": -33.59,
-    "gesamtrendite_3j_pct": -17.69,
+    "price": 4.335000038146973,
+    "perf_1m": -2.14,
+    "perf_3m": -16.95,
+    "perf_1y": -24.48,
+    "perf_3y": -33.82,
+    "gesamtrendite_3j_pct": -17.92,
     "chart_series": [
       [
         "2023-08-28",
@@ -41000,7 +41000,7 @@
       ],
       [
         "2026-08-26",
-        4.349999904632568
+        4.335000038146973
       ]
     ],
     "dividend_per_share": null,
@@ -41011,11 +41011,11 @@
     "payout_ratio_pct": 200.0,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": 352623392,
+    "market_cap": null,
     "pe_ratio": 33.8,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -41062,7 +41062,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:56.431666"
+    "last_updated": "2026-08-26T12:11:09.491006"
   },
   "IBE.MC": {
     "ticker": "IBE.MC",
@@ -41071,12 +41071,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 20.1200008392334,
-    "perf_1m": -3.73,
-    "perf_3m": 3.18,
-    "perf_1y": 25.16,
-    "perf_3y": 85.27,
-    "gesamtrendite_3j_pct": 88.48,
+    "price": 20.139999389648438,
+    "perf_1m": -3.64,
+    "perf_3m": 3.28,
+    "perf_1y": 25.29,
+    "perf_3y": 85.45,
+    "gesamtrendite_3j_pct": 88.66,
     "chart_series": [
       [
         "2023-08-28",
@@ -41320,7 +41320,7 @@
       ],
       [
         "2026-08-26",
-        20.1200008392334
+        20.139999389648438
       ]
     ],
     "dividend_per_share": null,
@@ -41334,8 +41334,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -41382,7 +41382,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:02.270728"
+    "last_updated": "2026-08-26T12:11:00.267770"
   },
   "ELE.MC": {
     "ticker": "ELE.MC",
@@ -41391,12 +41391,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 42.040000915527344,
-    "perf_1m": 4.45,
-    "perf_3m": 17.23,
-    "perf_1y": 61.44,
-    "perf_3y": 119.64,
-    "gesamtrendite_3j_pct": 139.14,
+    "price": 42.099998474121094,
+    "perf_1m": 4.6,
+    "perf_3m": 17.4,
+    "perf_1y": 61.67,
+    "perf_3y": 119.96,
+    "gesamtrendite_3j_pct": 139.46,
     "chart_series": [
       [
         "2023-08-28",
@@ -41640,7 +41640,7 @@
       ],
       [
         "2026-08-26",
-        42.040000915527344
+        42.099998474121094
       ]
     ],
     "dividend_per_share": null,
@@ -41654,8 +41654,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -41702,7 +41702,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:23.788093"
+    "last_updated": "2026-08-26T12:10:06.746375"
   },
   "BBAS3.SA": {
     "ticker": "BBAS3.SA",
@@ -41975,7 +41975,7 @@
     "pe_ratio": 5,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -42022,7 +42022,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:52.465929"
+    "last_updated": "2026-08-26T12:10:26.065769"
   },
   "BBSE3.SA": {
     "ticker": "BBSE3.SA",
@@ -42295,7 +42295,7 @@
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -42342,7 +42342,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:01.795884"
+    "last_updated": "2026-08-26T12:10:28.945743"
   },
   "OHI": {
     "ticker": "OHI",
@@ -42614,8 +42614,8 @@
     "market_cap": null,
     "pe_ratio": 14,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-13",
     "next_payout_hinweis": "geschaetzt (quartalsweise, Muster Mai/Aug/Nov/Feb, letzte Zahlung 14.08.2026)",
     "data_source": "Yahoo",
@@ -42662,7 +42662,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:17.266566"
+    "last_updated": "2026-08-26T12:10:05.681530"
   },
   "BIJ.DE": {
     "ticker": "BIJ.DE",
@@ -42671,12 +42671,12 @@
     "sektor": "Einzelhandel",
     "isin": null,
     "isin_quelle": null,
-    "price": 46.400001525878906,
-    "perf_1m": -3.13,
-    "perf_3m": -15.33,
-    "perf_1y": 18.07,
-    "perf_3y": 32.57,
-    "gesamtrendite_3j_pct": 70.67,
+    "price": 48.0,
+    "perf_1m": 0.21,
+    "perf_3m": -12.41,
+    "perf_1y": 22.14,
+    "perf_3y": 37.14,
+    "gesamtrendite_3j_pct": 75.24,
     "chart_series": [
       [
         "2023-08-28",
@@ -42920,7 +42920,7 @@
       ],
       [
         "2026-08-26",
-        46.400001525878906
+        48.0
       ]
     ],
     "dividend_per_share": null,
@@ -42934,8 +42934,8 @@
     "market_cap": null,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -42982,7 +42982,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:15.512096"
+    "last_updated": "2026-08-26T12:11:14.081660"
   },
   "PBR": {
     "ticker": "PBR",
@@ -43254,8 +43254,8 @@
     "market_cap": null,
     "pe_ratio": 6,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -43302,7 +43302,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:12.106328"
+    "last_updated": "2026-08-26T12:11:17.160460"
   },
   "BMW.DE": {
     "ticker": "BMW.DE",
@@ -43311,12 +43311,12 @@
     "sektor": "Automobil",
     "isin": "DE0005190003",
     "isin_quelle": null,
-    "price": 57.560001373291016,
-    "perf_1m": -3.33,
-    "perf_3m": -23.01,
-    "perf_1y": -35.67,
-    "perf_3y": -38.9,
-    "gesamtrendite_3j_pct": -16.4,
+    "price": 57.70000076293945,
+    "perf_1m": -3.09,
+    "perf_3m": -22.82,
+    "perf_1y": -35.52,
+    "perf_3y": -38.75,
+    "gesamtrendite_3j_pct": -16.25,
     "chart_series": [
       [
         "2023-08-28",
@@ -43560,7 +43560,7 @@
       ],
       [
         "2026-08-26",
-        57.560001373291016
+        57.70000076293945
       ]
     ],
     "dividend_per_share": null,
@@ -43574,8 +43574,8 @@
     "market_cap": 34000000000.0,
     "pe_ratio": 5.5,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-18",
     "next_payout_hinweis": "geschaetzt - HV am 12.05.2027 offiziell bestaetigt (bmwgroup.com), Auszahlung ca. 5-6 Tage danach nach 2026er-Muster",
     "data_source": "Yahoo",
@@ -43624,7 +43624,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:22:54.672204"
+    "last_updated": "2026-08-26T12:10:37.819790"
   },
   "ENEL.MI": {
     "ticker": "ENEL.MI",
@@ -43633,12 +43633,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 9.581000328063965,
-    "perf_1m": -2.93,
-    "perf_3m": -0.46,
-    "perf_1y": 20.03,
-    "perf_3y": 54.91,
-    "gesamtrendite_3j_pct": 61.78,
+    "price": 9.593999862670898,
+    "perf_1m": -2.8,
+    "perf_3m": -0.32,
+    "perf_1y": 20.2,
+    "perf_3y": 55.12,
+    "gesamtrendite_3j_pct": 61.99,
     "chart_series": [
       [
         "2023-08-28",
@@ -43882,7 +43882,7 @@
       ],
       [
         "2026-08-26",
-        9.581000328063965
+        9.593999862670898
       ]
     ],
     "dividend_per_share": null,
@@ -43896,8 +43896,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -43944,7 +43944,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:43.815397"
+    "last_updated": "2026-08-26T12:10:42.663040"
   },
   "CCI": {
     "ticker": "CCI",
@@ -44216,8 +44216,8 @@
     "market_cap": null,
     "pe_ratio": 25,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -44264,7 +44264,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:41.140082"
+    "last_updated": "2026-08-26T12:11:14.415871"
   },
   "004990.KS": {
     "ticker": "004990.KS",
@@ -44536,8 +44536,8 @@
     "market_cap": null,
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -44586,7 +44586,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:10.638053"
+    "last_updated": "2026-08-26T12:11:01.543154"
   },
   "TRYG.CO": {
     "ticker": "TRYG.CO",
@@ -44859,7 +44859,7 @@
     "pe_ratio": 14,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -44906,7 +44906,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:35.285833"
+    "last_updated": "2026-08-26T12:11:04.685875"
   },
   "EDL.DE": {
     "ticker": "EDL.DE",
@@ -44915,12 +44915,12 @@
     "sektor": "Medien",
     "isin": null,
     "isin_quelle": null,
-    "price": 4.619999885559082,
-    "perf_1m": -5.33,
-    "perf_3m": -3.75,
-    "perf_1y": 11.59,
-    "perf_3y": 5.96,
-    "gesamtrendite_3j_pct": 22.31,
+    "price": 4.699999809265137,
+    "perf_1m": -3.69,
+    "perf_3m": -2.08,
+    "perf_1y": 13.53,
+    "perf_3y": 7.8,
+    "gesamtrendite_3j_pct": 24.15,
     "chart_series": [
       [
         "2023-08-28",
@@ -45164,7 +45164,7 @@
       ],
       [
         "2026-08-26",
-        4.619999885559082
+        4.699999809265137
       ]
     ],
     "dividend_per_share": null,
@@ -45178,8 +45178,8 @@
     "market_cap": null,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -45226,7 +45226,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:27.448055"
+    "last_updated": "2026-08-26T12:11:13.032021"
   },
   "CPFE3.SA": {
     "ticker": "CPFE3.SA",
@@ -45498,8 +45498,8 @@
     "market_cap": null,
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -45548,7 +45548,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:19.798145"
+    "last_updated": "2026-08-26T12:10:54.757593"
   },
   "WSU.DE": {
     "ticker": "WSU.DE",
@@ -45820,8 +45820,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -45868,7 +45868,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:33.107445"
+    "last_updated": "2026-08-26T12:10:04.181250"
   },
   "HOT.DE": {
     "ticker": "HOT.DE",
@@ -45877,12 +45877,12 @@
     "sektor": "Bau",
     "isin": null,
     "isin_quelle": null,
-    "price": 430.0,
-    "perf_1m": -0.46,
-    "perf_3m": -11.63,
-    "perf_1y": 101.12,
-    "perf_3y": 339.9,
-    "gesamtrendite_3j_pct": 360.9,
+    "price": 430.6000061035156,
+    "perf_1m": -0.32,
+    "perf_3m": -11.51,
+    "perf_1y": 101.4,
+    "perf_3y": 340.51,
+    "gesamtrendite_3j_pct": 361.51,
     "chart_series": [
       [
         "2023-08-28",
@@ -46126,7 +46126,7 @@
       ],
       [
         "2026-08-26",
-        430.0
+        430.6000061035156
       ]
     ],
     "dividend_per_share": null,
@@ -46140,8 +46140,8 @@
     "market_cap": null,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -46190,7 +46190,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:08.928406"
+    "last_updated": "2026-08-26T12:10:14.477195"
   },
   "LYB": {
     "ticker": "LYB",
@@ -46462,8 +46462,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-09-02",
     "next_payout_hinweis": "bestaetigt (stockevents.app) - zahlt quartalsweise",
     "data_source": "Yahoo",
@@ -46510,14 +46510,14 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:28.014648"
+    "last_updated": "2026-08-26T12:10:22.579123"
   },
   "PWO.DE": {
     "ticker": "PWO.DE",
     "name": "Progress-Werk Oberkirch",
     "land": "Deutschland",
     "sektor": "Automobilzulieferer",
-    "isin": "DE0006968001",
+    "isin": null,
     "isin_quelle": null,
     "price": 22.799999237060547,
     "perf_1m": -0.87,
@@ -46779,11 +46779,11 @@
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": 71875000,
+    "market_cap": null,
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -46830,7 +46830,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:40.109308"
+    "last_updated": "2026-08-26T12:11:24.057056"
   },
   "DTG.DE": {
     "ticker": "DTG.DE",
@@ -46839,12 +46839,12 @@
     "sektor": "Automobil",
     "isin": "DE000DTR0CK8",
     "isin_quelle": null,
-    "price": 47.06999969482422,
-    "perf_1m": -2.12,
-    "perf_3m": 11.67,
-    "perf_1y": 16.83,
-    "perf_3y": 46.73,
-    "gesamtrendite_3j_pct": 62.03,
+    "price": 47.20000076293945,
+    "perf_1m": -1.85,
+    "perf_3m": 11.98,
+    "perf_1y": 17.15,
+    "perf_3y": 47.13,
+    "gesamtrendite_3j_pct": 62.43,
     "chart_series": [
       [
         "2023-08-28",
@@ -47088,7 +47088,7 @@
       ],
       [
         "2026-08-26",
-        47.06999969482422
+        47.20000076293945
       ]
     ],
     "dividend_per_share": null,
@@ -47102,8 +47102,8 @@
     "market_cap": 33000000000.0,
     "pe_ratio": 25.0,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -47150,7 +47150,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:31.660099"
+    "last_updated": "2026-08-26T12:10:23.639927"
   },
   "030000.KS": {
     "ticker": "030000.KS",
@@ -47422,8 +47422,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -47470,7 +47470,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:21.780984"
+    "last_updated": "2026-08-26T12:11:06.355018"
   },
   "PBA": {
     "ticker": "PBA",
@@ -47742,8 +47742,8 @@
     "market_cap": null,
     "pe_ratio": 15,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Kanada: meist quartalsweise, grob Dez angesetzt.",
     "data_source": "Yahoo",
@@ -47790,7 +47790,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:37.625322"
+    "last_updated": "2026-08-26T12:10:33.743898"
   },
   "ISP.MI": {
     "ticker": "ISP.MI",
@@ -47799,12 +47799,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 6.857999801635742,
-    "perf_1m": 5.83,
-    "perf_3m": 18.1,
-    "perf_1y": 27.28,
-    "perf_3y": 174.1,
-    "gesamtrendite_3j_pct": 196.6,
+    "price": 6.866000175476074,
+    "perf_1m": 5.96,
+    "perf_3m": 18.24,
+    "perf_1y": 27.43,
+    "perf_3y": 174.42,
+    "gesamtrendite_3j_pct": 196.92,
     "chart_series": [
       [
         "2023-08-28",
@@ -48048,7 +48048,7 @@
       ],
       [
         "2026-08-26",
-        6.857999801635742
+        6.866000175476074
       ]
     ],
     "dividend_per_share": null,
@@ -48063,7 +48063,7 @@
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -48110,7 +48110,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:00.299064"
+    "last_updated": "2026-08-26T12:10:27.675984"
   },
   "WCH.DE": {
     "ticker": "WCH.DE",
@@ -48119,12 +48119,12 @@
     "sektor": "Chemie",
     "isin": "DE000WCH8881",
     "isin_quelle": null,
-    "price": 90.30000305175781,
-    "perf_1m": 6.93,
-    "perf_3m": -9.06,
-    "perf_1y": 37.23,
-    "perf_3y": -33.65,
-    "gesamtrendite_3j_pct": -25.85,
+    "price": 90.3499984741211,
+    "perf_1m": 6.99,
+    "perf_3m": -9.01,
+    "perf_1y": 37.31,
+    "perf_3y": -33.61,
+    "gesamtrendite_3j_pct": -25.81,
     "chart_series": [
       [
         "2023-08-28",
@@ -48368,7 +48368,7 @@
       ],
       [
         "2026-08-26",
-        90.30000305175781
+        90.3499984741211
       ]
     ],
     "dividend_per_share": null,
@@ -48430,7 +48430,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:49.932054"
+    "last_updated": "2026-08-26T12:11:04.366672"
   },
   "NLY": {
     "ticker": "NLY",
@@ -48702,8 +48702,8 @@
     "market_cap": null,
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.3,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-10-31",
     "next_payout_hinweis": "geschaetzt (quartalsweise, naechster Ex-Tag laut Marketchameleon fuer Ende Sept/Anfang Okt erwartet)",
     "data_source": "Yahoo",
@@ -48750,7 +48750,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:29.586440"
+    "last_updated": "2026-08-26T12:11:10.515003"
   },
   "GLEN.L": {
     "ticker": "GLEN.L",
@@ -48759,12 +48759,12 @@
     "sektor": "Grundstoffe",
     "isin": null,
     "isin_quelle": null,
-    "price": 604.7999877929688,
-    "perf_1m": 19.41,
-    "perf_3m": 6.52,
-    "perf_1y": 106.13,
-    "perf_3y": 37.99,
-    "gesamtrendite_3j_pct": 43.09,
+    "price": 605.2000122070312,
+    "perf_1m": 19.49,
+    "perf_3m": 6.59,
+    "perf_1y": 106.27,
+    "perf_3y": 38.08,
+    "gesamtrendite_3j_pct": 43.18,
     "chart_series": [
       [
         "2023-08-29",
@@ -49008,7 +49008,7 @@
       ],
       [
         "2026-08-26",
-        604.7999877929688
+        605.2000122070312
       ]
     ],
     "dividend_per_share": null,
@@ -49070,7 +49070,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:29.106461"
+    "last_updated": "2026-08-26T12:10:24.248184"
   },
   "STG.CO": {
     "ticker": "STG.CO",
@@ -49079,12 +49079,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 71.0999984741211,
-    "perf_1m": -2.07,
-    "perf_3m": -0.7,
-    "perf_1y": -22.04,
-    "perf_3y": -38.44,
-    "gesamtrendite_3j_pct": -19.24,
+    "price": 70.9000015258789,
+    "perf_1m": -2.34,
+    "perf_3m": -0.98,
+    "perf_1y": -22.26,
+    "perf_3y": -38.61,
+    "gesamtrendite_3j_pct": -19.41,
     "chart_series": [
       [
         "2023-08-28",
@@ -49328,7 +49328,7 @@
       ],
       [
         "2026-08-26",
-        71.0999984741211
+        70.9000015258789
       ]
     ],
     "dividend_per_share": null,
@@ -49342,8 +49342,8 @@
     "market_cap": null,
     "pe_ratio": 11,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -49390,7 +49390,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:19.309159"
+    "last_updated": "2026-08-26T12:11:01.879703"
   },
   "M12.DE": {
     "ticker": "M12.DE",
@@ -49399,12 +49399,12 @@
     "sektor": "Gesundheit",
     "isin": null,
     "isin_quelle": null,
-    "price": 18.559999465942383,
-    "perf_1m": 3.0,
-    "perf_3m": -2.32,
-    "perf_1y": 37.08,
-    "perf_3y": 119.91,
-    "gesamtrendite_3j_pct": 139.41,
+    "price": 18.34000015258789,
+    "perf_1m": 1.78,
+    "perf_3m": -3.47,
+    "perf_1y": 35.45,
+    "perf_3y": 117.3,
+    "gesamtrendite_3j_pct": 136.8,
     "chart_series": [
       [
         "2023-08-28",
@@ -49648,7 +49648,7 @@
       ],
       [
         "2026-08-26",
-        18.559999465942383
+        18.34000015258789
       ]
     ],
     "dividend_per_share": null,
@@ -49662,8 +49662,8 @@
     "market_cap": null,
     "pe_ratio": 15,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -49712,7 +49712,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:24:32.563938"
+    "last_updated": "2026-08-26T12:10:13.427760"
   },
   "035250.KS": {
     "ticker": "035250.KS",
@@ -49984,8 +49984,8 @@
     "market_cap": null,
     "pe_ratio": 15,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-04-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Region-typisches Muster, unsicherer als andere.",
     "data_source": "Yahoo",
@@ -50032,7 +50032,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:58.100784"
+    "last_updated": "2026-08-26T12:10:17.484384"
   },
   "OKE": {
     "ticker": "OKE",
@@ -50304,8 +50304,8 @@
     "market_cap": null,
     "pe_ratio": 16,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -50352,7 +50352,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:18.849520"
+    "last_updated": "2026-08-26T12:10:26.459689"
   },
   "ZURN.SW": {
     "ticker": "ZURN.SW",
@@ -50361,12 +50361,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 596.4000244140625,
-    "perf_1m": -4.18,
-    "perf_3m": 7.07,
-    "perf_1y": 0.57,
-    "perf_3y": 45.43,
-    "gesamtrendite_3j_pct": 60.73,
+    "price": 596.5999755859375,
+    "perf_1m": -4.15,
+    "perf_3m": 7.11,
+    "perf_1y": 0.61,
+    "perf_3y": 45.48,
+    "gesamtrendite_3j_pct": 60.78,
     "chart_series": [
       [
         "2023-08-28",
@@ -50610,7 +50610,7 @@
       ],
       [
         "2026-08-26",
-        596.4000244140625
+        596.5999755859375
       ]
     ],
     "dividend_per_share": null,
@@ -50625,7 +50625,7 @@
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -50672,7 +50672,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:36.512233"
+    "last_updated": "2026-08-26T12:11:07.715192"
   },
   "AV.L": {
     "ticker": "AV.L",
@@ -50681,12 +50681,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 732.2000122070312,
-    "perf_1m": 5.78,
-    "perf_3m": 19.41,
-    "perf_1y": 11.58,
-    "perf_3y": 95.15,
-    "gesamtrendite_3j_pct": 116.75,
+    "price": 734.2000122070312,
+    "perf_1m": 6.07,
+    "perf_3m": 19.73,
+    "perf_1y": 11.89,
+    "perf_3y": 95.68,
+    "gesamtrendite_3j_pct": 117.28,
     "chart_series": [
       [
         "2023-08-29",
@@ -50930,7 +50930,7 @@
       ],
       [
         "2026-08-26",
-        732.2000122070312
+        734.2000122070312
       ]
     ],
     "dividend_per_share": null,
@@ -50945,7 +50945,7 @@
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -50994,7 +50994,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:33.092889"
+    "last_updated": "2026-08-26T12:11:03.393232"
   },
   "TU": {
     "ticker": "TU",
@@ -51266,8 +51266,8 @@
     "market_cap": null,
     "pe_ratio": 22,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Kanada: meist quartalsweise, grob Dez angesetzt.",
     "data_source": "Yahoo",
@@ -51314,7 +51314,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:59.052161"
+    "last_updated": "2026-08-26T12:10:57.144302"
   },
   "BNS": {
     "ticker": "BNS",
@@ -51587,7 +51587,7 @@
     "pe_ratio": 15.0,
     "pe_quelle": null,
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -51634,7 +51634,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:58.565482"
+    "last_updated": "2026-08-26T12:11:07.385235"
   },
   "CS.PA": {
     "ticker": "CS.PA",
@@ -51643,12 +51643,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 43.709999084472656,
-    "perf_1m": -4.08,
-    "perf_3m": 10.02,
-    "perf_1y": 9.85,
-    "perf_3y": 58.77,
-    "gesamtrendite_3j_pct": 76.17,
+    "price": 43.72999954223633,
+    "perf_1m": -4.04,
+    "perf_3m": 10.07,
+    "perf_1y": 9.9,
+    "perf_3y": 58.84,
+    "gesamtrendite_3j_pct": 76.24,
     "chart_series": [
       [
         "2023-08-28",
@@ -51892,7 +51892,7 @@
       ],
       [
         "2026-08-26",
-        43.709999084472656
+        43.72999954223633
       ]
     ],
     "dividend_per_share": null,
@@ -51907,7 +51907,7 @@
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -51954,7 +51954,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:14.700469"
+    "last_updated": "2026-08-26T12:10:35.064787"
   },
   "B7E.DE": {
     "ticker": "B7E.DE",
@@ -52226,8 +52226,8 @@
     "market_cap": null,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -52274,7 +52274,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:22.429804"
+    "last_updated": "2026-08-26T12:11:21.574846"
   },
   "EN.PA": {
     "ticker": "EN.PA",
@@ -52283,12 +52283,12 @@
     "sektor": "Industrie",
     "isin": null,
     "isin_quelle": null,
-    "price": 46.16999816894531,
-    "perf_1m": -0.77,
-    "perf_3m": -8.5,
-    "perf_1y": 26.01,
-    "perf_3y": 46.39,
-    "gesamtrendite_3j_pct": 62.29,
+    "price": 46.279998779296875,
+    "perf_1m": -0.54,
+    "perf_3m": -8.28,
+    "perf_1y": 26.31,
+    "perf_3y": 46.73,
+    "gesamtrendite_3j_pct": 62.63,
     "chart_series": [
       [
         "2023-08-28",
@@ -52532,7 +52532,7 @@
       ],
       [
         "2026-08-26",
-        46.16999816894531
+        46.279998779296875
       ]
     ],
     "dividend_per_share": null,
@@ -52546,8 +52546,8 @@
     "market_cap": null,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 0.8,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": "2027-05-20",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Europa: meist jaehrlich Mai/Juni.",
     "data_source": "Yahoo",
@@ -52596,7 +52596,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-08-26T11:23:27.047494"
+    "last_updated": "2026-08-26T12:10:53.684331"
   },
   "MB.MI": {
     "ticker": "MB.MI",
@@ -52605,12 +52605,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 28.030000686645508,
-    "perf_1m": 0.57,
-    "perf_3m": 26.32,
-    "perf_1y": 35.28,
-    "perf_3y": 130.89,
-    "gesamtrendite_3j_pct": 162.39,
+    "price": 28.059999465942383,
+    "perf_1m": 0.68,
+    "perf_3m": 26.45,
+    "perf_1y": 35.42,
+    "perf_3y": 131.14,
+    "gesamtrendite_3j_pct": 162.64,
     "chart_series": [
       [
         "2023-08-28",
@@ -52854,7 +52854,7 @@
       ],
       [
         "2026-08-26",
-        28.030000686645508
+        28.059999465942383
       ]
     ],
     "dividend_per_share": null,
@@ -52869,7 +52869,7 @@
     "pe_ratio": 8,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-11-20",
     "next_payout_hinweis": "grobe Schaetzung - Mediobanca zahlt 2x/Jahr (Acconto im November, Saldo im April/Mai), kein exaktes Novemberdatum 2026 gefunden",
     "data_source": "Yahoo",
@@ -52916,7 +52916,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:07.272661"
+    "last_updated": "2026-08-26T12:10:46.473037"
   },
   "KEY": {
     "ticker": "KEY",
@@ -53189,7 +53189,7 @@
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-11-15",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. US-Standard: quartalsweise.",
     "data_source": "Yahoo",
@@ -53236,7 +53236,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:44.384574"
+    "last_updated": "2026-08-26T12:11:01.232194"
   },
   "TTE.PA": {
     "ticker": "TTE.PA",
@@ -53245,12 +53245,12 @@
     "sektor": "Energie",
     "isin": null,
     "isin_quelle": null,
-    "price": 74.30000305175781,
-    "perf_1m": 0.7,
-    "perf_3m": -1.17,
-    "perf_1y": 38.88,
-    "perf_3y": 24.08,
-    "gesamtrendite_3j_pct": 26.6,
+    "price": 74.41999816894531,
+    "perf_1m": 0.87,
+    "perf_3m": -1.01,
+    "perf_1y": 39.1,
+    "perf_3y": 24.28,
+    "gesamtrendite_3j_pct": 26.8,
     "chart_series": [
       [
         "2023-08-28",
@@ -53494,7 +53494,7 @@
       ],
       [
         "2026-08-26",
-        74.30000305175781
+        74.41999816894531
       ]
     ],
     "dividend_per_share": null,
@@ -53508,8 +53508,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "Yahoo",
@@ -53556,7 +53556,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:04.355747"
+    "last_updated": "2026-08-26T12:10:50.587712"
   },
   "BCH": {
     "ticker": "BCH",
@@ -53829,7 +53829,7 @@
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity_hinweis": "Bewusst OHNE D/E-Wert - bei Banken/Versicherern ist die rohe Kennzahl durch Kundeneinlagen/Versicherungsrueckstellungen strukturell nicht mit Industriewerten vergleichbar, eine erzwungene Zahl waere irrefuehrend.",
     "next_payout": "2026-12-01",
     "next_payout_hinweis": "Grobe Schaetzung nach TYPISCHEM Zahlrhythmus der Boerse/Region - kein Einzeldatum recherchiert. Kanada: meist quartalsweise, grob Dez angesetzt.",
     "data_source": "Yahoo",
@@ -53876,7 +53876,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:37.202861"
+    "last_updated": "2026-08-26T12:10:45.468968"
   },
   "WCP": {
     "ticker": "WCP",
@@ -53903,8 +53903,8 @@
     "market_cap": null,
     "pe_ratio": null,
     "pe_quelle": null,
-    "debt_to_equity": null,
-    "debt_to_equity_hinweis": null,
+    "debt_to_equity": 1.2,
+    "debt_to_equity_hinweis": "Sektortypische Schnellschaetzung aus Allgemeinwissen, NICHT einzeln verifiziert.",
     "next_payout": null,
     "next_payout_hinweis": null,
     "data_source": "kein Kurs verfuegbar",
@@ -53943,7 +53943,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:01.252542"
+    "last_updated": "2026-08-26T12:11:02.696253"
   },
   "ENGI.PA": {
     "ticker": "ENGI.PA",
@@ -53952,12 +53952,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 25.209999084472656,
-    "perf_1m": -3.63,
-    "perf_3m": -4.76,
-    "perf_1y": 42.51,
-    "perf_3y": 72.01,
-    "gesamtrendite_3j_pct": 87.49,
+    "price": 25.18000030517578,
+    "perf_1m": -3.75,
+    "perf_3m": -4.87,
+    "perf_1y": 42.34,
+    "perf_3y": 71.81,
+    "gesamtrendite_3j_pct": 87.29,
     "chart_series": [
       [
         "2023-08-28",
@@ -54201,7 +54201,7 @@
       ],
       [
         "2026-08-26",
-        25.209999084472656
+        25.18000030517578
       ]
     ],
     "dividend_per_share": 1.3,
@@ -54251,7 +54251,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:33.668311"
+    "last_updated": "2026-08-26T12:10:00.994275"
   },
   "IMB.L": {
     "ticker": "IMB.L",
@@ -54260,12 +54260,12 @@
     "sektor": "Tabak",
     "isin": null,
     "isin_quelle": null,
-    "price": 2516.0,
-    "perf_1m": -13.24,
-    "perf_3m": -6.68,
-    "perf_1y": -18.81,
-    "perf_3y": 40.83,
-    "gesamtrendite_3j_pct": 41.01,
+    "price": 2519.0,
+    "perf_1m": -13.14,
+    "perf_3m": -6.57,
+    "perf_1y": -18.72,
+    "perf_3y": 41.0,
+    "gesamtrendite_3j_pct": 41.18,
     "chart_series": [
       [
         "2023-08-29",
@@ -54509,7 +54509,7 @@
       ],
       [
         "2026-08-26",
-        2516.0
+        2519.0
       ]
     ],
     "dividend_per_share": 1.6,
@@ -54559,7 +54559,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:31.067195"
+    "last_updated": "2026-08-26T12:11:00.899548"
   },
   "NG.L": {
     "ticker": "NG.L",
@@ -54568,12 +54568,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 1179.0,
-    "perf_1m": -3.2,
-    "perf_3m": -1.38,
-    "perf_1y": 12.5,
-    "perf_3y": 19.07,
-    "gesamtrendite_3j_pct": 19.19,
+    "price": 1180.5,
+    "perf_1m": -3.08,
+    "perf_3m": -1.25,
+    "perf_1y": 12.64,
+    "perf_3y": 19.22,
+    "gesamtrendite_3j_pct": 19.34,
     "chart_series": [
       [
         "2023-08-29",
@@ -54817,7 +54817,7 @@
       ],
       [
         "2026-08-26",
-        1179.0
+        1180.5
       ]
     ],
     "dividend_per_share": 0.52,
@@ -54867,7 +54867,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:57.610639"
+    "last_updated": "2026-08-26T12:09:59.661273"
   },
   "SHEL.L": {
     "ticker": "SHEL.L",
@@ -54876,12 +54876,12 @@
     "sektor": "Energie",
     "isin": null,
     "isin_quelle": null,
-    "price": 3332.0,
-    "perf_1m": 3.01,
-    "perf_3m": 6.86,
-    "perf_1y": 22.7,
-    "perf_3y": 38.17,
-    "gesamtrendite_3j_pct": 38.26,
+    "price": 3335.0,
+    "perf_1m": 3.11,
+    "perf_3m": 6.96,
+    "perf_1y": 22.81,
+    "perf_3y": 38.3,
+    "gesamtrendite_3j_pct": 38.39,
     "chart_series": [
       [
         "2023-08-29",
@@ -55125,7 +55125,7 @@
       ],
       [
         "2026-08-26",
-        3332.0
+        3335.0
       ]
     ],
     "dividend_per_share": 0.86,
@@ -55175,7 +55175,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:20.834428"
+    "last_updated": "2026-08-26T12:10:59.242022"
   },
   "VOD.L": {
     "ticker": "VOD.L",
@@ -55184,12 +55184,12 @@
     "sektor": "Telekom",
     "isin": null,
     "isin_quelle": null,
-    "price": 117.44999694824219,
-    "perf_1m": -2.25,
-    "perf_3m": 5.43,
-    "perf_1y": 31.46,
-    "perf_3y": 60.28,
-    "gesamtrendite_3j_pct": 60.52,
+    "price": 117.5999984741211,
+    "perf_1m": -2.12,
+    "perf_3m": 5.57,
+    "perf_1y": 31.63,
+    "perf_3y": 60.48,
+    "gesamtrendite_3j_pct": 60.72,
     "chart_series": [
       [
         "2023-08-29",
@@ -55433,7 +55433,7 @@
       ],
       [
         "2026-08-26",
-        117.44999694824219
+        117.5999984741211
       ]
     ],
     "dividend_per_share": 0.09,
@@ -55483,7 +55483,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:05.494321"
+    "last_updated": "2026-08-26T12:10:48.156112"
   },
   "BP.L": {
     "ticker": "BP.L",
@@ -55492,12 +55492,12 @@
     "sektor": "Energie",
     "isin": null,
     "isin_quelle": null,
-    "price": 514.5,
-    "perf_1m": -2.13,
-    "perf_3m": -1.4,
-    "perf_1y": 19.9,
-    "perf_3y": 5.17,
-    "gesamtrendite_3j_pct": 5.35,
+    "price": 515.4000244140625,
+    "perf_1m": -1.96,
+    "perf_3m": -1.23,
+    "perf_1y": 20.11,
+    "perf_3y": 5.36,
+    "gesamtrendite_3j_pct": 5.54,
     "chart_series": [
       [
         "2023-08-29",
@@ -55741,7 +55741,7 @@
       ],
       [
         "2026-08-26",
-        514.5
+        515.4000244140625
       ]
     ],
     "dividend_per_share": 0.32,
@@ -55791,7 +55791,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:16.514401"
+    "last_updated": "2026-08-26T12:10:19.829748"
   },
   "0857.HK": {
     "ticker": "0857.HK",
@@ -56099,7 +56099,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:57.608586"
+    "last_updated": "2026-08-26T12:11:13.737806"
   },
   "SAN.PA": {
     "ticker": "SAN.PA",
@@ -56108,12 +56108,12 @@
     "sektor": "Gesundheit",
     "isin": null,
     "isin_quelle": null,
-    "price": 78.9000015258789,
-    "perf_1m": -0.6,
-    "perf_3m": 4.79,
-    "perf_1y": -6.62,
-    "perf_3y": -20.85,
-    "gesamtrendite_3j_pct": -5.94,
+    "price": 78.95999908447266,
+    "perf_1m": -0.53,
+    "perf_3m": 4.87,
+    "perf_1y": -6.55,
+    "perf_3y": -20.79,
+    "gesamtrendite_3j_pct": -5.91,
     "chart_series": [
       [
         "2023-08-28",
@@ -56357,14 +56357,14 @@
       ],
       [
         "2026-08-26",
-        78.9000015258789
+        78.95999908447266
       ]
     ],
     "dividend_per_share": 3.92,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 4.97,
+    "dividend_yield_pct": 4.96,
     "quellensteuer_pct": 25.0,
-    "netto_rendite_pct": 3.73,
+    "netto_rendite_pct": 3.72,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -56407,7 +56407,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:28.484817"
+    "last_updated": "2026-08-26T12:10:47.173284"
   },
   "BAS.DE": {
     "ticker": "BAS.DE",
@@ -56416,12 +56416,12 @@
     "sektor": "Chemie",
     "isin": null,
     "isin_quelle": null,
-    "price": 51.86000061035156,
-    "perf_1m": 5.91,
-    "perf_3m": 2.05,
-    "perf_1y": 12.35,
-    "perf_3y": 10.61,
-    "gesamtrendite_3j_pct": 30.29,
+    "price": 52.02000045776367,
+    "perf_1m": 6.24,
+    "perf_3m": 2.36,
+    "perf_1y": 12.69,
+    "perf_3y": 10.95,
+    "gesamtrendite_3j_pct": 30.57,
     "chart_series": [
       [
         "2023-08-28",
@@ -56665,14 +56665,14 @@
       ],
       [
         "2026-08-26",
-        51.86000061035156
+        52.02000045776367
       ]
     ],
     "dividend_per_share": 3.4,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 6.56,
+    "dividend_yield_pct": 6.54,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 4.83,
+    "netto_rendite_pct": 4.82,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -56715,7 +56715,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:11.182604"
+    "last_updated": "2026-08-26T12:11:15.116401"
   },
   "MUV2.DE": {
     "ticker": "MUV2.DE",
@@ -56724,12 +56724,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 516.0,
-    "perf_1m": -2.09,
-    "perf_3m": 14.08,
-    "perf_1y": -5.74,
-    "perf_3y": 44.5,
-    "gesamtrendite_3j_pct": 56.14,
+    "price": 515.5999755859375,
+    "perf_1m": -2.16,
+    "perf_3m": 14.0,
+    "perf_1y": -5.81,
+    "perf_3y": 44.39,
+    "gesamtrendite_3j_pct": 56.03,
     "chart_series": [
       [
         "2023-08-28",
@@ -56973,7 +56973,7 @@
       ],
       [
         "2026-08-26",
-        516.0
+        515.5999755859375
       ]
     ],
     "dividend_per_share": 20.0,
@@ -57023,7 +57023,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:35.081777"
+    "last_updated": "2026-08-26T12:10:00.357495"
   },
   "NTGY.MC": {
     "ticker": "NTGY.MC",
@@ -57032,12 +57032,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 29.600000381469727,
-    "perf_1m": 0.27,
-    "perf_3m": 3.71,
-    "perf_1y": 9.23,
-    "perf_3y": 12.21,
-    "gesamtrendite_3j_pct": 26.4,
+    "price": 29.6200008392334,
+    "perf_1m": 0.34,
+    "perf_3m": 3.78,
+    "perf_1y": 9.3,
+    "perf_3y": 12.28,
+    "gesamtrendite_3j_pct": 26.47,
     "chart_series": [
       [
         "2023-08-28",
@@ -57281,7 +57281,7 @@
       ],
       [
         "2026-08-26",
-        29.600000381469727
+        29.6200008392334
       ]
     ],
     "dividend_per_share": 1.4,
@@ -57331,21 +57331,21 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:12.629051"
+    "last_updated": "2026-08-26T12:10:25.745068"
   },
   "DTE.DE": {
     "ticker": "DTE.DE",
     "name": "DTE.DE",
     "land": "Deutschland",
     "sektor": "Telekom",
-    "isin": "DE0005557508",
+    "isin": null,
     "isin_quelle": null,
-    "price": 29.06999969482422,
-    "perf_1m": 5.36,
-    "perf_3m": 0.73,
-    "perf_1y": -8.3,
-    "perf_3y": 47.37,
-    "gesamtrendite_3j_pct": 56.67,
+    "price": 29.110000610351562,
+    "perf_1m": 5.51,
+    "perf_3m": 0.87,
+    "perf_1y": -8.17,
+    "perf_3y": 47.57,
+    "gesamtrendite_3j_pct": 56.84,
     "chart_series": [
       [
         "2023-08-28",
@@ -57589,18 +57589,18 @@
       ],
       [
         "2026-08-26",
-        29.06999969482422
+        29.110000610351562
       ]
     ],
     "dividend_per_share": 0.9,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 3.1,
+    "dividend_yield_pct": 3.09,
     "quellensteuer_pct": 26.375,
     "netto_rendite_pct": 2.28,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": 139173969920,
+    "market_cap": null,
     "pe_ratio": 17,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
@@ -57639,7 +57639,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:31.147856"
+    "last_updated": "2026-08-26T12:10:12.392567"
   },
   "ULVR.L": {
     "ticker": "ULVR.L",
@@ -57648,12 +57648,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 4783.0,
-    "perf_1m": -4.3,
-    "perf_3m": 13.73,
-    "perf_1y": -2.99,
-    "perf_3y": 10.65,
-    "gesamtrendite_3j_pct": 10.77,
+    "price": 4787.5,
+    "perf_1m": -4.21,
+    "perf_3m": 13.84,
+    "perf_1y": -2.89,
+    "perf_3y": 10.75,
+    "gesamtrendite_3j_pct": 10.87,
     "chart_series": [
       [
         "2023-08-29",
@@ -57897,7 +57897,7 @@
       ],
       [
         "2026-08-26",
-        4783.0
+        4787.5
       ]
     ],
     "dividend_per_share": 1.72,
@@ -57947,7 +57947,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:16.782180"
+    "last_updated": "2026-08-26T12:11:03.055290"
   },
   "GSK.L": {
     "ticker": "GSK.L",
@@ -57956,12 +57956,12 @@
     "sektor": "Gesundheit",
     "isin": null,
     "isin_quelle": null,
-    "price": 1902.0,
-    "perf_1m": -6.26,
-    "perf_3m": 1.09,
-    "perf_1y": 30.32,
-    "perf_3y": 36.95,
-    "gesamtrendite_3j_pct": 37.04,
+    "price": 1903.5,
+    "perf_1m": -6.19,
+    "perf_3m": 1.17,
+    "perf_1y": 30.42,
+    "perf_3y": 37.06,
+    "gesamtrendite_3j_pct": 37.15,
     "chart_series": [
       [
         "2023-08-29",
@@ -58205,7 +58205,7 @@
       ],
       [
         "2026-08-26",
-        1902.0
+        1903.5
       ]
     ],
     "dividend_per_share": 0.63,
@@ -58255,7 +58255,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:51.443771"
+    "last_updated": "2026-08-26T12:11:15.455653"
   },
   "NESN.SW": {
     "ticker": "NESN.SW",
@@ -58264,12 +58264,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 80.0,
-    "perf_1m": -2.91,
-    "perf_3m": 0.7,
-    "perf_1y": 6.16,
-    "perf_3y": -24.92,
-    "gesamtrendite_3j_pct": -13.49,
+    "price": 80.06999969482422,
+    "perf_1m": -2.83,
+    "perf_3m": 0.79,
+    "perf_1y": 6.25,
+    "perf_3y": -24.86,
+    "gesamtrendite_3j_pct": -13.43,
     "chart_series": [
       [
         "2023-08-28",
@@ -58513,7 +58513,7 @@
       ],
       [
         "2026-08-26",
-        80.0
+        80.06999969482422
       ]
     ],
     "dividend_per_share": 3.05,
@@ -58563,7 +58563,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:24.602178"
+    "last_updated": "2026-08-26T12:11:05.034171"
   },
   "ORA.PA": {
     "ticker": "ORA.PA",
@@ -58871,7 +58871,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:08.423904"
+    "last_updated": "2026-08-26T12:11:17.490630"
   },
   "ALV.DE": {
     "ticker": "ALV.DE",
@@ -58880,12 +58880,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 452.0,
-    "perf_1m": 4.53,
-    "perf_3m": 18.45,
-    "perf_1y": 24.18,
-    "perf_3y": 101.56,
-    "gesamtrendite_3j_pct": 111.79,
+    "price": 451.79998779296875,
+    "perf_1m": 4.49,
+    "perf_3m": 18.4,
+    "perf_1y": 24.12,
+    "perf_3y": 101.47,
+    "gesamtrendite_3j_pct": 111.7,
     "chart_series": [
       [
         "2023-08-28",
@@ -59129,7 +59129,7 @@
       ],
       [
         "2026-08-26",
-        452.0
+        451.79998779296875
       ]
     ],
     "dividend_per_share": 15.4,
@@ -59179,7 +59179,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:18.345327"
+    "last_updated": "2026-08-26T12:10:20.507866"
   },
   "DGE.L": {
     "ticker": "DGE.L",
@@ -59188,12 +59188,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 1751.0,
-    "perf_1m": 4.72,
-    "perf_3m": 14.03,
-    "perf_1y": -15.12,
-    "perf_3y": -47.27,
-    "gesamtrendite_3j_pct": -47.12,
+    "price": 1755.5,
+    "perf_1m": 4.99,
+    "perf_3m": 14.33,
+    "perf_1y": -14.91,
+    "perf_3y": -47.13,
+    "gesamtrendite_3j_pct": -46.98,
     "chart_series": [
       [
         "2023-08-29",
@@ -59437,7 +59437,7 @@
       ],
       [
         "2026-08-26",
-        1751.0
+        1755.5
       ]
     ],
     "dividend_per_share": 0.825,
@@ -59487,7 +59487,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:43.107352"
+    "last_updated": "2026-08-26T12:10:16.842824"
   },
   "BATS.L": {
     "ticker": "BATS.L",
@@ -59496,12 +59496,12 @@
     "sektor": "Tabak",
     "isin": null,
     "isin_quelle": null,
-    "price": 4139.0,
-    "perf_1m": -11.35,
-    "perf_3m": -9.85,
-    "perf_1y": -0.17,
-    "perf_3y": 57.83,
-    "gesamtrendite_3j_pct": 58.01,
+    "price": 4153.0,
+    "perf_1m": -11.05,
+    "perf_3m": -9.54,
+    "perf_1y": 0.17,
+    "perf_3y": 58.36,
+    "gesamtrendite_3j_pct": 58.54,
     "chart_series": [
       [
         "2023-08-29",
@@ -59745,7 +59745,7 @@
       ],
       [
         "2026-08-26",
-        4139.0
+        4153.0
       ]
     ],
     "dividend_per_share": 2.36,
@@ -59795,7 +59795,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:42.617770"
+    "last_updated": "2026-08-26T12:11:12.722648"
   },
   "MLT.SI": {
     "ticker": "MLT.SI",
@@ -59854,7 +59854,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:22:53.089931"
+    "last_updated": "2026-08-26T12:10:09.306258"
   },
   "ROG.SW": {
     "ticker": "ROG.SW",
@@ -59913,7 +59913,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:24:06.000010"
+    "last_updated": "2026-08-26T12:10:52.678316"
   },
   "MINT.SI": {
     "ticker": "MINT.SI",
@@ -59972,6 +59972,6 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-08-26T11:23:03.141126"
+    "last_updated": "2026-08-26T12:10:33.062093"
   }
 }
