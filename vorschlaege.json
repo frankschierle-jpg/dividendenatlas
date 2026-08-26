@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ticker": "AGS.BR",
+    "name": "Ageas SA/NV",
+    "land": "Belgien",
+    "sektor": "Versicherungen",
+    "dividend_per_share": 3.75,
+    "payout_ratio_pct": 38.38,
+    "isin": "BE0974264930",
+    "geschaetzte_rendite_pct": 5.54,
+    "grund": "Stabile Versicherungsrendite 5,54% mit gesunder Ausschüttungsquote 38,38%. Quelle: stockanalysis.com (Juni 2026)",
+    "vorgeschlagen_am": "2026-08-26"
+  }
+]
