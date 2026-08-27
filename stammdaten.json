@@ -2474,5 +2474,13 @@
     "sektor": "Versicherung",
     "stand": "2026-08",
     "vertrauen": "schnellschaetzung"
+  },
+  "AGS.BR": {
+    "name": "Ageas SA/NV",
+    "land": "Belgien",
+    "sektor": "Versicherungen",
+    "dividend_per_share": 3.75,
+    "payout_ratio_pct": 38.38,
+    "isin": "BE0974264930"
   }
 }
