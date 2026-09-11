@@ -427,7 +427,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:08.054992"
+    "last_updated": "2026-09-11T10:20:27.828822"
   },
   "MCD": {
     "ticker": "MCD",
@@ -857,7 +857,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:16.891583"
+    "last_updated": "2026-09-11T10:19:47.157880"
   },
   "CVX": {
     "ticker": "CVX",
@@ -1287,7 +1287,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:24.768533"
+    "last_updated": "2026-09-11T10:21:10.137674"
   },
   "BDX": {
     "ticker": "BDX",
@@ -1717,7 +1717,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:18.746491"
+    "last_updated": "2026-09-11T10:19:52.838579"
   },
   "JNJ": {
     "ticker": "JNJ",
@@ -2147,7 +2147,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:28.267252"
+    "last_updated": "2026-09-11T10:20:11.100664"
   },
   "ED": {
     "ticker": "ED",
@@ -2577,7 +2577,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:01.091886"
+    "last_updated": "2026-09-11T10:21:11.784603"
   },
   "MMM": {
     "ticker": "MMM",
@@ -3007,7 +3007,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:24.485081"
+    "last_updated": "2026-09-11T10:21:08.878853"
   },
   "GWW": {
     "ticker": "GWW",
@@ -3437,7 +3437,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:16.788732"
+    "last_updated": "2026-09-11T10:20:25.238281"
   },
   "WMT": {
     "ticker": "WMT",
@@ -3867,7 +3867,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:21.356083"
+    "last_updated": "2026-09-11T10:20:34.405459"
   },
   "CTAS": {
     "ticker": "CTAS",
@@ -4295,10 +4295,9 @@
       "de_ausnahme": false,
       "sektor_schwellen_stufe": 3,
       "payout_basis": "Gewinn",
-      "kuerzungs_alarm": true,
-      "kuerzungs_alarm_veraenderung_pct": -69.8
+      "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:56.945444"
+    "last_updated": "2026-09-11T10:21:06.822986"
   },
   "AFL": {
     "ticker": "AFL",
@@ -4728,7 +4727,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:25.733864"
+    "last_updated": "2026-09-11T10:20:31.202667"
   },
   "PFE": {
     "ticker": "PFE",
@@ -5158,7 +5157,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:04.021714"
+    "last_updated": "2026-09-11T10:20:54.603962"
   },
   "PPG": {
     "ticker": "PPG",
@@ -5588,7 +5587,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:16.468455"
+    "last_updated": "2026-09-11T10:20:26.052304"
   },
   "FRT": {
     "ticker": "FRT",
@@ -6018,7 +6017,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:32.031068"
+    "last_updated": "2026-09-11T10:21:03.585634"
   },
   "NUE": {
     "ticker": "NUE",
@@ -6448,7 +6447,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:02.157175"
+    "last_updated": "2026-09-11T10:20:35.607403"
   },
   "CLX": {
     "ticker": "CLX",
@@ -6878,7 +6877,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:34.656424"
+    "last_updated": "2026-09-11T10:20:20.155010"
   },
   "ABT": {
     "ticker": "ABT",
@@ -7308,7 +7307,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:28.587964"
+    "last_updated": "2026-09-11T10:21:01.493400"
   },
   "GPC": {
     "ticker": "GPC",
@@ -7738,7 +7737,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:26.676277"
+    "last_updated": "2026-09-11T10:21:18.369541"
   },
   "ATO": {
     "ticker": "ATO",
@@ -8168,7 +8167,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:17.099402"
+    "last_updated": "2026-09-11T10:20:41.340637"
   },
   "DOC": {
     "ticker": "DOC",
@@ -8630,7 +8629,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:21.018286"
+    "last_updated": "2026-09-11T10:21:18.781657"
   },
   "MDT": {
     "ticker": "MDT",
@@ -9060,7 +9059,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:54.390891"
+    "last_updated": "2026-09-11T10:21:07.235833"
   },
   "TROW": {
     "ticker": "TROW",
@@ -9490,7 +9489,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:30.140257"
+    "last_updated": "2026-09-11T10:21:24.476618"
   },
   "PEP": {
     "ticker": "PEP",
@@ -9920,7 +9919,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:57.584476"
+    "last_updated": "2026-09-11T10:21:00.673170"
   },
   "PG": {
     "ticker": "PG",
@@ -10350,7 +10349,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:40.062602"
+    "last_updated": "2026-09-11T10:20:23.626979"
   },
   "ESS": {
     "ticker": "ESS",
@@ -10780,7 +10779,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:28.543344"
+    "last_updated": "2026-09-11T10:21:20.394741"
   },
   "GD": {
     "ticker": "GD",
@@ -11210,7 +11209,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:05.118644"
+    "last_updated": "2026-09-11T10:21:02.782286"
   },
   "SO": {
     "ticker": "SO",
@@ -11640,7 +11639,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:26.991736"
+    "last_updated": "2026-09-11T10:20:11.503624"
   },
   "SPGI": {
     "ticker": "SPGI",
@@ -12070,7 +12069,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:16.578697"
+    "last_updated": "2026-09-11T10:20:37.272835"
   },
   "PM": {
     "ticker": "PM",
@@ -12500,7 +12499,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:19.804463"
+    "last_updated": "2026-09-11T10:21:26.129570"
   },
   "O": {
     "ticker": "O",
@@ -13020,7 +13019,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:26.039497"
+    "last_updated": "2026-09-11T10:21:08.446080"
   },
   "LOW": {
     "ticker": "LOW",
@@ -13450,7 +13449,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:19.496811"
+    "last_updated": "2026-09-11T10:20:47.128111"
   },
   "CHD": {
     "ticker": "CHD",
@@ -13880,7 +13879,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:54.062453"
+    "last_updated": "2026-09-11T10:19:38.732535"
   },
   "ITW": {
     "ticker": "ITW",
@@ -14310,7 +14309,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:31.061452"
+    "last_updated": "2026-09-11T10:21:09.281879"
   },
   "SJM": {
     "ticker": "SJM",
@@ -14740,7 +14739,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:40.704973"
+    "last_updated": "2026-09-11T10:19:45.094410"
   },
   "CINF": {
     "ticker": "CINF",
@@ -15170,7 +15169,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:26.012376"
+    "last_updated": "2026-09-11T10:20:47.537621"
   },
   "DOV": {
     "ticker": "DOV",
@@ -15600,7 +15599,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:39.679856"
+    "last_updated": "2026-09-11T10:21:22.850938"
   },
   "ADP": {
     "ticker": "ADP",
@@ -16030,7 +16029,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:18.542404"
+    "last_updated": "2026-09-11T10:20:56.260349"
   },
   "SHW": {
     "ticker": "SHW",
@@ -16460,7 +16459,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:40.399605"
+    "last_updated": "2026-09-11T10:20:00.016242"
   },
   "KMB": {
     "ticker": "KMB",
@@ -16890,7 +16889,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:28.854871"
+    "last_updated": "2026-09-11T10:20:59.431016"
   },
   "KO": {
     "ticker": "KO",
@@ -17320,7 +17319,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:42.353149"
+    "last_updated": "2026-09-11T10:20:35.196255"
   },
   "EMR": {
     "ticker": "EMR",
@@ -17750,7 +17749,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:30.482672"
+    "last_updated": "2026-09-11T10:21:23.279787"
   },
   "ECL": {
     "ticker": "ECL",
@@ -18180,7 +18179,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:21.959142"
+    "last_updated": "2026-09-11T10:20:10.274055"
   },
   "VZ": {
     "ticker": "VZ",
@@ -18610,7 +18609,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:26.369522"
+    "last_updated": "2026-09-11T10:19:46.352922"
   },
   "LIN": {
     "ticker": "LIN",
@@ -19040,7 +19039,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:29.179997"
+    "last_updated": "2026-09-11T10:20:34.791542"
   },
   "MKC": {
     "ticker": "MKC",
@@ -19470,7 +19469,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:13.304218"
+    "last_updated": "2026-09-11T10:20:06.524837"
   },
   "T": {
     "ticker": "T",
@@ -19900,7 +19899,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:21.651257"
+    "last_updated": "2026-09-11T10:20:36.852789"
   },
   "HRL": {
     "ticker": "HRL",
@@ -20330,7 +20329,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:36.483128"
+    "last_updated": "2026-09-11T10:20:29.947813"
   },
   "CAT": {
     "ticker": "CAT",
@@ -20760,7 +20759,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:07.366715"
+    "last_updated": "2026-09-11T10:20:10.693794"
   },
   "TGT": {
     "ticker": "TGT",
@@ -21190,7 +21189,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:07.696634"
+    "last_updated": "2026-09-11T10:20:23.174142"
   },
   "ADM": {
     "ticker": "ADM",
@@ -21620,7 +21619,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:43.290685"
+    "last_updated": "2026-09-11T10:20:01.811256"
   },
   "WPC": {
     "ticker": "WPC",
@@ -22050,7 +22049,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:10.209672"
+    "last_updated": "2026-09-11T10:20:27.302101"
   },
   "MO": {
     "ticker": "MO",
@@ -22538,7 +22537,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:48.114768"
+    "last_updated": "2026-09-11T10:20:41.774845"
   },
   "ROP": {
     "ticker": "ROP",
@@ -22968,7 +22967,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:36.781556"
+    "last_updated": "2026-09-11T10:21:07.641039"
   },
   "SYY": {
     "ticker": "SYY",
@@ -23398,7 +23397,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:57.251716"
+    "last_updated": "2026-09-11T10:21:14.569635"
   },
   "DUK": {
     "ticker": "DUK",
@@ -23828,7 +23827,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:59.529480"
+    "last_updated": "2026-09-11T10:19:58.497547"
   },
   "CB": {
     "ticker": "CB",
@@ -24248,10 +24247,9 @@
       "de_ausnahme": true,
       "sektor_schwellen_stufe": 1,
       "payout_basis": "Gewinn",
-      "kuerzungs_alarm": true,
-      "kuerzungs_alarm_veraenderung_pct": -47.6
+      "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:08.582088"
+    "last_updated": "2026-09-11T10:19:46.736209"
   },
   "ABBV": {
     "ticker": "ABBV",
@@ -24681,7 +24679,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:19.038371"
+    "last_updated": "2026-09-11T10:21:15.527127"
   },
   "CL": {
     "ticker": "CL",
@@ -25111,7 +25109,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:14.814545"
+    "last_updated": "2026-09-11T10:19:53.265133"
   },
   "PFLT": {
     "ticker": "PFLT",
@@ -25631,7 +25629,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:01.826110"
+    "last_updated": "2026-09-11T10:21:12.201390"
   },
   "ENB": {
     "ticker": "ENB",
@@ -26055,10 +26053,9 @@
       "de_ausnahme": false,
       "sektor_schwellen_stufe": 2,
       "payout_basis": "Gewinn",
-      "kuerzungs_alarm": true,
-      "kuerzungs_alarm_veraenderung_pct": -40.4
+      "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:58.603889"
+    "last_updated": "2026-09-11T10:19:39.145730"
   },
   "UVV": {
     "ticker": "UVV",
@@ -26488,7 +26485,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:27.914922"
+    "last_updated": "2026-09-11T10:19:45.905475"
   },
   "EPR": {
     "ticker": "EPR",
@@ -26950,7 +26947,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:39.359749"
+    "last_updated": "2026-09-11T10:21:01.082366"
   },
   "STAG": {
     "ticker": "STAG",
@@ -27386,10 +27383,9 @@
       "de_ausnahme": false,
       "sektor_schwellen_stufe": 1,
       "payout_basis": "Gewinn",
-      "kuerzungs_alarm": true,
-      "kuerzungs_alarm_veraenderung_pct": -15.2
+      "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:28.882944"
+    "last_updated": "2026-09-11T10:20:55.000362"
   },
   "ARCC": {
     "ticker": "ARCC",
@@ -27819,7 +27815,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:03.089594"
+    "last_updated": "2026-09-11T10:19:44.685007"
   },
   "EPD": {
     "ticker": "EPD",
@@ -28249,7 +28245,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:28.244731"
+    "last_updated": "2026-09-11T10:21:15.901081"
   },
   "BIP": {
     "ticker": "BIP",
@@ -28673,10 +28669,9 @@
       "de_ausnahme": false,
       "sektor_schwellen_stufe": 2,
       "payout_basis": "Gewinn",
-      "kuerzungs_alarm": true,
-      "kuerzungs_alarm_veraenderung_pct": -25.8
+      "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:47.761072"
+    "last_updated": "2026-09-11T10:19:44.284311"
   },
   "AGNC": {
     "ticker": "AGNC",
@@ -29138,7 +29133,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:35.888185"
+    "last_updated": "2026-09-11T10:20:13.556288"
   },
   "DX": {
     "ticker": "DX",
@@ -29600,7 +29595,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:20.685409"
+    "last_updated": "2026-09-11T10:19:45.505973"
   },
   "LTC": {
     "ticker": "LTC",
@@ -30058,7 +30053,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:03.694841"
+    "last_updated": "2026-09-11T10:20:46.718910"
   },
   "MAIN": {
     "ticker": "MAIN",
@@ -30532,7 +30527,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:02.469819"
+    "last_updated": "2026-09-11T10:19:56.308112"
   },
   "5401.T": {
     "ticker": "5401.T",
@@ -30950,7 +30945,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:13.622549"
+    "last_updated": "2026-09-11T10:20:59.838266"
   },
   "DWNI.DE": {
     "ticker": "DWNI.DE",
@@ -30959,12 +30954,12 @@
     "sektor": "Immobilien",
     "isin": "DE000A0HN5C6",
     "isin_quelle": null,
-    "price": 16.479999542236328,
-    "perf_1m": -10.43,
-    "perf_3m": -10.14,
-    "perf_1y": -22.99,
-    "perf_3y": -24.2,
-    "gesamtrendite_3j_pct": -23.48,
+    "price": 16.459999084472656,
+    "perf_1m": -10.54,
+    "perf_3m": -10.25,
+    "perf_1y": -23.08,
+    "perf_3y": -24.29,
+    "gesamtrendite_3j_pct": -23.57,
     "chart_series": [
       [
         "2023-09-11",
@@ -31208,7 +31203,7 @@
       ],
       [
         "2026-09-11",
-        16.479999542236328
+        16.459999084472656
       ]
     ],
     "dividend_per_share": 0.04,
@@ -31364,7 +31359,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:29.509412"
+    "last_updated": "2026-09-11T10:20:04.431168"
   },
   "1833.T": {
     "ticker": "1833.T",
@@ -31784,7 +31779,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:24.436057"
+    "last_updated": "2026-09-11T10:20:30.786940"
   },
   "7240.T": {
     "ticker": "7240.T",
@@ -32202,14 +32197,14 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:29.200395"
+    "last_updated": "2026-09-11T10:20:44.636951"
   },
   "FNTN.DE": {
     "ticker": "FNTN.DE",
     "name": "freenet",
     "land": "Deutschland",
     "sektor": "Telekom",
-    "isin": null,
+    "isin": "DE000A0Z2ZZ5",
     "isin_quelle": null,
     "price": 25.200000762939453,
     "perf_1m": 6.87,
@@ -32493,7 +32488,7 @@
     "payout_ratio_pct": 100.29,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": null,
+    "market_cap": 2888165120,
     "pe_ratio": 9,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": 0.8,
@@ -32616,7 +32611,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:29.507717"
+    "last_updated": "2026-09-11T10:20:06.111590"
   },
   "5938.T": {
     "ticker": "5938.T",
@@ -33036,7 +33031,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:42.970125"
+    "last_updated": "2026-09-11T10:19:52.407063"
   },
   "9364.T": {
     "ticker": "9364.T",
@@ -33454,7 +33449,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:23.825017"
+    "last_updated": "2026-09-11T10:21:23.676147"
   },
   "LEG.DE": {
     "ticker": "LEG.DE",
@@ -33870,7 +33865,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:03.381198"
+    "last_updated": "2026-09-11T10:21:17.533689"
   },
   "SAX.DE": {
     "ticker": "SAX.DE",
@@ -33879,12 +33874,12 @@
     "sektor": "Medien",
     "isin": null,
     "isin_quelle": null,
-    "price": 37.68000030517578,
-    "perf_1m": -5.56,
-    "perf_3m": 6.38,
-    "perf_1y": -3.63,
-    "perf_3y": -11.09,
-    "gesamtrendite_3j_pct": 3.64,
+    "price": 37.58000183105469,
+    "perf_1m": -5.81,
+    "perf_3m": 6.1,
+    "perf_1y": -3.89,
+    "perf_3y": -11.33,
+    "gesamtrendite_3j_pct": 3.43,
     "chart_series": [
       [
         "2023-09-11",
@@ -34128,12 +34123,12 @@
       ],
       [
         "2026-09-11",
-        37.68000030517578
+        37.58000183105469
       ]
     ],
     "dividend_per_share": 1.85,
     "dividend_quelle": null,
-    "dividend_yield_pct": 4.91,
+    "dividend_yield_pct": 4.92,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -34157,7 +34152,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 3.61,
+    "netto_rendite_pct": 3.62,
     "payout_ratio_pct": 80.74,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -34284,7 +34279,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:13.940592"
+    "last_updated": "2026-09-11T10:20:58.251951"
   },
   "HNR1.DE": {
     "ticker": "HNR1.DE",
@@ -34293,12 +34288,12 @@
     "sektor": "Versicherung",
     "isin": "DE0008402215",
     "isin_quelle": null,
-    "price": 252.39999389648438,
-    "perf_1m": 0.96,
-    "perf_3m": 10.03,
-    "perf_1y": 4.64,
-    "perf_3y": 18.66,
-    "gesamtrendite_3j_pct": 33.51,
+    "price": 252.60000610351562,
+    "perf_1m": 1.04,
+    "perf_3m": 10.11,
+    "perf_1y": 4.73,
+    "perf_3y": 18.76,
+    "gesamtrendite_3j_pct": 33.61,
     "chart_series": [
       [
         "2023-09-11",
@@ -34542,7 +34537,7 @@
       ],
       [
         "2026-09-11",
-        252.39999389648438
+        252.60000610351562
       ]
     ],
     "dividend_per_share": 12.5,
@@ -34698,7 +34693,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:35.582601"
+    "last_updated": "2026-09-11T10:20:25.653583"
   },
   "SIX2.DE": {
     "ticker": "SIX2.DE",
@@ -34707,12 +34702,12 @@
     "sektor": "Autovermietung",
     "isin": "DE0007231326",
     "isin_quelle": null,
-    "price": 68.1500015258789,
-    "perf_1m": -5.28,
-    "perf_3m": -9.01,
-    "perf_1y": -19.82,
-    "perf_3y": -26.4,
-    "gesamtrendite_3j_pct": -12.3,
+    "price": 68.5,
+    "perf_1m": -4.79,
+    "perf_3m": -8.54,
+    "perf_1y": -19.41,
+    "perf_3y": -26.03,
+    "gesamtrendite_3j_pct": -12.02,
     "chart_series": [
       [
         "2023-09-11",
@@ -34956,12 +34951,12 @@
       ],
       [
         "2026-09-11",
-        68.1500015258789
+        68.5
       ]
     ],
     "dividend_per_share": 3.2,
     "dividend_quelle": null,
-    "dividend_yield_pct": 4.7,
+    "dividend_yield_pct": 4.67,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -34985,7 +34980,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 3.46,
+    "netto_rendite_pct": 3.44,
     "payout_ratio_pct": 52.02,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -35112,7 +35107,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:27.593226"
+    "last_updated": "2026-09-11T10:20:22.747345"
   },
   "8960.T": {
     "ticker": "8960.T",
@@ -35532,7 +35527,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:15.802416"
+    "last_updated": "2026-09-11T10:20:15.286991"
   },
   "MBG.DE": {
     "ticker": "MBG.DE",
@@ -35541,12 +35536,12 @@
     "sektor": "Automobil",
     "isin": "DE0007100000",
     "isin_quelle": null,
-    "price": 46.64500045776367,
-    "perf_1m": 1.0,
-    "perf_3m": -5.53,
-    "perf_1y": -10.4,
-    "perf_3y": -29.79,
-    "gesamtrendite_3j_pct": -7.29,
+    "price": 46.78499984741211,
+    "perf_1m": 1.3,
+    "perf_3m": -5.25,
+    "perf_1y": -10.13,
+    "perf_3y": -29.58,
+    "gesamtrendite_3j_pct": -7.14,
     "chart_series": [
       [
         "2023-09-11",
@@ -35790,12 +35785,12 @@
       ],
       [
         "2026-09-11",
-        46.64500045776367
+        46.78499984741211
       ]
     ],
     "dividend_per_share": 3.5,
     "dividend_quelle": null,
-    "dividend_yield_pct": 7.5,
+    "dividend_yield_pct": 7.48,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -35819,7 +35814,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 5.52,
+    "netto_rendite_pct": 5.51,
     "payout_ratio_pct": 59.4,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -35948,7 +35943,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:16.153198"
+    "last_updated": "2026-09-11T10:20:32.427399"
   },
   "8150.T": {
     "ticker": "8150.T",
@@ -36368,7 +36363,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:27.272842"
+    "last_updated": "2026-09-11T10:21:14.158780"
   },
   "0010.HK": {
     "ticker": "0010.HK",
@@ -36788,7 +36783,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:56.643236"
+    "last_updated": "2026-09-11T10:20:55.843362"
   },
   "DEQ.DE": {
     "ticker": "DEQ.DE",
@@ -37204,7 +37199,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:23.836368"
+    "last_updated": "2026-09-11T10:20:52.119908"
   },
   "4183.T": {
     "ticker": "4183.T",
@@ -37622,7 +37617,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:20.109475"
+    "last_updated": "2026-09-11T10:20:42.613625"
   },
   "8616.T": {
     "ticker": "8616.T",
@@ -38040,7 +38035,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:45.536829"
+    "last_updated": "2026-09-11T10:20:58.621971"
   },
   "PAH3.DE": {
     "ticker": "PAH3.DE",
@@ -38049,12 +38044,12 @@
     "sektor": "Automobil",
     "isin": "DE000PAH0038",
     "isin_quelle": null,
-    "price": 28.889999389648438,
-    "perf_1m": 2.56,
-    "perf_3m": -7.67,
-    "perf_1y": -21.19,
-    "perf_3y": -39.48,
-    "gesamtrendite_3j_pct": -23.79,
+    "price": 28.8799991607666,
+    "perf_1m": 2.52,
+    "perf_3m": -7.7,
+    "perf_1y": -21.22,
+    "perf_3y": -39.51,
+    "gesamtrendite_3j_pct": -23.82,
     "chart_series": [
       [
         "2023-09-11",
@@ -38298,7 +38293,7 @@
       ],
       [
         "2026-09-11",
-        28.889999389648438
+        28.8799991607666
       ]
     ],
     "dividend_per_share": 1.51,
@@ -38456,7 +38451,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:25.398992"
+    "last_updated": "2026-09-11T10:21:22.058887"
   },
   "8963.T": {
     "ticker": "8963.T",
@@ -38876,7 +38871,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:17.746573"
+    "last_updated": "2026-09-11T10:20:28.672994"
   },
   "8395.T": {
     "ticker": "8395.T",
@@ -39294,7 +39289,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:30.429172"
+    "last_updated": "2026-09-11T10:20:38.928109"
   },
   "7177.T": {
     "ticker": "7177.T",
@@ -39720,7 +39715,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:46.767917"
+    "last_updated": "2026-09-11T10:21:06.023644"
   },
   "3002.T": {
     "ticker": "3002.T",
@@ -40136,7 +40131,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:53.731351"
+    "last_updated": "2026-09-11T10:21:06.399153"
   },
   "O2D.DE": {
     "ticker": "O2D.DE",
@@ -40606,7 +40601,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:19.726030"
+    "last_updated": "2026-09-11T10:20:38.080916"
   },
   "VNA.DE": {
     "ticker": "VNA.DE",
@@ -40615,12 +40610,12 @@
     "sektor": "Immobilien",
     "isin": "DE000A1ML7J1",
     "isin_quelle": null,
-    "price": 18.170000076293945,
-    "perf_1m": -13.31,
-    "perf_3m": -12.48,
-    "perf_1y": -31.46,
-    "perf_3y": -21.0,
-    "gesamtrendite_3j_pct": -0.36,
+    "price": 18.165000915527344,
+    "perf_1m": -13.33,
+    "perf_3m": -12.5,
+    "perf_1y": -31.48,
+    "perf_3y": -21.02,
+    "gesamtrendite_3j_pct": -0.38,
     "chart_series": [
       [
         "2023-09-11",
@@ -40864,7 +40859,7 @@
       ],
       [
         "2026-09-11",
-        18.170000076293945
+        18.165000915527344
       ]
     ],
     "dividend_per_share": 1.25,
@@ -41022,7 +41017,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:26.976155"
+    "last_updated": "2026-09-11T10:20:24.016645"
   },
   "VOW3.DE": {
     "ticker": "VOW3.DE",
@@ -41031,12 +41026,12 @@
     "sektor": "Automobil",
     "isin": "DE0007664039",
     "isin_quelle": null,
-    "price": 80.86000061035156,
-    "perf_1m": 9.48,
-    "perf_3m": -10.57,
-    "perf_1y": -21.34,
-    "perf_3y": -24.74,
-    "gesamtrendite_3j_pct": -5.21,
+    "price": 80.9800033569336,
+    "perf_1m": 9.64,
+    "perf_3m": -10.44,
+    "perf_1y": -21.23,
+    "perf_3y": -24.63,
+    "gesamtrendite_3j_pct": -5.13,
     "chart_series": [
       [
         "2023-09-11",
@@ -41280,12 +41275,12 @@
       ],
       [
         "2026-09-11",
-        80.86000061035156
+        80.9800033569336
       ]
     ],
     "dividend_per_share": 5.26,
     "dividend_quelle": null,
-    "dividend_yield_pct": 6.51,
+    "dividend_yield_pct": 6.5,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -41438,7 +41433,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:21.963320"
+    "last_updated": "2026-09-11T10:20:21.447401"
   },
   "8985.T": {
     "ticker": "8985.T",
@@ -41854,7 +41849,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:18.212532"
+    "last_updated": "2026-09-11T10:21:12.973730"
   },
   "TFC": {
     "ticker": "TFC",
@@ -42272,7 +42267,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:01.444155"
+    "last_updated": "2026-09-11T10:21:21.221747"
   },
   "ET": {
     "ticker": "ET",
@@ -42748,7 +42743,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:49.031421"
+    "last_updated": "2026-09-11T10:20:02.207880"
   },
   "SWED-A.ST": {
     "ticker": "SWED-A.ST",
@@ -43156,7 +43151,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:17.258026"
+    "last_updated": "2026-09-11T10:20:43.463769"
   },
   "KMI": {
     "ticker": "KMI",
@@ -43574,7 +43569,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:09.893853"
+    "last_updated": "2026-09-11T10:21:01.898343"
   },
   "KIM": {
     "ticker": "KIM",
@@ -43992,7 +43987,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:56.041700"
+    "last_updated": "2026-09-11T10:20:32.022083"
   },
   "BCE": {
     "ticker": "BCE",
@@ -44468,7 +44463,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:32.014851"
+    "last_updated": "2026-09-11T10:21:19.564451"
   },
   "HSBA.L": {
     "ticker": "HSBA.L",
@@ -44477,12 +44472,12 @@
     "sektor": "Finanzen",
     "isin": "GB0005405286",
     "isin_quelle": null,
-    "price": 1548.4000244140625,
-    "perf_1m": 0.69,
-    "perf_3m": 11.83,
-    "perf_1y": 53.03,
-    "perf_3y": 146.99,
-    "gesamtrendite_3j_pct": 157.76,
+    "price": 1548.800048828125,
+    "perf_1m": 0.72,
+    "perf_3m": 11.86,
+    "perf_1y": 53.07,
+    "perf_3y": 147.06,
+    "gesamtrendite_3j_pct": 157.83,
     "chart_series": [
       [
         "2023-09-11",
@@ -44726,16 +44721,16 @@
       ],
       [
         "2026-09-11",
-        1548.4000244140625
+        1548.800048828125
       ]
     ],
-    "dividend_per_share": 55.6623,
+    "dividend_per_share": 55.6622,
     "dividend_quelle": null,
     "dividend_yield_pct": 3.59,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
-      "summe_12m": 55.6623,
+      "summe_12m": 55.6622,
       "anzahl_12m": 4,
       "zahlungen": [
         {
@@ -44752,7 +44747,7 @@
         },
         {
           "datum": "2026-08-13",
-          "betrag": 7.4039
+          "betrag": 7.4038
         }
       ],
       "rhythmus": "quartalsweise",
@@ -44886,7 +44881,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:14.971549"
+    "last_updated": "2026-09-11T10:20:48.401798"
   },
   "SRG.MI": {
     "ticker": "SRG.MI",
@@ -44895,12 +44890,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 5.519999980926514,
-    "perf_1m": -4.5,
-    "perf_3m": -13.4,
-    "perf_1y": 7.9,
-    "perf_3y": 15.07,
-    "gesamtrendite_3j_pct": 31.48,
+    "price": 5.507999897003174,
+    "perf_1m": -4.71,
+    "perf_3m": -13.59,
+    "perf_1y": 7.66,
+    "perf_3y": 14.82,
+    "gesamtrendite_3j_pct": 31.26,
     "chart_series": [
       [
         "2023-09-11",
@@ -45144,12 +45139,12 @@
       ],
       [
         "2026-09-11",
-        5.519999980926514
+        5.507999897003174
       ]
     ],
     "dividend_per_share": 0.3021,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.47,
+    "dividend_yield_pct": 5.48,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -45177,7 +45172,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.0,
-    "netto_rendite_pct": 4.05,
+    "netto_rendite_pct": 4.06,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -45296,7 +45291,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:41.326603"
+    "last_updated": "2026-09-11T10:21:16.672737"
   },
   "EC": {
     "ticker": "EC",
@@ -45702,7 +45697,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:20.379767"
+    "last_updated": "2026-09-11T10:20:04.023946"
   },
   "JST.DE": {
     "ticker": "JST.DE",
@@ -45711,12 +45706,12 @@
     "sektor": "Automobilzulieferer",
     "isin": null,
     "isin_quelle": null,
-    "price": 59.5,
-    "perf_1m": 7.21,
-    "perf_3m": 6.44,
-    "perf_1y": 21.43,
-    "perf_3y": 23.96,
-    "gesamtrendite_3j_pct": 31.52,
+    "price": 59.599998474121094,
+    "perf_1m": 7.39,
+    "perf_3m": 6.62,
+    "perf_1y": 21.63,
+    "perf_3y": 24.17,
+    "gesamtrendite_3j_pct": 31.73,
     "chart_series": [
       [
         "2023-09-11",
@@ -45960,7 +45955,7 @@
       ],
       [
         "2026-09-11",
-        59.5
+        59.599998474121094
       ]
     ],
     "dividend_per_share": 1.5,
@@ -46108,7 +46103,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:48.743187"
+    "last_updated": "2026-09-11T10:20:46.301562"
   },
   "SDF.DE": {
     "ticker": "SDF.DE",
@@ -46117,12 +46112,12 @@
     "sektor": "Chemie",
     "isin": "DE000KSAG888",
     "isin_quelle": null,
-    "price": 17.100000381469727,
-    "perf_1m": 15.31,
-    "perf_3m": 25.27,
-    "perf_1y": 50.93,
-    "perf_3y": -2.65,
-    "gesamtrendite_3j_pct": -1.42,
+    "price": 16.90999984741211,
+    "perf_1m": 14.03,
+    "perf_3m": 23.88,
+    "perf_1y": 49.25,
+    "perf_3y": -3.73,
+    "gesamtrendite_3j_pct": -2.5,
     "chart_series": [
       [
         "2023-09-11",
@@ -46366,7 +46361,7 @@
       ],
       [
         "2026-09-11",
-        17.100000381469727
+        16.90999984741211
       ]
     ],
     "dividend_per_share": 0.07,
@@ -46514,7 +46509,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:26.660532"
+    "last_updated": "2026-09-11T10:21:20.801968"
   },
   "DOW": {
     "ticker": "DOW",
@@ -46932,14 +46927,14 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:22.239687"
+    "last_updated": "2026-09-11T10:20:43.816000"
   },
   "LEI.DE": {
     "ticker": "LEI.DE",
     "name": "Leifheit",
     "land": "Deutschland",
     "sektor": "Konsumgueter",
-    "isin": null,
+    "isin": "DE0006464506",
     "isin_quelle": null,
     "price": 12.649999618530273,
     "perf_1m": -1.94,
@@ -47223,7 +47218,7 @@
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": null,
+    "market_cap": 116454448,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
@@ -47338,7 +47333,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:38.440386"
+    "last_updated": "2026-09-11T10:19:49.228407"
   },
   "CON.DE": {
     "ticker": "CON.DE",
@@ -47347,12 +47342,12 @@
     "sektor": "Automobil",
     "isin": null,
     "isin_quelle": null,
-    "price": 70.0999984741211,
-    "perf_1m": 2.43,
-    "perf_3m": -4.68,
-    "perf_1y": 27.08,
-    "perf_3y": 39.5,
-    "gesamtrendite_3j_pct": 51.05,
+    "price": 70.23999786376953,
+    "perf_1m": 2.63,
+    "perf_3m": -4.49,
+    "perf_1y": 27.34,
+    "perf_3y": 39.78,
+    "gesamtrendite_3j_pct": 51.3,
     "chart_series": [
       [
         "2023-09-11",
@@ -47596,12 +47591,12 @@
       ],
       [
         "2026-09-11",
-        70.0999984741211
+        70.23999786376953
       ]
     ],
     "dividend_per_share": 2.7,
     "dividend_quelle": null,
-    "dividend_yield_pct": 3.85,
+    "dividend_yield_pct": 3.84,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -47744,7 +47739,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:51.753298"
+    "last_updated": "2026-09-11T10:20:40.930879"
   },
   "TRP": {
     "ticker": "TRP",
@@ -48154,7 +48149,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:44.238146"
+    "last_updated": "2026-09-11T10:20:45.037797"
   },
   "TW.L": {
     "ticker": "TW.L",
@@ -48163,12 +48158,12 @@
     "sektor": "Immobilien",
     "isin": null,
     "isin_quelle": null,
-    "price": 77.83999633789062,
-    "perf_1m": -8.55,
-    "perf_3m": 1.51,
-    "perf_1y": -20.38,
-    "perf_3y": -34.48,
-    "gesamtrendite_3j_pct": -5.11,
+    "price": 77.93299865722656,
+    "perf_1m": -8.44,
+    "perf_3m": 1.63,
+    "perf_1y": -20.28,
+    "perf_3y": -34.4,
+    "gesamtrendite_3j_pct": -5.06,
     "chart_series": [
       [
         "2023-09-11",
@@ -48412,12 +48407,12 @@
       ],
       [
         "2026-09-11",
-        77.83999633789062
+        77.93299865722656
       ]
     ],
     "dividend_per_share": 7.62,
     "dividend_quelle": null,
-    "dividend_yield_pct": 9.79,
+    "dividend_yield_pct": 9.78,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -48445,7 +48440,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 9.79,
+    "netto_rendite_pct": 9.78,
     "payout_ratio_pct": 55,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -48566,7 +48561,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:14.311749"
+    "last_updated": "2026-09-11T10:21:03.985544"
   },
   "SREN.SW": {
     "ticker": "SREN.SW",
@@ -48575,12 +48570,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 136.5,
-    "perf_1m": -0.51,
-    "perf_3m": 12.44,
-    "perf_1y": -3.43,
-    "perf_3y": 51.1,
-    "gesamtrendite_3j_pct": 65.44,
+    "price": 137.14999389648438,
+    "perf_1m": -0.04,
+    "perf_3m": 12.97,
+    "perf_1y": -2.97,
+    "perf_3y": 51.82,
+    "gesamtrendite_3j_pct": 66.07,
     "chart_series": [
       [
         "2023-09-11",
@@ -48824,21 +48819,21 @@
       ],
       [
         "2026-09-11",
-        136.5
+        137.14999389648438
       ]
     ],
-    "dividend_per_share": 6.51872,
+    "dividend_per_share": 6.52064,
     "dividend_quelle": null,
-    "dividend_yield_pct": 4.78,
+    "dividend_yield_pct": 4.75,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
-      "summe_12m": 6.51872,
+      "summe_12m": 6.52064,
       "anzahl_12m": 1,
       "zahlungen": [
         {
           "datum": "2026-04-14",
-          "betrag": 6.51872
+          "betrag": 6.52064
         }
       ],
       "rhythmus": "jaehrlich",
@@ -48853,7 +48848,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 35.0,
-    "netto_rendite_pct": 3.11,
+    "netto_rendite_pct": 3.09,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -48972,7 +48967,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:53.134057"
+    "last_updated": "2026-09-11T10:21:13.749134"
   },
   "MNG.L": {
     "ticker": "MNG.L",
@@ -48981,12 +48976,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 335.79998779296875,
-    "perf_1m": -4.44,
-    "perf_3m": 3.61,
-    "perf_1y": 32.31,
-    "perf_3y": 65.09,
-    "gesamtrendite_3j_pct": 83.48,
+    "price": 335.2598876953125,
+    "perf_1m": -4.59,
+    "perf_3m": 3.44,
+    "perf_1y": 32.1,
+    "perf_3y": 64.83,
+    "gesamtrendite_3j_pct": 83.25,
     "chart_series": [
       [
         "2023-09-11",
@@ -49230,12 +49225,12 @@
       ],
       [
         "2026-09-11",
-        335.79998779296875
+        335.2598876953125
       ]
     ],
     "dividend_per_share": 20.599999,
     "dividend_quelle": null,
-    "dividend_yield_pct": 6.13,
+    "dividend_yield_pct": 6.14,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -49263,7 +49258,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 6.13,
+    "netto_rendite_pct": 6.14,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -49382,7 +49377,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:55.749459"
+    "last_updated": "2026-09-11T10:21:10.517564"
   },
   "NDA-FI.HE": {
     "ticker": "NDA-FI.HE",
@@ -49391,12 +49386,12 @@
     "sektor": "Finanzen",
     "isin": "FI4000297767",
     "isin_quelle": null,
-    "price": 17.8700008392334,
-    "perf_1m": 3.21,
-    "perf_3m": 9.3,
-    "perf_1y": 32.08,
-    "perf_3y": 76.83,
-    "gesamtrendite_3j_pct": 98.64,
+    "price": 17.834999084472656,
+    "perf_1m": 3.0,
+    "perf_3m": 9.08,
+    "perf_1y": 31.82,
+    "perf_3y": 76.48,
+    "gesamtrendite_3j_pct": 98.35,
     "chart_series": [
       [
         "2023-09-11",
@@ -49640,12 +49635,12 @@
       ],
       [
         "2026-09-11",
-        17.8700008392334
+        17.834999084472656
       ]
     ],
     "dividend_per_share": 1.3,
     "dividend_quelle": null,
-    "dividend_yield_pct": 7.27,
+    "dividend_yield_pct": 7.29,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -49673,7 +49668,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 35.0,
-    "netto_rendite_pct": 4.73,
+    "netto_rendite_pct": 4.74,
     "payout_ratio_pct": 64.7,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -49794,7 +49789,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:33.573842"
+    "last_updated": "2026-09-11T10:19:47.565514"
   },
   "TRN.MI": {
     "ticker": "TRN.MI",
@@ -49803,12 +49798,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 9.236000061035156,
-    "perf_1m": -6.06,
-    "perf_3m": -8.92,
-    "perf_1y": 8.99,
-    "perf_3y": 18.87,
-    "gesamtrendite_3j_pct": 31.74,
+    "price": 9.222000122070312,
+    "perf_1m": -6.2,
+    "perf_3m": -9.05,
+    "perf_1y": 8.83,
+    "perf_3y": 18.69,
+    "gesamtrendite_3j_pct": 31.59,
     "chart_series": [
       [
         "2023-09-11",
@@ -50052,12 +50047,12 @@
       ],
       [
         "2026-09-11",
-        9.236000061035156
+        9.222000122070312
       ]
     ],
     "dividend_per_share": 0.3962,
     "dividend_quelle": null,
-    "dividend_yield_pct": 4.29,
+    "dividend_yield_pct": 4.3,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -50085,7 +50080,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.0,
-    "netto_rendite_pct": 3.17,
+    "netto_rendite_pct": 3.18,
     "payout_ratio_pct": 85,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -50204,7 +50199,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:21.034519"
+    "last_updated": "2026-09-11T10:21:19.975236"
   },
   "EVK.DE": {
     "ticker": "EVK.DE",
@@ -50213,12 +50208,12 @@
     "sektor": "Chemie",
     "isin": "DE000EVNK013",
     "isin_quelle": null,
-    "price": 17.889999389648438,
-    "perf_1m": -0.78,
-    "perf_3m": 13.59,
-    "perf_1y": 11.74,
-    "perf_3y": 0.08,
-    "gesamtrendite_3j_pct": 16.85,
+    "price": 17.90999984741211,
+    "perf_1m": -0.67,
+    "perf_3m": 13.71,
+    "perf_1y": 11.87,
+    "perf_3y": 0.2,
+    "gesamtrendite_3j_pct": 16.94,
     "chart_series": [
       [
         "2023-09-11",
@@ -50462,12 +50457,12 @@
       ],
       [
         "2026-09-11",
-        17.889999389648438
+        17.90999984741211
       ]
     ],
     "dividend_per_share": 1.0,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.59,
+    "dividend_yield_pct": 5.58,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -50491,7 +50486,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 4.12,
+    "netto_rendite_pct": 4.11,
     "payout_ratio_pct": 180,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -50610,7 +50605,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:50.407739"
+    "last_updated": "2026-09-11T10:21:19.158818"
   },
   "MFC": {
     "ticker": "MFC",
@@ -51024,7 +51019,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:39.036584"
+    "last_updated": "2026-09-11T10:21:21.641618"
   },
   "NWX.DE": {
     "ticker": "NWX.DE",
@@ -51169,7 +51164,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:42.010107"
+    "last_updated": "2026-09-11T10:20:57.429718"
   },
   "LGEN.L": {
     "ticker": "LGEN.L",
@@ -51178,12 +51173,12 @@
     "sektor": "Finanzen",
     "isin": "GB0005603997",
     "isin_quelle": null,
-    "price": 289.0,
-    "perf_1m": -4.49,
-    "perf_3m": 2.63,
-    "perf_1y": 20.77,
-    "perf_3y": 26.04,
-    "gesamtrendite_3j_pct": 48.78,
+    "price": 289.5,
+    "perf_1m": -4.33,
+    "perf_3m": 2.81,
+    "perf_1y": 20.98,
+    "perf_3y": 26.25,
+    "gesamtrendite_3j_pct": 48.96,
     "chart_series": [
       [
         "2023-09-11",
@@ -51427,12 +51422,12 @@
       ],
       [
         "2026-09-11",
-        289.0
+        289.5
       ]
     ],
     "dividend_per_share": 21.91,
     "dividend_quelle": null,
-    "dividend_yield_pct": 7.58,
+    "dividend_yield_pct": 7.57,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -51460,7 +51455,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 7.58,
+    "netto_rendite_pct": 7.57,
     "payout_ratio_pct": 150,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -51579,7 +51574,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:23.186153"
+    "last_updated": "2026-09-11T10:20:45.454535"
   },
   "MUX.DE": {
     "ticker": "MUX.DE",
@@ -51588,12 +51583,12 @@
     "sektor": "Beteiligungen",
     "isin": null,
     "isin_quelle": null,
-    "price": 26.0,
-    "perf_1m": -3.53,
-    "perf_3m": -7.47,
-    "perf_1y": -13.53,
-    "perf_3y": 14.24,
-    "gesamtrendite_3j_pct": 37.31,
+    "price": 26.049999237060547,
+    "perf_1m": -3.34,
+    "perf_3m": -7.3,
+    "perf_1y": -13.36,
+    "perf_3y": 14.46,
+    "gesamtrendite_3j_pct": 37.5,
     "chart_series": [
       [
         "2023-09-11",
@@ -51837,12 +51832,12 @@
       ],
       [
         "2026-09-11",
-        26.0
+        26.049999237060547
       ]
     ],
     "dividend_per_share": 2.0,
     "dividend_quelle": null,
-    "dividend_yield_pct": 7.69,
+    "dividend_yield_pct": 7.68,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -51866,7 +51861,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 5.66,
+    "netto_rendite_pct": 5.65,
     "payout_ratio_pct": 40,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -51987,7 +51982,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:59.227342"
+    "last_updated": "2026-09-11T10:20:54.208363"
   },
   "HAW.DE": {
     "ticker": "HAW.DE",
@@ -52393,7 +52388,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:09.601652"
+    "last_updated": "2026-09-11T10:21:17.067885"
   },
   "UCG.MI": {
     "ticker": "UCG.MI",
@@ -52402,12 +52397,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 84.56999969482422,
-    "perf_1m": -0.21,
-    "perf_3m": 13.41,
-    "perf_1y": 26.94,
-    "perf_3y": 289.63,
-    "gesamtrendite_3j_pct": 300.79,
+    "price": 84.55000305175781,
+    "perf_1m": -0.24,
+    "perf_3m": 13.38,
+    "perf_1y": 26.91,
+    "perf_3y": 289.54,
+    "gesamtrendite_3j_pct": 300.7,
     "chart_series": [
       [
         "2023-09-11",
@@ -52651,7 +52646,7 @@
       ],
       [
         "2026-09-11",
-        84.56999969482422
+        84.55000305175781
       ]
     ],
     "dividend_per_share": 3.149,
@@ -52803,7 +52798,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:18.864926"
+    "last_updated": "2026-09-11T10:20:26.928754"
   },
   "HABA.DE": {
     "ticker": "HABA.DE",
@@ -52812,12 +52807,12 @@
     "sektor": "Immobilien",
     "isin": "DE000A3H2333",
     "isin_quelle": null,
-    "price": 4.21999979019165,
-    "perf_1m": -2.31,
-    "perf_3m": -9.44,
-    "perf_1y": -25.57,
-    "perf_3y": -34.17,
-    "gesamtrendite_3j_pct": -6.45,
+    "price": 4.210000038146973,
+    "perf_1m": -2.55,
+    "perf_3m": -9.66,
+    "perf_1y": -25.75,
+    "perf_3y": -34.32,
+    "gesamtrendite_3j_pct": -6.54,
     "chart_series": [
       [
         "2023-09-11",
@@ -53061,12 +53056,12 @@
       ],
       [
         "2026-09-11",
-        4.21999979019165
+        4.210000038146973
       ]
     ],
     "dividend_per_share": 0.39,
     "dividend_quelle": null,
-    "dividend_yield_pct": 9.24,
+    "dividend_yield_pct": 9.26,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -53090,7 +53085,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 6.8,
+    "netto_rendite_pct": 6.82,
     "payout_ratio_pct": 200,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -53209,7 +53204,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:11.553330"
+    "last_updated": "2026-09-11T10:20:57.093401"
   },
   "IBE.MC": {
     "ticker": "IBE.MC",
@@ -53218,12 +53213,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 20.209999084472656,
-    "perf_1m": -1.89,
-    "perf_3m": -1.37,
-    "perf_1y": 27.67,
-    "perf_3y": 84.4,
-    "gesamtrendite_3j_pct": 94.57,
+    "price": 20.200000762939453,
+    "perf_1m": -1.94,
+    "perf_3m": -1.42,
+    "perf_1y": 27.61,
+    "perf_3y": 84.31,
+    "gesamtrendite_3j_pct": 94.48,
     "chart_series": [
       [
         "2023-09-11",
@@ -53467,7 +53462,7 @@
       ],
       [
         "2026-09-11",
-        20.209999084472656
+        20.200000762939453
       ]
     ],
     "dividend_per_share": 0.685,
@@ -53623,7 +53618,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:04.779980"
+    "last_updated": "2026-09-11T10:20:59.012257"
   },
   "ELE.MC": {
     "ticker": "ELE.MC",
@@ -53632,12 +53627,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 42.36000061035156,
-    "perf_1m": 1.9,
-    "perf_3m": 12.39,
-    "perf_1y": 58.36,
-    "perf_3y": 113.89,
-    "gesamtrendite_3j_pct": 125.11,
+    "price": 42.2599983215332,
+    "perf_1m": 1.66,
+    "perf_3m": 12.13,
+    "perf_1y": 57.98,
+    "perf_3y": 113.38,
+    "gesamtrendite_3j_pct": 124.63,
     "chart_series": [
       [
         "2023-09-11",
@@ -53881,12 +53876,12 @@
       ],
       [
         "2026-09-11",
-        42.36000061035156
+        42.2599983215332
       ]
     ],
     "dividend_per_share": 1.584,
     "dividend_quelle": null,
-    "dividend_yield_pct": 3.74,
+    "dividend_yield_pct": 3.75,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -53914,7 +53909,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 19.0,
-    "netto_rendite_pct": 3.03,
+    "netto_rendite_pct": 3.04,
     "payout_ratio_pct": 75,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -54033,7 +54028,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:19.164965"
+    "last_updated": "2026-09-11T10:20:53.363470"
   },
   "BBAS3.SA": {
     "ticker": "BBAS3.SA",
@@ -54044,8 +54039,8 @@
     "isin_quelle": null,
     "price": 22.799999237060547,
     "perf_1m": 18.26,
-    "perf_3m": 17.16,
-    "perf_1y": 7.8,
+    "perf_3m": 17.47,
+    "perf_1y": 11.66,
     "perf_3y": -3.76,
     "gesamtrendite_3j_pct": 4.85,
     "chart_series": [
@@ -54118,56 +54113,56 @@
         26.360000610351562
       ],
       [
-        "2024-07-18",
-        27.190000534057617
+        "2024-07-17",
+        27.309999465942383
       ],
       [
         "2024-08-05",
         26.200000762939453
       ],
       [
-        "2024-08-22",
-        28.010000228881836
+        "2024-08-21",
+        29.1299991607666
       ],
       [
         "2024-09-09",
         29.1299991607666
       ],
       [
-        "2024-09-26",
-        27.479999542236328
+        "2024-09-25",
+        27.299999237060547
       ],
       [
         "2024-10-14",
         26.520000457763672
       ],
       [
-        "2024-10-31",
-        26.329999923706055
+        "2024-10-30",
+        26.3700008392334
       ],
       [
         "2024-11-19",
         25.850000381469727
       ],
       [
-        "2024-12-09",
-        24.670000076293945
+        "2024-12-06",
+        24.729999542236328
       ],
       [
         "2024-12-27",
         24.110000610351562
       ],
       [
-        "2025-01-17",
-        25.350000381469727
+        "2025-01-16",
+        25.3799991607666
       ],
       [
         "2025-02-04",
         27.770000457763672
       ],
       [
-        "2025-02-21",
-        27.979999542236328
+        "2025-02-20",
+        28.0
       ],
       [
         "2025-03-13",
@@ -54178,112 +54173,112 @@
         28.190000534057617
       ],
       [
-        "2025-04-17",
-        27.43000030517578
+        "2025-04-16",
+        27.649999618530273
       ],
       [
         "2025-05-08",
         29.40999984741211
       ],
       [
-        "2025-05-27",
-        24.56999969482422
+        "2025-05-26",
+        24.670000076293945
       ],
       [
         "2025-06-12",
         21.420000076293945
       ],
       [
-        "2025-07-02",
-        21.989999771118164
+        "2025-07-01",
+        21.90999984741211
       ],
       [
         "2025-07-18",
         20.260000228881836
       ],
       [
-        "2025-08-06",
-        18.700000762939453
+        "2025-08-05",
+        18.6200008392334
       ],
       [
         "2025-08-22",
         20.5
       ],
       [
-        "2025-09-10",
-        22.049999237060547
+        "2025-09-09",
+        21.399999618530273
       ],
       [
         "2025-09-26",
         22.110000610351562
       ],
       [
-        "2025-10-15",
-        20.31999969482422
+        "2025-10-14",
+        20.700000762939453
       ],
       [
         "2025-10-31",
         21.899999618530273
       ],
       [
-        "2025-11-19",
-        21.579999923706055
+        "2025-11-18",
+        21.8799991607666
       ],
       [
         "2025-12-08",
         21.600000381469727
       ],
       [
-        "2025-12-29",
-        21.719999313354492
+        "2025-12-26",
+        21.850000381469727
       ],
       [
-        "2026-01-16",
-        21.3700008392334
+        "2026-01-15",
+        21.459999084472656
       ],
       [
-        "2026-02-04",
-        25.100000381469727
+        "2026-02-03",
+        25.690000534057617
       ],
       [
-        "2026-02-24",
-        27.1200008392334
+        "2026-02-23",
+        26.829999923706055
       ],
       [
-        "2026-03-13",
-        23.75
+        "2026-03-12",
+        24.229999542236328
       ],
       [
-        "2026-03-31",
-        23.0
+        "2026-03-30",
+        22.399999618530273
       ],
       [
-        "2026-04-20",
-        24.280000686645508
+        "2026-04-17",
+        24.399999618530273
       ],
       [
-        "2026-05-08",
-        21.799999237060547
+        "2026-05-07",
+        21.690000534057617
       ],
       [
-        "2026-05-27",
-        21.06999969482422
+        "2026-05-26",
+        21.110000610351562
       ],
       [
-        "2026-06-15",
-        19.389999389648438
+        "2026-06-12",
+        19.459999084472656
       ],
       [
-        "2026-07-02",
-        20.0
+        "2026-07-01",
+        19.729999542236328
       ],
       [
-        "2026-07-20",
-        20.170000076293945
+        "2026-07-17",
+        20.489999771118164
       ],
       [
-        "2026-08-06",
-        20.280000686645508
+        "2026-08-05",
+        21.049999237060547
       ],
       [
         "2026-08-24",
@@ -54459,7 +54454,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:37.099719"
+    "last_updated": "2026-09-11T10:21:05.206351"
   },
   "BBSE3.SA": {
     "ticker": "BBSE3.SA",
@@ -54470,8 +54465,8 @@
     "isin_quelle": null,
     "price": 41.20000076293945,
     "perf_1m": 10.57,
-    "perf_3m": 8.79,
-    "perf_1y": 27.79,
+    "perf_3m": 8.99,
+    "perf_1y": 27.91,
     "perf_3y": 29.6,
     "gesamtrendite_3j_pct": 63.02,
     "chart_series": [
@@ -54544,56 +54539,56 @@
         32.81999969482422
       ],
       [
-        "2024-07-18",
-        34.380001068115234
+        "2024-07-17",
+        34.470001220703125
       ],
       [
         "2024-08-05",
         34.599998474121094
       ],
       [
-        "2024-08-22",
-        35.95000076293945
+        "2024-08-21",
+        36.06999969482422
       ],
       [
         "2024-09-09",
         36.63999938964844
       ],
       [
-        "2024-09-26",
-        35.470001220703125
+        "2024-09-25",
+        35.349998474121094
       ],
       [
         "2024-10-14",
         33.970001220703125
       ],
       [
-        "2024-10-31",
-        34.27000045776367
+        "2024-10-30",
+        34.5
       ],
       [
         "2024-11-19",
         34.20000076293945
       ],
       [
-        "2024-12-09",
-        35.65999984741211
+        "2024-12-06",
+        35.41999816894531
       ],
       [
         "2024-12-27",
         36.279998779296875
       ],
       [
-        "2025-01-17",
-        37.83000183105469
+        "2025-01-16",
+        37.400001525878906
       ],
       [
         "2025-02-04",
         38.9900016784668
       ],
       [
-        "2025-02-21",
-        37.029998779296875
+        "2025-02-20",
+        39.86000061035156
       ],
       [
         "2025-03-13",
@@ -54604,112 +54599,112 @@
         40.29999923706055
       ],
       [
-        "2025-04-17",
-        40.7400016784668
+        "2025-04-16",
+        40.45000076293945
       ],
       [
         "2025-05-08",
         38.189998626708984
       ],
       [
-        "2025-05-27",
-        38.33000183105469
+        "2025-05-26",
+        37.959999084472656
       ],
       [
         "2025-06-12",
         35.290000915527344
       ],
       [
-        "2025-07-02",
-        36.25
+        "2025-07-01",
+        36.43000030517578
       ],
       [
         "2025-07-18",
         34.31999969482422
       ],
       [
-        "2025-08-06",
-        34.380001068115234
+        "2025-08-05",
+        33.93000030517578
       ],
       [
         "2025-08-22",
         31.799999237060547
       ],
       [
-        "2025-09-10",
-        32.439998626708984
+        "2025-09-09",
+        32.470001220703125
       ],
       [
         "2025-09-26",
         32.45000076293945
       ],
       [
-        "2025-10-15",
-        32.0099983215332
+        "2025-10-14",
+        32.47999954223633
       ],
       [
         "2025-10-31",
         32.849998474121094
       ],
       [
-        "2025-11-19",
-        33.31999969482422
+        "2025-11-18",
+        33.4900016784668
       ],
       [
         "2025-12-08",
         35.41999816894531
       ],
       [
-        "2025-12-29",
-        36.06999969482422
+        "2025-12-26",
+        35.77000045776367
       ],
       [
-        "2026-01-16",
-        35.119998931884766
+        "2026-01-15",
+        34.90999984741211
       ],
       [
-        "2026-02-04",
-        37.150001525878906
+        "2026-02-03",
+        38.290000915527344
       ],
       [
-        "2026-02-24",
-        34.84000015258789
+        "2026-02-23",
+        34.11000061035156
       ],
       [
-        "2026-03-13",
-        35.04999923706055
+        "2026-03-12",
+        34.369998931884766
       ],
       [
-        "2026-03-31",
-        34.810001373291016
+        "2026-03-30",
+        34.29999923706055
       ],
       [
-        "2026-04-20",
-        35.279998779296875
+        "2026-04-17",
+        34.91999816894531
       ],
       [
-        "2026-05-08",
-        34.52000045776367
+        "2026-05-07",
+        34.29999923706055
       ],
       [
-        "2026-05-27",
-        34.86000061035156
+        "2026-05-26",
+        34.720001220703125
       ],
       [
-        "2026-06-15",
-        37.779998779296875
+        "2026-06-12",
+        37.869998931884766
       ],
       [
-        "2026-07-02",
-        38.66999816894531
+        "2026-07-01",
+        38.130001068115234
       ],
       [
-        "2026-07-20",
-        41.04999923706055
+        "2026-07-17",
+        41.119998931884766
       ],
       [
-        "2026-08-06",
-        40.959999084472656
+        "2026-08-05",
+        41.66999816894531
       ],
       [
         "2026-08-24",
@@ -54871,7 +54866,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:32.314942"
+    "last_updated": "2026-09-11T10:20:31.596593"
   },
   "OHI": {
     "ticker": "OHI",
@@ -55289,7 +55284,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:25.689836"
+    "last_updated": "2026-09-11T10:20:12.337344"
   },
   "BIJ.DE": {
     "ticker": "BIJ.DE",
@@ -55695,7 +55690,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:31.724071"
+    "last_updated": "2026-09-11T10:21:03.159328"
   },
   "PBR": {
     "ticker": "PBR",
@@ -56109,7 +56104,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:30.732866"
+    "last_updated": "2026-09-11T10:20:09.888690"
   },
   "BMW.DE": {
     "ticker": "BMW.DE",
@@ -56118,12 +56113,12 @@
     "sektor": "Automobil",
     "isin": "DE0005190003",
     "isin_quelle": null,
-    "price": 62.459999084472656,
-    "perf_1m": 5.29,
-    "perf_3m": -8.6,
-    "perf_1y": -25.94,
-    "perf_3y": -35.46,
-    "gesamtrendite_3j_pct": -14.34,
+    "price": 62.58000183105469,
+    "perf_1m": 5.5,
+    "perf_3m": -8.43,
+    "perf_1y": -25.8,
+    "perf_3y": -35.34,
+    "gesamtrendite_3j_pct": -14.25,
     "chart_series": [
       [
         "2023-09-11",
@@ -56367,12 +56362,12 @@
       ],
       [
         "2026-09-11",
-        62.459999084472656
+        62.58000183105469
       ]
     ],
     "dividend_per_share": 4.4,
     "dividend_quelle": null,
-    "dividend_yield_pct": 7.04,
+    "dividend_yield_pct": 7.03,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -56517,7 +56512,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:02.778224"
+    "last_updated": "2026-09-11T10:20:18.521670"
   },
   "ENEL.MI": {
     "ticker": "ENEL.MI",
@@ -56526,12 +56521,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 8.918999671936035,
-    "perf_1m": -8.25,
-    "perf_3m": -8.98,
-    "perf_1y": 14.08,
-    "perf_3y": 41.08,
-    "gesamtrendite_3j_pct": 57.55,
+    "price": 8.911999702453613,
+    "perf_1m": -8.32,
+    "perf_3m": -9.05,
+    "perf_1y": 13.99,
+    "perf_3y": 40.97,
+    "gesamtrendite_3j_pct": 57.47,
     "chart_series": [
       [
         "2023-09-11",
@@ -56775,12 +56770,12 @@
       ],
       [
         "2026-09-11",
-        8.918999671936035
+        8.911999702453613
       ]
     ],
     "dividend_per_share": 0.49,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.49,
+    "dividend_yield_pct": 5.5,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -56808,7 +56803,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.0,
-    "netto_rendite_pct": 4.06,
+    "netto_rendite_pct": 4.07,
     "payout_ratio_pct": 150.18,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -56927,7 +56922,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:24.151353"
+    "last_updated": "2026-09-11T10:20:19.722998"
   },
   "CCI": {
     "ticker": "CCI",
@@ -57345,7 +57340,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:11.855891"
+    "last_updated": "2026-09-11T10:20:18.882254"
   },
   "004990.KS": {
     "ticker": "004990.KS",
@@ -57751,7 +57746,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:23.169827"
+    "last_updated": "2026-09-11T10:21:24.074783"
   },
   "TRYG.CO": {
     "ticker": "TRYG.CO",
@@ -57760,12 +57755,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 154.1999969482422,
-    "perf_1m": 1.65,
-    "perf_3m": 1.72,
-    "perf_1y": -7.72,
-    "perf_3y": 14.9,
-    "gesamtrendite_3j_pct": 31.25,
+    "price": 154.0,
+    "perf_1m": 1.52,
+    "perf_3m": 1.58,
+    "perf_1y": -7.84,
+    "perf_3y": 14.75,
+    "gesamtrendite_3j_pct": 31.1,
     "chart_series": [
       [
         "2023-09-11",
@@ -58009,7 +58004,7 @@
       ],
       [
         "2026-09-11",
-        154.1999969482422
+        154.0
       ]
     ],
     "dividend_per_share": 8.4,
@@ -58169,7 +58164,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:15.914001"
+    "last_updated": "2026-09-11T10:20:18.131451"
   },
   "EDL.DE": {
     "ticker": "EDL.DE",
@@ -58575,7 +58570,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:21.349050"
+    "last_updated": "2026-09-11T10:20:17.277595"
   },
   "CPFE3.SA": {
     "ticker": "CPFE3.SA",
@@ -58586,8 +58581,8 @@
     "isin_quelle": null,
     "price": 46.439998626708984,
     "perf_1m": 6.39,
-    "perf_3m": 4.55,
-    "perf_1y": 20.62,
+    "perf_3m": 4.67,
+    "perf_1y": 22.66,
     "perf_3y": 35.39,
     "gesamtrendite_3j_pct": 59.51,
     "chart_series": [
@@ -58660,56 +58655,56 @@
         32.79999923706055
       ],
       [
-        "2024-07-18",
-        33.31999969482422
+        "2024-07-17",
+        33.70000076293945
       ],
       [
         "2024-08-05",
         32.279998779296875
       ],
       [
-        "2024-08-22",
-        33.65999984741211
+        "2024-08-21",
+        33.599998474121094
       ],
       [
         "2024-09-09",
         34.470001220703125
       ],
       [
-        "2024-09-26",
-        33.41999816894531
+        "2024-09-25",
+        33.209999084472656
       ],
       [
         "2024-10-14",
         32.66999816894531
       ],
       [
-        "2024-10-31",
-        32.77000045776367
+        "2024-10-30",
+        32.7400016784668
       ],
       [
         "2024-11-19",
         32.5
       ],
       [
-        "2024-12-09",
-        31.940000534057617
+        "2024-12-06",
+        32.029998779296875
       ],
       [
         "2024-12-27",
         31.549999237060547
       ],
       [
-        "2025-01-17",
-        33.2400016784668
+        "2025-01-16",
+        32.63999938964844
       ],
       [
         "2025-02-04",
         34.709999084472656
       ],
       [
-        "2025-02-21",
-        35.029998779296875
+        "2025-02-20",
+        35.20000076293945
       ],
       [
         "2025-03-13",
@@ -58720,7 +58715,7 @@
         37.70000076293945
       ],
       [
-        "2025-04-17",
+        "2025-04-16",
         38.25
       ],
       [
@@ -58728,31 +58723,31 @@
         38.599998474121094
       ],
       [
-        "2025-05-27",
-        41.22999954223633
+        "2025-05-26",
+        40.72999954223633
       ],
       [
         "2025-06-12",
         40.380001068115234
       ],
       [
-        "2025-07-02",
-        40.279998779296875
+        "2025-07-01",
+        40.68000030517578
       ],
       [
         "2025-07-18",
         38.18000030517578
       ],
       [
-        "2025-08-06",
-        37.970001220703125
+        "2025-08-05",
+        37.43000030517578
       ],
       [
         "2025-08-22",
         39.68000030517578
       ],
       [
-        "2025-09-10",
+        "2025-09-09",
         37.81999969482422
       ],
       [
@@ -58760,72 +58755,72 @@
         38.900001525878906
       ],
       [
-        "2025-10-15",
-        38.959999084472656
+        "2025-10-14",
+        38.810001373291016
       ],
       [
         "2025-10-31",
         41.599998474121094
       ],
       [
-        "2025-11-19",
-        47.77000045776367
+        "2025-11-18",
+        47.34000015258789
       ],
       [
         "2025-12-08",
         48.70000076293945
       ],
       [
-        "2025-12-29",
-        53.11000061035156
+        "2025-12-26",
+        53.22999954223633
       ],
       [
-        "2026-01-16",
-        51.220001220703125
+        "2026-01-15",
+        51.86000061035156
       ],
       [
-        "2026-02-04",
-        50.310001373291016
+        "2026-02-03",
+        51.150001525878906
       ],
       [
-        "2026-02-24",
-        51.15999984741211
+        "2026-02-23",
+        50.09000015258789
       ],
       [
-        "2026-03-13",
-        48.150001525878906
+        "2026-03-12",
+        48.2400016784668
       ],
       [
-        "2026-03-31",
-        48.7599983215332
+        "2026-03-30",
+        47.65999984741211
       ],
       [
-        "2026-04-20",
-        55.41999816894531
+        "2026-04-17",
+        55.0099983215332
       ],
       [
-        "2026-05-08",
-        48.939998626708984
+        "2026-05-07",
+        48.22999954223633
       ],
       [
-        "2026-05-27",
-        44.18000030517578
+        "2026-05-26",
+        43.59000015258789
       ],
       [
-        "2026-06-15",
-        44.06999969482422
+        "2026-06-12",
+        44.41999816894531
       ],
       [
-        "2026-07-02",
-        45.099998474121094
+        "2026-07-01",
+        44.2599983215332
       ],
       [
-        "2026-07-20",
-        46.31999969482422
+        "2026-07-17",
+        46.869998931884766
       ],
       [
-        "2026-08-06",
-        45.849998474121094
+        "2026-08-05",
+        46.09000015258789
       ],
       [
         "2026-08-24",
@@ -58983,7 +58978,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:36.172977"
+    "last_updated": "2026-09-11T10:20:09.479548"
   },
   "WSU.DE": {
     "ticker": "WSU.DE",
@@ -59389,21 +59384,21 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:20.724666"
+    "last_updated": "2026-09-11T10:21:11.330545"
   },
   "HOT.DE": {
     "ticker": "HOT.DE",
     "name": "Hochtief",
     "land": "Deutschland",
     "sektor": "Bau",
-    "isin": null,
+    "isin": "DE0006070006",
     "isin_quelle": null,
-    "price": 409.3999938964844,
-    "perf_1m": -8.04,
-    "perf_3m": -17.33,
-    "perf_1y": 75.56,
-    "perf_3y": 319.04,
-    "gesamtrendite_3j_pct": 323.87,
+    "price": 408.3999938964844,
+    "perf_1m": -8.27,
+    "perf_3m": -17.53,
+    "perf_1y": 75.13,
+    "perf_3y": 318.01,
+    "gesamtrendite_3j_pct": 322.87,
     "chart_series": [
       [
         "2023-09-11",
@@ -59647,12 +59642,12 @@
       ],
       [
         "2026-09-11",
-        409.3999938964844
+        408.3999938964844
       ]
     ],
     "dividend_per_share": 6.6,
     "dividend_quelle": null,
-    "dividend_yield_pct": 1.61,
+    "dividend_yield_pct": 1.62,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -59680,7 +59675,7 @@
     "payout_ratio_pct": 55,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": null,
+    "market_cap": 32777134080,
     "pe_ratio": 10,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": 0.8,
@@ -59795,7 +59790,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:17.589921"
+    "last_updated": "2026-09-11T10:19:40.847688"
   },
   "LYB": {
     "ticker": "LYB",
@@ -60213,7 +60208,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:20.043868"
+    "last_updated": "2026-09-11T10:21:13.353289"
   },
   "PWO.DE": {
     "ticker": "PWO.DE",
@@ -60619,7 +60614,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:51.063892"
+    "last_updated": "2026-09-11T10:20:57.840664"
   },
   "DTG.DE": {
     "ticker": "DTG.DE",
@@ -60628,12 +60623,12 @@
     "sektor": "Automobil",
     "isin": "DE000DTR0CK8",
     "isin_quelle": null,
-    "price": 44.20000076293945,
-    "perf_1m": -2.92,
-    "perf_3m": 3.51,
-    "perf_1y": 17.06,
-    "perf_3y": 31.27,
-    "gesamtrendite_3j_pct": 44.17,
+    "price": 44.2599983215332,
+    "perf_1m": -2.79,
+    "perf_3m": 3.65,
+    "perf_1y": 17.21,
+    "perf_3y": 31.45,
+    "gesamtrendite_3j_pct": 44.32,
     "chart_series": [
       [
         "2023-09-11",
@@ -60877,12 +60872,12 @@
       ],
       [
         "2026-09-11",
-        44.20000076293945
+        44.2599983215332
       ]
     ],
     "dividend_per_share": 1.9,
     "dividend_quelle": null,
-    "dividend_yield_pct": 4.3,
+    "dividend_yield_pct": 4.29,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -60906,7 +60901,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 3.17,
+    "netto_rendite_pct": 3.16,
     "payout_ratio_pct": 100,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -61025,7 +61020,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:33.280269"
+    "last_updated": "2026-09-11T10:20:09.086864"
   },
   "030000.KS": {
     "ticker": "030000.KS",
@@ -61431,7 +61426,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:22.562548"
+    "last_updated": "2026-09-11T10:20:03.661656"
   },
   "PBA": {
     "ticker": "PBA",
@@ -61841,7 +61836,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:38.723894"
+    "last_updated": "2026-09-11T10:21:22.447563"
   },
   "ISP.MI": {
     "ticker": "ISP.MI",
@@ -61850,12 +61845,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 6.761499881744385,
-    "perf_1m": -1.36,
-    "perf_3m": 14.89,
-    "perf_1y": 23.54,
-    "perf_3y": 173.19,
-    "gesamtrendite_3j_pct": 189.87,
+    "price": 6.7729997634887695,
+    "perf_1m": -1.2,
+    "perf_3m": 15.09,
+    "perf_1y": 23.75,
+    "perf_3y": 173.66,
+    "gesamtrendite_3j_pct": 190.31,
     "chart_series": [
       [
         "2023-09-11",
@@ -62099,12 +62094,12 @@
       ],
       [
         "2026-09-11",
-        6.761499881744385
+        6.7729997634887695
       ]
     ],
     "dividend_per_share": 0.376,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.56,
+    "dividend_yield_pct": 5.55,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -62253,7 +62248,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:15.597812"
+    "last_updated": "2026-09-11T10:20:51.696161"
   },
   "WCH.DE": {
     "ticker": "WCH.DE",
@@ -62262,12 +62257,12 @@
     "sektor": "Chemie",
     "isin": "DE000WCH8881",
     "isin_quelle": null,
-    "price": 88.6500015258789,
-    "perf_1m": -7.17,
-    "perf_3m": -7.37,
-    "perf_1y": 42.07,
-    "perf_3y": -35.15,
-    "gesamtrendite_3j_pct": -27.35,
+    "price": 88.55000305175781,
+    "perf_1m": -7.28,
+    "perf_3m": -7.47,
+    "perf_1y": 41.91,
+    "perf_3y": -35.22,
+    "gesamtrendite_3j_pct": -27.42,
     "chart_series": [
       [
         "2023-09-11",
@@ -62511,7 +62506,7 @@
       ],
       [
         "2026-09-11",
-        88.6500015258789
+        88.55000305175781
       ]
     ],
     "dividend_per_share": null,
@@ -62654,7 +62649,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:46.177141"
+    "last_updated": "2026-09-11T10:21:15.144230"
   },
   "NLY": {
     "ticker": "NLY",
@@ -63072,7 +63067,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:24.780765"
+    "last_updated": "2026-09-11T10:20:06.937805"
   },
   "GLEN.L": {
     "ticker": "GLEN.L",
@@ -63081,12 +63076,12 @@
     "sektor": "Grundstoffe",
     "isin": null,
     "isin_quelle": null,
-    "price": 599.5999755859375,
-    "perf_1m": 4.66,
-    "perf_3m": 2.85,
-    "perf_1y": 100.8,
-    "perf_3y": 37.95,
-    "gesamtrendite_3j_pct": 47.37,
+    "price": 598.9000244140625,
+    "perf_1m": 4.54,
+    "perf_3m": 2.73,
+    "perf_1y": 100.57,
+    "perf_3y": 37.79,
+    "gesamtrendite_3j_pct": 47.24,
     "chart_series": [
       [
         "2023-09-11",
@@ -63330,12 +63325,12 @@
       ],
       [
         "2026-09-11",
-        599.5999755859375
+        598.9000244140625
       ]
     ],
     "dividend_per_share": 18.839801,
     "dividend_quelle": null,
-    "dividend_yield_pct": 3.14,
+    "dividend_yield_pct": 3.15,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -63363,7 +63358,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 3.14,
+    "netto_rendite_pct": 3.15,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -63482,7 +63477,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:50.100406"
+    "last_updated": "2026-09-11T10:19:42.213075"
   },
   "STG.CO": {
     "ticker": "STG.CO",
@@ -63491,12 +63486,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 73.5,
-    "perf_1m": 4.7,
-    "perf_3m": 9.21,
-    "perf_1y": -19.67,
-    "perf_3y": -31.94,
-    "gesamtrendite_3j_pct": -13.58,
+    "price": 73.4000015258789,
+    "perf_1m": 4.56,
+    "perf_3m": 9.06,
+    "perf_1y": -19.78,
+    "perf_3y": -32.04,
+    "gesamtrendite_3j_pct": -13.65,
     "chart_series": [
       [
         "2023-09-11",
@@ -63740,12 +63735,12 @@
       ],
       [
         "2026-09-11",
-        73.5
+        73.4000015258789
       ]
     ],
     "dividend_per_share": 4.5,
     "dividend_quelle": null,
-    "dividend_yield_pct": 6.12,
+    "dividend_yield_pct": 6.13,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -63769,7 +63764,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 6.12,
+    "netto_rendite_pct": 6.13,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -63888,7 +63883,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:16.219533"
+    "last_updated": "2026-09-11T10:20:13.156309"
   },
   "M12.DE": {
     "ticker": "M12.DE",
@@ -63897,12 +63892,12 @@
     "sektor": "Gesundheit",
     "isin": null,
     "isin_quelle": null,
-    "price": 20.799999237060547,
-    "perf_1m": 9.82,
-    "perf_3m": 15.17,
-    "perf_1y": 53.85,
-    "perf_3y": 128.07,
-    "gesamtrendite_3j_pct": 145.38,
+    "price": 21.049999237060547,
+    "perf_1m": 11.14,
+    "perf_3m": 16.56,
+    "perf_1y": 55.7,
+    "perf_3y": 130.81,
+    "gesamtrendite_3j_pct": 147.91,
     "chart_series": [
       [
         "2023-09-11",
@@ -64146,12 +64141,12 @@
       ],
       [
         "2026-09-11",
-        20.799999237060547
+        21.049999237060547
       ]
     ],
     "dividend_per_share": 1.2,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.77,
+    "dividend_yield_pct": 5.7,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -64175,7 +64170,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 4.25,
+    "netto_rendite_pct": 4.2,
     "payout_ratio_pct": 42.06,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -64296,7 +64291,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:32.312807"
+    "last_updated": "2026-09-11T10:20:36.430134"
   },
   "035250.KS": {
     "ticker": "035250.KS",
@@ -64702,7 +64697,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:27.926671"
+    "last_updated": "2026-09-11T10:20:50.056883"
   },
   "OKE": {
     "ticker": "OKE",
@@ -65120,7 +65115,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:08.898606"
+    "last_updated": "2026-09-11T10:21:25.734590"
   },
   "ZURN.SW": {
     "ticker": "ZURN.SW",
@@ -65129,12 +65124,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 589.2000122070312,
-    "perf_1m": -0.1,
-    "perf_3m": 2.15,
-    "perf_1y": 2.29,
-    "perf_3y": 42.11,
-    "gesamtrendite_3j_pct": 57.38,
+    "price": 590.0,
+    "perf_1m": 0.03,
+    "perf_3m": 2.29,
+    "perf_1y": 2.43,
+    "perf_3y": 42.31,
+    "gesamtrendite_3j_pct": 57.55,
     "chart_series": [
       [
         "2023-09-11",
@@ -65378,12 +65373,12 @@
       ],
       [
         "2026-09-11",
-        589.2000122070312
+        590.0
       ]
     ],
     "dividend_per_share": 30.0,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.09,
+    "dividend_yield_pct": 5.08,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -65407,7 +65402,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 35.0,
-    "netto_rendite_pct": 3.31,
+    "netto_rendite_pct": 3.3,
     "payout_ratio_pct": 78,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -65528,7 +65523,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:43:00.168948"
+    "last_updated": "2026-09-11T10:21:24.889576"
   },
   "AV.L": {
     "ticker": "AV.L",
@@ -65537,12 +65532,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 711.5999755859375,
-    "perf_1m": 1.08,
-    "perf_3m": 12.77,
-    "perf_1y": 6.18,
-    "perf_3y": 77.59,
-    "gesamtrendite_3j_pct": 94.54,
+    "price": 713.0,
+    "perf_1m": 1.28,
+    "perf_3m": 13.0,
+    "perf_1y": 6.39,
+    "perf_3y": 77.94,
+    "gesamtrendite_3j_pct": 94.86,
     "chart_series": [
       [
         "2023-09-11",
@@ -65786,12 +65781,12 @@
       ],
       [
         "2026-09-11",
-        711.5999755859375
+        713.0
       ]
     ],
     "dividend_per_share": 40.199999,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.65,
+    "dividend_yield_pct": 5.64,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -65819,7 +65814,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 5.65,
+    "netto_rendite_pct": 5.64,
     "payout_ratio_pct": 60,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -65940,7 +65935,7 @@
       "sentiment_warning": false,
       "analyst_downgrade_warning": false
     },
-    "last_updated": "2026-09-11T09:42:32.979383"
+    "last_updated": "2026-09-11T10:19:54.367754"
   },
   "TU": {
     "ticker": "TU",
@@ -66354,7 +66349,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:20.420032"
+    "last_updated": "2026-09-11T10:21:17.938841"
   },
   "BNS": {
     "ticker": "BNS",
@@ -66764,7 +66759,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:21.651840"
+    "last_updated": "2026-09-11T10:20:52.513808"
   },
   "CS.PA": {
     "ticker": "CS.PA",
@@ -66773,12 +66768,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 43.279998779296875,
-    "perf_1m": -3.24,
-    "perf_3m": 3.34,
-    "perf_1y": 7.13,
-    "perf_3y": 50.17,
-    "gesamtrendite_3j_pct": 66.25,
+    "price": 43.470001220703125,
+    "perf_1m": -2.82,
+    "perf_3m": 3.8,
+    "perf_1y": 7.6,
+    "perf_3y": 50.83,
+    "gesamtrendite_3j_pct": 66.85,
     "chart_series": [
       [
         "2023-09-11",
@@ -67022,12 +67017,12 @@
       ],
       [
         "2026-09-11",
-        43.279998779296875
+        43.470001220703125
       ]
     ],
     "dividend_per_share": 2.32,
     "dividend_quelle": null,
-    "dividend_yield_pct": 5.36,
+    "dividend_yield_pct": 5.34,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -67051,7 +67046,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 25.0,
-    "netto_rendite_pct": 4.02,
+    "netto_rendite_pct": 4.0,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -67170,14 +67165,14 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:14.644074"
+    "last_updated": "2026-09-11T10:20:14.413032"
   },
   "B7E.DE": {
     "ticker": "B7E.DE",
     "name": "Blue Cap",
     "land": "Deutschland",
     "sektor": "Beteiligungen",
-    "isin": null,
+    "isin": "DE000A0JM2M1",
     "isin_quelle": null,
     "price": 16.049999237060547,
     "perf_1m": -1.23,
@@ -67461,7 +67456,7 @@
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": null,
+    "market_cap": 73799360,
     "pe_ratio": 12,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": 0.8,
@@ -67576,7 +67571,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:22.858756"
+    "last_updated": "2026-09-11T10:19:58.095326"
   },
   "EN.PA": {
     "ticker": "EN.PA",
@@ -67585,12 +67580,12 @@
     "sektor": "Industrie",
     "isin": null,
     "isin_quelle": null,
-    "price": 44.0,
-    "perf_1m": -7.66,
-    "perf_3m": -13.18,
-    "perf_1y": 14.97,
-    "perf_3y": 31.97,
-    "gesamtrendite_3j_pct": 46.28,
+    "price": 44.0099983215332,
+    "perf_1m": -7.64,
+    "perf_3m": -13.16,
+    "perf_1y": 15.0,
+    "perf_3y": 32.0,
+    "gesamtrendite_3j_pct": 46.31,
     "chart_series": [
       [
         "2023-09-11",
@@ -67834,7 +67829,7 @@
       ],
       [
         "2026-09-11",
-        44.0
+        44.0099983215332
       ]
     ],
     "dividend_per_share": 2.1,
@@ -67982,7 +67977,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:25.382881"
+    "last_updated": "2026-09-11T10:20:50.864475"
   },
   "MB.MI": {
     "ticker": "MB.MI",
@@ -67991,12 +67986,12 @@
     "sektor": "Finanzen",
     "isin": null,
     "isin_quelle": null,
-    "price": 28.420000076293945,
-    "perf_1m": -1.32,
-    "perf_3m": 9.39,
-    "perf_1y": 33.55,
-    "perf_3y": 131.62,
-    "gesamtrendite_3j_pct": 144.49,
+    "price": 28.389999389648438,
+    "perf_1m": -1.42,
+    "perf_3m": 9.28,
+    "perf_1y": 33.41,
+    "perf_3y": 131.38,
+    "gesamtrendite_3j_pct": 144.28,
     "chart_series": [
       [
         "2023-09-11",
@@ -68240,12 +68235,12 @@
       ],
       [
         "2026-09-11",
-        28.420000076293945
+        28.389999389648438
       ]
     ],
     "dividend_per_share": 1.22,
     "dividend_quelle": null,
-    "dividend_yield_pct": 4.29,
+    "dividend_yield_pct": 4.3,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -68273,7 +68268,7 @@
     "dividend_recherche": null,
     "dividend_abweichung_pct": null,
     "quellensteuer_pct": 26.0,
-    "netto_rendite_pct": 3.17,
+    "netto_rendite_pct": 3.18,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -68392,7 +68387,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:44.938274"
+    "last_updated": "2026-09-11T10:21:04.383289"
   },
   "KEY": {
     "ticker": "KEY",
@@ -68810,7 +68805,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:29.826594"
+    "last_updated": "2026-09-11T10:20:47.980824"
   },
   "TTE.PA": {
     "ticker": "TTE.PA",
@@ -68819,12 +68814,12 @@
     "sektor": "Energie",
     "isin": null,
     "isin_quelle": null,
-    "price": 78.18000030517578,
-    "perf_1m": 3.51,
-    "perf_3m": 7.1,
-    "perf_1y": 48.69,
-    "perf_3y": 26.28,
-    "gesamtrendite_3j_pct": 39.33,
+    "price": 78.13999938964844,
+    "perf_1m": 3.46,
+    "perf_3m": 7.04,
+    "perf_1y": 48.61,
+    "perf_3y": 26.22,
+    "gesamtrendite_3j_pct": 39.27,
     "chart_series": [
       [
         "2023-09-11",
@@ -69068,7 +69063,7 @@
       ],
       [
         "2026-09-11",
-        78.18000030517578
+        78.13999938964844
       ]
     ],
     "dividend_per_share": 3.4,
@@ -69228,7 +69223,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:05.776620"
+    "last_updated": "2026-09-11T10:19:55.505807"
   },
   "BCH": {
     "ticker": "BCH",
@@ -69634,7 +69629,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:15.117928"
+    "last_updated": "2026-09-11T10:19:55.906895"
   },
   "WCP": {
     "ticker": "WCP",
@@ -69770,7 +69765,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:11.241006"
+    "last_updated": "2026-09-11T10:20:16.459955"
   },
   "ENGI.PA": {
     "ticker": "ENGI.PA",
@@ -69779,12 +69774,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 24.1299991607666,
-    "perf_1m": -7.09,
-    "perf_3m": -11.61,
-    "perf_1y": 31.11,
-    "perf_3y": 61.32,
-    "gesamtrendite_3j_pct": 78.09,
+    "price": 24.06999969482422,
+    "perf_1m": -7.32,
+    "perf_3m": -11.83,
+    "perf_1y": 30.78,
+    "perf_3y": 60.92,
+    "gesamtrendite_3j_pct": 77.75,
     "chart_series": [
       [
         "2023-09-11",
@@ -70028,12 +70023,12 @@
       ],
       [
         "2026-09-11",
-        24.1299991607666
+        24.06999969482422
       ]
     ],
     "dividend_per_share": 1.35,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 5.59,
+    "dividend_yield_pct": 5.61,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -70057,7 +70052,7 @@
     "dividend_recherche": 1.3,
     "dividend_abweichung_pct": 3.8,
     "quellensteuer_pct": 25.0,
-    "netto_rendite_pct": 4.19,
+    "netto_rendite_pct": 4.21,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -70164,7 +70159,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:34.307737"
+    "last_updated": "2026-09-11T10:20:29.544807"
   },
   "IMB.L": {
     "ticker": "IMB.L",
@@ -70173,12 +70168,12 @@
     "sektor": "Tabak",
     "isin": null,
     "isin_quelle": null,
-    "price": 2519.0,
-    "perf_1m": -3.04,
-    "perf_3m": -9.75,
-    "perf_1y": -21.03,
-    "perf_3y": 42.28,
-    "gesamtrendite_3j_pct": 61.75,
+    "price": 2518.0,
+    "perf_1m": -3.08,
+    "perf_3m": -9.78,
+    "perf_1y": -21.07,
+    "perf_3y": 42.22,
+    "gesamtrendite_3j_pct": 61.69,
     "chart_series": [
       [
         "2023-09-11",
@@ -70422,7 +70417,7 @@
       ],
       [
         "2026-09-11",
-        2519.0
+        2518.0
       ]
     ],
     "dividend_per_share": 163.519996,
@@ -70570,7 +70565,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:15.279899"
+    "last_updated": "2026-09-11T10:20:49.262304"
   },
   "NG.L": {
     "ticker": "NG.L",
@@ -70579,12 +70574,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 1139.0,
-    "perf_1m": -4.81,
-    "perf_3m": -5.79,
-    "perf_1y": 8.63,
-    "perf_3y": 11.39,
-    "gesamtrendite_3j_pct": 24.17,
+    "price": 1136.5,
+    "perf_1m": -5.01,
+    "perf_3m": -6.0,
+    "perf_1y": 8.39,
+    "perf_3y": 11.15,
+    "gesamtrendite_3j_pct": 23.96,
     "chart_series": [
       [
         "2023-09-11",
@@ -70828,12 +70823,12 @@
       ],
       [
         "2026-09-11",
-        1139.0
+        1136.5
       ]
     ],
     "dividend_per_share": 48.49,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 4.26,
+    "dividend_yield_pct": 4.27,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -70861,7 +70856,7 @@
     "dividend_recherche": 0.52,
     "dividend_abweichung_pct": 9225.0,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 4.26,
+    "netto_rendite_pct": 4.27,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -70968,7 +70963,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:58.303193"
+    "last_updated": "2026-09-11T10:20:22.318102"
   },
   "SHEL.L": {
     "ticker": "SHEL.L",
@@ -70977,12 +70972,12 @@
     "sektor": "Energie",
     "isin": null,
     "isin_quelle": null,
-    "price": 3526.0,
-    "perf_1m": 6.12,
-    "perf_3m": 14.46,
-    "perf_1y": 33.71,
-    "perf_3y": 36.67,
-    "gesamtrendite_3j_pct": 46.27,
+    "price": 3522.0,
+    "perf_1m": 6.0,
+    "perf_3m": 14.33,
+    "perf_1y": 33.56,
+    "perf_3y": 36.51,
+    "gesamtrendite_3j_pct": 46.11,
     "chart_series": [
       [
         "2023-09-11",
@@ -71226,7 +71221,7 @@
       ],
       [
         "2026-09-11",
-        3526.0
+        3522.0
       ]
     ],
     "dividend_per_share": 112.819997,
@@ -71374,7 +71369,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:35.279927"
+    "last_updated": "2026-09-11T10:20:01.393136"
   },
   "VOD.L": {
     "ticker": "VOD.L",
@@ -71383,12 +71378,12 @@
     "sektor": "Telekom",
     "isin": null,
     "isin_quelle": null,
-    "price": 128.89999389648438,
-    "perf_1m": 8.0,
-    "perf_3m": 11.36,
-    "perf_1y": 47.25,
-    "perf_3y": 61.25,
-    "gesamtrendite_3j_pct": 70.52,
+    "price": 128.8000030517578,
+    "perf_1m": 7.92,
+    "perf_3m": 11.27,
+    "perf_1y": 47.13,
+    "perf_3y": 61.12,
+    "gesamtrendite_3j_pct": 70.39,
     "chart_series": [
       [
         "2023-09-11",
@@ -71632,16 +71627,16 @@
       ],
       [
         "2026-09-11",
-        128.89999389648438
+        128.8000030517578
       ]
     ],
-    "dividend_per_share": 3.979784,
+    "dividend_per_share": 3.979194,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
     "dividend_yield_pct": 3.09,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
-      "summe_12m": 3.979784,
+      "summe_12m": 3.979194,
       "anzahl_12m": 2,
       "zahlungen": [
         {
@@ -71650,7 +71645,7 @@
         },
         {
           "datum": "2026-06-04",
-          "betrag": 2.0285842
+          "betrag": 2.0279937
         }
       ],
       "rhythmus": "halbjaehrlich",
@@ -71663,7 +71658,7 @@
       "stand": "2026-09-11"
     },
     "dividend_recherche": 0.09,
-    "dividend_abweichung_pct": 4322.0,
+    "dividend_abweichung_pct": 4321.3,
     "quellensteuer_pct": 0.0,
     "netto_rendite_pct": 3.09,
     "payout_ratio_pct": null,
@@ -71772,7 +71767,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:55.133545"
+    "last_updated": "2026-09-11T10:20:24.823275"
   },
   "BP.L": {
     "ticker": "BP.L",
@@ -72178,7 +72173,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:43.914236"
+    "last_updated": "2026-09-11T10:19:59.585982"
   },
   "0857.HK": {
     "ticker": "0857.HK",
@@ -72576,7 +72571,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:25.102125"
+    "last_updated": "2026-09-11T10:21:12.607779"
   },
   "SAN.PA": {
     "ticker": "SAN.PA",
@@ -72585,12 +72580,12 @@
     "sektor": "Gesundheit",
     "isin": null,
     "isin_quelle": null,
-    "price": 73.56999969482422,
-    "perf_1m": -2.45,
-    "perf_3m": -2.61,
-    "perf_1y": -7.47,
-    "perf_3y": -27.94,
-    "gesamtrendite_3j_pct": -11.14,
+    "price": 73.63999938964844,
+    "perf_1m": -2.36,
+    "perf_3m": -2.52,
+    "perf_1y": -7.38,
+    "perf_3y": -27.87,
+    "gesamtrendite_3j_pct": -11.1,
     "chart_series": [
       [
         "2023-09-11",
@@ -72834,12 +72829,12 @@
       ],
       [
         "2026-09-11",
-        73.56999969482422
+        73.63999938964844
       ]
     ],
     "dividend_per_share": 4.12,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 5.6,
+    "dividend_yield_pct": 5.59,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -72863,7 +72858,7 @@
     "dividend_recherche": 3.92,
     "dividend_abweichung_pct": 5.1,
     "quellensteuer_pct": 25.0,
-    "netto_rendite_pct": 4.2,
+    "netto_rendite_pct": 4.19,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -72970,7 +72965,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:30.827494"
+    "last_updated": "2026-09-11T10:21:02.364178"
   },
   "BAS.DE": {
     "ticker": "BAS.DE",
@@ -72979,12 +72974,12 @@
     "sektor": "Chemie",
     "isin": null,
     "isin_quelle": null,
-    "price": 51.84000015258789,
-    "perf_1m": 1.11,
-    "perf_3m": 5.31,
-    "perf_1y": 17.95,
-    "perf_3y": 14.41,
-    "gesamtrendite_3j_pct": 27.43,
+    "price": 51.95000076293945,
+    "perf_1m": 1.33,
+    "perf_3m": 5.54,
+    "perf_1y": 18.2,
+    "perf_3y": 14.65,
+    "gesamtrendite_3j_pct": 27.64,
     "chart_series": [
       [
         "2023-09-11",
@@ -73228,12 +73223,12 @@
       ],
       [
         "2026-09-11",
-        51.84000015258789
+        51.95000076293945
       ]
     ],
     "dividend_per_share": 2.25,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 4.34,
+    "dividend_yield_pct": 4.33,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -73257,7 +73252,7 @@
     "dividend_recherche": 3.4,
     "dividend_abweichung_pct": -33.8,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 3.2,
+    "netto_rendite_pct": 3.19,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -73362,10 +73357,9 @@
       "de_ausnahme": false,
       "sektor_schwellen_stufe": 3,
       "payout_basis": "Gewinn",
-      "kuerzungs_alarm": true,
-      "kuerzungs_alarm_veraenderung_pct": -33.8
+      "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:10.528107"
+    "last_updated": "2026-09-11T10:21:05.632951"
   },
   "MUV2.DE": {
     "ticker": "MUV2.DE",
@@ -73374,12 +73368,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 505.3999938964844,
-    "perf_1m": -1.83,
-    "perf_3m": 9.23,
-    "perf_1y": -3.18,
-    "perf_3y": 34.45,
-    "gesamtrendite_3j_pct": 48.7,
+    "price": 507.0,
+    "perf_1m": -1.52,
+    "perf_3m": 9.57,
+    "perf_1y": -2.87,
+    "perf_3y": 34.88,
+    "gesamtrendite_3j_pct": 49.07,
     "chart_series": [
       [
         "2023-09-11",
@@ -73623,12 +73617,12 @@
       ],
       [
         "2026-09-11",
-        505.3999938964844
+        507.0
       ]
     ],
     "dividend_per_share": 24.0,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 4.75,
+    "dividend_yield_pct": 4.73,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -73652,7 +73646,7 @@
     "dividend_recherche": 20,
     "dividend_abweichung_pct": 20.0,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 3.5,
+    "netto_rendite_pct": 3.48,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -73759,7 +73753,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:22.566540"
+    "last_updated": "2026-09-11T10:21:16.291853"
   },
   "NTGY.MC": {
     "ticker": "NTGY.MC",
@@ -73768,12 +73762,12 @@
     "sektor": "Versorger",
     "isin": null,
     "isin_quelle": null,
-    "price": 29.739999771118164,
-    "perf_1m": 2.76,
-    "perf_3m": 2.48,
-    "perf_1y": 12.65,
-    "perf_3y": 11.55,
-    "gesamtrendite_3j_pct": 29.4,
+    "price": 29.65999984741211,
+    "perf_1m": 2.49,
+    "perf_3m": 2.21,
+    "perf_1y": 12.35,
+    "perf_3y": 11.25,
+    "gesamtrendite_3j_pct": 29.16,
     "chart_series": [
       [
         "2023-09-11",
@@ -74017,12 +74011,12 @@
       ],
       [
         "2026-09-11",
-        29.739999771118164
+        29.65999984741211
       ]
     ],
     "dividend_per_share": 1.77,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 5.95,
+    "dividend_yield_pct": 5.97,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -74054,7 +74048,7 @@
     "dividend_recherche": 1.4,
     "dividend_abweichung_pct": 26.4,
     "quellensteuer_pct": 19.0,
-    "netto_rendite_pct": 4.82,
+    "netto_rendite_pct": 4.84,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -74161,21 +74155,21 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:47.417694"
+    "last_updated": "2026-09-11T10:20:21.038799"
   },
   "DTE.DE": {
     "ticker": "DTE.DE",
     "name": "DTE.DE",
     "land": "Deutschland",
     "sektor": "Telekom",
-    "isin": null,
+    "isin": "DE0005557508",
     "isin_quelle": null,
-    "price": 28.229999542236328,
-    "perf_1m": 0.28,
-    "perf_3m": 1.36,
-    "perf_1y": -5.81,
-    "perf_3y": 36.87,
-    "gesamtrendite_3j_pct": 47.49,
+    "price": 28.239999771118164,
+    "perf_1m": 0.32,
+    "perf_3m": 1.4,
+    "perf_1y": -5.77,
+    "perf_3y": 36.92,
+    "gesamtrendite_3j_pct": 47.54,
     "chart_series": [
       [
         "2023-09-11",
@@ -74419,7 +74413,7 @@
       ],
       [
         "2026-09-11",
-        28.229999542236328
+        28.239999771118164
       ]
     ],
     "dividend_per_share": 1.0,
@@ -74452,7 +74446,7 @@
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
-    "market_cap": null,
+    "market_cap": 132813094912,
     "pe_ratio": 17,
     "pe_quelle": "Sektortypische Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert.",
     "debt_to_equity": null,
@@ -74555,7 +74549,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:12.998090"
+    "last_updated": "2026-09-11T10:20:08.710077"
   },
   "ULVR.L": {
     "ticker": "ULVR.L",
@@ -74564,12 +74558,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 4562.0,
-    "perf_1m": -0.19,
-    "perf_3m": 4.72,
-    "perf_1y": -7.87,
-    "perf_3y": 3.95,
-    "gesamtrendite_3j_pct": 14.81,
+    "price": 4571.5,
+    "perf_1m": 0.02,
+    "perf_3m": 4.94,
+    "perf_1y": -7.68,
+    "perf_3y": 4.17,
+    "gesamtrendite_3j_pct": 15.0,
     "chart_series": [
       [
         "2023-09-11",
@@ -74813,12 +74807,12 @@
       ],
       [
         "2026-09-11",
-        4562.0
+        4571.5
       ]
     ],
     "dividend_per_share": 164.990002,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 3.62,
+    "dividend_yield_pct": 3.61,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -74854,7 +74848,7 @@
     "dividend_recherche": 1.72,
     "dividend_abweichung_pct": 9492.4,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 3.62,
+    "netto_rendite_pct": 3.61,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -74961,7 +74955,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:29.821088"
+    "last_updated": "2026-09-11T10:21:08.050369"
   },
   "GSK.L": {
     "ticker": "GSK.L",
@@ -74970,12 +74964,12 @@
     "sektor": "Gesundheit",
     "isin": null,
     "isin_quelle": null,
-    "price": 1786.5,
-    "perf_1m": -4.41,
-    "perf_3m": -8.76,
-    "perf_1y": 18.82,
-    "perf_3y": 18.34,
-    "gesamtrendite_3j_pct": 29.77,
+    "price": 1788.5,
+    "perf_1m": -4.31,
+    "perf_3m": -8.66,
+    "perf_1y": 18.96,
+    "perf_3y": 18.48,
+    "gesamtrendite_3j_pct": 29.88,
     "chart_series": [
       [
         "2023-09-11",
@@ -75219,12 +75213,12 @@
       ],
       [
         "2026-09-11",
-        1786.5
+        1788.5
       ]
     ],
     "dividend_per_share": 68.0,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 3.81,
+    "dividend_yield_pct": 3.8,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -75260,7 +75254,7 @@
     "dividend_recherche": 0.63,
     "dividend_abweichung_pct": 10693.7,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 3.81,
+    "netto_rendite_pct": 3.8,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -75367,7 +75361,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:52.432801"
+    "last_updated": "2026-09-11T10:21:25.319822"
   },
   "NESN.SW": {
     "ticker": "NESN.SW",
@@ -75376,12 +75370,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 77.5,
-    "perf_1m": -4.4,
-    "perf_3m": -2.61,
-    "perf_1y": 5.38,
-    "perf_3y": -26.96,
-    "gesamtrendite_3j_pct": -14.96,
+    "price": 77.68000030517578,
+    "perf_1m": -4.18,
+    "perf_3m": -2.39,
+    "perf_1y": 5.63,
+    "perf_3y": -26.79,
+    "gesamtrendite_3j_pct": -14.82,
     "chart_series": [
       [
         "2023-09-11",
@@ -75625,12 +75619,12 @@
       ],
       [
         "2026-09-11",
-        77.5
+        77.68000030517578
       ]
     ],
     "dividend_per_share": 3.1,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 4.0,
+    "dividend_yield_pct": 3.99,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -75654,7 +75648,7 @@
     "dividend_recherche": 3.05,
     "dividend_abweichung_pct": 1.6,
     "quellensteuer_pct": 35.0,
-    "netto_rendite_pct": 2.6,
+    "netto_rendite_pct": 2.59,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -75761,7 +75755,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:00.775852"
+    "last_updated": "2026-09-11T10:21:10.924723"
   },
   "ORA.PA": {
     "ticker": "ORA.PA",
@@ -75770,12 +75764,12 @@
     "sektor": "Telekom",
     "isin": null,
     "isin_quelle": null,
-    "price": 15.550000190734863,
-    "perf_1m": -3.72,
-    "perf_3m": -11.29,
-    "perf_1y": 12.48,
-    "perf_3y": 40.17,
-    "gesamtrendite_3j_pct": 54.63,
+    "price": 15.529999732971191,
+    "perf_1m": -3.84,
+    "perf_3m": -11.41,
+    "perf_1y": 12.33,
+    "perf_3y": 39.99,
+    "gesamtrendite_3j_pct": 54.48,
     "chart_series": [
       [
         "2023-09-11",
@@ -76019,12 +76013,12 @@
       ],
       [
         "2026-09-11",
-        15.550000190734863
+        15.529999732971191
       ]
     ],
     "dividend_per_share": 0.75,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 4.82,
+    "dividend_yield_pct": 4.83,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -76159,7 +76153,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:18.398560"
+    "last_updated": "2026-09-11T10:20:40.046187"
   },
   "ALV.DE": {
     "ticker": "ALV.DE",
@@ -76168,12 +76162,12 @@
     "sektor": "Versicherung",
     "isin": null,
     "isin_quelle": null,
-    "price": 443.3999938964844,
-    "perf_1m": 1.03,
-    "perf_3m": 12.34,
-    "perf_1y": 25.82,
-    "perf_3y": 91.53,
-    "gesamtrendite_3j_pct": 103.11,
+    "price": 444.29998779296875,
+    "perf_1m": 1.23,
+    "perf_3m": 12.57,
+    "perf_1y": 26.08,
+    "perf_3y": 91.92,
+    "gesamtrendite_3j_pct": 103.47,
     "chart_series": [
       [
         "2023-09-11",
@@ -76417,12 +76411,12 @@
       ],
       [
         "2026-09-11",
-        443.3999938964844
+        444.29998779296875
       ]
     ],
     "dividend_per_share": 17.1,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 3.86,
+    "dividend_yield_pct": 3.85,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -76446,7 +76440,7 @@
     "dividend_recherche": 15.4,
     "dividend_abweichung_pct": 11.0,
     "quellensteuer_pct": 26.375,
-    "netto_rendite_pct": 2.84,
+    "netto_rendite_pct": 2.83,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -76553,7 +76547,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:17.907827"
+    "last_updated": "2026-09-11T10:21:09.695869"
   },
   "DGE.L": {
     "ticker": "DGE.L",
@@ -76562,12 +76556,12 @@
     "sektor": "Konsumgueter",
     "isin": null,
     "isin_quelle": null,
-    "price": 1602.0,
-    "perf_1m": -7.51,
-    "perf_3m": 6.69,
-    "perf_1y": -14.29,
-    "perf_3y": -49.44,
-    "gesamtrendite_3j_pct": -37.71,
+    "price": 1605.5,
+    "perf_1m": -7.3,
+    "perf_3m": 6.93,
+    "perf_1y": -14.1,
+    "perf_3y": -49.33,
+    "gesamtrendite_3j_pct": -37.6,
     "chart_series": [
       [
         "2023-09-11",
@@ -76811,16 +76805,16 @@
       ],
       [
         "2026-09-11",
-        1602.0
+        1605.5
       ]
     ],
-    "dividend_per_share": 62.7178,
+    "dividend_per_share": 62.7176,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
     "dividend_yield_pct": 3.91,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
-      "summe_12m": 62.7178,
+      "summe_12m": 62.7176,
       "anzahl_12m": 2,
       "zahlungen": [
         {
@@ -76829,7 +76823,7 @@
         },
         {
           "datum": "2026-04-16",
-          "betrag": 14.8078
+          "betrag": 14.8076
         }
       ],
       "rhythmus": "halbjaehrlich",
@@ -76842,7 +76836,7 @@
       "stand": "2026-09-11"
     },
     "dividend_recherche": 0.825,
-    "dividend_abweichung_pct": 7502.2,
+    "dividend_abweichung_pct": 7502.1,
     "quellensteuer_pct": 0.0,
     "netto_rendite_pct": 3.91,
     "payout_ratio_pct": null,
@@ -76951,7 +76945,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:23.515198"
+    "last_updated": "2026-09-11T10:21:00.219137"
   },
   "BATS.L": {
     "ticker": "BATS.L",
@@ -76960,12 +76954,12 @@
     "sektor": "Tabak",
     "isin": null,
     "isin_quelle": null,
-    "price": 4153.0,
-    "perf_1m": 0.07,
-    "perf_3m": -9.18,
-    "perf_1y": -0.17,
-    "perf_3y": 53.7,
-    "gesamtrendite_3j_pct": 71.22,
+    "price": 4145.0,
+    "perf_1m": -0.12,
+    "perf_3m": -9.36,
+    "perf_1y": -0.36,
+    "perf_3y": 53.4,
+    "gesamtrendite_3j_pct": 70.95,
     "chart_series": [
       [
         "2023-09-11",
@@ -77209,12 +77203,12 @@
       ],
       [
         "2026-09-11",
-        4153.0
+        4145.0
       ]
     ],
     "dividend_per_share": 242.640004,
     "dividend_quelle": "Schnellschaetzung aus Allgemeinwissen (Stand ca. Jan 2026), NICHT einzeln verifiziert - vor Nutzung gegenchecken. Waehrung: Landeswaehrung des Boersenplatzes.",
-    "dividend_yield_pct": 5.84,
+    "dividend_yield_pct": 5.85,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -77250,7 +77244,7 @@
     "dividend_recherche": 2.36,
     "dividend_abweichung_pct": 10181.4,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 5.84,
+    "netto_rendite_pct": 5.85,
     "payout_ratio_pct": null,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -77357,7 +77351,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:37.776034"
+    "last_updated": "2026-09-11T10:21:04.805102"
   },
   "MLT.SI": {
     "ticker": "MLT.SI",
@@ -77485,7 +77479,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:07.025557"
+    "last_updated": "2026-09-11T10:19:43.917974"
   },
   "ROG.SW": {
     "ticker": "ROG.SW",
@@ -77613,7 +77607,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:31.722090"
+    "last_updated": "2026-09-11T10:19:51.006873"
   },
   "MINT.SI": {
     "ticker": "MINT.SI",
@@ -77741,7 +77735,7 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:43:12.650125"
+    "last_updated": "2026-09-11T10:20:33.982136"
   },
   "AGS.BR": {
     "ticker": "AGS.BR",
@@ -77750,12 +77744,12 @@
     "sektor": "Versicherungen",
     "isin": "BE0974264930",
     "isin_quelle": null,
-    "price": 75.1500015258789,
-    "perf_1m": 3.3,
-    "perf_3m": 12.08,
-    "perf_1y": 27.05,
-    "perf_3y": 91.37,
-    "gesamtrendite_3j_pct": 106.34,
+    "price": 75.25,
+    "perf_1m": 3.44,
+    "perf_3m": 12.23,
+    "perf_1y": 27.22,
+    "perf_3y": 91.62,
+    "gesamtrendite_3j_pct": 106.56,
     "chart_series": [
       [
         "2023-09-11",
@@ -77999,12 +77993,12 @@
       ],
       [
         "2026-09-11",
-        75.1500015258789
+        75.25
       ]
     ],
     "dividend_per_share": 3.75,
     "dividend_quelle": null,
-    "dividend_yield_pct": 4.99,
+    "dividend_yield_pct": 4.98,
     "dividend_yield_quelle": "berechnet",
     "dividend_basis": "auto",
     "dividend_auto": {
@@ -78032,7 +78026,7 @@
     "dividend_recherche": 3.75,
     "dividend_abweichung_pct": 0.0,
     "quellensteuer_pct": 0.0,
-    "netto_rendite_pct": 4.99,
+    "netto_rendite_pct": 4.98,
     "payout_ratio_pct": 38.38,
     "payout_ratio_fcf_pct": null,
     "dividend_streak_jahre": null,
@@ -78131,6 +78125,6 @@
       "payout_basis": "Gewinn",
       "kuerzungs_alarm": false
     },
-    "last_updated": "2026-09-11T09:42:27.304678"
+    "last_updated": "2026-09-11T10:20:11.922193"
   }
 }
