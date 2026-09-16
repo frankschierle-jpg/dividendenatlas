@@ -40196,3 +40196,665 @@
 [2026-09-16 08:12:38]     -> Analysten-Konsens via Finnhub ergaenzt
 [2026-09-16 08:12:38]   Live-Wechselkurse geholt: {'EUR': 1.0, 'USD': 0.866626, 'GBP': 1.168497, 'CHF': 1.05921, 'JPY': 0.005591, 'HKD': 0.110475, 'SGD': 0.68106, 'KRW': 0.000638, 'BRL': 0.168237}
 [2026-09-16 08:12:38] Fertig. Bericht aktualisiert: /home/runner/work/dividendenatlas/dividendenatlas/dividendenatlas.html
+[2026-09-16 09:10:59] my_depot.json existierte nicht - Beispiel-Datei angelegt unter /home/runner/work/dividendenatlas/dividendenatlas/my_depot.json
+[2026-09-16 09:10:59] Hole Kurse fuer 189 Ticker (0 im Depot, 189 in stammdaten.json) ...
+[2026-09-16 09:10:59] Ausschuettungsquote auffrischen: 40 ueber Finnhub (USA/Kanada), 40 ueber Leeway (Europa/Asien).
+[2026-09-16 09:10:59]   Hole Kurs fuer 035250.KS ...
+[2026-09-16 09:10:59]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 950.0 KRW
+[2026-09-16 09:11:00]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/035250.XKRX: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:00]   Leeway lieferte keine verwertbare Antwort fuer 035250.XKRX
+[2026-09-16 09:11:00]   Hole Kurs fuer DX ...
+[2026-09-16 09:11:00]     -> 12 Ausschuettung(en) in 12 Monaten (monatlich), Summe 2.04 USD
+[2026-09-16 09:11:01]     -> Ausschuettungsquote 50.7% via Finnhub
+[2026-09-16 09:11:01]   Hole Kurs fuer ECL ...
+[2026-09-16 09:11:02]     -> Hinweis: hinterlegte Dividende 2.3 weicht +55% von den tatsaechlich gezahlten 3.57 ab - Automatik hat Vorrang.
+[2026-09-16 09:11:02]     -> 5 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.57 USD
+[2026-09-16 09:11:02]     -> Ausschuettungsquote 37.7% via Finnhub
+[2026-09-16 09:11:02]   Hole Kurs fuer 3002.T ...
+[2026-09-16 09:11:02]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 216.0 JPY
+[2026-09-16 09:11:03]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/3002.XTKS: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:03]   Leeway lieferte keine verwertbare Antwort fuer 3002.XTKS
+[2026-09-16 09:11:03]   Hole Kurs fuer WCH.DE ...
+[2026-09-16 09:11:03]     -> 0 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe None EUR [unvollstaendig]
+[2026-09-16 09:11:03]     -> WARNUNG: weder Boersen-Ausschuettungen noch dividend_per_share verfuegbar - Rendite 2.6% ist ein EINGEFRORENER Startwert (Stand 2026-08), NICHT tagesaktuell.
+[2026-09-16 09:11:04]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/WCH.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:04]   Leeway lieferte keine verwertbare Antwort fuer WCH.XETRA
+[2026-09-16 09:11:04]   Hole Kurs fuer WSU.DE ...
+[2026-09-16 09:11:04]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.5 EUR
+[2026-09-16 09:11:04]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/WSU.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:04]   Leeway lieferte keine verwertbare Antwort fuer WSU.XETRA
+[2026-09-16 09:11:05]   Hole Kurs fuer TW.L ...
+[2026-09-16 09:11:05]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 7.62 GBp
+[2026-09-16 09:11:05]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/TW.XLON: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:05]   Leeway lieferte keine verwertbare Antwort fuer TW.XLON
+[2026-09-16 09:11:05]   Hole Kurs fuer MB.MI ...
+[2026-09-16 09:11:06]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 1.22 EUR
+[2026-09-16 09:11:06]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/MB.XMIL: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:06]   Leeway lieferte keine verwertbare Antwort fuer MB.XMIL
+[2026-09-16 09:11:06]   Hole Kurs fuer 8150.T ...
+[2026-09-16 09:11:06]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 190.0 JPY
+[2026-09-16 09:11:07]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/8150.XTKS: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:07]   Leeway lieferte keine verwertbare Antwort fuer 8150.XTKS
+[2026-09-16 09:11:07]   Hole Kurs fuer WPC ...
+[2026-09-16 09:11:07]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.7 USD
+[2026-09-16 09:11:07]   Hole Kurs fuer SAX.DE ...
+[2026-09-16 09:11:08]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.85 EUR
+[2026-09-16 09:11:08]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/SAX.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:08]   Leeway lieferte keine verwertbare Antwort fuer SAX.XETRA
+[2026-09-16 09:11:08]   Hole Kurs fuer LGEN.L ...
+[2026-09-16 09:11:09]     -> 2 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 21.91 GBp [unvollstaendig]
+[2026-09-16 09:11:09]   Hole Kurs fuer ENEL.MI ...
+[2026-09-16 09:11:09]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 0.49 EUR
+[2026-09-16 09:11:10]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/ENEL.XMIL: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:10]   Leeway lieferte keine verwertbare Antwort fuer ENEL.XMIL
+[2026-09-16 09:11:10]   Hole Kurs fuer BBSE3.SA ...
+[2026-09-16 09:11:10]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 4.590092 BRL
+[2026-09-16 09:11:10]   Hole Kurs fuer JST.DE ...
+[2026-09-16 09:11:10]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.5 EUR
+[2026-09-16 09:11:11]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/JST.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:11]   Leeway lieferte keine verwertbare Antwort fuer JST.XETRA
+[2026-09-16 09:11:11]   Hole Kurs fuer ET ...
+[2026-09-16 09:11:11]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.346 USD
+[2026-09-16 09:11:11]     -> Ausschuettungsquote 90.4% via Finnhub
+[2026-09-16 09:11:12]     -> Hinweis: geschaetzte Quote 60% weicht +30 Prozentpunkte vom echten Wert 90.4% ab - Automatik hat Vorrang.
+[2026-09-16 09:11:12]   Hole Kurs fuer DWNI.DE ...
+[2026-09-16 09:11:12]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 0.04 EUR
+[2026-09-16 09:11:13]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/DWNI.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:13]   Leeway lieferte keine verwertbare Antwort fuer DWNI.XETRA
+[2026-09-16 09:11:13]   Hole Kurs fuer 5401.T ...
+[2026-09-16 09:11:13]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 72.0 JPY
+[2026-09-16 09:11:14]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/5401.XTKS: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:14]   Leeway lieferte keine verwertbare Antwort fuer 5401.XTKS
+[2026-09-16 09:11:14]   Hole Kurs fuer EDL.DE ...
+[2026-09-16 09:11:14]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 0.3 EUR
+[2026-09-16 09:11:15]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/EDL.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:15]   Leeway lieferte keine verwertbare Antwort fuer EDL.XETRA
+[2026-09-16 09:11:15]   Hole Kurs fuer TRP ...
+[2026-09-16 09:11:15]     -> 2 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.248 USD [unvollstaendig]
+[2026-09-16 09:11:15]   Hole Kurs fuer ITW ...
+[2026-09-16 09:11:16]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 6.44 USD
+[2026-09-16 09:11:16]   Hole Kurs fuer KO ...
+[2026-09-16 09:11:16]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.1 USD
+[2026-09-16 09:11:16]   Hole Kurs fuer MUV2.DE ...
+[2026-09-16 09:11:16]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 24.0 EUR
+[2026-09-16 09:11:17]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/MUV2.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:17]   Leeway lieferte keine verwertbare Antwort fuer MUV2.XETRA
+[2026-09-16 09:11:17]   Hole Kurs fuer O ...
+[2026-09-16 09:11:17]     -> 12 Ausschuettung(en) in 12 Monaten (monatlich), Summe 3.246 USD
+[2026-09-16 09:11:18]   Hole Kurs fuer TGT ...
+[2026-09-16 09:11:18]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.58 USD
+[2026-09-16 09:11:18]   Hole Kurs fuer TROW ...
+[2026-09-16 09:11:19]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 5.17 USD
+[2026-09-16 09:11:19]   Hole Kurs fuer ADM ...
+[2026-09-16 09:11:19]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.07 USD
+[2026-09-16 09:11:19]     -> Ausschuettungsquote 56.6% via Finnhub
+[2026-09-16 09:11:20]   Hole Kurs fuer CHD ...
+[2026-09-16 09:11:20]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.219 USD
+[2026-09-16 09:11:20]     -> Ausschuettungsquote 38.7% via Finnhub
+[2026-09-16 09:11:21]   Hole Kurs fuer T ...
+[2026-09-16 09:11:21]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.112 USD
+[2026-09-16 09:11:21]   Hole Kurs fuer SJM ...
+[2026-09-16 09:11:22]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.42 USD
+[2026-09-16 09:11:22]   Hole Kurs fuer NLY ...
+[2026-09-16 09:11:22]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.85 USD
+[2026-09-16 09:11:22]   Hole Kurs fuer 030000.KS ...
+[2026-09-16 09:11:23]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1230.0 KRW
+[2026-09-16 09:11:23]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/030000.XKRX: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:23]   Leeway lieferte keine verwertbare Antwort fuer 030000.XKRX
+[2026-09-16 09:11:23]   Hole Kurs fuer STAG ...
+[2026-09-16 09:11:24]     -> 6 Ausschuettung(en) in 12 Monaten (monatlich), Summe 1.272 USD [unvollstaendig]
+[2026-09-16 09:11:24]   Hole Kurs fuer ED ...
+[2026-09-16 09:11:24]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.514 USD
+[2026-09-16 09:11:24]     -> Ausschuettungsquote 54.8% via Finnhub
+[2026-09-16 09:11:25]   Hole Kurs fuer BDX ...
+[2026-09-16 09:11:25]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.975472 USD
+[2026-09-16 09:11:26]     -> Ausschuettungsquote 70.4% via Finnhub
+[2026-09-16 09:11:26]   Hole Kurs fuer DTG.DE ...
+[2026-09-16 09:11:26]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.9 EUR
+[2026-09-16 09:11:27]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/DTG.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:27]   Leeway lieferte keine verwertbare Antwort fuer DTG.XETRA
+[2026-09-16 09:11:27]   Hole Kurs fuer HRL ...
+[2026-09-16 09:11:27]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.169 USD
+[2026-09-16 09:11:27]   Hole Kurs fuer CL ...
+[2026-09-16 09:11:28]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.1 USD
+[2026-09-16 09:11:28]     -> Ausschuettungsquote 62.6% via Finnhub
+[2026-09-16 09:11:28]   Hole Kurs fuer BIP ...
+[2026-09-16 09:11:29]     -> Hinweis: hinterlegte Dividende 1.84 weicht -26% von den tatsaechlich gezahlten 1.365 ab - Automatik hat Vorrang.
+[2026-09-16 09:11:29]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.365 USD [unvollstaendig]
+[2026-09-16 09:11:29]     -> Ausschuettungsquote 166.1% via Finnhub
+[2026-09-16 09:11:29]     -> Hinweis: geschaetzte Quote 190% weicht -24 Prozentpunkte vom echten Wert 166.1% ab - Automatik hat Vorrang.
+[2026-09-16 09:11:29]   Hole Kurs fuer UCG.MI ...
+[2026-09-16 09:11:30]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 3.149 EUR
+[2026-09-16 09:11:30]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/UCG.XMIL: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:30]   Leeway lieferte keine verwertbare Antwort fuer UCG.XMIL
+[2026-09-16 09:11:30]   Hole Kurs fuer CLX ...
+[2026-09-16 09:11:31]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.97 USD
+[2026-09-16 09:11:31]     -> Ausschuettungsquote 102.6% via Finnhub
+[2026-09-16 09:11:31]   Hole Kurs fuer ZURN.SW ...
+[2026-09-16 09:11:32]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 30.0 CHF
+[2026-09-16 09:11:32]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/ZURN.XSWX: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:32]   Leeway lieferte keine verwertbare Antwort fuer ZURN.XSWX
+[2026-09-16 09:11:32]   Hole Kurs fuer ESS ...
+[2026-09-16 09:11:33]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 10.32 USD
+[2026-09-16 09:11:33]     -> Ausschuettungsquote 160.3% via Finnhub
+[2026-09-16 09:11:33]   Hole Kurs fuer DOC ...
+[2026-09-16 09:11:33]     -> Hinweis: hinterlegte Dividende 0.92 weicht +44% von den tatsaechlich gezahlten 1.326 ab - Automatik hat Vorrang.
+[2026-09-16 09:11:33]     -> 13 Ausschuettung(en) in 12 Monaten (monatlich), Summe 1.326 USD
+[2026-09-16 09:11:34]     -> Ausschuettungsquote 175.9% via Finnhub
+[2026-09-16 09:11:34]   Hole Kurs fuer STG.CO ...
+[2026-09-16 09:11:34]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 4.5 DKK
+[2026-09-16 09:11:35]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/STG.XCSE: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:35]   Leeway lieferte keine verwertbare Antwort fuer STG.XCSE
+[2026-09-16 09:11:35]   Hole Kurs fuer WMT ...
+[2026-09-16 09:11:35]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.979 USD
+[2026-09-16 09:11:36]   Hole Kurs fuer CS.PA ...
+[2026-09-16 09:11:36]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.32 EUR
+[2026-09-16 09:11:36]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/CS.XPAR: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:36]   Leeway lieferte keine verwertbare Antwort fuer CS.XPAR
+[2026-09-16 09:11:36]   Hole Kurs fuer EPD ...
+[2026-09-16 09:11:37]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.205 USD
+[2026-09-16 09:11:37]     -> Ausschuettungsquote 75.1% via Finnhub
+[2026-09-16 09:11:37]   Hole Kurs fuer NUE ...
+[2026-09-16 09:11:38]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.23 USD
+[2026-09-16 09:11:38]   Hole Kurs fuer MDT ...
+[2026-09-16 09:11:38]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.85 USD
+[2026-09-16 09:11:39]   Hole Kurs fuer JNJ ...
+[2026-09-16 09:11:39]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 5.28 USD
+[2026-09-16 09:11:39]   Hole Kurs fuer CTAS ...
+[2026-09-16 09:11:39]     -> Hinweis: hinterlegte Dividende 6.2 weicht -70% von den tatsaechlich gezahlten 1.87 ab - Automatik hat Vorrang.
+[2026-09-16 09:11:39]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.87 USD
+[2026-09-16 09:11:40]     -> Ausschuettungsquote 35.1% via Finnhub
+[2026-09-16 09:11:40]   Hole Kurs fuer 8960.T ...
+[2026-09-16 09:11:40]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 8734.0 JPY
+[2026-09-16 09:11:41]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/8960.XTKS: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:41]   Leeway lieferte keine verwertbare Antwort fuer 8960.XTKS
+[2026-09-16 09:11:41]   Hole Kurs fuer FRT ...
+[2026-09-16 09:11:41]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.52 USD
+[2026-09-16 09:11:41]     -> Ausschuettungsquote 90.3% via Finnhub
+[2026-09-16 09:11:42]   Hole Kurs fuer LTC ...
+[2026-09-16 09:11:42]     -> 12 Ausschuettung(en) in 12 Monaten (monatlich), Summe 2.28 USD
+[2026-09-16 09:11:42]   Hole Kurs fuer SDF.DE ...
+[2026-09-16 09:11:43]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 0.07 EUR
+[2026-09-16 09:11:43]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/SDF.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:43]   Leeway lieferte keine verwertbare Antwort fuer SDF.XETRA
+[2026-09-16 09:11:43]   Hole Kurs fuer CON.DE ...
+[2026-09-16 09:11:44]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.7 EUR
+[2026-09-16 09:11:44]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/CON.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:44]   Leeway lieferte keine verwertbare Antwort fuer CON.XETRA
+[2026-09-16 09:11:44]   Hole Kurs fuer SHEL.L ...
+[2026-09-16 09:11:45]     -> Hinweis: hinterlegte Dividende 0.86 weicht +13019% von den tatsaechlich gezahlten 112.819997 ab - Automatik hat Vorrang.
+[2026-09-16 09:11:45]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 112.819997 GBp
+[2026-09-16 09:11:45]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/SHEL.XLON: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:45]   Leeway lieferte keine verwertbare Antwort fuer SHEL.XLON
+[2026-09-16 09:11:45]   Hole Kurs fuer ALV.DE ...
+[2026-09-16 09:11:45]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 17.1 EUR
+[2026-09-16 09:11:46]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/ALV.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:46]   Leeway lieferte keine verwertbare Antwort fuer ALV.XETRA
+[2026-09-16 09:11:46]   Hole Kurs fuer TU ...
+[2026-09-16 09:11:46]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.744 USD [unvollstaendig]
+[2026-09-16 09:11:47]   Hole Kurs fuer DOW ...
+[2026-09-16 09:11:47]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.4 USD
+[2026-09-16 09:11:47]     -> Ausschuettungsquote 64.1% via Finnhub
+[2026-09-16 09:11:47]   Hole Kurs fuer BMW.DE ...
+[2026-09-16 09:11:48]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 4.4 EUR
+[2026-09-16 09:11:48]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/BMW.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:48]   Leeway lieferte keine verwertbare Antwort fuer BMW.XETRA
+[2026-09-16 09:11:48]   Hole Kurs fuer PFE ...
+[2026-09-16 09:11:49]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.72 USD
+[2026-09-16 09:11:49]   Hole Kurs fuer GWW ...
+[2026-09-16 09:11:50]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 9.5 USD
+[2026-09-16 09:11:50]   Hole Kurs fuer LIN ...
+[2026-09-16 09:11:50]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 6.3 USD
+[2026-09-16 09:11:50]   Hole Kurs fuer 4183.T ...
+[2026-09-16 09:11:51]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 75.0 JPY
+[2026-09-16 09:11:51]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/4183.XTKS: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:51]   Leeway lieferte keine verwertbare Antwort fuer 4183.XTKS
+[2026-09-16 09:11:51]   Hole Kurs fuer NTGY.MC ...
+[2026-09-16 09:11:52]     -> Hinweis: hinterlegte Dividende 1.4 weicht +26% von den tatsaechlich gezahlten 1.77 ab - Automatik hat Vorrang.
+[2026-09-16 09:11:52]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.77 EUR [unvollstaendig]
+[2026-09-16 09:11:52]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/NTGY.XMAD: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:52]   Leeway lieferte keine verwertbare Antwort fuer NTGY.XMAD
+[2026-09-16 09:11:52]   Hole Kurs fuer NDA-FI.HE ...
+[2026-09-16 09:11:52]     -> 2 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.3 EUR
+[2026-09-16 09:11:53]   Hole Kurs fuer SPGI ...
+[2026-09-16 09:11:53]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.713615 USD
+[2026-09-16 09:11:53]   Hole Kurs fuer BCH ...
+[2026-09-16 09:11:54]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.183 USD
+[2026-09-16 09:11:54]     -> Ausschuettungsquote 376.0% via Finnhub
+[2026-09-16 09:11:54]   Hole Kurs fuer ORA.PA ...
+[2026-09-16 09:11:55]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 0.75 EUR
+[2026-09-16 09:11:55]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/ORA.XPAR: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:55]   Leeway lieferte keine verwertbare Antwort fuer ORA.XPAR
+[2026-09-16 09:11:55]   Hole Kurs fuer KMI ...
+[2026-09-16 09:11:56]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.182 USD
+[2026-09-16 09:11:56]   Hole Kurs fuer WCP.TO ...
+[2026-09-16 09:11:56]     -> 12 Ausschuettung(en) in 12 Monaten (monatlich), Summe 0.732 CAD
+[2026-09-16 09:11:56]   Hole Kurs fuer AFL ...
+[2026-09-16 09:11:57]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.41 USD
+[2026-09-16 09:11:57]     -> Ausschuettungsquote 24.6% via Finnhub
+[2026-09-16 09:11:57]   Hole Kurs fuer HAW.DE ...
+[2026-09-16 09:11:58]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.0 EUR
+[2026-09-16 09:11:58]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/HAW.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:58]   Leeway lieferte keine verwertbare Antwort fuer HAW.XETRA
+[2026-09-16 09:11:58]   Hole Kurs fuer MNG.L ...
+[2026-09-16 09:11:59]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 20.599999 GBp
+[2026-09-16 09:11:59]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/MNG.XLON: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:11:59]   Leeway lieferte keine verwertbare Antwort fuer MNG.XLON
+[2026-09-16 09:11:59]   Hole Kurs fuer SHW ...
+[2026-09-16 09:12:00]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.19 USD
+[2026-09-16 09:12:00]   Hole Kurs fuer 8395.T ...
+[2026-09-16 09:12:00]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 110.0 JPY
+[2026-09-16 09:12:00]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/8395.XTKS: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:00]   Leeway lieferte keine verwertbare Antwort fuer 8395.XTKS
+[2026-09-16 09:12:01]   Hole Kurs fuer LOW ...
+[2026-09-16 09:12:01]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.85 USD
+[2026-09-16 09:12:01]   Hole Kurs fuer ME8U.SI ...
+[2026-09-16 09:12:01]     -> Hinweis: hinterlegte Dividende 0.54 weicht -77% von den tatsaechlich gezahlten 0.1255 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:01]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.1255 SGD
+[2026-09-16 09:12:01]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/ME8U.XSES: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:01]   Leeway lieferte keine verwertbare Antwort fuer ME8U.XSES
+[2026-09-16 09:12:02]   Hole Kurs fuer SAN.PA ...
+[2026-09-16 09:12:02]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 4.12 EUR
+[2026-09-16 09:12:02]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/SAN.XPAR: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:02]   Leeway lieferte keine verwertbare Antwort fuer SAN.XPAR
+[2026-09-16 09:12:03]   Hole Kurs fuer LYB ...
+[2026-09-16 09:12:03]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.44 USD
+[2026-09-16 09:12:03]   Hole Kurs fuer KIM ...
+[2026-09-16 09:12:03]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.06 USD
+[2026-09-16 09:12:03]   Hole Kurs fuer PBR ...
+[2026-09-16 09:12:03]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.797 USD [unvollstaendig]
+[2026-09-16 09:12:04]   Hole Kurs fuer TTE.PA ...
+[2026-09-16 09:12:04]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.4 EUR
+[2026-09-16 09:12:04]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/TTE.XPAR: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:04]   Leeway lieferte keine verwertbare Antwort fuer TTE.XPAR
+[2026-09-16 09:12:05]   Hole Kurs fuer GSK.L ...
+[2026-09-16 09:12:05]     -> Hinweis: hinterlegte Dividende 0.63 weicht +10694% von den tatsaechlich gezahlten 68.0 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:05]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 68.0 GBp
+[2026-09-16 09:12:05]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/GSK.XLON: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:05]   Leeway lieferte keine verwertbare Antwort fuer GSK.XLON
+[2026-09-16 09:12:05]   Hole Kurs fuer DOV ...
+[2026-09-16 09:12:06]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.085 USD
+[2026-09-16 09:12:06]     -> Ausschuettungsquote 24.8% via Finnhub
+[2026-09-16 09:12:06]   Hole Kurs fuer ISP.MI ...
+[2026-09-16 09:12:06]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 0.376 EUR
+[2026-09-16 09:12:07]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/ISP.XMIL: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:07]   Leeway lieferte keine verwertbare Antwort fuer ISP.XMIL
+[2026-09-16 09:12:07]   Hole Kurs fuer GLEN.L ...
+[2026-09-16 09:12:07]     -> 2 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 12.5647 GBp [unvollstaendig]
+[2026-09-16 09:12:08]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/GLEN.XLON: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:08]   Leeway lieferte keine verwertbare Antwort fuer GLEN.XLON
+[2026-09-16 09:12:08]   Hole Kurs fuer ARCC ...
+[2026-09-16 09:12:08]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.92 USD
+[2026-09-16 09:12:08]     -> Ausschuettungsquote 138.4% via Finnhub
+[2026-09-16 09:12:09]   Hole Kurs fuer MAIN ...
+[2026-09-16 09:12:09]     -> 16 Ausschuettung(en) in 12 Monaten (monatlich), Summe 4.32 USD
+[2026-09-16 09:12:09]   Hole Kurs fuer KMB ...
+[2026-09-16 09:12:09]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 5.1 USD
+[2026-09-16 09:12:09]   Hole Kurs fuer NG.L ...
+[2026-09-16 09:12:10]     -> Hinweis: hinterlegte Dividende 0.52 weicht +9225% von den tatsaechlich gezahlten 48.49 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:10]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 48.49 GBp
+[2026-09-16 09:12:10]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/NG.XLON: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:10]   Leeway lieferte keine verwertbare Antwort fuer NG.XLON
+[2026-09-16 09:12:10]   Hole Kurs fuer MMM ...
+[2026-09-16 09:12:11]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.07 USD
+[2026-09-16 09:12:11]   Hole Kurs fuer BIJ.DE ...
+[2026-09-16 09:12:11]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 6.0 EUR
+[2026-09-16 09:12:11]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/BIJ.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:11]   Leeway lieferte keine verwertbare Antwort fuer BIJ.XETRA
+[2026-09-16 09:12:12]   Hole Kurs fuer PEP ...
+[2026-09-16 09:12:12]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 5.806 USD
+[2026-09-16 09:12:12]   Hole Kurs fuer HSBA.L ...
+[2026-09-16 09:12:12]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 55.6718 GBp
+[2026-09-16 09:12:12]   Hole Kurs fuer 8963.T ...
+[2026-09-16 09:12:13]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 4116.0 JPY
+[2026-09-16 09:12:13]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/8963.XTKS: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:13]   Leeway lieferte keine verwertbare Antwort fuer 8963.XTKS
+[2026-09-16 09:12:13]   Hole Kurs fuer B7E.DE ...
+[2026-09-16 09:12:13]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.6 EUR
+[2026-09-16 09:12:14]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/B7E.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:14]   Leeway lieferte keine verwertbare Antwort fuer B7E.XETRA
+[2026-09-16 09:12:14]   Hole Kurs fuer CVX ...
+[2026-09-16 09:12:14]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 7.05 USD
+[2026-09-16 09:12:14]     -> Ausschuettungsquote 67.3% via Finnhub
+[2026-09-16 09:12:15]   Hole Kurs fuer ENB ...
+[2026-09-16 09:12:15]     -> Hinweis: hinterlegte Dividende 3.55 weicht -40% von den tatsaechlich gezahlten 2.115 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:15]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.115 USD [unvollstaendig]
+[2026-09-16 09:12:15]     -> Ausschuettungsquote 143.2% via Finnhub
+[2026-09-16 09:12:16]   Hole Kurs fuer ENGI.PA ...
+[2026-09-16 09:12:16]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.35 EUR
+[2026-09-16 09:12:16]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/ENGI.XPAR: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:16]   Leeway lieferte keine verwertbare Antwort fuer ENGI.XPAR
+[2026-09-16 09:12:17]   Hole Kurs fuer IMB.L ...
+[2026-09-16 09:12:17]     -> Hinweis: hinterlegte Dividende 1.6 weicht +10120% von den tatsaechlich gezahlten 163.519996 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:17]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 163.519996 GBp
+[2026-09-16 09:12:17]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/IMB.XLON: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:17]   Leeway lieferte keine verwertbare Antwort fuer IMB.XLON
+[2026-09-16 09:12:17]   Hole Kurs fuer ABT ...
+[2026-09-16 09:12:18]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.48 USD
+[2026-09-16 09:12:18]     -> Ausschuettungsquote 78.5% via Finnhub
+[2026-09-16 09:12:18]   Hole Kurs fuer HOT.DE ...
+[2026-09-16 09:12:18]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 6.6 EUR
+[2026-09-16 09:12:19]   Leeway.tech-Fehler (HTTP 429) bei fundamentals/HOT.XETRA: b'Your limit of 50 requests per day has been reached.'
+[2026-09-16 09:12:19]   Leeway lieferte keine verwertbare Antwort fuer HOT.XETRA
+[2026-09-16 09:12:19]   Hole Kurs fuer PG ...
+[2026-09-16 09:12:19]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.292 USD
+[2026-09-16 09:12:19]   Hole Kurs fuer SWED-A.ST ...
+[2026-09-16 09:12:20]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 29.8 SEK
+[2026-09-16 09:12:20]   Hole Kurs fuer PFLT ...
+[2026-09-16 09:12:20]     -> Hinweis: hinterlegte Dividende 0.96 weicht +20% von den tatsaechlich gezahlten 1.156 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:20]     -> 12 Ausschuettung(en) in 12 Monaten (monatlich), Summe 1.156 USD
+[2026-09-16 09:12:20]   Hole Kurs fuer XOM ...
+[2026-09-16 09:12:21]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.12 USD
+[2026-09-16 09:12:21]   Hole Kurs fuer MBG.DE ...
+[2026-09-16 09:12:21]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 3.5 EUR
+[2026-09-16 09:12:21]   Hole Kurs fuer EN.PA ...
+[2026-09-16 09:12:21]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.1 EUR
+[2026-09-16 09:12:22]   Hole Kurs fuer CCI ...
+[2026-09-16 09:12:22]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.252 USD
+[2026-09-16 09:12:22]     -> Ausschuettungsquote 215.7% via Finnhub
+[2026-09-16 09:12:23]   Hole Kurs fuer RO.SW ...
+[2026-09-16 09:12:23]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 10.799 CHF
+[2026-09-16 09:12:23]   Hole Kurs fuer TRYG.CO ...
+[2026-09-16 09:12:23]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 8.4 DKK
+[2026-09-16 09:12:23]   Hole Kurs fuer MFC ...
+[2026-09-16 09:12:24]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.058 USD [unvollstaendig]
+[2026-09-16 09:12:24]   Hole Kurs fuer ELE.MC ...
+[2026-09-16 09:12:24]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 1.584 EUR
+[2026-09-16 09:12:24]   Hole Kurs fuer 5938.T ...
+[2026-09-16 09:12:24]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 90.0 JPY
+[2026-09-16 09:12:25]   Hole Kurs fuer 9364.T ...
+[2026-09-16 09:12:25]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 205.0 JPY
+[2026-09-16 09:12:25]   Hole Kurs fuer EPR ...
+[2026-09-16 09:12:25]     -> 12 Ausschuettung(en) in 12 Monaten (monatlich), Summe 3.63 USD
+[2026-09-16 09:12:25]     -> Ausschuettungsquote 112.9% via Finnhub
+[2026-09-16 09:12:26]   Hole Kurs fuer NWX.DE ...
+[2026-09-16 09:12:26]   Twelve Data (Kursverlauf)-Fehler (HTTP 404) bei time_series: b'{"code":404,"message":"**symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://t'
+[2026-09-16 09:12:26]   Twelve Data (Kursverlauf) lieferte keine verwertbaren Daten fuer NWX:XETRA
+[2026-09-16 09:12:27]   Stooq lieferte keine verwertbaren Kursdaten fuer nwx.de (HTTP 200), Antwort-Anfang: '<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"></head><body><noscript>This site requires JavaScript t'
+[2026-09-16 09:12:27]     -> kein Kurs erhalten (Yahoo/Twelve Data/Stooq scheiterten alle) - zeige NWX.DE trotzdem mit den Stammdaten, aber OHNE (veralteten) Kurs an.
+[2026-09-16 09:12:27]     -> WARNUNG: weder Boersen-Ausschuettungen noch dividend_per_share verfuegbar - Rendite 6% ist ein EINGEFRORENER Startwert (Stand 2026-08), NICHT tagesaktuell.
+[2026-09-16 09:12:27]   Hole Kurs fuer CPFE3.SA ...
+[2026-09-16 09:12:27]     -> 1 Ausschuettung(en) in 12 Monaten (unbekannt), Summe 3.731536 BRL
+[2026-09-16 09:12:27]   Hole Kurs fuer ATO ...
+[2026-09-16 09:12:27]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.0 USD
+[2026-09-16 09:12:28]     -> Ausschuettungsquote 45.1% via Finnhub
+[2026-09-16 09:12:28]   Hole Kurs fuer ROP ...
+[2026-09-16 09:12:28]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.555 USD
+[2026-09-16 09:12:29]   Hole Kurs fuer ABBV ...
+[2026-09-16 09:12:29]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 6.83 USD
+[2026-09-16 09:12:29]     -> Ausschuettungsquote 189.8% via Finnhub
+[2026-09-16 09:12:29]   Hole Kurs fuer 0857.HK ...
+[2026-09-16 09:12:29]     -> Hinweis: hinterlegte Dividende 0.35 weicht +68% von den tatsaechlich gezahlten 0.58777 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:29]     -> 2 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.58777 HKD [unvollstaendig]
+[2026-09-16 09:12:30]   Hole Kurs fuer CAT ...
+[2026-09-16 09:12:30]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 6.16 USD
+[2026-09-16 09:12:30]     -> Ausschuettungsquote 25.9% via Finnhub
+[2026-09-16 09:12:31]   Hole Kurs fuer EC ...
+[2026-09-16 09:12:31]     -> 1 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.661 USD [unvollstaendig]
+[2026-09-16 09:12:31]     -> Ausschuettungsquote 129.8% via Finnhub
+[2026-09-16 09:12:31]   Hole Kurs fuer 8985.T ...
+[2026-09-16 09:12:32]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 5061.0 JPY
+[2026-09-16 09:12:32]   Hole Kurs fuer DEQ.DE ...
+[2026-09-16 09:12:32]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.0 EUR
+[2026-09-16 09:12:32]   Hole Kurs fuer VOW3.DE ...
+[2026-09-16 09:12:32]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 5.26 EUR
+[2026-09-16 09:12:33]   Hole Kurs fuer BAS.DE ...
+[2026-09-16 09:12:33]     -> Hinweis: hinterlegte Dividende 3.4 weicht -34% von den tatsaechlich gezahlten 2.25 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:33]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.25 EUR
+[2026-09-16 09:12:33]   Hole Kurs fuer MKC ...
+[2026-09-16 09:12:33]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.89 USD
+[2026-09-16 09:12:33]   Hole Kurs fuer AGS.BR ...
+[2026-09-16 09:12:34]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 3.75 EUR
+[2026-09-16 09:12:34]   Finnhub (Quote)-Fehler (HTTP 403) bei stock/metric: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:12:34]   Hole Kurs fuer BBAS3.SA ...
+[2026-09-16 09:12:34]     -> 6 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.654951 BRL
+[2026-09-16 09:12:34]   Hole Kurs fuer 7177.T ...
+[2026-09-16 09:12:35]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 51.49 JPY
+[2026-09-16 09:12:35]   Hole Kurs fuer PM ...
+[2026-09-16 09:12:35]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 5.88 USD
+[2026-09-16 09:12:35]   Hole Kurs fuer SO ...
+[2026-09-16 09:12:35]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.0 USD
+[2026-09-16 09:12:36]   Hole Kurs fuer M44U.SI ...
+[2026-09-16 09:12:36]     -> Hinweis: hinterlegte Dividende 0.32 weicht -77% von den tatsaechlich gezahlten 0.07266 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:36]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.07266 SGD
+[2026-09-16 09:12:36]   Hole Kurs fuer BP.L ...
+[2026-09-16 09:12:36]     -> Hinweis: hinterlegte Dividende 0.32 weicht +7730% von den tatsaechlich gezahlten 25.055699 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:36]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 25.055699 GBp
+[2026-09-16 09:12:36]   Hole Kurs fuer 1833.T ...
+[2026-09-16 09:12:37]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 297.0 JPY
+[2026-09-16 09:12:37]   Hole Kurs fuer 004990.KS ...
+[2026-09-16 09:12:37]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1250.0 KRW
+[2026-09-16 09:12:37]   Hole Kurs fuer BCE ...
+[2026-09-16 09:12:37]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.262 USD
+[2026-09-16 09:12:38]     -> Ausschuettungsquote 27.7% via Finnhub
+[2026-09-16 09:12:38]   Hole Kurs fuer HNR1.DE ...
+[2026-09-16 09:12:38]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 12.5 EUR
+[2026-09-16 09:12:38]   Hole Kurs fuer M12.DE ...
+[2026-09-16 09:12:39]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.2 EUR
+[2026-09-16 09:12:39]   Hole Kurs fuer DTE.DE ...
+[2026-09-16 09:12:39]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.0 EUR
+[2026-09-16 09:12:40]   Hole Kurs fuer LEI.DE ...
+[2026-09-16 09:12:40]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.2 EUR
+[2026-09-16 09:12:40]   Hole Kurs fuer CB ...
+[2026-09-16 09:12:40]     -> Hinweis: hinterlegte Dividende 3.8 weicht -21% von den tatsaechlich gezahlten 3.01 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:40]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.01 USD [unvollstaendig]
+[2026-09-16 09:12:40]     -> Ausschuettungsquote 13.7% via Finnhub
+[2026-09-16 09:12:41]   Hole Kurs fuer 7240.T ...
+[2026-09-16 09:12:41]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 130.0 JPY
+[2026-09-16 09:12:41]   Hole Kurs fuer 0010.HK ...
+[2026-09-16 09:12:41]     -> 2 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.86 HKD [unvollstaendig]
+[2026-09-16 09:12:42]   Hole Kurs fuer PPG ...
+[2026-09-16 09:12:42]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.87 USD
+[2026-09-16 09:12:42]   Hole Kurs fuer HABA.DE ...
+[2026-09-16 09:12:42]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 0.39 EUR
+[2026-09-16 09:12:42]   Hole Kurs fuer TRN.MI ...
+[2026-09-16 09:12:43]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 0.3962 EUR
+[2026-09-16 09:12:43]   Hole Kurs fuer MCD ...
+[2026-09-16 09:12:43]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 7.44 USD
+[2026-09-16 09:12:44]   Hole Kurs fuer BATS.L ...
+[2026-09-16 09:12:44]     -> Hinweis: hinterlegte Dividende 2.36 weicht +10181% von den tatsaechlich gezahlten 242.640004 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:44]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 242.640004 GBp
+[2026-09-16 09:12:44]   Hole Kurs fuer MUX.DE ...
+[2026-09-16 09:12:44]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.0 EUR
+[2026-09-16 09:12:45]   Hole Kurs fuer VNA.DE ...
+[2026-09-16 09:12:45]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.25 EUR
+[2026-09-16 09:12:45]   Hole Kurs fuer LEG.DE ...
+[2026-09-16 09:12:45]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.92 EUR
+[2026-09-16 09:12:46]   Hole Kurs fuer PAH3.DE ...
+[2026-09-16 09:12:46]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.51 EUR
+[2026-09-16 09:12:46]   Hole Kurs fuer SRG.MI ...
+[2026-09-16 09:12:46]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 0.3021 EUR
+[2026-09-16 09:12:47]   Hole Kurs fuer DGE.L ...
+[2026-09-16 09:12:47]     -> Hinweis: hinterlegte Dividende 0.825 weicht +7507% von den tatsaechlich gezahlten 62.756801 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:47]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 62.756801 GBp
+[2026-09-16 09:12:47]   Hole Kurs fuer GD ...
+[2026-09-16 09:12:47]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 6.18 USD
+[2026-09-16 09:12:48]     -> Ausschuettungsquote 36.6% via Finnhub
+[2026-09-16 09:12:48]   Hole Kurs fuer GPC ...
+[2026-09-16 09:12:48]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.219 USD
+[2026-09-16 09:12:49]     -> Ausschuettungsquote 67.1% via Finnhub
+[2026-09-16 09:12:49]   Hole Kurs fuer BNS ...
+[2026-09-16 09:12:49]     -> 2 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.595 USD [unvollstaendig]
+[2026-09-16 09:12:49]     -> Ausschuettungsquote 59.6% via Finnhub
+[2026-09-16 09:12:50]   Hole Kurs fuer 8972.T ...
+[2026-09-16 09:12:50]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 8271.0 JPY
+[2026-09-16 09:12:50]   Hole Kurs fuer MO ...
+[2026-09-16 09:12:51]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.29 USD
+[2026-09-16 09:12:51]   Hole Kurs fuer PBA ...
+[2026-09-16 09:12:51]     -> 3 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 1.572 USD [unvollstaendig]
+[2026-09-16 09:12:52]   Hole Kurs fuer OHI ...
+[2026-09-16 09:12:52]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.69 USD
+[2026-09-16 09:12:52]   Hole Kurs fuer AGNC ...
+[2026-09-16 09:12:52]     -> 12 Ausschuettung(en) in 12 Monaten (monatlich), Summe 1.44 USD
+[2026-09-16 09:12:53]     -> Ausschuettungsquote 53.9% via Finnhub
+[2026-09-16 09:12:53]   Hole Kurs fuer UVV ...
+[2026-09-16 09:12:53]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.29 USD
+[2026-09-16 09:12:54]   Hole Kurs fuer KEY ...
+[2026-09-16 09:12:54]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 0.82 USD
+[2026-09-16 09:12:54]   Hole Kurs fuer ULVR.L ...
+[2026-09-16 09:12:55]     -> Hinweis: hinterlegte Dividende 1.72 weicht +9492% von den tatsaechlich gezahlten 164.990002 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:55]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 164.990002 GBp
+[2026-09-16 09:12:55]   Hole Kurs fuer OKE ...
+[2026-09-16 09:12:55]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.24 USD
+[2026-09-16 09:12:55]   Hole Kurs fuer IBE.MC ...
+[2026-09-16 09:12:56]     -> 3 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 0.685 EUR
+[2026-09-16 09:12:56]   Hole Kurs fuer SREN.SW ...
+[2026-09-16 09:12:56]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 6.54928 CHF
+[2026-09-16 09:12:56]   Hole Kurs fuer VOD.L ...
+[2026-09-16 09:12:57]     -> Hinweis: hinterlegte Dividende 0.09 weicht +4318% von den tatsaechlich gezahlten 3.975721 ab - Automatik hat Vorrang.
+[2026-09-16 09:12:57]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 3.975721 GBp
+[2026-09-16 09:12:57]   Hole Kurs fuer VZ ...
+[2026-09-16 09:12:57]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.796 USD
+[2026-09-16 09:12:58]   Hole Kurs fuer AV.L ...
+[2026-09-16 09:12:58]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 40.199999 GBp
+[2026-09-16 09:12:58]   Hole Kurs fuer EVK.DE ...
+[2026-09-16 09:12:59]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.0 EUR
+[2026-09-16 09:12:59]   Hole Kurs fuer SYY ...
+[2026-09-16 09:12:59]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.17 USD
+[2026-09-16 09:12:59]   Hole Kurs fuer TFC ...
+[2026-09-16 09:13:00]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.08 USD
+[2026-09-16 09:13:00]   Hole Kurs fuer FNTN.DE ...
+[2026-09-16 09:13:00]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 2.07 EUR
+[2026-09-16 09:13:00]   Hole Kurs fuer PWO.DE ...
+[2026-09-16 09:13:00]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 1.65 EUR
+[2026-09-16 09:13:01]   Hole Kurs fuer NESN.SW ...
+[2026-09-16 09:13:01]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 3.1 CHF
+[2026-09-16 09:13:01]   Hole Kurs fuer DUK ...
+[2026-09-16 09:13:01]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 4.28 USD
+[2026-09-16 09:13:02]     -> Ausschuettungsquote 64.5% via Finnhub
+[2026-09-16 09:13:02]   Hole Kurs fuer CINF ...
+[2026-09-16 09:13:02]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 3.62 USD
+[2026-09-16 09:13:02]     -> Ausschuettungsquote 16.3% via Finnhub
+[2026-09-16 09:13:03]   Hole Kurs fuer EMR ...
+[2026-09-16 09:13:03]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 2.22 USD
+[2026-09-16 09:13:03]     -> Ausschuettungsquote 47.8% via Finnhub
+[2026-09-16 09:13:04]   Hole Kurs fuer ADP ...
+[2026-09-16 09:13:04]     -> 4 Ausschuettung(en) in 12 Monaten (quartalsweise), Summe 6.8 USD
+[2026-09-16 09:13:04]     -> Ausschuettungsquote 59.5% via Finnhub
+[2026-09-16 09:13:04]   Hole Kurs fuer SIX2.DE ...
+[2026-09-16 09:13:05]     -> 1 Ausschuettung(en) in 12 Monaten (jaehrlich), Summe 3.2 EUR
+[2026-09-16 09:13:05]   Hole Kurs fuer 8616.T ...
+[2026-09-16 09:13:05]     -> 2 Ausschuettung(en) in 12 Monaten (halbjaehrlich), Summe 50.0 JPY
+[2026-09-16 09:13:05] Anreicherung (News/Analysten-Grades) fuer 30 Top-Kandidaten + Depot (von 82 qualifizierten) ...
+[2026-09-16 09:13:05]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:06]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:06]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:06]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:06]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:06]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:07]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:07]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:07]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:07]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:08]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:08]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:08]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:08]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:08]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:08]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:09]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:09]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:09]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:09]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:10]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:10]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:10]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:10]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:11]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:11]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:11]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:11]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:12]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:12]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:12]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:12]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:12]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:12]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:13]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:13]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:13]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:13]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:14]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:14]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:14]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:14]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:14]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:14]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:15]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:15]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:15]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:15]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:16]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:16]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:16]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:16]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:16]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:17]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:17]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:17]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:17]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:17]     -> News via Finnhub ergaenzt
+[2026-09-16 09:13:18]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:18]     -> Analysten-Konsens via Finnhub ergaenzt
+[2026-09-16 09:13:18]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:18]     -> News via Finnhub ergaenzt
+[2026-09-16 09:13:18]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:18]     -> Analysten-Konsens via Finnhub ergaenzt
+[2026-09-16 09:13:19]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:19]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:19]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:19]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:19]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:20]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:20]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:20]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:20]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:20]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:20]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:21]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:21]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:21]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:21]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:21]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:22]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:22]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:22]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:22]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:22]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:23]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:23]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:23]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:23]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:23]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:24]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:24]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:24]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:24]     -> News via Finnhub ergaenzt
+[2026-09-16 09:13:24]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:24]     -> Analysten-Konsens via Finnhub ergaenzt
+[2026-09-16 09:13:25]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:25]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:25]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:25]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:25]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:26]     -> News via Finnhub ergaenzt
+[2026-09-16 09:13:26]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:26]     -> Analysten-Konsens via Finnhub ergaenzt
+[2026-09-16 09:13:26]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:26]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:26]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:27]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:27]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:27]   Finnhub (News)-Fehler (HTTP 403) bei company-news: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:27]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:27]   Finnhub (Empfehlungen)-Fehler (HTTP 403) bei stock/recommendation: b'{"error":"You don\'t have access to this resource."}'
+[2026-09-16 09:13:28]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:28]     -> News via Finnhub ergaenzt
+[2026-09-16 09:13:28]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:28]     -> Analysten-Konsens via Finnhub ergaenzt
+[2026-09-16 09:13:28]   FMP-Fehler (HTTP 402) bei news/stock: b'Restricted Endpoint: This endpoint is not available under your current subscription please visit our subscription page to upgrade your plan at https:/'
+[2026-09-16 09:13:28]     -> News via Finnhub ergaenzt
+[2026-09-16 09:13:29]   FMP-Fehler (HTTP 402) bei grades: b"Premium Query Parameter: 'Special Endpoint : This value set for 'symbol' is not available under your current subscription please visit our subscriptio"
+[2026-09-16 09:13:29]     -> Analysten-Konsens via Finnhub ergaenzt
+[2026-09-16 09:13:29]   Live-Wechselkurse geholt: {'EUR': 1.0, 'USD': 0.866626, 'GBP': 1.168497, 'CHF': 1.05921, 'JPY': 0.005591, 'HKD': 0.110475, 'SGD': 0.68106, 'KRW': 0.000638, 'BRL': 0.168237}
+[2026-09-16 09:13:29] Fertig. Bericht aktualisiert: /home/runner/work/dividendenatlas/dividendenatlas/dividendenatlas.html
